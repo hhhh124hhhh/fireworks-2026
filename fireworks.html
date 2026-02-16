@@ -26,6 +26,44 @@
             pointer-events: auto;
         }
 
+        .controls {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 100;
+            display: flex;
+            gap: 10px;
+        }
+
+        .control-btn {
+            background: rgba(255, 215, 0, 0.2);
+            border: 2px solid #ffd700;
+            color: #ffd700;
+            padding: 10px 20px;
+            font-size: 14px;
+            font-weight: bold;
+            cursor: pointer;
+            border-radius: 25px;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+        }
+
+        .control-btn:hover {
+            background: rgba(255, 215, 0, 0.4);
+            transform: scale(1.05);
+        }
+
+        .control-btn.active {
+            background: rgba(255, 215, 0, 0.6);
+            color: #000;
+        }
+
+        .control-btn.inactive {
+            background: rgba(128, 128, 128, 0.2);
+            border-color: #808080;
+            color: #808080;
+        }
+
         .title {
             position: absolute;
             top: 50%;
@@ -100,13 +138,178 @@
     </style>
 </head>
 <body>
+    <div class="controls">
+        <button id="musicBtn" class="control-btn active">🎵 音乐</button>
+        <button id="sfxBtn" class="control-btn active">🔊 音效</button>
+    </div>
     <canvas id="fireworksCanvas"></canvas>
     <div class="horse-icon">🐎</div>
     <div class="title">马年大吉 🎊</div>
     <div class="subtitle">点击屏幕或等待自动播放烟花</div>
 
     <script>
-        // 烟花效果 - Canvas 2D
+        // ===== 音频系统 =====
+        const AudioSystem = {
+            audioContext: null,
+            isMusicPlaying: true,
+            isSfxEnabled: true,
+            backgroundMusic: null,
+            audioInitialized: false,
+
+            // 初始化音频上下文
+            init: function() {
+                if (!this.audioContext) {
+                    this.audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                    this.audioInitialized = true;
+                    console.log('音频系统已初始化');
+                }
+            },
+
+            // 播放喜庆的背景音乐（循环旋律）
+            playBackgroundMusic: function() {
+                if (!this.isMusicPlaying || !this.audioContext) return;
+
+                // 喜庆的音符序列（C大调五声音阶）
+                const notes = [
+                    { freq: 523.25, duration: 0.5 },  // C5
+                    { freq: 659.25, duration: 0.5 },  // E5
+                    { freq: 783.99, duration: 0.5 },  // G5
+                    { freq: 1046.50, duration: 1.0 }, // C6
+                    { freq: 783.99, duration: 0.5 },  // G5
+                    { freq: 659.25, duration: 0.5 },  // E5
+                    { freq: 523.25, duration: 1.0 },  // C5
+                    { freq: 587.33, duration: 0.5 },  // D5
+                    { freq: 783.99, duration: 0.5 },  // G5
+                    { freq: 987.77, duration: 1.0 }, // B5
+                    { freq: 783.99, duration: 0.5 },  // G5
+                    { freq: 587.33, duration: 0.5 },  // D5
+                    { freq: 523.25, duration: 2.0 },  // C5
+                ];
+
+                let noteIndex = 0;
+                const playNote = () => {
+                    if (!this.isMusicPlaying || !this.audioContext) return;
+
+                    const note = notes[noteIndex];
+                    this.playNote(note.freq, note.duration, 0.3, 'triangle');
+
+                    noteIndex = (noteIndex + 1) % notes.length;
+                    setTimeout(playNote, note.duration * 800);
+                };
+
+                console.log('开始播放背景音乐');
+                playNote();
+            },
+
+            // 播放单个音符
+            playNote: function(frequency, duration, volume, type) {
+                const oscillator = this.audioContext.createOscillator();
+                const gainNode = this.audioContext.createGain();
+
+                oscillator.type = type;
+                oscillator.frequency.value = frequency;
+
+                gainNode.gain.setValueAtTime(volume, this.audioContext.currentTime);
+                gainNode.gain.exponentialRampToValueAtTime(0.01, this.audioContext.currentTime + duration);
+
+                oscillator.connect(gainNode);
+                gainNode.connect(this.audioContext.destination);
+
+                oscillator.start(this.audioContext.currentTime);
+                oscillator.stop(this.audioContext.currentTime + duration);
+            },
+
+            // 播放爆炸音效
+            playExplosionSound: function() {
+                if (!this.isSfxEnabled || !this.audioContext) return;
+
+                // 低频爆炸噪声
+                const noiseBuffer = this.createNoiseBuffer();
+                const noiseSource = this.audioContext.createBufferSource();
+                noiseSource.buffer = noiseBuffer;
+
+                const noiseGain = this.audioContext.createGain();
+                const noiseFilter = this.audioContext.createBiquadFilter();
+                noiseFilter.type = 'lowpass';
+                noiseFilter.frequency.value = 1000;
+
+                noiseGain.gain.setValueAtTime(0.5, this.audioContext.currentTime);
+                noiseGain.gain.exponentialRampToValueAtTime(0.01, this.audioContext.currentTime + 0.5);
+
+                noiseSource.connect(noiseFilter);
+                noiseFilter.connect(noiseGain);
+                noiseGain.connect(this.audioContext.destination);
+
+                noiseSource.start(this.audioContext.currentTime);
+                noiseSource.stop(this.audioContext.currentTime + 0.5);
+
+                // 高频嘶嘶声
+                const highOsc = this.audioContext.createOscillator();
+                const highGain = this.audioContext.createGain();
+                const highFilter = this.audioContext.createBiquadFilter();
+
+                highOsc.type = 'sawtooth';
+                highOsc.frequency.value = 2000;
+                highFilter.type = 'highpass';
+                highFilter.frequency.value = 3000;
+
+                highGain.gain.setValueAtTime(0.1, this.audioContext.currentTime);
+                highGain.gain.exponentialRampToValueAtTime(0.01, this.audioContext.currentTime + 0.3);
+
+                highOsc.connect(highFilter);
+                highFilter.connect(highGain);
+                highGain.connect(this.audioContext.destination);
+
+                highOsc.start(this.audioContext.currentTime);
+                highOsc.stop(this.audioContext.currentTime + 0.3);
+
+                // 低音轰鸣
+                const bassOsc = this.audioContext.createOscillator();
+                const bassGain = this.audioContext.createGain();
+
+                bassOsc.type = 'sine';
+                bassOsc.frequency.value = 80;
+
+                bassGain.gain.setValueAtTime(0.3, this.audioContext.currentTime);
+                bassGain.gain.exponentialRampToValueAtTime(0.01, this.audioContext.currentTime + 0.8);
+
+                bassOsc.connect(bassGain);
+                bassGain.connect(this.audioContext.destination);
+
+                bassOsc.start(this.audioContext.currentTime);
+                bassOsc.stop(this.audioContext.currentTime + 0.8);
+            },
+
+            // 创建噪声缓冲区
+            createNoiseBuffer: function() {
+                const bufferSize = this.audioContext.sampleRate * 0.5;
+                const buffer = this.audioContext.createBuffer(1, bufferSize, this.audioContext.sampleRate);
+                const data = buffer.getChannelData(0);
+
+                for (let i = 0; i < bufferSize; i++) {
+                    data[i] = Math.random() * 2 - 1;
+                }
+
+                return buffer;
+            },
+
+            // 切换音乐
+            toggleMusic: function() {
+                this.isMusicPlaying = !this.isMusicPlaying;
+                if (this.isMusicPlaying) {
+                    this.playBackgroundMusic();
+                }
+                console.log('音乐状态:', this.isMusicPlaying ? '播放中' : '已静音');
+            },
+
+            // 切换音效
+            toggleSfx: function() {
+                this.isSfxEnabled = !this.isSfxEnabled;
+                console.log('音效状态:', this.isSfxEnabled ? '已开启' : '已关闭');
+            }
+        };
+
+        // ===== 烟花效果 - Canvas 2D =====
         const canvas = document.getElementById('fireworksCanvas');
         const ctx = canvas.getContext('2d');
 
@@ -192,6 +395,9 @@
             }
 
             explode() {
+                // 播放爆炸音效
+                AudioSystem.playExplosionSound();
+
                 const particleCount = 100;
                 for (let i = 0; i < particleCount; i++) {
                     particles.push(new Particle(this.x, this.y));
@@ -269,7 +475,27 @@
             fireworks.push(new Firework(startX, startY, targetX, targetY));
         }
 
-        // 点击事件
+        // ===== 用户交互和音频初始化 =====
+        
+        // 确保音频在第一次交互时初始化
+        const handleFirstInteraction = (e) => {
+            // 初始化音频系统（只执行一次）
+            if (!AudioSystem.audioInitialized) {
+                console.log('首次用户交互，初始化音频');
+                AudioSystem.init();
+                AudioSystem.playBackgroundMusic();
+            }
+            
+            // 移除初始化监听器
+            document.removeEventListener('click', handleFirstInteraction);
+            document.removeEventListener('touchstart', handleFirstInteraction);
+        };
+
+        // 监听首次交互
+        document.addEventListener('click', handleFirstInteraction);
+        document.addEventListener('touchstart', handleFirstInteraction);
+
+        // 点击 Canvas 触发烟花
         canvas.addEventListener('click', (e) => {
             launchFirework(e.clientX, e.clientY);
             // 点击时发射多个烟花
@@ -293,7 +519,36 @@
             canvas.height = window.innerHeight;
         });
 
+        // 控制按钮事件
+        const musicBtn = document.getElementById('musicBtn');
+        const sfxBtn = document.getElementById('sfxBtn');
+
+        musicBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            AudioSystem.toggleMusic();
+            if (AudioSystem.isMusicPlaying) {
+                musicBtn.classList.add('active');
+                musicBtn.classList.remove('inactive');
+            } else {
+                musicBtn.classList.remove('active');
+                musicBtn.classList.add('inactive');
+            }
+        });
+
+        sfxBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            AudioSystem.toggleSfx();
+            if (AudioSystem.isSfxEnabled) {
+                sfxBtn.classList.add('active');
+                sfxBtn.classList.remove('inactive');
+            } else {
+                sfxBtn.classList.remove('active');
+                sfxBtn.classList.add('inactive');
+            }
+        });
+
         // 启动
+        console.log('页面加载完成，等待用户交互以启动音频');
         animate();
         autoLaunch();
     </script>
