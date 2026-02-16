@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新年快乐 - 烟花</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #000;
+            overflow: hidden;
+            font-family: 'Arial', sans-serif;
+        }
+
+        canvas {
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        .title {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #fff;
+            font-size: 3rem;
+            text-align: center;
+            text-shadow: 0 0 20px #ff0000, 0 0 40px #ff6600, 0 0 60px #ffff00;
+            z-index: 10;
+            animation: glow 2s ease-in-out infinite alternate;
+        }
+
+        .subtitle {
+            position: absolute;
+            top: 60%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #fff;
+            font-size: 1.2rem;
+            text-align: center;
+            opacity: 0.8;
+            z-index: 10;
+        }
+
+        @keyframes glow {
+            from {
+                text-shadow: 0 0 20px #ff0000, 0 0 40px #ff6600, 0 0 60px #ffff00;
+            }
+            to {
+                text-shadow: 0 0 30px #ff0066, 0 0 60px #ff00ff, 0 0 90px #00ffff;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .title {
+                font-size: 2rem;
+            }
+            .subtitle {
+                font-size: 1rem;
+                top: 65%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <canvas id="fireworksCanvas"></canvas>
+    <div class="title">新年快乐 🎆</div>
+    <div class="subtitle">点击屏幕或等待自动播放烟花</div>
+
+    <script>
+        // 烟花效果 - Canvas 2D
+        const canvas = document.getElementById('fireworksCanvas');
+        const ctx = canvas.getContext('2d');
+
+        // 设置画布大小
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+
+        // 粒子数组
+        let particles = [];
+        let fireworks = [];
+
+        // 颜色数组
+        const colors = [
+            '#ff0000', // 红色
+            '#ff6600', // 橙色
+            '#ffff00', // 黄色
+            '#00ff00', // 绿色
+            '#00ffff', // 青色
+            '#0000ff', // 蓝色
+            '#ff00ff', // 紫色
+            '#ff0066', // 粉色
+            '#ffffff'  // 白色
+        ];
+
+        // 烟花类
+        class Firework {
+            constructor(x, y, targetX, targetY) {
+                this.x = x;
+                this.y = y;
+                this.targetX = targetX;
+                this.targetY = targetY;
+                this.speed = 8;
+                this.angle = Math.atan2(targetY - y, targetX - x);
+                this.velocity = {
+                    x: Math.cos(this.angle) * this.speed,
+                    y: Math.sin(this.angle) * this.speed
+                };
+                this.trail = [];
+                this.trailLength = 10;
+            }
+
+            update() {
+                // 保存轨迹
+                this.trail.push({ x: this.x, y: this.y });
+                if (this.trail.length > this.trailLength) {
+                    this.trail.shift();
+                }
+
+                // 移动
+                this.x += this.velocity.x;
+                this.y += this.velocity.y;
+
+                // 检查是否到达目标
+                const distance = Math.sqrt(
+                    Math.pow(this.targetX - this.x, 2) +
+                    Math.pow(this.targetY - this.y, 2)
+                );
+
+                if (distance < 10) {
+                    this.explode();
+                    return false;
+                }
+                return true;
+            }
+
+            draw() {
+                // 绘制轨迹
+                ctx.beginPath();
+                ctx.moveTo(this.trail[0].x, this.trail[0].y);
+                for (let i = 1; i < this.trail.length; i++) {
+                    ctx.lineTo(this.trail[i].x, this.trail[i].y);
+                }
+                ctx.strokeStyle = '#ffff00';
+                ctx.lineWidth = 2;
+                ctx.stroke();
+
+                // 绘制烟花头
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, 3, 0, Math.PI * 2);
+                ctx.fillStyle = '#ffffff';
+                ctx.fill();
+            }
+
+            explode() {
+                const particleCount = 100;
+                for (let i = 0; i < particleCount; i++) {
+                    particles.push(new Particle(this.x, this.y));
+                }
+            }
+        }
+
+        // 粒子类
+        class Particle {
+            constructor(x, y) {
+                this.x = x;
+                this.y = y;
+                const angle = Math.random() * Math.PI * 2;
+                const speed = Math.random() * 6 + 2;
+                this.velocity = {
+                    x: Math.cos(angle) * speed,
+                    y: Math.sin(angle) * speed
+                };
+                this.gravity = 0.1;
+                this.friction = 0.99;
+                this.alpha = 1;
+                this.decay = Math.random() * 0.02 + 0.01;
+                this.color = colors[Math.floor(Math.random() * colors.length)];
+                this.size = Math.random() * 3 + 1;
+            }
+
+            update() {
+                this.velocity.x *= this.friction;
+                this.velocity.y *= this.friction;
+                this.velocity.y += this.gravity;
+                this.x += this.velocity.x;
+                this.y += this.velocity.y;
+                this.alpha -= this.decay;
+                return this.alpha > 0;
+            }
+
+            draw() {
+                ctx.save();
+                ctx.globalAlpha = this.alpha;
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+                ctx.fillStyle = this.color;
+                ctx.fill();
+                ctx.restore();
+            }
+        }
+
+        // 动画循环
+        function animate() {
+            // 清除画布（半透明，创建拖尾效果）
+            ctx.fillStyle = 'rgba(0, 0, 0, 0.1)';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            // 更新和绘制烟花
+            fireworks = fireworks.filter(firework => {
+                firework.draw();
+                return firework.update();
+            });
+
+            // 更新和绘制粒子
+            particles = particles.filter(particle => {
+                particle.draw();
+                return particle.update();
+            });
+
+            requestAnimationFrame(animate);
+        }
+
+        // 发射烟花
+        function launchFirework(x, y) {
+            const targetX = x || Math.random() * canvas.width;
+            const targetY = y || Math.random() * canvas.height * 0.6;
+            const startX = canvas.width / 2;
+            const startY = canvas.height;
+            fireworks.push(new Firework(startX, startY, targetX, targetY));
+        }
+
+        // 点击事件
+        canvas.addEventListener('click', (e) => {
+            launchFirework(e.clientX, e.clientY);
+            // 点击时发射多个烟花
+            setTimeout(() => launchFirework(e.clientX - 50, e.clientY - 50), 100);
+            setTimeout(() => launchFirework(e.clientX + 50, e.clientY - 50), 200);
+            setTimeout(() => launchFirework(e.clientX - 50, e.clientY + 50), 300);
+            setTimeout(() => launchFirework(e.clientX + 50, e.clientY + 50), 400);
+        });
+
+        // 自动播放
+        function autoLaunch() {
+            launchFirework();
+            // 随机时间后发射下一个
+            const delay = Math.random() * 2000 + 1000;
+            setTimeout(autoLaunch, delay);
+        }
+
+        // 窗口大小改变
+        window.addEventListener('resize', () => {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+        });
+
+        // 启动
+        animate();
+        autoLaunch();
+    </script>
+</body>
+</html>
