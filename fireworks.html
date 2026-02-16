@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>新年快乐 - 烟花</title>
+    <title>马年大吉 - 烟花</title>
     <style>
         * {
             margin: 0;
@@ -32,50 +32,77 @@
             left: 50%;
             transform: translate(-50%, -50%);
             color: #fff;
-            font-size: 3rem;
+            font-size: 3.5rem;
+            font-weight: bold;
             text-align: center;
-            text-shadow: 0 0 20px #ff0000, 0 0 40px #ff6600, 0 0 60px #ffff00;
+            text-shadow: 0 0 20px #d4af37, 0 0 40px #d4af37, 0 0 60px #ff6b00;
             z-index: 10;
             pointer-events: none;
-            animation: glow 2s ease-in-out infinite alternate;
+            animation: glow 3s ease-in-out infinite alternate;
         }
 
         .subtitle {
             position: absolute;
-            top: 60%;
+            top: 65%;
             left: 50%;
             transform: translate(-50%, -50%);
-            color: #fff;
-            font-size: 1.2rem;
+            color: #ffdf00;
+            font-size: 1.4rem;
+            font-weight: bold;
             text-align: center;
-            opacity: 0.8;
+            opacity: 0.9;
             z-index: 10;
             pointer-events: none;
+            text-shadow: 0 0 10px #d4af37, 0 0 20px #ff6b00;
+        }
+
+        .horse-icon {
+            position: absolute;
+            top: 35%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 5rem;
+            z-index: 10;
+            pointer-events: none;
+            animation: bounce 2s ease-in-out infinite;
         }
 
         @keyframes glow {
             from {
-                text-shadow: 0 0 20px #ff0000, 0 0 40px #ff6600, 0 0 60px #ffff00;
+                text-shadow: 0 0 20px #d4af37, 0 0 40px #d4af37, 0 0 60px #ff6b00;
             }
             to {
-                text-shadow: 0 0 30px #ff0066, 0 0 60px #ff00ff, 0 0 90px #00ffff;
+                text-shadow: 0 0 30px #ff6b00, 0 0 60px #d4af37, 0 0 90px #d4af37;
+            }
+        }
+
+        @keyframes bounce {
+            0%, 100% {
+                transform: translate(-50%, -50%) scale(1);
+            }
+            50% {
+                transform: translate(-50%, -50%) scale(1.1);
             }
         }
 
         @media (max-width: 768px) {
             .title {
-                font-size: 2rem;
+                font-size: 2.5rem;
             }
             .subtitle {
-                font-size: 1rem;
-                top: 65%;
+                font-size: 1.2rem;
+                top: 68%;
+            }
+            .horse-icon {
+                font-size: 4rem;
             }
         }
     </style>
 </head>
 <body>
     <canvas id="fireworksCanvas"></canvas>
-    <div class="title">新年快乐 🎆</div>
+    <div class="horse-icon">🐎</div>
+    <div class="title">马年大吉 🎊</div>
     <div class="subtitle">点击屏幕或等待自动播放烟花</div>
 
     <script>
@@ -91,17 +118,18 @@
         let particles = [];
         let fireworks = [];
 
-        // 颜色数组
-        const colors = [
+        // 马年颜色数组（金色、红色、橙色、黄色）
+        const horseYearColors = [
+            '#d4af37', // 金色
+            '#ffd700', // 亮金色
+            '#ff6b00', // 橙色
             '#ff0000', // 红色
-            '#ff6600', // 橙色
-            '#ffff00', // 黄色
-            '#00ff00', // 绿色
-            '#00ffff', // 青色
-            '#0000ff', // 蓝色
-            '#ff00ff', // 紫色
-            '#ff0066', // 粉色
-            '#ffffff'  // 白色
+            '#ff8c00', // 深橙色
+            '#ffb347', // 柔和金色
+            '#fffacd', // 柠檬绸色
+            '#ffea00', // 亮黄色
+            '#ff4500', // 橙红色
+            '#ffd700'  // 金色（再次）
         ];
 
         // 烟花类
@@ -146,17 +174,17 @@
             }
 
             draw() {
-                // 绘制轨迹
+                // 绘制轨迹（金色）
                 ctx.beginPath();
                 ctx.moveTo(this.trail[0].x, this.trail[0].y);
                 for (let i = 1; i < this.trail.length; i++) {
                     ctx.lineTo(this.trail[i].x, this.trail[i].y);
                 }
-                ctx.strokeStyle = '#ffff00';
+                ctx.strokeStyle = '#d4af37';
                 ctx.lineWidth = 2;
                 ctx.stroke();
 
-                // 绘制烟花头
+                // 绘制烟花头（白色）
                 ctx.beginPath();
                 ctx.arc(this.x, this.y, 3, 0, Math.PI * 2);
                 ctx.fillStyle = '#ffffff';
@@ -186,7 +214,7 @@
                 this.friction = 0.99;
                 this.alpha = 1;
                 this.decay = Math.random() * 0.02 + 0.01;
-                this.color = colors[Math.floor(Math.random() * colors.length)];
+                this.color = horseYearColors[Math.floor(Math.random() * horseYearColors.length)];
                 this.size = Math.random() * 3 + 1;
             }
 
@@ -235,7 +263,7 @@
         // 发射烟花
         function launchFirework(x, y) {
             const targetX = x || Math.random() * canvas.width;
-            const targetY = y || Math.random() * canvas.height * 0.6;
+            const targetY = y || Math.random() * canvas.height * 0.5;
             const startX = canvas.width / 2;
             const startY = canvas.height;
             fireworks.push(new Firework(startX, startY, targetX, targetY));
