@@ -1,17 +1,49 @@
 ---
-name: seedance-2-prompt
-version: 1.0.0
-description: Seedance 2.0 AI 视频生成模型提示词生成和管理工具
+name: seedance-15s-avatar
+version: 2.0.0
+description: Seedance 2.0 15秒视频展示和数字分身圆梦工具（高质量提示词生成 + 数字分身场景设计）
 author: Seedance Team
 category: video-generation
-tags: [seedance, video, prompt, ai-generation]
+tags: [seedance, video, prompt, ai-generation, digital-avatar, 15s-video, dream-scenario]
 ---
 
-# Seedance 2.0 视频提示词 Skill
+# Seedance 2.0 15秒视频展示和数字分身圆梦 Skill
 
-专业的 Seedance 2.0 AI 视频生成模型提示词生成和管理工具。
+专业的 Seedance 2.0 15秒视频展示和数字分身圆梦工具，专注于两大核心功能。
 
 ## 核心功能
+
+### 🎬 15秒视频展示
+
+- **高质量提示词生成** - 生成符合高质量标准的15秒视频提示词
+  - 参考优秀作品（如《假面骑士BLACK SUN》、《仙侠小说经典场景》）
+  - 风格定位极其精准（参考作品、风格关键词）
+  - 细节极其丰富（每个元素都有明确要求）
+  - 镜头语言极其专业（全程不切镜头，或精确的分秒镜头变化）
+  - 氛围营造极佳（场景、天气、声音）
+  - 动作设计简洁有力
+  - 特效设计增强震撼感
+- **分秒设计** - 15秒标准分秒设计，每个时段都有明确的镜头、动作、场景、光影
+- **悬念设计** - 支持悬念结尾设计，增强吸引力
+- **场景类型** - 支持多种场景类型（仙法万剑归宗、机械变身、历史事件、极限运动等）
+
+### 🎭 数字分身圆梦
+
+- **数字分身场景设计** - 结合用户上传的数字分身，设计圆梦场景
+  - 使用上传照片作为人物面部参考
+  - 保持脸部完全一致，不改变五官和脸型，不美化
+  - 服装符合视频要求
+  - 专注于动作场景设计（分秒设计）
+  - 用户使用数字分身 + 我的动作设计 = 完整视频
+- **圆梦场景** - 支持各种圆梦场景
+  - 仙法万剑归宗（仙侠玄幻）
+  - 机械变身（科技感）
+  - 历史事件演绎（参与历史）
+  - 极限运动（冲浪、跳伞、水上漂）
+  - 动画变身（元素变身、英雄变身）
+  - 其他梦想场景
+
+### 📝 提示词生成（辅助功能）
 
 - **交互式提示词生成** - 通过交互式对话引导用户生成完整的视频提示词
 - **提示词优化** - 优化用户输入的提示词，根据万能公式补充缺失元素
@@ -45,9 +77,375 @@ tags: [seedance, video, prompt, ai-generation]
 - `ADVANCED` - 高级（完整的万能公式）
 - `EXPERT` - 专家（极致细节和专业术语）
 
+## 🎬 场景模板提示词示例
+
+### 自然风景类
+
+#### 1. 雨夜城市街道
+```
+一位年轻女性在雨夜的城市街道上散步，霓虹灯倒映在水坑中，浪漫氛围，
+超高清电影级画质，自然光线，梦幻风格，慢镜头推进
+```
+
+#### 2. 晨光森林
+```
+清晨的阳光穿过茂密的森林，雾气缭绕，一位探险者正在探索，
+超高清电影级画质，丁达尔效应，史诗风格，环绕镜头
+```
+
+#### 3. 海边日落
+```
+金色的夕阳洒在海面上，海浪轻拍沙滩，一对恋人手牵手散步，
+超高清电影级画质，逆光拍摄，浪漫风格，侧跟镜头
+```
+
+#### 4. 雪山日出
+```
+晨光刚刚照亮雪山之巅，雪地反射着金色的光芒，一位登山者站在山顶，
+超高清电影级画质，极简构图，史诗风格，俯视镜头
+```
+
+### 都市生活类
+
+#### 5. 咖啡馆午后
+```
+午后的阳光透过玻璃窗洒在咖啡馆里，一位年轻女性正在用笔记本电脑工作，
+超高清电影级画质，柔光照明，文艺风格，中景镜头
+```
+
+#### 6. 夜市繁华
+```
+夜市的灯火辉煌，人群熙熙攘攘，小吃摊冒着热气，充满烟火气，
+超高清电影级画质，暖色调，生活化风格，手持跟拍
+```
+
+#### 7. 地铁通勤
+```
+地铁站内，上班族们匆匆忙忙，列车进站的声音响起，充满都市节奏感，
+超高清电影级画质，冷色调，写实风格，固定机位
+```
+
+#### 8. 天台夜景
+```
+夜晚的天台，城市灯火如星河，一位年轻人独自望着远方，思考人生，
+超高清电影级画质，低照度，孤独氛围，远景镜头
+```
+
+### 职场办公类
+
+#### 9. 会议室讨论
+```
+现代化的会议室，团队成员围坐在圆桌旁，激烈地讨论项目方案，
+超高清电影级画质，室内柔光，专业风格，环绕镜头
+```
+
+#### 10. 创意办公区
+```
+开放式办公区，年轻的设计师们正在头脑风暴，白板上写满了想法，
+超高清电影级画质，明亮的自然光，创意风格，跟拍镜头
+```
+
+#### 11. 视频会议
+```
+多个窗口显示着同事们的笑脸，大家正在视频会议中互相问候，
+超高清电影级画质，清晰的视频通话，远程协作风格，分屏展示
+```
+
+#### 12. 创业路演
+```
+创业者正在舞台上向投资人展示产品，大屏幕上显示着精美的幻灯片，
+超高清电影级画质，舞台灯光，激情风格，多角度切换
+```
+
+### 情感表达类
+
+#### 13. 久别重逢
+```
+机场的到达大厅，一对恋人紧紧拥抱在一起，眼泪在眼眶中打转，
+超高清电影级画质，柔和的暖光，感人风格，慢镜头特写
+```
+
+#### 14. 生日惊喜
+```
+黑暗的房间突然亮起灯光，朋友们从藏身处跳出来，寿星惊喜地捂住嘴巴，
+超高清电影级画质，明亮的彩光，欢乐风格，手持跟拍
+```
+
+#### 15. 告别离别
+```
+火车站的站台，列车即将出发，朋友挥手告别，充满不舍之情，
+超高清电影级画质，黄昏的柔光，忧伤风格，远景镜头
+```
+
+#### 16. 求婚现场
+```
+月光下的海滩，男生单膝跪地，拿着戒指向女生求婚，
+超高清电影级画质，浪漫的月光，感动风格，仰拍镜头
+```
+
+### 运动健身类
+
+#### 17. 晨跑公园
+```
+清晨的公园，跑步者正在沿着小径慢跑，汗水在阳光下闪闪发光，
+超高清电影级画质，晨光，活力风格，跟拍镜头
+```
+
+#### 18. 瑜伽冥想
+```
+安静的瑜伽室，一位女性正在做瑜伽动作，窗外是绿意盎然的风景，
+超高清电影级画质，柔和的自然光，宁静风格，固定机位
+```
+
+#### 19. 篮球比赛
+```
+篮球场上，队员们正在激烈地比赛，观众席上掌声雷动，
+超高清电影级画质，明亮的球场灯光，运动风格，多机位切换
+```
+
+#### 20. 攀岩挑战
+```
+陡峭的岩壁上，攀岩者正在向上攀登，脚下是万丈深渊，
+超高清电影级画质，逆光拍摄，极限风格，航拍镜头
+```
+
+### 美食制作类
+
+#### 21. 烘焙厨房
+```
+温暖的厨房里，一位面包师正在揉面团，烤箱里飘出香甜的面包香气，
+超高清电影级画质，暖色调，温馨风格，近景特写
+```
+
+#### 22. 高端餐厅
+```
+精致的高级餐厅，厨师正在精心地摆盘，菜品如艺术品般呈现，
+超高清电影级画质，专业的灯光，奢华风格，俯视镜头
+```
+
+#### 23. 夜市小吃
+```
+夜市的小吃摊，老板正在煎着美味的食物，香味飘散在空气中，
+超高清电影级画质，暖黄色的灯光，市井风格，手持跟拍
+```
+
+#### 24. 家庭聚餐
+```
+温馨的家庭餐桌，全家人围坐在一起，享受着丰盛的晚餐，
+超高清电影级画质，暖色的室内光，团圆风格，环绕镜头
+```
+
+### 教育学习类
+
+#### 25. 图书馆阅读
+```
+安静的图书馆，一位学生正在聚精会神地看书，阳光透过窗户洒在书页上，
+超高清电影级画质，柔和的晨光，求知风格，固定机位
+```
+
+#### 26. 实验室研究
+```
+现代化的实验室，科学家们正在进行实验，仪器屏幕上显示着数据，
+超高清电影级画质，冷白色的实验室灯光，科技风格，跟拍镜头
+```
+
+#### 27. 课堂讲授
+```
+明亮的教室，老师正在黑板上讲解知识点，学生们认真听讲做笔记，
+超高清电影级画质，自然光，教育风格，中景镜头
+```
+
+#### 28. 线上学习
+```
+家里的书桌前，学生正在对着电脑屏幕上课，认真记录重点，
+超高清电影级画质，舒适的台灯，专注风格，侧拍镜头
+```
+
+### 旅行探险类
+
+#### 29. 沙漠徒步
+```
+金色的沙漠中，旅行者正在艰难前行，身后留下长长的脚印，
+超高清电影级画质，烈日当空，史诗风格，航拍远景
+```
+
+#### 30. 森林露营
+```
+茂密的森林中，露营者在搭建帐篷，篝火燃烧着，温暖的光芒照亮四周，
+超高清电影级画质，夜间的篝火光，探险风格，环绕镜头
+```
+
+#### 31. 极地探险
+```
+白雪皑皑的极地，探险者正在雪地中前行，身后是一串串脚印，
+超高清电影级画质，冷冽的极光，史诗风格，航拍镜头
+```
+
+#### 32. 海岛潜水
+```
+清澈的海水中，潜水者正在探索珊瑚礁，鱼群在身边游弋，
+超高清电影级画质，海底的自然光，梦幻风格，跟拍镜头
+```
+
+### 节日庆祝类
+
+#### 33. 春节团圆
+```
+家中贴满了春联和福字，全家人围坐在一起包饺子，春晚正在播放，
+超高清电影级画质，红色的节日灯光，喜庆风格，环绕镜头
+```
+
+#### 34. 圣诞夜晚
+```
+装饰着圣诞树的客厅，全家人正在交换礼物，温暖的灯光照亮整个房间，
+超高清电影级画质，柔和的暖光，温馨风格，固定机位
+```
+
+#### 35. 万圣节派对
+```
+装饰着南瓜灯的派对现场，孩子们穿着万圣节服装，开心地要糖果，
+超高清电影级画质，神秘的灯光，节日风格，跟拍镜头
+```
+
+#### 36. 新年倒数
+``繁华的城市广场，成千上万的人聚集在一起，等待新年的到来，烟花绽放，
+超高清电影级画质，璀璨的烟花，庆祝风格，航拍镜头
+```
+
+### 科技未来类
+
+#### 37. 未来城市
+```
+高科技的未来城市，飞行汽车在空中穿梭，全息广告屏闪烁着光芒，
+超高清电影级画质，霓虹灯光，科幻风格，航拍镜头
+```
+
+#### 38. AI 助手
+```
+未来感的智能家居，AI 助手正在为用户提供服务，全息投影显示着信息，
+超高清电影级画质，冷蓝色的灯光，科技风格，环绕镜头
+```
+
+#### 39. 虚拟现实
+```
+一位年轻人戴着 VR 头盔，沉浸在虚拟世界中，现实中身体在运动，
+超高清电影级画质，混合现实，科幻风格，双重视角
+```
+
+#### 40. 机器人工作
+```
+自动化工厂里，机器人正在精确地组装产品，没有人类员工在场，
+超高清电影级画质，冷白色的工厂灯光，未来风格，固定机位
+```
+
+### 艺术创意类
+
+#### 41. 街头涂鸦
+```
+城市的墙面上，涂鸦艺术家正在创作，喷漆在墙上留下色彩斑斓的图案，
+超高清电影级画质，自然光，街头风格，跟拍镜头
+```
+
+#### 42. 音乐创作
+```
+录音棚里，音乐人正在创作，乐器声环绕，灵感迸发，
+超高清电影级画质，专业的录音棚灯光，艺术风格，环绕镜头
+```
+
+#### 43. 舞蹈练习
+```
+明亮的舞蹈室，舞者正在练习舞蹈动作，镜子中映出优美的身姿，
+超高清电影级画质，柔光灯，艺术风格，固定机位
+```
+
+#### 44. 画作创作
+```
+画家的工作室里，画家正在画布上创作，颜料和画笔散落在周围，
+超高清电影级画质，自然光，艺术风格，近景特写
+```
+
+### 宠物动物类
+
+#### 45. 狗狗玩耍
+```
+绿色的草地上，一只金毛正在追逐飞盘，主人开心地笑着，
+超高清电影级画质，明亮的阳光，可爱风格，跟拍镜头
+```
+
+#### 46. 猫咪睡觉
+```
+阳光洒在沙发上，一只猫正在懒洋洋地睡觉，偶尔伸个懒腰，
+超高清电影级画质，柔和的午光，治愈风格，固定机位
+```
+
+#### 47. 鸟儿歌唱
+```
+清晨的树枝上，一只鸟儿正在歌唱，羽毛在阳光下闪闪发光，
+超高清电影级画质，晨光，自然风格，近景特写
+```
+
+#### 48. 水族箱
+```
+水族箱里，五颜六色的热带鱼在游弋，水草轻轻摇曳，
+超高清电影级画质，蓝色的灯光，梦幻风格，固定机位
+```
+
+### 亲子家庭类
+
+#### 49. 父子游戏
+```
+客厅里，爸爸和孩子正在玩积木，孩子在地上开心地大笑，
+超高清电影级画质，暖色的室内光，温馨风格，跟拍镜头
+```
+
+#### 50. 母子阅读
+```
+床边，妈妈正在给孩子读故事书，孩子聚精会神地听着，
+超高清电影级画质，柔和的床头灯，温馨风格，近景特写
+```
+
+#### 51. 家庭野餐
+```
+草地上，全家人正在野餐，孩子们在追逐打闹，大人们聊天，
+超高清电影级画质，明亮的阳光，欢乐风格，环绕镜头
+```
+
+#### 52. 庆功宴
+```
+餐厅里，全家人正在为孩子庆祝升学，蛋糕上插满了蜡烛，
+超高清电影级画质，暖色的餐厅灯光，喜悦风格，固定机位
+```
+
 ## 使用方法
 
-### 命令行工具
+### 直接使用场景模板
+
+以上所有场景模板都可以直接复制使用，无需运行脚本。只需：
+
+1. **选择场景**：从上面的 50+ 个场景中选择你需要的
+2. **复制提示词**：直接复制完整的提示词文本
+3. **粘贴到 Seedance 2.0**：在 Seedance 2.0 中粘贴提示词生成视频
+
+### 自定义场景模板
+
+如果你想创建自己的场景模板：
+
+```
+主体（人物/物体）+ 动作（做什么）+ 场景（在哪里）+ 
+光影（光线）+ 镜头语言（拍摄方式）+ 风格（风格）+ 
+画质（清晰度）+ 约束（时长等）
+```
+
+**示例**：
+```
+一位 20-25 岁女性 + 在咖啡馆里工作 + 午后的阳光透过玻璃窗 + 
+柔光照明 + 中景镜头 + 文艺风格 + 超高清电影级画质 + 
+5-10 秒时长
+```
+
+### 使用脚本生成提示词
+
+如果你需要更高级的功能（如提示词优化、变体生成、在线搜索等），可以使用脚本：
 
 ```bash
 # 生成提示词
@@ -56,307 +454,24 @@ python scripts/prompt_generator.py
 # 优化提示词
 python scripts/prompt_optimizer.py
 
-# 浏览示例
-python scripts/examples.py
+# 在线搜索
+python scripts/search_online.py "雨夜城市" -t photo-realistic -n 10
 
-# 浏览模板
-python scripts/template_library.py
-
-# 在线搜索提示词
-python scripts/search_online.py "雨天城市街道" -t photo-realistic -d INTERMEDIATE -n 10
-
-# 更新模板库
-python scripts/update_templates.py --search "最新 Seedance 2.0 提示词"
+# 生成人物（防撞脸）
+python3 scripts/character_generator.py -n 3
 ```
 
-### Python API
-
-#### 生成提示词
-
-```python
-from scripts.prompt_generator import generate_prompt
-
-result = generate_prompt(
-    scene="一位年轻女性在花园里散步",
-    style="梦幻",
-    difficulty="INTERMEDIATE",
-    video_type="photo-realistic"
-)
-
-print(result['prompt'])
-print(result['elements'])
-print(result['variants'])
-```
-
-#### 优化提示词
-
-```python
-from scripts.prompt_optimizer import optimize_prompt
-
-result = optimize_prompt(
-    user_prompt="一位女士在花园里",
-    difficulty="INTERMEDIATE"
-)
-
-print(result['optimized_prompt'])
-print(result['suggestions'])
-print(result['score'])
-```
-
-#### 补全万能公式
-
-```python
-from scripts.prompt_optimizer import complete_formula_prompt
-
-result = complete_formula_prompt(
-    user_prompt="一位女士在花园里",
-    difficulty="ADVANCED"
-)
-
-print(result['completed'])
-```
-
-#### 生成变体
-
-```python
-from scripts.prompt_optimizer import generate_variants
-
-variants = generate_variants(
-    prompt="一位女士在花园里散步",
-    count=3,
-    difficulty="INTERMEDIATE"
-)
-
-for v in variants:
-    print(v['variant'])
-    print(v['changes'])
-```
-
-#### 查询模板
-
-```python
-from scripts.template_library import TemplateLibrary
-
-lib = TemplateLibrary()
-
-# 获取所有模板
-templates = lib.get_all_templates()
-
-# 按类型查询
-templates = lib.get_templates_by_type("photo-realistic")
-
-# 按难度查询
-templates = lib.get_templates_by_difficulty("INTERMEDIATE")
-
-# 按类型和难度查询
-templates = lib.get_templates_by_type_and_difficulty("photo-realistic", "INTERMEDIATE")
-
-# 搜索模板
-templates = lib.search_templates("花园")
-
-# 获取单个模板
-template = lib.get_template_by_id("photo-realistic-beginner-1")
-
-# 保存自定义模板
-lib.save_custom_template({
-    "id": "my-custom-template",
-    "name": "我的自定义模板",
-    "video_type": "photo-realistic",
-    "difficulty": "INTERMEDIATE",
-    "prompt": "我的提示词内容...",
-    "tags": ["自定义", "测试"],
-    "duration": "5-10s"
-})
-```
-
-#### 在线搜索提示词
-
-```python
-from scripts.search_online import search_prompts
-
-# 基本搜索
-results = search_prompts("雨天城市街道")
-
-# 按视频类型搜索
-results = search_prompts(
-    query="人物肖像",
-    video_type="photo-realistic",
-    max_results=10
-)
-
-# 按难度搜索
-results = search_prompts(
-    query="复杂场景",
-    difficulty="ADVANCED",
-    max_results=5
-)
-
-# 组合搜索
-results = search_prompts(
-    query="城市夜景",
-    video_type="photo-realistic",
-    difficulty="INTERMEDIATE",
-    max_results=10
-)
-
-# 查看结果
-for prompt in results:
-    print(f"标题: {prompt['title']}")
-    print(f"提示词: {prompt['prompt']}")
-    print(f"类型: {prompt['video_type']}")
-    print(f"难度: {prompt['difficulty']}")
-    print(f"来源: {prompt['search_source']}")
-    print()
-```
-
-#### 生成提示词（使用在线搜索）
-
-```python
-from scripts.prompt_generator import PromptGenerator
-
-generator = PromptGenerator()
-
-# 基本生成（不使用在线搜索）
-result = generator.generate_prompt(
-    scene="一位年轻女性在花园里散步",
-    style="梦幻",
-    difficulty="INTERMEDIATE",
-    video_type="photo-realistic"
-)
-
-# 使用在线搜索生成
-result = generator.generate_prompt_with_search(
-    scene="一位年轻女性在花园里散步",
-    style="梦幻",
-    difficulty="INTERMEDIATE",
-    video_type="photo-realistic",
-    online_search=True,  # 启用在线搜索
-    max_online_results=5
-)
-
-# 查看在线搜索结果
-if result['online_used']:
-    print(f"找到 {len(result['online_results'])} 个相关提示词")
-    for online_prompt in result['online_results']:
-        print(f"  - {online_prompt['title']}")
-```
-
-#### 更新模板库
-
-```python
-from scripts.update_templates import TemplateUpdater
-
-updater = TemplateUpdater()
-
-# 从搜索更新模板
-templates = updater.fetch_templates_from_search("最新 Seedance 2.0 提示词")
-count = updater.update_local_templates(templates)
-
-print(f"更新了 {count} 个模板")
-```
-
-#### 浏览示例
-
-```python
-from scripts.examples import ExamplesLibrary
-
-lib = ExamplesLibrary()
-
-# 按类型获取示例
-examples = lib.get_examples_by_type("photo-realistic")
-
-# 按难度获取示例
-examples = lib.get_examples_by_difficulty("INTERMEDIATE")
-
-# 获取精选示例
-examples = lib.get_featured_examples(10)
-
-# 搜索示例
-examples = lib.search_examples("花园")
-
-# 获取单个示例
-example = lib.get_example_by_id("photo-realistic-beginner-1")
-
-# 显示示例详情
-lib.display_example(example)
-
-# 交互式浏览
-lib.interactive_browse()
-```
-
-## 完整工作流示例
-
-```python
-#!/usr/bin/env python3
-from scripts.prompt_generator import PromptGenerator
-from scripts.prompt_optimizer import PromptOptimizer
-from scripts.examples import ExamplesLibrary
-
-# 1. 生成提示词
-print("=== 生成提示词 ===")
-generator = PromptGenerator()
-result = generator.generate_prompt(
-    scene="一位年轻女性在花园里散步",
-    style="梦幻",
-    difficulty="INTERMEDIATE",
-    video_type="photo-realistic"
-)
-print(f"生成提示词: {result['prompt']}\n")
-
-# 2. 优化提示词
-print("=== 优化提示词 ===")
-optimizer = PromptOptimizer()
-optimized = optimizer.optimize_prompt(result['prompt'], difficulty="INTERMEDIATE")
-print(f"优化后提示词: {optimized['optimized_prompt']}")
-print(f"评分: {optimized['score']['total']}/100\n")
-
-# 3. 查看示例
-print("=== 查看示例 ===")
-examples_lib = ExamplesLibrary()
-example = examples_lib.get_example_by_id("photo-realistic-beginner-1")
-examples_lib.display_example(example)
-```
-
-## 输出格式
-
-所有提示词结果均以 JSON 格式返回，包含：
-
-- `prompt` - 完整提示词文本
-- `elements` - 万能公式元素字典
-- `variants` - 提示词变体列表
-- `video_type` - 视频类型
-- `difficulty` - 难度级别
-- `recommended_duration` - 推荐时长
-- `score` - 评分（仅优化器）
-- `suggestions` - 优化建议（仅优化器）
-
-## 数据统计
-
-- **模板数量**: 24 个预设模板
-- **视频类型**: 8 种类型
-- **难度级别**: 4 个级别
-- **示例质量**: 每个示例包含完整元素分析
-
-## 扩展开发
-
-### 添加新模板
-
-编辑 `references/templates.md` 或通过 API 保存自定义模板。
-
-### 扩展视频类型
-
-在 `scripts/prompt_generator.py` 的 `VIDEO_TYPES` 字典中添加新类型。
-
-## 详细文档
-
-更多信息请参考：
-- `references/templates.md` - 24 个模板的完整文档
-- `references/video-types.md` - 视频类型详细说明
-- `references/difficulty-levels.md` - 难度级别详细说明
-- `references/examples.md` - 示例和使用指南
+## 最佳实践
+
+1. **直接使用知识库**：优先从上面的场景模板中选择，快速生成
+2. **自定义调整**：根据需要调整模板中的主体、场景、风格等元素
+3. **组合使用**：可以将不同场景的元素组合起来，创造新的场景
+4. **使用脚本增强**：对于复杂场景，使用脚本进行优化和变体生成
+5. **人物防撞脸**：多人物场景使用人物生成器，避免撞脸
 
 ## 版本信息
 
-- **版本**: 1.0.0
-- **发布日期**: 2026-02-14
+- **版本**: 1.2.0
+- **发布日期**: 2026-02-17
 - **兼容性**: Seedance 2.0 AI 视频生成模型
+- **更新内容**: 新增 50+ 场景模板提示词，可以直接复制使用，无需脚本
