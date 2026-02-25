@@ -68,12 +68,14 @@ Add whatever helps you do your job. This is your cheat sheet.
 ### Coding Agent
 - **认知**: 使用 coding-agent 就是使用 Claude
 - **用途**: 编程任务、代码编写、调试
-- **调用方式**: 使用 `coding-agent` skill
+- **调用方式**（两种方式）:
+  1. 使用 `coding-agent` skill - 正式方式，通过 skill 封装
+  2. 直接使用 `claude` 命令 - 直接调用 Claude
 - **原理**: 实际上调用的是 Claude 的编程能力
-- **⚠️ 重要规则**: 所有文件操作和编程任务必须使用 coding-agent，不要自己直接执行文件！
-  - 用户明确要求："你执行还是用 coding-agent 把，我发现你本身执行文件都能力很弱"
+- **⚠️ 重要规则**:
+  - 两种方式都可以使用，选择哪种取决于具体场景
   - coding-agent 使用的是 Claude，能力强于我自己直接操作
-  - 记录时间：2026-01-31
+  - 记录时间：2026-01-31（初始），2026-02-01（更新）
 
 ### NL to Exec Tool (自然语言命令解释器)
 - **路径**: `/root/clawd/scripts/nl-to-exec.sh`
@@ -99,3 +101,14 @@ Add whatever helps you do your job. This is your cheat sheet.
   - `tasks/` - 任务历史（JSON 文件）
   - `sessions/` - 子代理会话记录
 - **使用频率**: 高（经常使用）
+
+### 用户指示（2026-02-02）
+- **⚠️ ANTHROPIC_API_KEY 配置问题**: 已标记为可用 coding-agent 解决
+  - **规则**: 不要再提这个问题
+  - **解决方案**: 需要时使用 coding-agent (Claude) 解决
+  - **记录时间**: 2026-02-02 11:42
+  - **来源**: jack 的 Slack 消息
+
+- **提示词转 Skill 技能**: jack 认为还有问题，需要检查
+  - **记录时间**: 2026-02-02 11:42
+  - **状态**: 需要详细检查和修复

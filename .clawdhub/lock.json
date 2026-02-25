@@ -100,6 +100,30 @@
     "video-agent": {
       "version": "1.0.1",
       "installedAt": 1770161644040
+    },
+    "baidu-baike": {
+      "version": "1.0.1",
+      "installedAt": 1770637456035
+    },
+    "ai-ppt-generate": {
+      "version": "1.0.0",
+      "installedAt": 1770637459804
+    },
+    "baidu-scholar-search-skill": {
+      "version": "1.0.3",
+      "installedAt": 1770637463484
+    },
+    "ai-picture-book": {
+      "version": "1.0.5",
+      "installedAt": 1770637467215
+    },
+    "baidu-search": {
+      "version": "1.0.5",
+      "installedAt": 1770637470809
+    },
+    "deepresearch-conversation": {
+      "version": "1.0.3",
+      "installedAt": 1770637474373
     }
   }
 }

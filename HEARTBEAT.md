@@ -118,17 +118,21 @@ def should_notify():
 4. Token 有效则静默，无效则通知用户更新
 ```
 
-### AI 提示词自动化流程（每天早上 9 点）
+### AI 信息搜索（每天晚上 9 点）
 ```bash
 # 执行脚本
-/root/clawd/scripts/full-prompt-workflow.sh
+/root/clawd/projects/info-search/workflows/ai-research-extended.sh
 
 # 流程内容
-1. 数据收集（Reddit, GitHub, Hacker News, SearXNG）
-2. 转换成 Skills
-3. 发布到 ClawdHub
-4. 生成报告
-5. 只在有新数据时发送通知到 Slack/Feishu
+1. 搜索 15 个核心 AI 主题
+2. 包含：AI 模型更新、AI 技术、AI 商业化、AI 产品
+3. 生成报告并保存到 /root/clawd/memory/ai-research/
+4. 自动推送摘要报告到 Slack/Feishu
+
+# 搜索主题（15 个核心主题）
+- AI 模型和平台更新：Claude、OpenAI、Google Gemini、Meta Llama
+- AI 技术和应用：Agents、Multimodal、Coding、Automation
+- AI 商业化和产品：Startup trends、Business ideas、Monetization
 ```
 
 ### 工具和技能使用记录（持续）
