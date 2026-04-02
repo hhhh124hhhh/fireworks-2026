@@ -1,0 +1,17 @@
+============================================================
+提示词提取和转换报告
+============================================================
+
+执行时间: 2026-02-27T09:04:04.545870
+输出目录: /root/clawd/data/prompts/workflow-20260227-090404
+
+提取统计:
+  - 原始提示词: 0
+  - 转换技能: 0
+
+输出文件:
+  - 提取的提示词: /root/clawd/data/prompts/workflow-20260227-090404/extracted_prompts.json
+  - 转换的技能: /root/clawd/data/prompts/workflow-20260227-090404/converted_skills.json
+  - 本报告: /root/clawd/data/prompts/workflow-20260227-090404/extraction_report.txt
+
+============================================================

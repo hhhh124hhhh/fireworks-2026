@@ -1,0 +1,36 @@
+{
+  "timestamp": "20260219-091254",
+  "total_items": 35,
+  "output_file": "/root/clawd/data/prompts/filtered/filtered-20260219-091254.jsonl",
+  "saved_count": 0,
+  "threshold_filter": {
+    "total_items": 35,
+    "passed_items": 0,
+    "filtered_out": 35,
+    "filter_rate": "100.0%"
+  },
+  "deduplication": {
+    "total_items": 0,
+    "unique_items": 0,
+    "duplicates": 0,
+    "dedup_rate": "N/A"
+  },
+  "compliance_filter": {
+    "total_items": 0,
+    "compliant_items": 0,
+    "non_compliant_items": 0,
+    "compliance_rate": "N/A"
+  },
+  "completeness_filter": {
+    "total_items": 0,
+    "complete_items": 0,
+    "incomplete_items": 0,
+    "completeness_rate": "N/A"
+  },
+  "review_identification": {
+    "needs_review_count": 0,
+    "auto_approved_count": 0,
+    "sent_to_slack": 0,
+    "needs_review_file": "/root/clawd/data/prompts/needs_review/needs-review-20260219-091254.jsonl"
+  }
+}
