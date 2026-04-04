@@ -1,0 +1,215 @@
+success parse request body: {'query': 'multimodal AI 2026 vision audio', 'resource_type_filter': [{'type': 'web', 'top_k': 10}]}
+{
+  "request_id": "53c75335-9582-4adf-97e8-703960b426fa",
+  "references": [
+    {
+      "id": 1,
+      "url": "https://www.appen.com/multi-modal-ai",
+      "title": "Multimodal AI: The Future of Artificial Intelligence",
+      "date": "2026-01-15 00:00:00",
+      "content": "Multimodal AI: The Future of Artificial Intelligence",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": "Multimodal AI: The Future of Artificial Intelligence",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "cdn.prod.website-files.com/656a605609413dfd3feb9d34/674f3bb2900fb2e4b2ebf6dd_multimodal-ai-hero.webp",
+            "height": "741",
+            "width": "1233"
+          },
+          {
+            "url": "cdn.prod.website-files.com/656a605609413dfd3feb9d34/674f3c7a4882a688380e1483_high-quality-data.webp",
+            "height": "719",
+            "width": "1280"
+          },
+          {
+            "url": "cdn.prod.website-files.com/656a605609413dfd3feb9d34/674f3ceb9133642ca45519a0_multimodal-challenges.webp",
+            "height": "1080",
+            "width": "1080"
+          },
+          {
+            "url": "cdn.prod.website-files.com/656a605609413dfd3feb9d34/65a4227fb0b3ef693148786f_657b8c3f84ddddb90e092f6e_2023-CaseStudy-Onfido.webp",
+            "height": "756",
+            "width": "1440"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 2,
+      "url": "https://www.imd.org/blog/digital-transformation/multimodal-ai/",
+      "title": "Exploring multimodal AI and its pivotal role in shaping the future of AI",
+      "date": "2026-02-04 14:47:01",
+      "content": " At its core, multimodal AI is about combining different types of data to create a more comprehensive understanding of the world. Unlike unimodal AI systems that rely on a single type of data (like text-only or image-only), multimodal AI systems can simultaneously process and integrate various data types. This capability allows them to perform more complex tasks and make more accurate predictions. For example, a unimodal AI system might analyze text data to generate a summary of a document. However, a multimodal AI system could enhance this summary by incorporating relevant images or audio clips, providing a richer and more informative output. The ability to integrate diverse data types is what makes multimodal AI so powerful. Data inputs . Multimodal AI systems rely on various data inputs, including text, images, voice, and sensor data. Each of these inputs offers unique information that, when combined, can lead to a more nuanced understanding of the task at hand.",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " At its core, multimodal AI is about combining different types of data to create a more comprehensive understanding of the world. Unlike unimodal AI systems that rely on a single type of data (like text-only or image-only), multimodal AI systems can simultaneously process and integrate various data types. This capability allows them to perform more complex tasks and make more accurate predictions. For example, a unimodal AI system might analyze text data to generate a summary of a document. However, a multimodal AI system could enhance this summary by incorporating relevant images or audio clips, providing a richer and more informative output. The ability to integrate diverse data types is what makes multimodal AI so powerful. Data inputs . Multimodal AI systems rely on various data inputs, including text, images, voice, and sensor data. Each of these inputs offers unique information that, when combined, can lead to a more nuanced understanding of the task at hand.",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 3,
+      "url": "https://www.shopify.com/in/blog/what-is-multimodal-ai",
+      "title": "What Is Multimodal AI? A 2025 Guide - Shopify India",
+      "date": "2025-05-14 00:00:00",
+      "content": " Multimodal AI refers tomachine learningmodels built to intake, interpret, and process multiple forms of data simultaneously. These models can receive input and create output in different modalities—rather than being limited to just one type—including text, images, audio, video, numerical data, and sensor data like GPS or accelerometers. For instance, given a text prompt and a source image, multimodal AI can generate a video, setting the image in motion or reinterpreting it (depending on the prompt). Three defining characteristics of multimodal AI are: Heterogeneity.This term describes diverse data types. For example, an AI-generated video output is different from the text input that prompted it. Connections.Multimodal models create connections between different modalities. For example, Figure AI’s humanoid linked multiple pieces of sensor data: visual data (an apple), language (“apple”), and auditory cues (a verbal request) to form a coherent understanding. Interactions.This refers to how different modalities respond to one another when brought together. In a self-driving car, the visual input of a stop sign interacts with the presence of an approaching intersection in its GPS input, reinforcing the decision to stop.",
+      "icon": "https://cdn.shopify.com/shopifycloud/web/assets/v1/favicon-default-6cbad9de243dbae3.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Multimodal AI refers tomachine learningmodels built to intake, interpret, and process multiple forms of data simultaneously. These models can receive input and create output in different modalities—rather than being limited to just one type—including text, images, audio, video, numerical data, and sensor data like GPS or accelerometers. For instance, given a text prompt and a source image, multimodal AI can generate a video, setting the image in motion or reinterpreting it (depending on the prompt). Three defining characteristics of multimodal AI are: Heterogeneity.This term describes diverse data types. For example, an AI-generated video output is different from the text input that prompted it. Connections.Multimodal models create connections between different modalities. For example, Figure AI’s humanoid linked multiple pieces of sensor data: visual data (an apple), language (“apple”), and auditory cues (a verbal request) to form a coherent understanding. Interactions.This refers to how different modalities respond to one another when brought together. In a self-driving car, the visual input of a stop sign interacts with the presence of an approaching intersection in its GPS input, reinforcing the decision to stop.",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 4,
+      "url": "https://www.salesforce.com/artificial-intelligence/multimodal-ai/video/",
+      "title": "What Is Multimodal AI Video | Salesforce",
+      "date": "2026-01-19 00:00:00",
+      "content": "experience the future of software and learn how to build it. register now discover how tdx builds critical skills, connects you with the salesforce community, and accelerates your career. get a preview of what’s coming: technical deep dives, product roadmaps, and hands-on trainings. faq find answers to your questions about registration, travel, accessibility, and making the most of your tdx experience. connections connections revisit the most impactful moments from connections 2025 and learn how marketers can lead the way with next-gen innovations. learn more be part of the marketing and commerce event of the year. mark your calendar and join us for more insights, innovation, and inspiration. watch the keynote that sets the stage for an agentic future where customer engagement will never be the same. explore the standout sessions, product demos, and takeawa",
+      "icon": "https://www.salesforce.com/c2/public/app/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": "experience the future of software and learn how to build it. register now discover how tdx builds critical skills, connects you with the salesforce community, and accelerates your career. get a preview of what’s coming: technical deep dives, product roadmaps, and hands-on trainings. faq find answers to your questions about registration, travel, accessibility, and making the most of your tdx experience. connections connections revisit the most impactful moments from connections 2025 and learn how marketers can lead the way with next-gen innovations. learn more be part of the marketing and commerce event of the year. mark your calendar and join us for more insights, innovation, and inspiration. watch the keynote that sets the stage for an agentic future where customer engagement will never be the same. explore the standout sessions, product demos, and takeawa",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 5,
+      "url": "https://www.marketsandmarkets.com/Market-Reports/multimodal-ai-market-104892004.html?utm_source=prnewswire&utm_medium=referral&utm_campaign=paidpr",
+      "title": "Multimodal AI Market",
+      "date": "2025-11-19 21:00:00",
+      "content": " The global multimodal AI market size was valued at USD 1.0 billion in 2023 and is projected to reach USD 4.5 billion by 2028, growing at a CAGR of 35.0% from 2023 to 2028. The factors that propel the multimodal AI market includes the demand for analyzing unstructured data in multiple formats, the capacity of multimodal AI to tackle complex tasks and offer a comprehensive problem-solving approach, the acceleration of multimodal ecosystem development through Generative AI techniques, and the accessibility of large-scale machine learning models that support multimodality. Attractive Opportunities in the Multimodal AI Market",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " The global multimodal AI market size was valued at USD 1.0 billion in 2023 and is projected to reach USD 4.5 billion by 2028, growing at a CAGR of 35.0% from 2023 to 2028. The factors that propel the multimodal AI market includes the demand for analyzing unstructured data in multiple formats, the capacity of multimodal AI to tackle complex tasks and offer a comprehensive problem-solving approach, the acceleration of multimodal ecosystem development through Generative AI techniques, and the accessibility of large-scale machine learning models that support multimodality. Attractive Opportunities in the Multimodal AI Market",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 6,
+      "url": "https://www.shopify.com/no-en/blog/what-is-multimodal-ai",
+      "title": "What Is Multimodal AI? A 2025 Guide - Shopify",
+      "date": "2025-05-14 00:00:00",
+      "content": " Three defining characteristics of multimodal AI are: Heterogeneity.This term describes diverse data types. For example, an AI-generated video output is different from the text input that prompted it. Connections.Multimodal models create connections between different modalities. For example, Figure AI’s humanoid linked multiple pieces of sensor data: visual data (an apple), language (“apple”), and auditory cues (a verbal request) to form a coherent understanding. Interactions.This refers to how different modalities respond to one another when brought together. In a self-driving car, the visual input of a stop sign interacts with the presence of an approaching intersection in its GPS input, reinforcing the decision to stop.",
+      "icon": "https://cdn.shopify.com/shopifycloud/web/assets/v1/favicon-default-6cbad9de243dbae3.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Three defining characteristics of multimodal AI are: Heterogeneity.This term describes diverse data types. For example, an AI-generated video output is different from the text input that prompted it. Connections.Multimodal models create connections between different modalities. For example, Figure AI’s humanoid linked multiple pieces of sensor data: visual data (an apple), language (“apple”), and auditory cues (a verbal request) to form a coherent understanding. Interactions.This refers to how different modalities respond to one another when brought together. In a self-driving car, the visual input of a stop sign interacts with the presence of an approaching intersection in its GPS input, reinforcing the decision to stop.",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "http://cdn.shopify.com/s/files/1/0070/7032/files/AI-tools.png?v=1729005795",
+            "height": "782",
+            "width": "1848"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 7,
+      "url": "https://blog.csdn.net/2302_79444404/article/details/155574144",
+      "title": "AI核心知识32——大语言模型之Multimodal Voice(简洁且通俗易懂版)",
+      "date": "2025-12-04 16:43:45",
+      "content": " 1. 🐢 旧时代的语音交互:拼接式 (Pipeline) 以前的语音助手(包括早期的ChatGPT语音版)是这样工作的,它像是在玩“传话游戏”,分三步走: 耳朵(ASR 识别):把你说的声音转成文字。(比如你笑着说“我好开心”,它转成文字“我好开心”。笑声丢了,情绪丢了。) 大脑(LLM 思考):大模型读到“我好开心”这几个字,生成回复文本“那太好了”。 嘴巴(TTS 合成):用一个冷冰冰或伪装热情的机器音,把“那太好了”念出来。 ❌ 缺点: 慢:转录、思考、合成,每一步都要时间,导致你像是在用对讲机聊天,有明显的延迟。 丢失信息:“怎么说”比“说什么”更重要。旧模式只能传递文字,你的语气(讽刺、急切、悲伤)、背景里的猫叫声、你的喘息声,在第一步转成文字时全被丢掉了。 2. ⚡ 新时代的多模态语音:原生端到端 (Native / End-to-End) 现在的多模态语音模型(以GPT-4o为代表),把这三步合二为一了。 机制:模型直接把声音波形切片变成 Token(就像处理文字一样)。 过程:声音直接进大脑 → 大脑直接出声音。 ✅ 优点(这一刻,AI 像真正的人了): 听懂情绪 (Paralinguistics): 它不仅听懂你说“我恨你”,还能听出你是开玩笑地说,还是咬牙切齿地说。 它能听懂你的叹气、笑声、甚至语速的快慢。 情感表达: 它不再是念稿子。它可以唱歌,可以用气声说话(讲鬼故事时),可以大笑,可以变得激动。 你可以要求它:“请用像海绵宝宝一样滑稽的声音读这段话。” 极速响应与打断: 因为不需要转录,它的反应速度可以快到200-300毫秒(和人类正常对话反应速度一样)。 你可以随时打断它(Interruptible)。就像和朋友聊天一样,它在说话时,你插一句嘴,它会立刻停下来听你说,而不是自顾自地念完。 3. 🌍 应用场景:不仅仅是聊天 当AI 真的能“听”和“说”时,很多科幻场景就实现了:",
+      "icon": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2005731947,4139443793&fm=195&app=88&f=JPEG?w=200&h=200",
+      "web_anchor": "",
+      "type": "web",
+      "website": "CSDN软件开发网",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 1. 🐢 旧时代的语音交互:拼接式 (Pipeline) 以前的语音助手(包括早期的ChatGPT语音版)是这样工作的,它像是在玩“传话游戏”,分三步走: 耳朵(ASR 识别):把你说的声音转成文字。(比如你笑着说“我好开心”,它转成文字“我好开心”。笑声丢了,情绪丢了。) 大脑(LLM 思考):大模型读到“我好开心”这几个字,生成回复文本“那太好了”。 嘴巴(TTS 合成):用一个冷冰冰或伪装热情的机器音,把“那太好了”念出来。 ❌ 缺点: 慢:转录、思考、合成,每一步都要时间,导致你像是在用对讲机聊天,有明显的延迟。 丢失信息:“怎么说”比“说什么”更重要。旧模式只能传递文字,你的语气(讽刺、急切、悲伤)、背景里的猫叫声、你的喘息声,在第一步转成文字时全被丢掉了。 2. ⚡ 新时代的多模态语音:原生端到端 (Native / End-to-End) 现在的多模态语音模型(以GPT-4o为代表),把这三步合二为一了。 机制:模型直接把声音波形切片变成 Token(就像处理文字一样)。 过程:声音直接进大脑 → 大脑直接出声音。 ✅ 优点(这一刻,AI 像真正的人了): 听懂情绪 (Paralinguistics): 它不仅听懂你说“我恨你”,还能听出你是开玩笑地说,还是咬牙切齿地说。 它能听懂你的叹气、笑声、甚至语速的快慢。 情感表达: 它不再是念稿子。它可以唱歌,可以用气声说话(讲鬼故事时),可以大笑,可以变得激动。 你可以要求它:“请用像海绵宝宝一样滑稽的声音读这段话。” 极速响应与打断: 因为不需要转录,它的反应速度可以快到200-300毫秒(和人类正常对话反应速度一样)。 你可以随时打断它(Interruptible)。就像和朋友聊天一样,它在说话时,你插一句嘴,它会立刻停下来听你说,而不是自顾自地念完。 3. 🌍 应用场景:不仅仅是聊天 当AI 真的能“听”和“说”时,很多科幻场景就实现了:",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 8,
+      "url": "https://www.ibm.com/topics/multimodal-ai",
+      "title": "What is multimodal AI? ",
+      "date": "2025-11-17 21:31:01",
+      "content": " As an example, a multimodal model can receive a photo of a landscape as an input and generate a written summary of that place’s characteristics. Or, it could receive a written summary of a landscape and generate an image based on that description. This ability to work across multiple modalities gives these models powerful capabilities.",
+      "icon": "https://www.ibm.com/content/dam/adobe-cms/default-images/icon-512x512.png",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " As an example, a multimodal model can receive a photo of a landscape as an input and generate a written summary of that place’s characteristics. Or, it could receive a written summary of a landscape and generate an image based on that description. This ability to work across multiple modalities gives these models powerful capabilities.",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "www.ibm.com/adobe/dynamicmedia/deliver/dm-aid--5a6e98b8-999c-43f7-ae18-627c2e993f2b/trailv2-1200x1200.jpg?preferwebp=true&width=320",
+            "height": "320",
+            "width": "320"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    }
+  ]
+}

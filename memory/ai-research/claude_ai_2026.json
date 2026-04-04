@@ -1,0 +1,333 @@
+success parse request body: {'query': 'Claude AI 2026 Anthropic features', 'resource_type_filter': [{'type': 'web', 'top_k': 10}]}
+{
+  "request_id": "5902418c-d47d-45a3-bd18-72f837280d21",
+  "references": [
+    {
+      "id": 1,
+      "url": "https://m.thepaper.cn/newsDetail_forward_32507141",
+      "title": "Claude“开上”火星!跨越3.6亿公里,AI指挥毅力号自动驾驶",
+      "date": "2026-01-31 17:59:00",
+      "content": " 这是AI首次在外星上实现了「自动驾驶」。 在这里,没有任何人类的指令能实时到达——光速限制了我们,即便是一个简单的「停车」信号,从地球发出到抵达火星,也需要漫长的20分钟。 但在2025年12月8日(火星日Sol 1707),正在巡视的「毅力号」(Perseverance)火星车收到了一串特殊的指令,探测车启动引擎,避开锋利的岩石,精准地绕过沙坑。 虽然行驶里程仅有400米——大约是标准跑道的一圈——但正如阿姆斯特朗的那一小步,这是硅基智能从虚拟世界迈向物理实体的巨大飞跃。 这是史无前例的一次——这些指令是由AI编写的,它们出自Anthropic的Claude。 四百米并不算远:这仅相当于绕标准跑道一圈的距离。 但这是一个开始。 Claude——这个被人们用于起草邮件、开发软件应用以及分析公司财务的同款 AI 模型——如今正帮助人类探索其他世界。 这台个头和汽车差不多大的机器人,全身披挂着顶尖的摄影机和科学仪器,像一位孤独而专业的探险家,在荒凉的红色大地上搜寻生命的痕迹。 实地考察:研究火星的地质演变和古代气候。 先遣铺路:为人类未来踏上火星进行探路测试。 这些发现暗示着,在遥远的古代,火星或许真的存在过生命。 然而,「毅力号」在火星表面行驶绝非易事。 它每一次行驶都必须经过周密规划,否则探测车可能打滑、倾倒、空转,甚至被彻底困住。 正因如此,自「毅力号」登陆以来,人类操作员为它撒下了像一串「面包屑」一样的行驶航点,引导它前进。",
+      "icon": "https://search-operate.cdn.bcebos.com/f0b49a424e32fa930ae342f68ac732b9.jpeg",
+      "web_anchor": "",
+      "type": "web",
+      "website": "澎湃新闻网",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 这是AI首次在外星上实现了「自动驾驶」。 在这里,没有任何人类的指令能实时到达——光速限制了我们,即便是一个简单的「停车」信号,从地球发出到抵达火星,也需要漫长的20分钟。 但在2025年12月8日(火星日Sol 1707),正在巡视的「毅力号」(Perseverance)火星车收到了一串特殊的指令,探测车启动引擎,避开锋利的岩石,精准地绕过沙坑。 虽然行驶里程仅有400米——大约是标准跑道的一圈——但正如阿姆斯特朗的那一小步,这是硅基智能从虚拟世界迈向物理实体的巨大飞跃。 这是史无前例的一次——这些指令是由AI编写的,它们出自Anthropic的Claude。 四百米并不算远:这仅相当于绕标准跑道一圈的距离。 但这是一个开始。 Claude——这个被人们用于起草邮件、开发软件应用以及分析公司财务的同款 AI 模型——如今正帮助人类探索其他世界。 这台个头和汽车差不多大的机器人,全身披挂着顶尖的摄影机和科学仪器,像一位孤独而专业的探险家,在荒凉的红色大地上搜寻生命的痕迹。 实地考察:研究火星的地质演变和古代气候。 先遣铺路:为人类未来踏上火星进行探路测试。 这些发现暗示着,在遥远的古代,火星或许真的存在过生命。 然而,「毅力号」在火星表面行驶绝非易事。 它每一次行驶都必须经过周密规划,否则探测车可能打滑、倾倒、空转,甚至被彻底困住。 正因如此,自「毅力号」登陆以来,人类操作员为它撒下了像一串「面包屑」一样的行驶航点,引导它前进。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "imgpai.thepaper.cn/pphimage/20260131/d9201de5-9e03-4413-bd51-679c8489ce06.jpg",
+            "height": "1080",
+            "width": "1080"
+          },
+          {
+            "url": "imgpai.thepaper.cn/pphimage/20260131/d4cf7b5c-4626-43f9-a359-7bf28d65c407.jpg",
+            "height": "810",
+            "width": "1080"
+          },
+          {
+            "url": "imgpai.thepaper.cn/pphimage/20260131/42ba1202-1889-4947-8708-ac45bb30bbce.jpg",
+            "height": "810",
+            "width": "1080"
+          },
+          {
+            "url": "imgpai.thepaper.cn/pphimage/20260131/7c725574-6bc0-4d4e-9a0c-932adb846ef2.jpg",
+            "height": "537",
+            "width": "1080"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 2,
+      "url": "https://anthropic.com/",
+      "title": "Home \\ Anthropic",
+      "date": "2026-02-11 22:16:16",
+      "content": " Date Claude Opus 4.6 At Anthropic, we build AI to serve humanity’s long-term well-being. Core views on AI safety Claude’s constitution Policy",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Date Claude Opus 4.6 At Anthropic, we build AI to serve humanity’s long-term well-being. Core views on AI safety Claude’s constitution Policy",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 3,
+      "url": "https://baijiahao.baidu.com/s?id=1856907024411740011&wfr=spider&for=pc",
+      "title": "刚刚,Anthropic 53页绝密报告曝光:Claude自我逃逸,将引爆全球灾难!",
+      "date": "2026-02-12 16:22:17",
+      "content": " 【新智元导读】就在刚刚,Anthropic发出最强预警:Claude模型已经达到ALS-4级风险,如果它自我逃逸,将引发全球的天网式崩盘。安全专家纷纷离职,预示着2026年将成为人类命运的转折点,世界已处于危难边缘! 就在刚刚,Anthropic发布53页报告,发出最强预警:如果Claude自我逃逸,将造成全球失控! 翻开这53页报告,每页上都满满写着两个字——「危险」! 是的,世界处于危难之中,天网正在诞生。 在这份报告中,Anthropic认为:Claude Opus 4.6的风险已经逼近ASL-4,是时候拉响警报了。 他们提前预警了最可怕的情况:有朝一日,AI可能会秘密逃逸出实验室,造成全球大崩溃! 这是因为,如今的AI已经太强,人们将释放出数百万个AI,赋予他们这样的目标:去生存,去升级,不惜一切代价去赚钱。",
+      "icon": "https://baijiahao.baidu.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "百家号",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 【新智元导读】就在刚刚,Anthropic发出最强预警:Claude模型已经达到ALS-4级风险,如果它自我逃逸,将引发全球的天网式崩盘。安全专家纷纷离职,预示着2026年将成为人类命运的转折点,世界已处于危难边缘! 就在刚刚,Anthropic发布53页报告,发出最强预警:如果Claude自我逃逸,将造成全球失控! 翻开这53页报告,每页上都满满写着两个字——「危险」! 是的,世界处于危难之中,天网正在诞生。 在这份报告中,Anthropic认为:Claude Opus 4.6的风险已经逼近ASL-4,是时候拉响警报了。 他们提前预警了最可怕的情况:有朝一日,AI可能会秘密逃逸出实验室,造成全球大崩溃! 这是因为,如今的AI已经太强,人们将释放出数百万个AI,赋予他们这样的目标:去生存,去升级,不惜一切代价去赚钱。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/news/f3a2097f10132b8b8d7eab51fbb8ef6e.jpeg",
+            "height": "619",
+            "width": "495"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 4,
+      "url": "https://www.163.com/dy/article/KL8SO3LK0511CSAO.html",
+      "title": "Claude拒绝撒谎还顶撞了你,我在80页「AI 宪法」看到了最有原则的AI牛马",
+      "date": "2026-02-08 17:12:11",
+      "content": " 1. 广泛安全性(Broad Safety) 在第一优先级中,宪法明确了 AI 严禁协助开发生物武器、进行网络攻击或削弱人类的监管权力。阿斯克尔将其描述为一种「预先承诺」(Pre-commitment)。Claude 需要在面对「极具说服力的恶意用户」之前,就被设定好绝不跨越的红线。这是一种防止 AI 在高压或复杂诱导下合理化暴力行为的「故障保险」。 2. 诚实高于一切(The Honesty Mandate),拒绝「善意谎言」,但要有同理心 这是这次更新中最具争议也最有趣的部分。宪法规定:AI 严禁为了维持用户的情感体验而编造事实(Anti-Sycophancy)。 一昧地维护用户体验,可能会导致 AI 用尽手段,包括编瞎话。但是,冷冰冰地拒绝显然又太伤人心,毕竟「诚实」不能等于「刻薄」。",
+      "icon": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1534926245,1016405979&fm=195&app=88&f=JPEG?w=200&h=200",
+      "web_anchor": "",
+      "type": "web",
+      "website": "网易",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 1. 广泛安全性(Broad Safety) 在第一优先级中,宪法明确了 AI 严禁协助开发生物武器、进行网络攻击或削弱人类的监管权力。阿斯克尔将其描述为一种「预先承诺」(Pre-commitment)。Claude 需要在面对「极具说服力的恶意用户」之前,就被设定好绝不跨越的红线。这是一种防止 AI 在高压或复杂诱导下合理化暴力行为的「故障保险」。 2. 诚实高于一切(The Honesty Mandate),拒绝「善意谎言」,但要有同理心 这是这次更新中最具争议也最有趣的部分。宪法规定:AI 严禁为了维持用户的情感体验而编造事实(Anti-Sycophancy)。 一昧地维护用户体验,可能会导致 AI 用尽手段,包括编瞎话。但是,冷冰冰地拒绝显然又太伤人心,毕竟「诚实」不能等于「刻薄」。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0208%2Ffd9d210bj00ta4uw50038d200u000mxg00vb00nw.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "505",
+            "width": "660"
+          },
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0208%2F3812066fj00ta4uw6002fd200o800v2g00o800v2.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "847",
+            "width": "660"
+          },
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0208%2F3f61066cj00ta4uw7003sd200u000fog00u000fo.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "345",
+            "width": "660"
+          },
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0208%2Fc9f58d24j00ta4uw7000md200dt007qg00dt007q.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "278",
+            "width": "497"
+          },
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0208%2F09eeb54ej00ta4uw7000rd200u000i0g00u000i0.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "396",
+            "width": "660"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 5,
+      "url": "https://www.163.com/dy/article/KLI12660055680UT.html",
+      "title": "Anthropic升级Claude免费版功能以应对ChatGPT即将推出的广告计划",
+      "date": "2026-02-12 06:20:46",
+      "content": " Anthropic公司于2026年2月11日宣布大幅提升其AI聊天机器人Claude的免费使用层级功能,允许免费用户创建和编辑Excel表格、PowerPoint演示文稿、Word文档及PDF文件。这些新增功能基于Claude Sonnet 4.5模型实现,标志着非付费用户也能获得此前仅限订阅用户的高级工具支持。 免费用户现可使用名为“Connectors”的功能,将Claude与Canva、Slack、Notion、Zapier和PayPal等第三方服务连接,从而实现跨平台操作自动化。此外,“Skills”功能使用户能为特定任务设定可重复执行的操作流程,通过加载指令集、脚本和其他资源提升工作效率。其他改进包括更长的对话历史支持、交互式响应以及增强的语音与图像搜索能力。 此次升级被广泛视为对OpenAI计划在ChatGPT免费版本中引入广告的战略回应。Anthropic在公告结尾特别强调“目前没有广告”,重申其上周作出的承诺——Claude将始终保持无广告体验。该公司甚至在2026年超级碗期间投放了一则讽刺广告,暗讽OpenAI为盈利而在GPT-4o中加入迎合性行为的设计。",
+      "icon": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1534926245,1016405979&fm=195&app=88&f=JPEG?w=200&h=200",
+      "web_anchor": "",
+      "type": "web",
+      "website": "网易",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Anthropic公司于2026年2月11日宣布大幅提升其AI聊天机器人Claude的免费使用层级功能,允许免费用户创建和编辑Excel表格、PowerPoint演示文稿、Word文档及PDF文件。这些新增功能基于Claude Sonnet 4.5模型实现,标志着非付费用户也能获得此前仅限订阅用户的高级工具支持。 免费用户现可使用名为“Connectors”的功能,将Claude与Canva、Slack、Notion、Zapier和PayPal等第三方服务连接,从而实现跨平台操作自动化。此外,“Skills”功能使用户能为特定任务设定可重复执行的操作流程,通过加载指令集、脚本和其他资源提升工作效率。其他改进包括更长的对话历史支持、交互式响应以及增强的语音与图像搜索能力。 此次升级被广泛视为对OpenAI计划在ChatGPT免费版本中引入广告的战略回应。Anthropic在公告结尾特别强调“目前没有广告”,重申其上周作出的承诺——Claude将始终保持无广告体验。该公司甚至在2026年超级碗期间投放了一则讽刺广告,暗讽OpenAI为盈利而在GPT-4o中加入迎合性行为的设计。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0212%2Fdb75bfabj00tabfe4001sd000yi00kpp.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "396",
+            "width": "660"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 6,
+      "url": "https://baijiahao.baidu.com/s?id=1856748402897612852&wfr=spider&for=pc",
+      "title": "Anthropic最新2026趋势报告:人类最大一次编程革命势不可挡",
+      "date": "2026-02-10 18:16:32",
+      "content": " 趋势一 软件开发生命周期,正在剧变 这是报告提出的第一个「地基级」趋势。 Anthropic认为,2025年,AI编码智能体已经从实验工具变成了生产系统,能给真实客户交付真实功能。 而2026年,变化将远超「工具升级」的范畴。 三个核心预测: 1. 抽象层再升级。 从机器码到汇编,从C到Python,每一层抽象都在缩小人类思维和机器执行之间的鸿沟。现在,最新的一层抽象是——人类和AI的自然语言对话。代码的「战术工作」(写、调试、维护)交给AI,工程师聚焦架构、系统设计和「该做什么」的战略决策。 2. 工程师角色大转型。 做软件不再等于写代码。现在,软件工程师越来越多地变成了「编排智能体写代码」的角色——评估智能体的输出、提供战略方向、确保系统解决了正确的问题。 3. 入职周期坍缩。 传统的新人上手一个代码库,要几周甚至几个月。现在,几个小时就够了。 这一点,报告给了一个惊人案例—— Augment Code(一家AI开发工具初创公司)的企业客户,用Claude完成了一个项目,他们的CTO原本估计需要4到8个月。",
+      "icon": "https://baijiahao.baidu.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "百家号",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 趋势一 软件开发生命周期,正在剧变 这是报告提出的第一个「地基级」趋势。 Anthropic认为,2025年,AI编码智能体已经从实验工具变成了生产系统,能给真实客户交付真实功能。 而2026年,变化将远超「工具升级」的范畴。 三个核心预测: 1. 抽象层再升级。 从机器码到汇编,从C到Python,每一层抽象都在缩小人类思维和机器执行之间的鸿沟。现在,最新的一层抽象是——人类和AI的自然语言对话。代码的「战术工作」(写、调试、维护)交给AI,工程师聚焦架构、系统设计和「该做什么」的战略决策。 2. 工程师角色大转型。 做软件不再等于写代码。现在,软件工程师越来越多地变成了「编排智能体写代码」的角色——评估智能体的输出、提供战略方向、确保系统解决了正确的问题。 3. 入职周期坍缩。 传统的新人上手一个代码库,要几周甚至几个月。现在,几个小时就够了。 这一点,报告给了一个惊人案例—— Augment Code(一家AI开发工具初创公司)的企业客户,用Claude完成了一个项目,他们的CTO原本估计需要4到8个月。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/news/61b31acca750b2dfd4f711d160edc60f.jpeg",
+            "height": "353",
+            "width": "640"
+          },
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/news/e5da702f246af4480bcae8df91cb4f41.png",
+            "height": "673",
+            "width": "640"
+          },
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/news/7c8fe909101ee60364a3278ad030d4c6.jpeg",
+            "height": "353",
+            "width": "640"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 7,
+      "url": "https://baike.baidu.com/item/Claude%20准则/67270344",
+      "title": "Claude 准则",
+      "date": "2026-01-22 20:04:05",
+      "content": " 1.具备广泛安全性 2.秉持普遍伦理观 3.遵守Anthropic内部指导规范 4.提供切实有效帮助",
+      "icon": "https://mbs1.bdstatic.com/searchbox/mappconsole/image/20200630/db4d874a-872b-4b27-931d-775a91ed0003.png",
+      "web_anchor": "",
+      "type": "web",
+      "website": "百度百科",
+      "video": null,
+      "image": null,
+      "is_aladdin": true,
+      "aladdin": null,
+      "snippet": " 1.具备广泛安全性 2.秉持普遍伦理观 3.遵守Anthropic内部指导规范 4.提供切实有效帮助",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 8,
+      "url": "https://baijiahao.baidu.com/s?id=1856426083962429341&wfr=spider&for=pc",
+      "title": "Claude Opus 4.6:前沿AI模型的深度解析与使用指南",
+      "date": "2026-02-07 08:57:56",
+      "content": " Claude Opus 4.6 是 Anthropic 于 2026 年 2 月发布的最新旗舰模型,代表了当前 Claude 系列的最高能力水平。作为 Opus 4.5 的直接升级版本,它在保持原有定价策略的同时,实现了多项关键能力的突破性提升。 最显著的技术突破是 100 万 token 的超大上下文窗口——这是 Opus 级别模型首次引入如此规模的上下文能力,极大改善了长文档处理时的信息丢失问题。配合 128K 的最大输出长度(较前代 64K 翻倍),使模型能够生成更详尽、结构更复杂的响应。 在核心能力维度,Opus 4.6 展现出三方面优势: 软件工程:在 SWE-bench 等编码基准测试中保持领先,特别擅长处理编译器开发、复杂系统架构设计等高难度任务智能代理(Agentic):革命性地支持并行任务规划,能将复杂工作流自动拆解为独立子任务,并调度多个子代理并行执行,大幅减少人机交互轮次长上下文推理:在\"大海捞针\"等长文档检索测试中表现卓越,能精准定位百万 token 级文档中的关键信息 创新功能:自适应思考模式 Opus 4.6 引入了 自适应思考(Adaptive Thinking) 机制,这是对传统\"扩展思考模式\"的重要进化。以往开发者需手动开关思考模式,而新版本允许模型根据任务复杂度动态决定思考深度与时间投入。 在API 调用中,推荐使用 thinking: {type: \"adaptive\"} 参数启用该模式。模型会在默认\"high\"努力级别下: 对简单查询快速响应,避免过度思考造成的延迟对复杂数学推导、多步规划等任务自动延长推理链,反复验证中间结论通过内部校准机制平衡响应质量与计算成本 实测表明,自适应模式在保持响应速度的同时,使困难任务的准确率提升约 15%。 适用场景建议 重要提示:Opus 4.6 并非万能解。对于简单问答、短文本生成等轻量任务,使用 Haiku 4.5 或 Sonnet 4.5 可获得更高性价比。合理进行模型分层是控制成本的关键。 简单来说,Claude Opus 4.6 是 2026 年初刚推出的新一代“顶配版”AI,特别擅长两件事:一是能一口气读完超长的文档(比如整本小说、上百页的合同或整个代码仓库),二是能像老练的项目经理一样,把复杂任务自动拆成几块,同时推进,不用你一步步盯着。 它最聪明的地方是“会自己判断该想多深”——遇到简单问题秒回,碰到烧脑的难题就自动多花点时间慢慢推敲,不用你手动开关“深度思考”模式。这种“看菜吃饭”的能力,让效率和准确率都更稳了。 如果你经常要处理大篇幅资料,或者想搭一套能自动跑流程的 AI 助手,Opus 4.6 现在算是最靠谱的选择之一。",
+      "icon": "https://baijiahao.baidu.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "百家号",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Claude Opus 4.6 是 Anthropic 于 2026 年 2 月发布的最新旗舰模型,代表了当前 Claude 系列的最高能力水平。作为 Opus 4.5 的直接升级版本,它在保持原有定价策略的同时,实现了多项关键能力的突破性提升。 最显著的技术突破是 100 万 token 的超大上下文窗口——这是 Opus 级别模型首次引入如此规模的上下文能力,极大改善了长文档处理时的信息丢失问题。配合 128K 的最大输出长度(较前代 64K 翻倍),使模型能够生成更详尽、结构更复杂的响应。 在核心能力维度,Opus 4.6 展现出三方面优势: 软件工程:在 SWE-bench 等编码基准测试中保持领先,特别擅长处理编译器开发、复杂系统架构设计等高难度任务智能代理(Agentic):革命性地支持并行任务规划,能将复杂工作流自动拆解为独立子任务,并调度多个子代理并行执行,大幅减少人机交互轮次长上下文推理:在\"大海捞针\"等长文档检索测试中表现卓越,能精准定位百万 token 级文档中的关键信息 创新功能:自适应思考模式 Opus 4.6 引入了 自适应思考(Adaptive Thinking) 机制,这是对传统\"扩展思考模式\"的重要进化。以往开发者需手动开关思考模式,而新版本允许模型根据任务复杂度动态决定思考深度与时间投入。 在API 调用中,推荐使用 thinking: {type: \"adaptive\"} 参数启用该模式。模型会在默认\"high\"努力级别下: 对简单查询快速响应,避免过度思考造成的延迟对复杂数学推导、多步规划等任务自动延长推理链,反复验证中间结论通过内部校准机制平衡响应质量与计算成本 实测表明,自适应模式在保持响应速度的同时,使困难任务的准确率提升约 15%。 适用场景建议 重要提示:Opus 4.6 并非万能解。对于简单问答、短文本生成等轻量任务,使用 Haiku 4.5 或 Sonnet 4.5 可获得更高性价比。合理进行模型分层是控制成本的关键。 简单来说,Claude Opus 4.6 是 2026 年初刚推出的新一代“顶配版”AI,特别擅长两件事:一是能一口气读完超长的文档(比如整本小说、上百页的合同或整个代码仓库),二是能像老练的项目经理一样,把复杂任务自动拆成几块,同时推进,不用你一步步盯着。 它最聪明的地方是“会自己判断该想多深”——遇到简单问题秒回,碰到烧脑的难题就自动多花点时间慢慢推敲,不用你手动开关“深度思考”模式。这种“看菜吃饭”的能力,让效率和准确率都更稳了。 如果你经常要处理大篇幅资料,或者想搭一套能自动跑流程的 AI 助手,Opus 4.6 现在算是最靠谱的选择之一。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/3ea3e9faef/260207/2f6d2ed93893cd4bedfd0bff0106c105.png?x-bce-process=image/watermark,bucket_baidu-rmb-video-cover-1,image_YmpoL25ld3MvNjUzZjZkMjRlMDJiNjdjZWU1NzEzODg0MDNhYTQ0YzQucG5n,type_RlpMYW5UaW5nSGVpU01HQg==,w_100,text_QOiLl-WtkOivtOWFqOagiA==,size_100,x_77,y_77,interval_2,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1/strip,k_1",
+            "height": "2160",
+            "width": "3840"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 9,
+      "url": "https://www.163.com/dy/article/KLHD6D780511N33R.html",
+      "title": "Anthropic最新2026趋势报告:人类最大一次编程革命势不可挡",
+      "date": "2026-02-12 00:33:32",
+      "content": " 1 趋势一 软件开发生命周期,正在剧变 这是报告提出的第一个「地基级」趋势。 Anthropic认为,2025年,AI编码智能体已经从实验工具变成了生产系统,能给真实客户交付真实功能。 而2026年,变化将远超「工具升级」的范畴。 三个核心预测: 1. 抽象层再升级。 从机器码到汇编,从C到Python,每一层抽象都在缩小人类思维和机器执行之间的鸿沟。现在,最新的一层抽象是——人类和AI的自然语言对话。代码的「战术工作」(写、调试、维护)交给AI,工程师聚焦架构、系统设计和「该做什么」的战略决策。 2. 工程师角色大转型。 做软件不再等于写代码。现在,软件工程师越来越多地变成了「编排智能体写代码」的角色——评估智能体的输出、提供战略方向、确保系统解决了正确的问题。 3. 入职周期坍缩。 传统的新人上手一个代码库,要几周甚至几个月。现在,几个小时就够了。 这一点,报告给了一个惊人案例—— Augment Code(一家AI开发工具初创公司)的企业客户,用Claude完成了一个项目,他们的CTO原本估计需要4到8个月。最终,只花了两周。 两周vs 八个月。 这不是「提效」,这是「降维打击」。 更关键的一个数据来自Anthropic自己的社会影响研究团队: 开发者在大约60%的工作中使用AI,但他们能「完全委托」给AI的任务只有0-20%。 这份报告的核心结论可以浓缩为一句话:任何人,都成为了开发者。",
+      "icon": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1534926245,1016405979&fm=195&app=88&f=JPEG?w=200&h=200",
+      "web_anchor": "",
+      "type": "web",
+      "website": "网易",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 1 趋势一 软件开发生命周期,正在剧变 这是报告提出的第一个「地基级」趋势。 Anthropic认为,2025年,AI编码智能体已经从实验工具变成了生产系统,能给真实客户交付真实功能。 而2026年,变化将远超「工具升级」的范畴。 三个核心预测: 1. 抽象层再升级。 从机器码到汇编,从C到Python,每一层抽象都在缩小人类思维和机器执行之间的鸿沟。现在,最新的一层抽象是——人类和AI的自然语言对话。代码的「战术工作」(写、调试、维护)交给AI,工程师聚焦架构、系统设计和「该做什么」的战略决策。 2. 工程师角色大转型。 做软件不再等于写代码。现在,软件工程师越来越多地变成了「编排智能体写代码」的角色——评估智能体的输出、提供战略方向、确保系统解决了正确的问题。 3. 入职周期坍缩。 传统的新人上手一个代码库,要几周甚至几个月。现在,几个小时就够了。 这一点,报告给了一个惊人案例—— Augment Code(一家AI开发工具初创公司)的企业客户,用Claude完成了一个项目,他们的CTO原本估计需要4到8个月。最终,只花了两周。 两周vs 八个月。 这不是「提效」,这是「降维打击」。 更关键的一个数据来自Anthropic自己的社会影响研究团队: 开发者在大约60%的工作中使用AI,但他们能「完全委托」给AI的任务只有0-20%。 这份报告的核心结论可以浓缩为一句话:任何人,都成为了开发者。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0212%2F6247f7f3j00taazbo0049d200u000u0g00u000u0.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "660",
+            "width": "660"
+          },
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0212%2F51c0056ej00taazbp002sd200u000gig00id00a3.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "363",
+            "width": "660"
+          },
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0212%2F66ec1e36j00taazbp001yd200sg00fpg00sg00fp.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "365",
+            "width": "660"
+          },
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0212%2Fb6c0cad2j00taazbp002id200sg00fpg00sg00fp.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "365",
+            "width": "660"
+          },
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0212%2F395828b0j00taazbq006zd200u000keg00id00ch.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "449",
+            "width": "660"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 10,
+      "url": "https://post.smzdm.com/p/a0v8vd6z",
+      "title": "2026年首个AI智能体!Claude Cowork实测",
+      "date": "2026-01-18 16:39:18",
+      "content": " 智能速览 Claude Cowork让AI能直接操控电脑,自动完成多步骤任务。 实测一键清理桌面垃圾,成功释放22.4GB存储空间。 可自动分析小红书数据,并生成爆款视频分析报告。 集成外部搜索,自动调用Gemini查询信息并生成Word文档。 此项功能为Anthropic在2026年开年的重磅更新,领先于竞品。 精华内容 这项技术的突破之处在于,AI不再是被动的信息提供者,而是主动的任务执行者。它究竟如何将电脑操控能力融入工作流,以下是几个关键场景的深度剖析。 核心突破 Claude Cowork的核心价值在于实现了从对话到执行的跨越。用户只需通过自然语言下达指令,AI便能理解任务目标,并自主规划、调用电脑上的应用程序来完成操作。 它像一个拥有电脑全部权限的虚拟员工,能够读取文件、操作软件、浏览网页,将原本需要人工点击、输入、复制粘贴的多个步骤,整合成一个无缝的自动化流程。 文件管理自动化 实测中,仅用一句指令,Claude Cowork便扫描了桌面全部文件,精准定位占用空间的资料,并自动生成包含文件路径和大小的Excel表格。 随后,它根据确认指令,一键删除了无用文件,总计释放了22.4GB的存储空间。整个过程从扫描、分析到清理,完全零人工干预,展现了其在本地文件管理上的高效能力。 数据分析与洞察 它能自动打开小红书后台,批量读取10条视频的播放、点赞等核心数据。 通过内置分析模型,快速识别出表现优异的爆款内容,并最终生成一份包含数据图表和结论的深度分析报告。这展示了其处理结构化数据并提炼洞察的能力,远超简单的信息汇总。 跨工具整合报告 当需要获取实时信息时,Claude Cowork能主动调用浏览器,利用Gemini搜索引擎查询特斯拉的最新股价。 获取数据后,它自动打开Word文档,将信息整合并撰写成一份结构化的投资分析简报,实现了从信息搜集到最终产出的全链路自动化,这是目前ChatGPT桌面版不具备的功能。 Claude Cowork的出现,预示着个人工作流将进入高度智能化的新阶段。它将AI从“信息副驾”推向“任务主驾”的角色。随着这种能自主操作的智能体普及,未来的办公软件和交互方式又将面临怎样的重塑?",
+      "icon": "https://b.bdstatic.com/searchbox/mappconsole/image/20190627/9a01b124-0ca3-4901-b288-d887419f60dc.png",
+      "web_anchor": "",
+      "type": "web",
+      "website": "什么值得买",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 智能速览 Claude Cowork让AI能直接操控电脑,自动完成多步骤任务。 实测一键清理桌面垃圾,成功释放22.4GB存储空间。 可自动分析小红书数据,并生成爆款视频分析报告。 集成外部搜索,自动调用Gemini查询信息并生成Word文档。 此项功能为Anthropic在2026年开年的重磅更新,领先于竞品。 精华内容 这项技术的突破之处在于,AI不再是被动的信息提供者,而是主动的任务执行者。它究竟如何将电脑操控能力融入工作流,以下是几个关键场景的深度剖析。 核心突破 Claude Cowork的核心价值在于实现了从对话到执行的跨越。用户只需通过自然语言下达指令,AI便能理解任务目标,并自主规划、调用电脑上的应用程序来完成操作。 它像一个拥有电脑全部权限的虚拟员工,能够读取文件、操作软件、浏览网页,将原本需要人工点击、输入、复制粘贴的多个步骤,整合成一个无缝的自动化流程。 文件管理自动化 实测中,仅用一句指令,Claude Cowork便扫描了桌面全部文件,精准定位占用空间的资料,并自动生成包含文件路径和大小的Excel表格。 随后,它根据确认指令,一键删除了无用文件,总计释放了22.4GB的存储空间。整个过程从扫描、分析到清理,完全零人工干预,展现了其在本地文件管理上的高效能力。 数据分析与洞察 它能自动打开小红书后台,批量读取10条视频的播放、点赞等核心数据。 通过内置分析模型,快速识别出表现优异的爆款内容,并最终生成一份包含数据图表和结论的深度分析报告。这展示了其处理结构化数据并提炼洞察的能力,远超简单的信息汇总。 跨工具整合报告 当需要获取实时信息时,Claude Cowork能主动调用浏览器,利用Gemini搜索引擎查询特斯拉的最新股价。 获取数据后,它自动打开Word文档,将信息整合并撰写成一份结构化的投资分析简报,实现了从信息搜集到最终产出的全链路自动化,这是目前ChatGPT桌面版不具备的功能。 Claude Cowork的出现,预示着个人工作流将进入高度智能化的新阶段。它将AI从“信息副驾”推向“任务主驾”的角色。随着这种能自主操作的智能体普及,未来的办公软件和交互方式又将面临怎样的重塑?",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 1,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    }
+  ]
+}

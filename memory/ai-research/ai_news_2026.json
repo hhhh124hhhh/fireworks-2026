@@ -1,0 +1,464 @@
+success parse request body: {'query': 'AI news 2026 artificial intelligence latest', 'resource_type_filter': [{'type': 'web', 'top_k': 15}]}
+{
+  "request_id": "dcf825c1-7e2d-4e98-b7ec-7a4d465f7c4d",
+  "references": [
+    {
+      "id": 1,
+      "url": "https://spectrum.ieee.org/topic/artificial-intelligence/",
+      "title": "AI News & Articles - Artificial Intelligence Updates - IEEE Spectrum",
+      "date": "2026-02-10 22:45:35",
+      "content": " AI The latest advances in artificial intelligence and machine learning, generative AI, ChatGPT, LLMs, deepfakes, and more Follow SemiconductorsNews 5 hours ago 6 min read AIFeature 03 Feb 2026 18 min read SemiconductorsNews 09 Feb 2026 3 min read TelecommunicationsWhitepaper 03 Feb 2026 Get AI Alert in your inbox Sign up for our FREE biweekly newsletter featuring the news you need about machine learning algorithms and applications I agree to theIEEE Privacy Policy Subscribe BiomedicalNews 04 Feb 2026 4 min read AIGuest Article 02 Feb 2026 5 min read Download IEEE’s 140th Anniversary Book This 144-page e-book features 34 vital breakthroughs in electrotechnology, ranging from Maxwell’s Equations in 1864 to modern day Transformer Neural Networks. Sign in or create a FREE account to get your copy now! View book → AINews 29 Jan 2026 3 min read AINews 29 Jan 2026 5 min read Journal Watch The latest engineering and computer science advances in context fromIEEE Spectrumand theXploreDigital Library All Journal Watch stories → AINews Contactless Pain Monitoring via Heart Rate, Facial Data 12 Jan 2026 3 min read Consumer ElectronicsNews To Prevent a Shark Attack, Try Electric Fields 18 Dec 2025 3 min read AINews AI Models Pinpoint Errors in Autonomous Driving 23 Nov 2025 3 min read AINews AI Models Struggle With Reading Analog Clock 08 Nov 2025 3 min read RoboticsNews How Electromagnetic Fins Propel Robotic Swimmers 04 Nov 2025 2 min read BiomedicalNews",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " AI The latest advances in artificial intelligence and machine learning, generative AI, ChatGPT, LLMs, deepfakes, and more Follow SemiconductorsNews 5 hours ago 6 min read AIFeature 03 Feb 2026 18 min read SemiconductorsNews 09 Feb 2026 3 min read TelecommunicationsWhitepaper 03 Feb 2026 Get AI Alert in your inbox Sign up for our FREE biweekly newsletter featuring the news you need about machine learning algorithms and applications I agree to theIEEE Privacy Policy Subscribe BiomedicalNews 04 Feb 2026 4 min read AIGuest Article 02 Feb 2026 5 min read Download IEEE’s 140th Anniversary Book This 144-page e-book features 34 vital breakthroughs in electrotechnology, ranging from Maxwell’s Equations in 1864 to modern day Transformer Neural Networks. Sign in or create a FREE account to get your copy now! View book → AINews 29 Jan 2026 3 min read AINews 29 Jan 2026 5 min read Journal Watch The latest engineering and computer science advances in context fromIEEE Spectrumand theXploreDigital Library All Journal Watch stories → AINews Contactless Pain Monitoring via Heart Rate, Facial Data 12 Jan 2026 3 min read Consumer ElectronicsNews To Prevent a Shark Attack, Try Electric Fields 18 Dec 2025 3 min read AINews AI Models Pinpoint Errors in Autonomous Driving 23 Nov 2025 3 min read AINews AI Models Struggle With Reading Analog Clock 08 Nov 2025 3 min read RoboticsNews How Electromagnetic Fins Propel Robotic Swimmers 04 Nov 2025 2 min read BiomedicalNews",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://spectrum.ieee.org/media-library/abstract-graphic-of-1-s-and-2-s-against-a-pixelated-background.jpg?id=63302559&width=1200&height=800&quality=85&coordinates=0%2C83%2C0%2C84",
+            "height": "800",
+            "width": "1200"
+          },
+          {
+            "url": "https://spectrum.ieee.org/media-library/illustration-of-the-tip-of-a-pencil-breaking-the-shattered-graphite-pieces-resemble-sparkles-frequently-used-for-ai-application.jpg?id=62826545&width=1200&height=900&quality=85",
+            "height": "900",
+            "width": "1200"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 2,
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+      "title": "Artificial Intelligence News",
+      "date": "2026-02-11 00:00:00",
+      "content": " February 11, 2026 Top Headlines AI Reads Brain MRIs in Seconds and Flags Emergencies Feb. 10, 2026 Researchers at the University of Michigan have created an AI system that can interpret brain MRI scans in just seconds, accurately identifying a wide range of neurological conditions and determining which cases need urgent care. Trained on hundreds ... Scientists Create Smart Synthetic Skin That Can Hide Images and Change Shape Feb. 6, 2026 Inspired by the shape-shifting skin of octopuses, Penn State researchers developed a smart hydrogel that can change appearance, texture, and shape on command. The material is programmed using a ... NASA’s Perseverance Rover Completes the First AI-planned Drive on Mars Feb. 2, 2026 ",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " February 11, 2026 Top Headlines AI Reads Brain MRIs in Seconds and Flags Emergencies Feb. 10, 2026 Researchers at the University of Michigan have created an AI system that can interpret brain MRI scans in just seconds, accurately identifying a wide range of neurological conditions and determining which cases need urgent care. Trained on hundreds ... Scientists Create Smart Synthetic Skin That Can Hide Images and Change Shape Feb. 6, 2026 Inspired by the shape-shifting skin of octopuses, Penn State researchers developed a smart hydrogel that can change appearance, texture, and shape on command. The material is programmed using a ... NASA’s Perseverance Rover Completes the First AI-planned Drive on Mars Feb. 2, 2026 ",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 3,
+      "url": "https://www.nvidia.com/en-us/",
+      "title": "World Leader in Artificial Intelligence Computing | NVIDIA",
+      "date": "2026-01-24 00:00:00",
+      "content": " Power the Latest Open-Source and Frontier Models From a Desktop ",
+      "icon": "https://www.nvidia.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Power the Latest Open-Source and Frontier Models From a Desktop ",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "www.nvidia.com/content/nvidiaGDC/us/en_US/home/_jcr_content/root/responsivegrid/Copy%20of%20nv_carousel_10568374/nv_teaser_copy_copy.coreimg.100.410.jpeg/1769088491918/siemens-sfg.jpeg",
+            "height": "230",
+            "width": "410"
+          },
+          {
+            "url": "www.nvidia.com/content/nvidiaGDC/us/en_US/home/_jcr_content/root/responsivegrid/Copy%20of%20nv_carousel_10568374/item_1710799952318.coreimg.100.410.jpeg/1769088492737/nv-ov-ito-sfg-1920x1080.jpeg",
+            "height": "230",
+            "width": "410"
+          },
+          {
+            "url": "www.nvidia.com/content/nvidiaGDC/us/en_US/home/_jcr_content/root/responsivegrid/Copy%20of%20nv_carousel_10568374/item_1669209933306.coreimg.100.410.jpeg/1769088492870/old-nv-ov-ito-sfg-1920x1080.jpeg",
+            "height": "230",
+            "width": "410"
+          },
+          {
+            "url": "www.nvidia.com/content/nvidiaGDC/us/en_US/home/_jcr_content/root/responsivegrid/nv_carousel_10568374_1427616877/nv_teaser_copy.coreimg.100.410.jpeg/1769088509476/nvidia-story.jpeg",
+            "height": "230",
+            "width": "410"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 4,
+      "url": "https://fortune.com/section/artificial-intelligence/",
+      "title": "AI News, Artificial Intelligence Trends & Market Impact | Fortune | Section",
+      "date": "2026-02-11 00:00:00",
+      "content": "AI Search Subscribe for $1Sign In home Tech AI Your essential services are one surprise failure away from disruption. Consider how physical AI could tackle the crisis I’m a physical AI founder and I’m shocked by how our entire economy runs on essential services maintained with methods from the Roman era. Time for change. ByAlex Hawkinson February 14, 2026 Our K-12 school system is sending us a message: AI tools are for the rich kids ByJerel Ezell February 14, 2026 Jake Paul and his $65 million fortune are gaining influence in Silicon Valley ByJake Angelo February 14, 2026 How 100‑year‑old Caterpillar went from making construction equipment to becoming an AI market darling BySheryl Estrada February 14, 2026 Forgent’s IPO is ‘bringing sexy back’ to the electrical equipment helping power the AI boom, CEO says ByJordan Blum February 14, 2026 Latest Stories Law Gen Z’s latest revolt over Jeffrey Epstein: pointing out a connection to the company that takes class photos ByJohn Hanna,Kendria LaFleur, and others February 15, 2026 Travel & Leisure Candles and tablecloth at White Castle: How a Valentine’s Day tradition sprouted over 30 years ago and spread nationwide ByCorey WilliamsandThe Associated Press February 15, 2026 Arts & Entertainment Victorian-era ‘vinegar valentines’ show that trolling existed long before social media or the internet ByMelissa ChanandThe Conversation February 15, 2026 Economy Americans wake up and smell the coffee price surge—skipping Starbucks, brewing at home, and drinking Diet Coke for caffeine ByMatt SedenskyandThe Associated Press February 15, 2026 Law Amazon’s Ring ends partnership with top operator of license-plate reading systems after Super Bowl ad raises fears of dystopian surveillance society ByThe Associated Press February 15, 2026 Politics Congress let more law enforcement agencies to down rogue drones. Then Customs and Border Protection fired a laser, shutting down an airport",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": "AI Search Subscribe for $1Sign In home Tech AI Your essential services are one surprise failure away from disruption. Consider how physical AI could tackle the crisis I’m a physical AI founder and I’m shocked by how our entire economy runs on essential services maintained with methods from the Roman era. Time for change. ByAlex Hawkinson February 14, 2026 Our K-12 school system is sending us a message: AI tools are for the rich kids ByJerel Ezell February 14, 2026 Jake Paul and his $65 million fortune are gaining influence in Silicon Valley ByJake Angelo February 14, 2026 How 100‑year‑old Caterpillar went from making construction equipment to becoming an AI market darling BySheryl Estrada February 14, 2026 Forgent’s IPO is ‘bringing sexy back’ to the electrical equipment helping power the AI boom, CEO says ByJordan Blum February 14, 2026 Latest Stories Law Gen Z’s latest revolt over Jeffrey Epstein: pointing out a connection to the company that takes class photos ByJohn Hanna,Kendria LaFleur, and others February 15, 2026 Travel & Leisure Candles and tablecloth at White Castle: How a Valentine’s Day tradition sprouted over 30 years ago and spread nationwide ByCorey WilliamsandThe Associated Press February 15, 2026 Arts & Entertainment Victorian-era ‘vinegar valentines’ show that trolling existed long before social media or the internet ByMelissa ChanandThe Conversation February 15, 2026 Economy Americans wake up and smell the coffee price surge—skipping Starbucks, brewing at home, and drinking Diet Coke for caffeine ByMatt SedenskyandThe Associated Press February 15, 2026 Law Amazon’s Ring ends partnership with top operator of license-plate reading systems after Super Bowl ad raises fears of dystopian surveillance society ByThe Associated Press February 15, 2026 Politics Congress let more law enforcement agencies to down rogue drones. Then Customs and Border Protection fired a laser, shutting down an airport",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-51617028.jpg?w=1440&q=75",
+            "height": "1102",
+            "width": "1440"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/Mikael-OXX-98.jpg?w=1440&q=75",
+            "height": "960",
+            "width": "1440"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2214110034.jpg?w=1440&q=75",
+            "height": "960",
+            "width": "1440"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2201505685-e1767897162837.jpg?w=1440&q=75",
+            "height": "960",
+            "width": "1440"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 5,
+      "url": "https://partner.microsoft.com/en-gb/solutions/azure/artificial-intelligence",
+      "title": "Artificial Intelligence (AI)",
+      "date": "2026-01-27 00:00:00",
+      "content": " Watch now Start now Materials to support Microsoft Partners. 2026-01-26Success Stories 2026-01-23Success Stories References: International Data Corporation (IDC)",
+      "icon": "https://partner.microsoft.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "微软网站",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Watch now Start now Materials to support Microsoft Partners. 2026-01-26Success Stories 2026-01-23Success Stories References: International Data Corporation (IDC)",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "partner.microsoft.com/-/media/mssc/mpn/partner/solutions/images/airefresh-opportunity-aiethics-fwf2-900x506.jpg?h=506&iar=0&w=900&la=en&hash=E6382A1FA8C663FAB349A307F945ED1C",
+            "height": "506",
+            "width": "900"
+          },
+          {
+            "url": "partner.microsoft.com/-/media/mssc/mpn/partner/solutions/images/ai_desktop_fwf_5050.jpg?h=506&iar=0&w=900&la=en&hash=F874E1F0DAB653DC6222BDA19C43E92D",
+            "height": "506",
+            "width": "900"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 6,
+      "url": "https://abcnews.go.com/alerts/artificial-------------------------intelligence",
+      "title": "Artificial Intelligence",
+      "date": "2026-01-30 04:36:37",
+      "content": " Tips on how to use AI to stick to your New Year's resolutions Jan 11 4:31 AI chatbot under fire over sexually explicit images of women, kids Jan 8 4:16 How AI could impact your life in 2026 Dec 30, 2025 1:52 How AI chatbots are revolutionizing holiday shopping Dec 20, 2025 6:31 Ted Cruz on defense bill, helicopter safety and rising use of AI in politics Dec 18, 2025 6:40 Ty Pennington promotes skilled trades as AI threatens jobs Dec 16, 2025 0:39 ‘Slop’ crowned Merriam-Webster word of the year, defining era of AI-generated content Dec 15, 2025 5:35 Energy costs are rising, thanks in part to AI",
+      "icon": "https://abcnews.go.com/apple-touch-icon-precomposed.png",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Tips on how to use AI to stick to your New Year's resolutions Jan 11 4:31 AI chatbot under fire over sexually explicit images of women, kids Jan 8 4:16 How AI could impact your life in 2026 Dec 30, 2025 1:52 How AI chatbots are revolutionizing holiday shopping Dec 20, 2025 6:31 Ted Cruz on defense bill, helicopter safety and rising use of AI in politics Dec 18, 2025 6:40 Ty Pennington promotes skilled trades as AI threatens jobs Dec 16, 2025 0:39 ‘Slop’ crowned Merriam-Webster word of the year, defining era of AI-generated content Dec 15, 2025 5:35 Energy costs are rising, thanks in part to AI",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 7,
+      "url": "https://apnews.com/hub/artificial-intelligence",
+      "title": "Artificial intelligence | AP News",
+      "date": "2026-01-31 00:00:00",
+      "content": "politics 2026 elections election results sports 2026 winter olympics ",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": "politics 2026 elections election results sports 2026 winter olympics ",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 8,
+      "url": "https://www.coursera.org/in/articles/artificial-intelligence-jobs",
+      "title": "6 Artificial Intelligence (AI) Jobs to Consider in 2026",
+      "date": "2025-12-05 05:29:09",
+      "content": " 1. Artificial intelligence (AI) engineer AI engineers use AI and machine learning techniques to develop applications and systems that help organisations become more efficient. They focus on developing the tools, systems, and processes that enable the application of AI to real-world problems. Data trains algorithms, helping them learn and perform better. AI engineers can help cut costs, increase productivity and profits, and make business recommendations.  Average annual base salary: ₹11,00,000 [2] 2. Machine learning engineer Machine learning engineers research, build, and design the AI responsible for machine learning. They maintain and improve existing AI systems. A machine learning engineer often serves as a liaison with other data science team members, collaborating with the data scientists who develop models for building AI systems. They run experiments and tests, perform statistical analyses, and develop machine learning systems.",
+      "icon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/favicon-v2-194x194.png",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 1. Artificial intelligence (AI) engineer AI engineers use AI and machine learning techniques to develop applications and systems that help organisations become more efficient. They focus on developing the tools, systems, and processes that enable the application of AI to real-world problems. Data trains algorithms, helping them learn and perform better. AI engineers can help cut costs, increase productivity and profits, and make business recommendations.  Average annual base salary: ₹11,00,000 [2] 2. Machine learning engineer Machine learning engineers research, build, and design the AI responsible for machine learning. They maintain and improve existing AI systems. A machine learning engineer often serves as a liaison with other data science team members, collaborating with the data scientists who develop models for building AI systems. They run experiments and tests, perform statistical analyses, and develop machine learning systems.",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 9,
+      "url": "https://baijiahao.baidu.com/s?id=1855380607198269079&wfr=spider&for=pc",
+      "title": "展望全球人工智能2026年演进新局",
+      "date": "2026-01-26 20:00:32",
+      "content": " 技术:大模型竞赛带动智能体应用 2026年,人工智能大模型你追我赶的竞争趋势将延续。开放人工智能研究中心(OpenAI)、谷歌、深度求索等企业将发布规模更大或效率更高的最新版本大模型。 著名人工智能研究者、美国斯坦福大学教授李飞飞日前撰文指出,空间智能是人工智能下一个前沿。大模型在成功处理文本数据、多模态数据的基础上,正在空间理解力方面取得进步,其目标是具备语义、物理、几何、动态复杂交互等方面能力的模型。 同时,智能体可能日益普及,人工智能与人们的生活结合得将更为紧密。传统AI系统工作模式是一问一答,而具备深度目标导向、更多步骤规划能力以及擅长特定任务的智能体将越来越多地应用于各种工作中。美国高德纳咨询公司预测,2026年,40%的企业应用将嵌入任务型AI智能体,而这一比例在2025年还不足5%。 有些智能体已可实现自动点击按钮、填写表单、在不同软件间切换。例如,微软Office智能体能在与操作人员对话后自动创建电子表格和文档,并快速制作演示文稿。这意味着AI不再是辅助工具,而是一定程度具备了数字员工属性。 上海财经大学特聘教授胡延平接受记者采访时说,AI对企业的浅层价值是降本提效,深层价值是以能力迸发驱动范式转换。三种变革正在发生:成本结构方面,智能体系统不仅突破传统劳动力的时间空间、管理成本效率限制,还可突破创造力的产出能力瓶颈;组织形态方面,企业可用AI提供动态感知、实时交互、智能创造、行为达成、组织协作等能力,从而进化到智能经济时代的人智协作;竞争逻辑方面,从规模标准化转向规模与个性融合,从产业分工协作转向生态联接协同,从传统要素竞争转向智能统摄的能力要素竞争。 产业:“智能制造”迎来机遇期 在产业界,数字孪生与AI智能体结合正在重塑产品设计流程,“智能制造”迎来战略机遇期。 美国国际数据公司预测,2026年,40%配备生产调度系统的制造商将升级采用AI驱动的生产排程,实现生产资源管理的自主化运行;到2028年,全球头部1000家制造企业中将有65%把智能体与设计、仿真工具结合,用于持续验证设计变更与配置方案。",
+      "icon": "https://baijiahao.baidu.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "百家号",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 技术:大模型竞赛带动智能体应用 2026年,人工智能大模型你追我赶的竞争趋势将延续。开放人工智能研究中心(OpenAI)、谷歌、深度求索等企业将发布规模更大或效率更高的最新版本大模型。 著名人工智能研究者、美国斯坦福大学教授李飞飞日前撰文指出,空间智能是人工智能下一个前沿。大模型在成功处理文本数据、多模态数据的基础上,正在空间理解力方面取得进步,其目标是具备语义、物理、几何、动态复杂交互等方面能力的模型。 同时,智能体可能日益普及,人工智能与人们的生活结合得将更为紧密。传统AI系统工作模式是一问一答,而具备深度目标导向、更多步骤规划能力以及擅长特定任务的智能体将越来越多地应用于各种工作中。美国高德纳咨询公司预测,2026年,40%的企业应用将嵌入任务型AI智能体,而这一比例在2025年还不足5%。 有些智能体已可实现自动点击按钮、填写表单、在不同软件间切换。例如,微软Office智能体能在与操作人员对话后自动创建电子表格和文档,并快速制作演示文稿。这意味着AI不再是辅助工具,而是一定程度具备了数字员工属性。 上海财经大学特聘教授胡延平接受记者采访时说,AI对企业的浅层价值是降本提效,深层价值是以能力迸发驱动范式转换。三种变革正在发生:成本结构方面,智能体系统不仅突破传统劳动力的时间空间、管理成本效率限制,还可突破创造力的产出能力瓶颈;组织形态方面,企业可用AI提供动态感知、实时交互、智能创造、行为达成、组织协作等能力,从而进化到智能经济时代的人智协作;竞争逻辑方面,从规模标准化转向规模与个性融合,从产业分工协作转向生态联接协同,从传统要素竞争转向智能统摄的能力要素竞争。 产业:“智能制造”迎来机遇期 在产业界,数字孪生与AI智能体结合正在重塑产品设计流程,“智能制造”迎来战略机遇期。 美国国际数据公司预测,2026年,40%配备生产调度系统的制造商将升级采用AI驱动的生产排程,实现生产资源管理的自主化运行;到2028年,全球头部1000家制造企业中将有65%把智能体与设计、仿真工具结合,用于持续验证设计变更与配置方案。",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 10,
+      "url": "https://www.marca.com/en/technology/artificial-intelligence.html",
+      "title": "Artificial intelligence",
+      "date": "2026-01-25 00:00:00",
+      "content": " Personal Finance Walmart and Google launch Gemini AI shopping feature: Here's how it works in the US Redacción:AUSTIN CALDWELL Technology These are the penalties a person could face for using AI to undress an image of a woman Technology Grok crosses the line and Elon Musk reacts: limits its functions after accusations of non-consensual AI-generated pornography Fans ask Grok to delete the fake GOAT between Messi and Cristiano and the response provokes debate Fans ask Grok to delete the fake GOAT between Messi and Cristiano and the response provokes debate Technology Controversy with Elon Musk's AI Grok for generating sexual images without consent Controversy with Elon Musk's AI Grok for generating sexual images without consent Technology The jobs most at risk of being replaced by AI in 2026 according to ChatGPT Lady Gaga, unafraid of AI: \"Human beings are not going out of fashion\" The 'godfather of AI' assures that programmers will continue to be \"valuable for quite some time\" McDonald's pulls AI-generated ad after negative comments McDonald's pulls AI-generated ad after negative comments The Walt Disney Company to invest more than 850 million euros in OpenAI: the deal will be for the next three years",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Personal Finance Walmart and Google launch Gemini AI shopping feature: Here's how it works in the US Redacción:AUSTIN CALDWELL Technology These are the penalties a person could face for using AI to undress an image of a woman Technology Grok crosses the line and Elon Musk reacts: limits its functions after accusations of non-consensual AI-generated pornography Fans ask Grok to delete the fake GOAT between Messi and Cristiano and the response provokes debate Fans ask Grok to delete the fake GOAT between Messi and Cristiano and the response provokes debate Technology Controversy with Elon Musk's AI Grok for generating sexual images without consent Controversy with Elon Musk's AI Grok for generating sexual images without consent Technology The jobs most at risk of being replaced by AI in 2026 according to ChatGPT Lady Gaga, unafraid of AI: \"Human beings are not going out of fashion\" The 'godfather of AI' assures that programmers will continue to be \"valuable for quite some time\" McDonald's pulls AI-generated ad after negative comments McDonald's pulls AI-generated ad after negative comments The Walt Disney Company to invest more than 850 million euros in OpenAI: the deal will be for the next three years",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/01/12/17682544891015.jpg",
+            "height": "1320",
+            "width": "1980"
+          },
+          {
+            "url": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/01/11/17681491961689.jpg",
+            "height": "1320",
+            "width": "1980"
+          },
+          {
+            "url": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/01/02/17673629385662.jpg",
+            "height": "1320",
+            "width": "1980"
+          },
+          {
+            "url": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/01/03/17674713705754.jpg",
+            "height": "1320",
+            "width": "1980"
+          },
+          {
+            "url": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2025/12/30/17671118149929.jpg",
+            "height": "1320",
+            "width": "1980"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 11,
+      "url": "https://partner.microsoft.com/da-dk/solutions/azure/artificial-intelligence",
+      "title": "Artificial Intelligence (AI)",
+      "date": "2026-01-21 00:00:00",
+      "content": " Discover the best ways to integrate AI into your business. Cognizant empowers enterprise transformation with intelligent automation  Materials to support Microsoft Partners.  Help your customers develop their skills and uncover business growth opportunities by hosting one-day workshops focused on specific Azure products and workflows. Using our ready-made collection of discipline-specific resources and tools, you can quickly and easily start hosting working sessions. Expand your value, drive demand for your solutions, and provide customers with the Azure expertise they’re looking for.  Microsoft forecast International Data Corporation (IDC)",
+      "icon": "https://partner.microsoft.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "微软网站",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Discover the best ways to integrate AI into your business. Cognizant empowers enterprise transformation with intelligent automation  Materials to support Microsoft Partners.  Help your customers develop their skills and uncover business growth opportunities by hosting one-day workshops focused on specific Azure products and workflows. Using our ready-made collection of discipline-specific resources and tools, you can quickly and easily start hosting working sessions. Expand your value, drive demand for your solutions, and provide customers with the Azure expertise they’re looking for.  Microsoft forecast International Data Corporation (IDC)",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 12,
+      "url": "https://baijiahao.baidu.com/s?id=1855701457933043332&wfr=spider&for=pc",
+      "title": "展望全球人工智能2026年演进新局",
+      "date": "2026-01-30 09:00:00",
+      "content": " 技术: 大模型竞赛带动智能体应用 2026年,人工智能大模型你追我赶的竞争趋势将延续。开放人工智能研究中心(OpenAI)、谷歌、深度求索等企业将发布规模更大或效率更高的最新版本大模型。 著名人工智能研究者、美国斯坦福大学教授李飞飞日前撰文指出,空间智能是人工智能下一个前沿。大模型在成功处理文本数据、多模态数据的基础上,正在空间理解力方面取得进步,其目标是具备语义、物理、几何、动态复杂交互等方面能力的模型。 同时,智能体可能日益普及,人工智能与人们的生活结合得将更为紧密。传统AI系统工作模式是一问一答,而具备深度目标导向、更多步骤规划能力以及擅长特定任务的智能体将越来越多地应用于各种工作中。美国高德纳咨询公司预测,2026年,40%的企业应用将嵌入任务型AI智能体,而这一比例在2025年还不足5%。 2025年9月5日,一名观众在德国柏林国际消费电子展上与人形机器人握手。张豪夫 摄  有些智能体已可实现自动点击按钮、填写表单、在不同软件间切换。例如,微软Office智能体能在与操作人员对话后自动创建电子表格和文档,并快速制作演示文稿。这意味着AI不再是辅助工具,而是一定程度具备了数字员工属性。 上海财经大学特聘教授胡延平接受记者采访时说,AI对企业的浅层价值是降本提效,深层价值是以能力迸发驱动范式转换。三种变革正在发生:成本结构方面,智能体系统不仅突破传统劳动力的时间空间、管理成本效率限制,还可突破创造力的产出能力瓶颈;组织形态方面,企业可用AI提供动态感知、实时交互、智能创造、行为达成、组织协作等能力,从而进化到智能经济时代的人智协作;竞争逻辑方面,从规模标准化转向规模与个性融合,从产业分工协作转向生态联接协同,从传统要素竞争转向智能统摄的能力要素竞争。 产业: “智能制造”迎来机遇期 在产业界,数字孪生与AI智能体结合正在重塑产品设计流程,“智能制造”迎来战略机遇期。 美国国际数据公司预测,2026年,40%配备生产调度系统的制造商将升级采用AI驱动的生产排程,实现生产资源管理的自主化运行;到2028年,全球头部1000家制造企业中将有65%把智能体与设计、仿真工具结合,用于持续验证设计变更与配置方案。",
+      "icon": "https://baijiahao.baidu.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "百家号",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 技术: 大模型竞赛带动智能体应用 2026年,人工智能大模型你追我赶的竞争趋势将延续。开放人工智能研究中心(OpenAI)、谷歌、深度求索等企业将发布规模更大或效率更高的最新版本大模型。 著名人工智能研究者、美国斯坦福大学教授李飞飞日前撰文指出,空间智能是人工智能下一个前沿。大模型在成功处理文本数据、多模态数据的基础上,正在空间理解力方面取得进步,其目标是具备语义、物理、几何、动态复杂交互等方面能力的模型。 同时,智能体可能日益普及,人工智能与人们的生活结合得将更为紧密。传统AI系统工作模式是一问一答,而具备深度目标导向、更多步骤规划能力以及擅长特定任务的智能体将越来越多地应用于各种工作中。美国高德纳咨询公司预测,2026年,40%的企业应用将嵌入任务型AI智能体,而这一比例在2025年还不足5%。 2025年9月5日,一名观众在德国柏林国际消费电子展上与人形机器人握手。张豪夫 摄  有些智能体已可实现自动点击按钮、填写表单、在不同软件间切换。例如,微软Office智能体能在与操作人员对话后自动创建电子表格和文档,并快速制作演示文稿。这意味着AI不再是辅助工具,而是一定程度具备了数字员工属性。 上海财经大学特聘教授胡延平接受记者采访时说,AI对企业的浅层价值是降本提效,深层价值是以能力迸发驱动范式转换。三种变革正在发生:成本结构方面,智能体系统不仅突破传统劳动力的时间空间、管理成本效率限制,还可突破创造力的产出能力瓶颈;组织形态方面,企业可用AI提供动态感知、实时交互、智能创造、行为达成、组织协作等能力,从而进化到智能经济时代的人智协作;竞争逻辑方面,从规模标准化转向规模与个性融合,从产业分工协作转向生态联接协同,从传统要素竞争转向智能统摄的能力要素竞争。 产业: “智能制造”迎来机遇期 在产业界,数字孪生与AI智能体结合正在重塑产品设计流程,“智能制造”迎来战略机遇期。 美国国际数据公司预测,2026年,40%配备生产调度系统的制造商将升级采用AI驱动的生产排程,实现生产资源管理的自主化运行;到2028年,全球头部1000家制造企业中将有65%把智能体与设计、仿真工具结合,用于持续验证设计变更与配置方案。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/news/2977d93eb53201748baf05542515f5d5.jpeg",
+            "height": "722",
+            "width": "1080"
+          },
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/news/08df4253ed45f4132244c98c36f4b8c8.jpeg",
+            "height": "757",
+            "width": "1080"
+          },
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/news/35dc6b72822caa36f957f0d02d2cbe1a.jpeg",
+            "height": "720",
+            "width": "1080"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 13,
+      "url": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
+      "title": "Artificial Intelligence (AI): What It Is, How It Works, Types, and Uses",
+      "date": "2025-10-12 23:41:25",
+      "content": " Daniel Fishel / Investopedia Definition How Artificial Intelligence (AI) Works Application programming allows two or more computer programs or components to communicate with each other.",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Daniel Fishel / Investopedia Definition How Artificial Intelligence (AI) Works Application programming allows two or more computer programs or components to communicate with each other.",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 14,
+      "url": "https://www.raai.net/",
+      "title": "RAAI 2026 | Robotics, Automation, and Artificial Intelligence",
+      "date": "2026-01-26 23:09:11",
+      "content": " RAAI aims to bring together leading academic scientists, researchers, and research scholars to exchange ideas, share their experiences, and present their latest research results in the fields of Robotics, Automation, and Artificial Intelligence. The conference will cover a broad spectrum of topics, including but not limited to the following:",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "控机",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " RAAI aims to bring together leading academic scientists, researchers, and research scholars to exchange ideas, share their experiences, and present their latest research results in the fields of Robotics, Automation, and Artificial Intelligence. The conference will cover a broad spectrum of topics, including but not limited to the following:",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "www.raai.net/img/history/2025/cover.jpg",
+            "height": "800",
+            "width": "1241"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 15,
+      "url": "https://baijiahao.baidu.com/s?id=1854879499632361949&wfr=spider&for=pc",
+      "title": "展望全球人工智能2026年演进新局",
+      "date": "2026-01-20 21:00:00",
+      "content": " 站在2026年的起点,展望全球人工智能(AI)发展,技术、产业、能源、治理多重变量交织,将共同塑造这一关键年份。 相关机构预测,越来越多的顶尖AI企业将聚焦提升大模型推理能力与智能体执行任务能力,推动AI从“会生成”向“会规划、会行动”进化。大量企业应用将嵌入任务型AI智能体。 与技术突破相伴的则是能源压力,全球数据中心耗电量将持续高企。治理层面,预计各国治理措施将加速落地。       技术:大模型竞赛带动智能体应用 2026年,人工智能大模型你追我赶的竞争趋势将延续。开放人工智能研究中心(OpenAI)、谷歌、深度求索等企业将发布规模更大或效率更高的最新版本大模型。 著名人工智能研究者、美国斯坦福大学教授李飞飞日前撰文指出,空间智能是人工智能下一个前沿。大模型在成功处理文本数据、多模态数据的基础上,正在空间理解力方面取得进步,其目标是具备语义、物理、几何、动态复杂交互等方面能力的模型。 同时,智能体可能日益普及,人工智能与人们的生活结合得将更为紧密。传统AI系统工作模式是一问一答,而具备深度目标导向、更多步骤规划能力以及擅长特定任务的智能体将越来越多地应用于各种工作中。美国高德纳咨询公司预测,2026年,40%的企业应用将嵌入任务型AI智能体,而这一比例在2025年还不足5%。 2025年9月5日,一名观众在德国柏林国际消费电子展上与人形机器人握手。新华社记者张豪夫摄 有些智能体已可实现自动点击按钮、填写表单、在不同软件间切换。例如,微软Office智能体能在与操作人员对话后自动创建电子表格和文档,并快速制作演示文稿。这意味着AI不再是辅助工具,而是一定程度具备了数字员工属性。 上海财经大学特聘教授胡延平接受记者采访时说,AI对企业的浅层价值是降本提效,深层价值是以能力迸发驱动范式转换。三种变革正在发生:成本结构方面,智能体系统不仅突破传统劳动力的时间空间、管理成本效率限制,还可突破创造力的产出能力瓶颈;组织形态方面,企业可用AI提供动态感知、实时交互、智能创造、行为达成、组织协作等能力,从而进化到智能经济时代的人智协作;竞争逻辑方面,从规模标准化转向规模与个性融合,从产业分工协作转向生态联接协同,从传统要素竞争转向智能统摄的能力要素竞争。 产业:“智能制造”迎来机遇期 在产业界,数字孪生与AI智能体结合正在重塑产品设计流程,“智能制造”迎来战略机遇期。 美国国际数据公司预测,2026年,40%配备生产调度系统的制造商将升级采用AI驱动的生产排程,实现生产资源管理的自主化运行;到2028年,全球头部1000家制造企业中将有65%把智能体与设计、仿真工具结合,用于持续验证设计变更与配置方案。",
+      "icon": "https://baijiahao.baidu.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "百家号",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 站在2026年的起点,展望全球人工智能(AI)发展,技术、产业、能源、治理多重变量交织,将共同塑造这一关键年份。 相关机构预测,越来越多的顶尖AI企业将聚焦提升大模型推理能力与智能体执行任务能力,推动AI从“会生成”向“会规划、会行动”进化。大量企业应用将嵌入任务型AI智能体。 与技术突破相伴的则是能源压力,全球数据中心耗电量将持续高企。治理层面,预计各国治理措施将加速落地。       技术:大模型竞赛带动智能体应用 2026年,人工智能大模型你追我赶的竞争趋势将延续。开放人工智能研究中心(OpenAI)、谷歌、深度求索等企业将发布规模更大或效率更高的最新版本大模型。 著名人工智能研究者、美国斯坦福大学教授李飞飞日前撰文指出,空间智能是人工智能下一个前沿。大模型在成功处理文本数据、多模态数据的基础上,正在空间理解力方面取得进步,其目标是具备语义、物理、几何、动态复杂交互等方面能力的模型。 同时,智能体可能日益普及,人工智能与人们的生活结合得将更为紧密。传统AI系统工作模式是一问一答,而具备深度目标导向、更多步骤规划能力以及擅长特定任务的智能体将越来越多地应用于各种工作中。美国高德纳咨询公司预测,2026年,40%的企业应用将嵌入任务型AI智能体,而这一比例在2025年还不足5%。 2025年9月5日,一名观众在德国柏林国际消费电子展上与人形机器人握手。新华社记者张豪夫摄 有些智能体已可实现自动点击按钮、填写表单、在不同软件间切换。例如,微软Office智能体能在与操作人员对话后自动创建电子表格和文档,并快速制作演示文稿。这意味着AI不再是辅助工具,而是一定程度具备了数字员工属性。 上海财经大学特聘教授胡延平接受记者采访时说,AI对企业的浅层价值是降本提效,深层价值是以能力迸发驱动范式转换。三种变革正在发生:成本结构方面,智能体系统不仅突破传统劳动力的时间空间、管理成本效率限制,还可突破创造力的产出能力瓶颈;组织形态方面,企业可用AI提供动态感知、实时交互、智能创造、行为达成、组织协作等能力,从而进化到智能经济时代的人智协作;竞争逻辑方面,从规模标准化转向规模与个性融合,从产业分工协作转向生态联接协同,从传统要素竞争转向智能统摄的能力要素竞争。 产业:“智能制造”迎来机遇期 在产业界,数字孪生与AI智能体结合正在重塑产品设计流程,“智能制造”迎来战略机遇期。 美国国际数据公司预测,2026年,40%配备生产调度系统的制造商将升级采用AI驱动的生产排程,实现生产资源管理的自主化运行;到2028年,全球头部1000家制造企业中将有65%把智能体与设计、仿真工具结合,用于持续验证设计变更与配置方案。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/news/1ddc57509323bf7124e9ba03a2ea19ff.jpeg",
+            "height": "428",
+            "width": "640"
+          },
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/news/faff729f7d3d949435e6e1d3c2235e58.jpeg",
+            "height": "448",
+            "width": "640"
+          },
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/news/1b762963d6c83dba58c2852eba9b5af3.jpeg",
+            "height": "427",
+            "width": "640"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    }
+  ]
+}
