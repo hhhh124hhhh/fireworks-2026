@@ -1,0 +1,18 @@
+{
+  "timestamp": "20260409-090122",
+  "total_items": 1133,
+  "classified_count": 1133,
+  "output_file": "/root/clawd/data/prompts/classified/classified-20260409-090122.jsonl",
+  "saved_count": 1133,
+  "classification_distribution": {
+    "Prompt": 1,
+    "Workflow": 0,
+    "Industry Knowledge": 0,
+    "Guide": 1132
+  },
+  "confidence_distribution": {
+    "high_confidence": 0,
+    "needs_review": 327,
+    "uncertain": 806
+  }
+}
