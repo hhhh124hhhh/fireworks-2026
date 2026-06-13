@@ -2789,3 +2789,1827 @@
 2026-04-04 04:01:16 [INFO] 完成时间: Sat Apr  4 04:01:16 CST 2026
 2026-04-04 04:01:16 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-04-04.md
 2026-04-04 04:01:16 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-05-05 04:00:13 [INFO] ========================================
+2026-05-05 04:00:13 [INFO] 🔍 AI Research Cron 启动
+2026-05-05 04:00:13 [INFO] ========================================
+2026-05-05 04:00:13 [INFO] 开始时间: Tue May  5 04:00:13 CST 2026
+2026-05-05 04:00:13 [INFO] 模式: 深夜 AI 研究搜索
+2026-05-05 04:00:13 [INFO] ----------------------------------------
+2026-05-05 04:00:13 [INFO] 主题: AI news
+2026-05-05 04:00:13 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-05-05 04:01:13 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260505-040013.json
+2026-05-05 04:01:13 [INFO] 分析结果: AI news
+2026-05-05 04:01:13 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260505-040013.md
+2026-05-05 04:01:13 [INFO] ----------------------------------------
+2026-05-05 04:01:13 [INFO] 主题: Claude AI
+2026-05-05 04:01:13 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-05-05 04:01:14 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260505-040013.json
+2026-05-05 04:01:14 [INFO] 分析结果: Claude AI
+2026-05-05 04:01:14 [INFO] 找到 28 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260505-040013.md
+2026-05-05 04:01:14 [INFO] ----------------------------------------
+2026-05-05 04:01:14 [INFO] 主题: AI tools
+2026-05-05 04:01:14 [INFO] 搜索: AI tools 2026 best new software
+2026-05-05 04:01:15 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260505-040013.json
+2026-05-05 04:01:15 [INFO] 分析结果: AI tools
+2026-05-05 04:01:15 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260505-040013.md
+2026-05-05 04:01:15 [INFO] ----------------------------------------
+2026-05-05 04:01:15 [INFO] 主题: multimodal AI
+2026-05-05 04:01:15 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-05-05 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260505-040013.json
+2026-05-05 04:01:17 [INFO] 分析结果: multimodal AI
+2026-05-05 04:01:17 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260505-040013.md
+2026-05-05 04:01:17 [INFO] ----------------------------------------
+2026-05-05 04:01:17 [INFO] 主题: AI prompt engineering
+2026-05-05 04:01:17 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-05-05 04:01:18 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260505-040013.json
+2026-05-05 04:01:18 [INFO] 分析结果: AI prompt engineering
+2026-05-05 04:01:18 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260505-040013.md
+2026-05-05 04:01:18 [INFO] ----------------------------------------
+2026-05-05 04:01:18 [INFO] 主题: OpenAI
+2026-05-05 04:01:18 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-05-05 04:01:19 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260505-040013.json
+2026-05-05 04:01:19 [INFO] 分析结果: OpenAI
+2026-05-05 04:01:19 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260505-040013.md
+2026-05-05 04:01:19 [INFO] ----------------------------------------
+2026-05-05 04:01:19 [INFO] 主题: AI agents
+2026-05-05 04:01:19 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-05-05 04:01:21 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260505-040013.json
+2026-05-05 04:01:21 [INFO] 分析结果: AI agents
+2026-05-05 04:01:21 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260505-040013.md
+2026-05-05 04:01:21 [INFO] ----------------------------------------
+2026-05-05 04:01:21 [INFO] 主题: AI coding
+2026-05-05 04:01:21 [INFO] 搜索: AI coding 2026 programming assistants
+2026-05-05 04:01:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260505-040013.json
+2026-05-05 04:01:22 [INFO] 分析结果: AI coding
+2026-05-05 04:01:22 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260505-040013.md
+2026-05-05 04:01:22 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-05.md
+2026-05-05 04:01:22 [INFO] ========================================
+2026-05-05 04:01:22 [INFO] ✅ AI Research Cron 完成
+2026-05-05 04:01:22 [INFO] ========================================
+2026-05-05 04:01:22 [INFO] 完成时间: Tue May  5 04:01:22 CST 2026
+2026-05-05 04:01:22 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-05.md
+2026-05-05 04:01:23 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-05-06 01:00:15 [INFO] ========================================
+2026-05-06 01:00:15 [INFO] 🔍 AI Research Cron 启动
+2026-05-06 01:00:15 [INFO] ========================================
+2026-05-06 01:00:15 [INFO] 开始时间: Wed May  6 01:00:15 CST 2026
+2026-05-06 01:00:15 [INFO] 模式: 深夜 AI 研究搜索
+2026-05-06 01:00:15 [INFO] ----------------------------------------
+2026-05-06 01:00:15 [INFO] 主题: AI news
+2026-05-06 01:00:15 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-05-06 01:01:15 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260506-010015.json
+2026-05-06 01:01:15 [INFO] 分析结果: AI news
+2026-05-06 01:01:15 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260506-010015.md
+2026-05-06 01:01:15 [INFO] ----------------------------------------
+2026-05-06 01:01:15 [INFO] 主题: Claude AI
+2026-05-06 01:01:15 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-05-06 01:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260506-010015.json
+2026-05-06 01:01:17 [INFO] 分析结果: Claude AI
+2026-05-06 01:01:17 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260506-010015.md
+2026-05-06 01:01:17 [INFO] ----------------------------------------
+2026-05-06 01:01:17 [INFO] 主题: AI tools
+2026-05-06 01:01:17 [INFO] 搜索: AI tools 2026 best new software
+2026-05-06 01:01:18 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260506-010015.json
+2026-05-06 01:01:18 [INFO] 分析结果: AI tools
+2026-05-06 01:01:18 [INFO] 找到 7 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260506-010015.md
+2026-05-06 01:01:18 [INFO] ----------------------------------------
+2026-05-06 01:01:18 [INFO] 主题: multimodal AI
+2026-05-06 01:01:18 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-05-06 01:01:19 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260506-010015.json
+2026-05-06 01:01:19 [INFO] 分析结果: multimodal AI
+2026-05-06 01:01:19 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260506-010015.md
+2026-05-06 01:01:19 [INFO] ----------------------------------------
+2026-05-06 01:01:19 [INFO] 主题: AI prompt engineering
+2026-05-06 01:01:19 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-05-06 01:01:21 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260506-010015.json
+2026-05-06 01:01:21 [INFO] 分析结果: AI prompt engineering
+2026-05-06 01:01:21 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260506-010015.md
+2026-05-06 01:01:21 [INFO] ----------------------------------------
+2026-05-06 01:01:21 [INFO] 主题: OpenAI
+2026-05-06 01:01:21 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-05-06 01:01:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260506-010015.json
+2026-05-06 01:01:22 [INFO] 分析结果: OpenAI
+2026-05-06 01:01:22 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260506-010015.md
+2026-05-06 01:01:22 [INFO] ----------------------------------------
+2026-05-06 01:01:22 [INFO] 主题: AI agents
+2026-05-06 01:01:22 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-05-06 01:01:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260506-010015.json
+2026-05-06 01:01:22 [INFO] 分析结果: AI agents
+2026-05-06 01:01:23 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260506-010015.md
+2026-05-06 01:01:23 [INFO] ----------------------------------------
+2026-05-06 01:01:23 [INFO] 主题: AI coding
+2026-05-06 01:01:23 [INFO] 搜索: AI coding 2026 programming assistants
+2026-05-06 01:01:23 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260506-010015.json
+2026-05-06 01:01:23 [INFO] 分析结果: AI coding
+2026-05-06 01:01:23 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260506-010015.md
+2026-05-06 01:01:23 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-06.md
+2026-05-06 01:01:24 [INFO] ========================================
+2026-05-06 01:01:24 [INFO] ✅ AI Research Cron 完成
+2026-05-06 01:01:24 [INFO] ========================================
+2026-05-06 01:01:24 [INFO] 完成时间: Wed May  6 01:01:24 CST 2026
+2026-05-06 01:01:24 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-06.md
+2026-05-06 01:01:24 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-05-06 04:00:11 [INFO] ========================================
+2026-05-06 04:00:11 [INFO] 🔍 AI Research Cron 启动
+2026-05-06 04:00:11 [INFO] ========================================
+2026-05-06 04:00:11 [INFO] 开始时间: Wed May  6 04:00:11 CST 2026
+2026-05-06 04:00:11 [INFO] 模式: 深夜 AI 研究搜索
+2026-05-06 04:00:11 [INFO] ----------------------------------------
+2026-05-06 04:00:11 [INFO] 主题: AI news
+2026-05-06 04:00:11 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-05-06 04:01:11 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260506-040011.json
+2026-05-06 04:01:11 [INFO] 分析结果: AI news
+2026-05-06 04:01:11 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260506-040011.md
+2026-05-06 04:01:11 [INFO] ----------------------------------------
+2026-05-06 04:01:11 [INFO] 主题: Claude AI
+2026-05-06 04:01:11 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-05-06 04:01:12 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260506-040011.json
+2026-05-06 04:01:12 [INFO] 分析结果: Claude AI
+2026-05-06 04:01:12 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260506-040011.md
+2026-05-06 04:01:12 [INFO] ----------------------------------------
+2026-05-06 04:01:12 [INFO] 主题: AI tools
+2026-05-06 04:01:12 [INFO] 搜索: AI tools 2026 best new software
+2026-05-06 04:01:13 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260506-040011.json
+2026-05-06 04:01:13 [INFO] 分析结果: AI tools
+2026-05-06 04:01:13 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260506-040011.md
+2026-05-06 04:01:13 [INFO] ----------------------------------------
+2026-05-06 04:01:13 [INFO] 主题: multimodal AI
+2026-05-06 04:01:13 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-05-06 04:01:14 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260506-040011.json
+2026-05-06 04:01:14 [INFO] 分析结果: multimodal AI
+2026-05-06 04:01:14 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260506-040011.md
+2026-05-06 04:01:14 [INFO] ----------------------------------------
+2026-05-06 04:01:14 [INFO] 主题: AI prompt engineering
+2026-05-06 04:01:14 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-05-06 04:01:16 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260506-040011.json
+2026-05-06 04:01:16 [INFO] 分析结果: AI prompt engineering
+2026-05-06 04:01:16 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260506-040011.md
+2026-05-06 04:01:16 [INFO] ----------------------------------------
+2026-05-06 04:01:16 [INFO] 主题: OpenAI
+2026-05-06 04:01:16 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-05-06 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260506-040011.json
+2026-05-06 04:01:17 [INFO] 分析结果: OpenAI
+2026-05-06 04:01:17 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260506-040011.md
+2026-05-06 04:01:17 [INFO] ----------------------------------------
+2026-05-06 04:01:17 [INFO] 主题: AI agents
+2026-05-06 04:01:17 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-05-06 04:01:18 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260506-040011.json
+2026-05-06 04:01:18 [INFO] 分析结果: AI agents
+2026-05-06 04:01:18 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260506-040011.md
+2026-05-06 04:01:18 [INFO] ----------------------------------------
+2026-05-06 04:01:18 [INFO] 主题: AI coding
+2026-05-06 04:01:18 [INFO] 搜索: AI coding 2026 programming assistants
+2026-05-06 04:01:18 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260506-040011.json
+2026-05-06 04:01:18 [INFO] 分析结果: AI coding
+2026-05-06 04:01:18 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260506-040011.md
+2026-05-06 04:01:18 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-06.md
+2026-05-06 04:01:19 [INFO] ========================================
+2026-05-06 04:01:19 [INFO] ✅ AI Research Cron 完成
+2026-05-06 04:01:19 [INFO] ========================================
+2026-05-06 04:01:19 [INFO] 完成时间: Wed May  6 04:01:19 CST 2026
+2026-05-06 04:01:19 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-06.md
+2026-05-06 04:01:19 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-05-07 04:00:10 [INFO] ========================================
+2026-05-07 04:00:10 [INFO] 🔍 AI Research Cron 启动
+2026-05-07 04:00:10 [INFO] ========================================
+2026-05-07 04:00:10 [INFO] 开始时间: Thu May  7 04:00:10 CST 2026
+2026-05-07 04:00:10 [INFO] 模式: 深夜 AI 研究搜索
+2026-05-07 04:00:10 [INFO] ----------------------------------------
+2026-05-07 04:00:10 [INFO] 主题: AI news
+2026-05-07 04:00:10 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-05-07 04:01:10 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260507-040010.json
+2026-05-07 04:01:10 [INFO] 分析结果: AI news
+2026-05-07 04:01:10 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260507-040010.md
+2026-05-07 04:01:10 [INFO] ----------------------------------------
+2026-05-07 04:01:10 [INFO] 主题: Claude AI
+2026-05-07 04:01:10 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-05-07 04:01:11 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260507-040010.json
+2026-05-07 04:01:11 [INFO] 分析结果: Claude AI
+2026-05-07 04:01:11 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260507-040010.md
+2026-05-07 04:01:11 [INFO] ----------------------------------------
+2026-05-07 04:01:11 [INFO] 主题: AI tools
+2026-05-07 04:01:11 [INFO] 搜索: AI tools 2026 best new software
+2026-05-07 04:01:12 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260507-040010.json
+2026-05-07 04:01:12 [INFO] 分析结果: AI tools
+2026-05-07 04:01:12 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260507-040010.md
+2026-05-07 04:01:12 [INFO] ----------------------------------------
+2026-05-07 04:01:12 [INFO] 主题: multimodal AI
+2026-05-07 04:01:12 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-05-07 04:01:13 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260507-040010.json
+2026-05-07 04:01:13 [INFO] 分析结果: multimodal AI
+2026-05-07 04:01:13 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260507-040010.md
+2026-05-07 04:01:13 [INFO] ----------------------------------------
+2026-05-07 04:01:13 [INFO] 主题: AI prompt engineering
+2026-05-07 04:01:13 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-05-07 04:01:15 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260507-040010.json
+2026-05-07 04:01:15 [INFO] 分析结果: AI prompt engineering
+2026-05-07 04:01:15 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260507-040010.md
+2026-05-07 04:01:15 [INFO] ----------------------------------------
+2026-05-07 04:01:15 [INFO] 主题: OpenAI
+2026-05-07 04:01:15 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-05-07 04:01:15 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260507-040010.json
+2026-05-07 04:01:15 [INFO] 分析结果: OpenAI
+2026-05-07 04:01:15 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260507-040010.md
+2026-05-07 04:01:15 [INFO] ----------------------------------------
+2026-05-07 04:01:15 [INFO] 主题: AI agents
+2026-05-07 04:01:15 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-05-07 04:01:16 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260507-040010.json
+2026-05-07 04:01:16 [INFO] 分析结果: AI agents
+2026-05-07 04:01:16 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260507-040010.md
+2026-05-07 04:01:16 [INFO] ----------------------------------------
+2026-05-07 04:01:16 [INFO] 主题: AI coding
+2026-05-07 04:01:16 [INFO] 搜索: AI coding 2026 programming assistants
+2026-05-07 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260507-040010.json
+2026-05-07 04:01:17 [INFO] 分析结果: AI coding
+2026-05-07 04:01:17 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260507-040010.md
+2026-05-07 04:01:17 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-07.md
+2026-05-07 04:01:17 [INFO] ========================================
+2026-05-07 04:01:17 [INFO] ✅ AI Research Cron 完成
+2026-05-07 04:01:17 [INFO] ========================================
+2026-05-07 04:01:17 [INFO] 完成时间: Thu May  7 04:01:17 CST 2026
+2026-05-07 04:01:17 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-07.md
+2026-05-07 04:01:17 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-05-08 01:00:22 [INFO] ========================================
+2026-05-08 01:00:22 [INFO] 🔍 AI Research Cron 启动
+2026-05-08 01:00:22 [INFO] ========================================
+2026-05-08 01:00:22 [INFO] 开始时间: Fri May  8 01:00:22 CST 2026
+2026-05-08 01:00:22 [INFO] 模式: 深夜 AI 研究搜索
+2026-05-08 01:00:22 [INFO] ----------------------------------------
+2026-05-08 01:00:22 [INFO] 主题: AI news
+2026-05-08 01:00:22 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-05-08 01:01:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260508-010022.json
+2026-05-08 01:01:22 [INFO] 分析结果: AI news
+2026-05-08 01:01:22 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260508-010022.md
+2026-05-08 01:01:22 [INFO] ----------------------------------------
+2026-05-08 01:01:22 [INFO] 主题: Claude AI
+2026-05-08 01:01:22 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-05-08 01:01:23 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260508-010022.json
+2026-05-08 01:01:23 [INFO] 分析结果: Claude AI
+2026-05-08 01:01:23 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260508-010022.md
+2026-05-08 01:01:23 [INFO] ----------------------------------------
+2026-05-08 01:01:23 [INFO] 主题: AI tools
+2026-05-08 01:01:24 [INFO] 搜索: AI tools 2026 best new software
+2026-05-08 01:01:25 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260508-010022.json
+2026-05-08 01:01:25 [INFO] 分析结果: AI tools
+2026-05-08 01:01:25 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260508-010022.md
+2026-05-08 01:01:25 [INFO] ----------------------------------------
+2026-05-08 01:01:25 [INFO] 主题: multimodal AI
+2026-05-08 01:01:25 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-05-08 01:01:26 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260508-010022.json
+2026-05-08 01:01:26 [INFO] 分析结果: multimodal AI
+2026-05-08 01:01:26 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260508-010022.md
+2026-05-08 01:01:26 [INFO] ----------------------------------------
+2026-05-08 01:01:26 [INFO] 主题: AI prompt engineering
+2026-05-08 01:01:26 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-05-08 01:01:27 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260508-010022.json
+2026-05-08 01:01:27 [INFO] 分析结果: AI prompt engineering
+2026-05-08 01:01:27 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260508-010022.md
+2026-05-08 01:01:27 [INFO] ----------------------------------------
+2026-05-08 01:01:27 [INFO] 主题: OpenAI
+2026-05-08 01:01:27 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-05-08 01:01:28 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260508-010022.json
+2026-05-08 01:01:28 [INFO] 分析结果: OpenAI
+2026-05-08 01:01:28 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260508-010022.md
+2026-05-08 01:01:28 [INFO] ----------------------------------------
+2026-05-08 01:01:28 [INFO] 主题: AI agents
+2026-05-08 01:01:28 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-05-08 01:01:29 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260508-010022.json
+2026-05-08 01:01:29 [INFO] 分析结果: AI agents
+2026-05-08 01:01:29 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260508-010022.md
+2026-05-08 01:01:29 [INFO] ----------------------------------------
+2026-05-08 01:01:29 [INFO] 主题: AI coding
+2026-05-08 01:01:29 [INFO] 搜索: AI coding 2026 programming assistants
+2026-05-08 01:01:30 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260508-010022.json
+2026-05-08 01:01:30 [INFO] 分析结果: AI coding
+2026-05-08 01:01:30 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260508-010022.md
+2026-05-08 01:01:30 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-08.md
+2026-05-08 01:01:30 [INFO] ========================================
+2026-05-08 01:01:30 [INFO] ✅ AI Research Cron 完成
+2026-05-08 01:01:30 [INFO] ========================================
+2026-05-08 01:01:30 [INFO] 完成时间: Fri May  8 01:01:30 CST 2026
+2026-05-08 01:01:30 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-08.md
+2026-05-08 01:01:30 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-05-08 01:30:22 [INFO] ========================================
+2026-05-08 01:30:22 [INFO] 🔍 AI Research Cron 启动
+2026-05-08 01:30:22 [INFO] ========================================
+2026-05-08 01:30:22 [INFO] 开始时间: Fri May  8 01:30:22 CST 2026
+2026-05-08 01:30:22 [INFO] 模式: 深夜 AI 研究搜索
+2026-05-08 01:30:22 [INFO] ----------------------------------------
+2026-05-08 01:30:22 [INFO] 主题: AI news
+2026-05-08 01:30:22 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-05-08 01:31:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260508-013022.json
+2026-05-08 01:31:22 [INFO] 分析结果: AI news
+2026-05-08 01:31:22 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260508-013022.md
+2026-05-08 01:31:22 [INFO] ----------------------------------------
+2026-05-08 01:31:22 [INFO] 主题: Claude AI
+2026-05-08 01:31:22 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-05-08 01:31:23 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260508-013022.json
+2026-05-08 01:31:23 [INFO] 分析结果: Claude AI
+2026-05-08 01:31:23 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260508-013022.md
+2026-05-08 01:31:23 [INFO] ----------------------------------------
+2026-05-08 01:31:23 [INFO] 主题: AI tools
+2026-05-08 01:31:23 [INFO] 搜索: AI tools 2026 best new software
+2026-05-08 01:31:23 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260508-013022.json
+2026-05-08 01:31:23 [INFO] 分析结果: AI tools
+2026-05-08 01:31:23 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260508-013022.md
+2026-05-08 01:31:23 [INFO] ----------------------------------------
+2026-05-08 01:31:23 [INFO] 主题: multimodal AI
+2026-05-08 01:31:23 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-05-08 01:31:24 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260508-013022.json
+2026-05-08 01:31:24 [INFO] 分析结果: multimodal AI
+2026-05-08 01:31:24 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260508-013022.md
+2026-05-08 01:31:24 [INFO] ----------------------------------------
+2026-05-08 01:31:24 [INFO] 主题: AI prompt engineering
+2026-05-08 01:31:24 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-05-08 01:31:25 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260508-013022.json
+2026-05-08 01:31:25 [INFO] 分析结果: AI prompt engineering
+2026-05-08 01:31:25 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260508-013022.md
+2026-05-08 01:31:25 [INFO] ----------------------------------------
+2026-05-08 01:31:25 [INFO] 主题: OpenAI
+2026-05-08 01:31:25 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-05-08 01:31:25 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260508-013022.json
+2026-05-08 01:31:25 [INFO] 分析结果: OpenAI
+2026-05-08 01:31:25 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260508-013022.md
+2026-05-08 01:31:25 [INFO] ----------------------------------------
+2026-05-08 01:31:25 [INFO] 主题: AI agents
+2026-05-08 01:31:25 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-05-08 01:31:26 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260508-013022.json
+2026-05-08 01:31:26 [INFO] 分析结果: AI agents
+2026-05-08 01:31:26 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260508-013022.md
+2026-05-08 01:31:26 [INFO] ----------------------------------------
+2026-05-08 01:31:26 [INFO] 主题: AI coding
+2026-05-08 01:31:26 [INFO] 搜索: AI coding 2026 programming assistants
+2026-05-08 01:31:27 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260508-013022.json
+2026-05-08 01:31:27 [INFO] 分析结果: AI coding
+2026-05-08 01:31:27 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260508-013022.md
+2026-05-08 01:31:27 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-08.md
+2026-05-08 01:31:27 [INFO] ========================================
+2026-05-08 01:31:27 [INFO] ✅ AI Research Cron 完成
+2026-05-08 01:31:27 [INFO] ========================================
+2026-05-08 01:31:27 [INFO] 完成时间: Fri May  8 01:31:27 CST 2026
+2026-05-08 01:31:27 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-08.md
+2026-05-08 01:31:27 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-05-08 04:00:16 [INFO] ========================================
+2026-05-08 04:00:16 [INFO] 🔍 AI Research Cron 启动
+2026-05-08 04:00:16 [INFO] ========================================
+2026-05-08 04:00:16 [INFO] 开始时间: Fri May  8 04:00:16 CST 2026
+2026-05-08 04:00:16 [INFO] 模式: 深夜 AI 研究搜索
+2026-05-08 04:00:16 [INFO] ----------------------------------------
+2026-05-08 04:00:16 [INFO] 主题: AI news
+2026-05-08 04:00:16 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-05-08 04:01:16 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260508-040016.json
+2026-05-08 04:01:16 [INFO] 分析结果: AI news
+2026-05-08 04:01:16 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260508-040016.md
+2026-05-08 04:01:16 [INFO] ----------------------------------------
+2026-05-08 04:01:16 [INFO] 主题: Claude AI
+2026-05-08 04:01:16 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-05-08 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260508-040016.json
+2026-05-08 04:01:17 [INFO] 分析结果: Claude AI
+2026-05-08 04:01:17 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260508-040016.md
+2026-05-08 04:01:17 [INFO] ----------------------------------------
+2026-05-08 04:01:17 [INFO] 主题: AI tools
+2026-05-08 04:01:17 [INFO] 搜索: AI tools 2026 best new software
+2026-05-08 04:01:18 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260508-040016.json
+2026-05-08 04:01:18 [INFO] 分析结果: AI tools
+2026-05-08 04:01:18 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260508-040016.md
+2026-05-08 04:01:18 [INFO] ----------------------------------------
+2026-05-08 04:01:18 [INFO] 主题: multimodal AI
+2026-05-08 04:01:18 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-05-08 04:01:19 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260508-040016.json
+2026-05-08 04:01:19 [INFO] 分析结果: multimodal AI
+2026-05-08 04:01:19 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260508-040016.md
+2026-05-08 04:01:19 [INFO] ----------------------------------------
+2026-05-08 04:01:19 [INFO] 主题: AI prompt engineering
+2026-05-08 04:01:19 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-05-08 04:01:20 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260508-040016.json
+2026-05-08 04:01:20 [INFO] 分析结果: AI prompt engineering
+2026-05-08 04:01:20 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260508-040016.md
+2026-05-08 04:01:20 [INFO] ----------------------------------------
+2026-05-08 04:01:21 [INFO] 主题: OpenAI
+2026-05-08 04:01:21 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-05-08 04:01:21 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260508-040016.json
+2026-05-08 04:01:21 [INFO] 分析结果: OpenAI
+2026-05-08 04:01:21 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260508-040016.md
+2026-05-08 04:01:21 [INFO] ----------------------------------------
+2026-05-08 04:01:21 [INFO] 主题: AI agents
+2026-05-08 04:01:21 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-05-08 04:01:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260508-040016.json
+2026-05-08 04:01:22 [INFO] 分析结果: AI agents
+2026-05-08 04:01:22 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260508-040016.md
+2026-05-08 04:01:22 [INFO] ----------------------------------------
+2026-05-08 04:01:22 [INFO] 主题: AI coding
+2026-05-08 04:01:22 [INFO] 搜索: AI coding 2026 programming assistants
+2026-05-08 04:01:23 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260508-040016.json
+2026-05-08 04:01:23 [INFO] 分析结果: AI coding
+2026-05-08 04:01:23 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260508-040016.md
+2026-05-08 04:01:23 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-08.md
+2026-05-08 04:01:23 [INFO] ========================================
+2026-05-08 04:01:23 [INFO] ✅ AI Research Cron 完成
+2026-05-08 04:01:23 [INFO] ========================================
+2026-05-08 04:01:23 [INFO] 完成时间: Fri May  8 04:01:23 CST 2026
+2026-05-08 04:01:23 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-08.md
+2026-05-08 04:01:23 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-05-09 04:00:23 [INFO] ========================================
+2026-05-09 04:00:23 [INFO] 🔍 AI Research Cron 启动
+2026-05-09 04:00:23 [INFO] ========================================
+2026-05-09 04:00:23 [INFO] 开始时间: Sat May  9 04:00:23 CST 2026
+2026-05-09 04:00:23 [INFO] 模式: 深夜 AI 研究搜索
+2026-05-09 04:00:23 [INFO] ----------------------------------------
+2026-05-09 04:00:23 [INFO] 主题: AI news
+2026-05-09 04:00:23 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-05-09 04:01:23 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260509-040023.json
+2026-05-09 04:01:23 [INFO] 分析结果: AI news
+2026-05-09 04:01:23 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260509-040023.md
+2026-05-09 04:01:23 [INFO] ----------------------------------------
+2026-05-09 04:01:23 [INFO] 主题: Claude AI
+2026-05-09 04:01:23 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-05-09 04:01:24 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260509-040023.json
+2026-05-09 04:01:24 [INFO] 分析结果: Claude AI
+2026-05-09 04:01:24 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260509-040023.md
+2026-05-09 04:01:24 [INFO] ----------------------------------------
+2026-05-09 04:01:24 [INFO] 主题: AI tools
+2026-05-09 04:01:24 [INFO] 搜索: AI tools 2026 best new software
+2026-05-09 04:01:25 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260509-040023.json
+2026-05-09 04:01:25 [INFO] 分析结果: AI tools
+2026-05-09 04:01:25 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260509-040023.md
+2026-05-09 04:01:25 [INFO] ----------------------------------------
+2026-05-09 04:01:25 [INFO] 主题: multimodal AI
+2026-05-09 04:01:25 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-05-09 04:01:26 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260509-040023.json
+2026-05-09 04:01:26 [INFO] 分析结果: multimodal AI
+2026-05-09 04:01:26 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260509-040023.md
+2026-05-09 04:01:26 [INFO] ----------------------------------------
+2026-05-09 04:01:26 [INFO] 主题: AI prompt engineering
+2026-05-09 04:01:26 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-05-09 04:01:27 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260509-040023.json
+2026-05-09 04:01:27 [INFO] 分析结果: AI prompt engineering
+2026-05-09 04:01:27 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260509-040023.md
+2026-05-09 04:01:27 [INFO] ----------------------------------------
+2026-05-09 04:01:27 [INFO] 主题: OpenAI
+2026-05-09 04:01:27 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-05-09 04:01:28 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260509-040023.json
+2026-05-09 04:01:28 [INFO] 分析结果: OpenAI
+2026-05-09 04:01:28 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260509-040023.md
+2026-05-09 04:01:28 [INFO] ----------------------------------------
+2026-05-09 04:01:28 [INFO] 主题: AI agents
+2026-05-09 04:01:28 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-05-09 04:01:29 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260509-040023.json
+2026-05-09 04:01:29 [INFO] 分析结果: AI agents
+2026-05-09 04:01:29 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260509-040023.md
+2026-05-09 04:01:29 [INFO] ----------------------------------------
+2026-05-09 04:01:29 [INFO] 主题: AI coding
+2026-05-09 04:01:29 [INFO] 搜索: AI coding 2026 programming assistants
+2026-05-09 04:01:30 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260509-040023.json
+2026-05-09 04:01:30 [INFO] 分析结果: AI coding
+2026-05-09 04:01:30 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260509-040023.md
+2026-05-09 04:01:30 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-09.md
+2026-05-09 04:01:30 [INFO] ========================================
+2026-05-09 04:01:30 [INFO] ✅ AI Research Cron 完成
+2026-05-09 04:01:30 [INFO] ========================================
+2026-05-09 04:01:30 [INFO] 完成时间: Sat May  9 04:01:30 CST 2026
+2026-05-09 04:01:30 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-09.md
+2026-05-09 04:01:30 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+[2026-05-09 16:00:52] Twitter API credits exhausted - API key needs recharge
+2026-05-10 03:01:04 [INFO] ========================================
+2026-05-10 03:01:04 [INFO] 🔍 AI Research Cron 启动
+2026-05-10 03:01:04 [INFO] ========================================
+2026-05-10 03:01:04 [INFO] 开始时间: Sun May 10 03:01:04 CST 2026
+2026-05-10 03:01:04 [INFO] 模式: 深夜 AI 研究搜索
+2026-05-10 03:01:04 [INFO] ----------------------------------------
+2026-05-10 03:01:04 [INFO] 主题: AI news
+2026-05-10 03:01:04 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-05-10 03:02:04 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260510-030104.json
+2026-05-10 03:02:04 [INFO] 分析结果: AI news
+2026-05-10 03:02:04 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260510-030104.md
+2026-05-10 03:02:04 [INFO] ----------------------------------------
+2026-05-10 03:02:04 [INFO] 主题: Claude AI
+2026-05-10 03:02:04 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-05-10 03:02:05 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260510-030104.json
+2026-05-10 03:02:05 [INFO] 分析结果: Claude AI
+2026-05-10 03:02:05 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260510-030104.md
+2026-05-10 03:02:05 [INFO] ----------------------------------------
+2026-05-10 03:02:05 [INFO] 主题: AI tools
+2026-05-10 03:02:05 [INFO] 搜索: AI tools 2026 best new software
+2026-05-10 03:02:07 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260510-030104.json
+2026-05-10 03:02:07 [INFO] 分析结果: AI tools
+2026-05-10 03:02:07 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260510-030104.md
+2026-05-10 03:02:07 [INFO] ----------------------------------------
+2026-05-10 03:02:07 [INFO] 主题: multimodal AI
+2026-05-10 03:02:07 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-05-10 03:02:07 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260510-030104.json
+2026-05-10 03:02:07 [INFO] 分析结果: multimodal AI
+2026-05-10 03:02:08 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260510-030104.md
+2026-05-10 03:02:08 [INFO] ----------------------------------------
+2026-05-10 03:02:08 [INFO] 主题: AI prompt engineering
+2026-05-10 03:02:08 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-05-10 03:02:09 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260510-030104.json
+2026-05-10 03:02:09 [INFO] 分析结果: AI prompt engineering
+2026-05-10 03:02:09 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260510-030104.md
+2026-05-10 03:02:09 [INFO] ----------------------------------------
+2026-05-10 03:02:09 [INFO] 主题: OpenAI
+2026-05-10 03:02:09 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-05-10 03:02:10 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260510-030104.json
+2026-05-10 03:02:10 [INFO] 分析结果: OpenAI
+2026-05-10 03:02:10 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260510-030104.md
+2026-05-10 03:02:10 [INFO] ----------------------------------------
+2026-05-10 03:02:10 [INFO] 主题: AI agents
+2026-05-10 03:02:10 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-05-10 03:02:10 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260510-030104.json
+2026-05-10 03:02:10 [INFO] 分析结果: AI agents
+2026-05-10 03:02:10 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260510-030104.md
+2026-05-10 03:02:10 [INFO] ----------------------------------------
+2026-05-10 03:02:10 [INFO] 主题: AI coding
+2026-05-10 03:02:10 [INFO] 搜索: AI coding 2026 programming assistants
+2026-05-10 03:02:11 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260510-030104.json
+2026-05-10 03:02:11 [INFO] 分析结果: AI coding
+2026-05-10 03:02:11 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260510-030104.md
+2026-05-10 03:02:11 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-10.md
+2026-05-10 03:02:11 [INFO] ========================================
+2026-05-10 03:02:11 [INFO] ✅ AI Research Cron 完成
+2026-05-10 03:02:11 [INFO] ========================================
+2026-05-10 03:02:11 [INFO] 完成时间: Sun May 10 03:02:11 CST 2026
+2026-05-10 03:02:11 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-10.md
+2026-05-10 03:02:11 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-05-10 04:00:16 [INFO] ========================================
+2026-05-10 04:00:16 [INFO] 🔍 AI Research Cron 启动
+2026-05-10 04:00:16 [INFO] ========================================
+2026-05-10 04:00:17 [INFO] 开始时间: Sun May 10 04:00:16 CST 2026
+2026-05-10 04:00:17 [INFO] 模式: 深夜 AI 研究搜索
+2026-05-10 04:00:17 [INFO] ----------------------------------------
+2026-05-10 04:00:17 [INFO] 主题: AI news
+2026-05-10 04:00:17 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-05-10 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260510-040016.json
+2026-05-10 04:01:17 [INFO] 分析结果: AI news
+2026-05-10 04:01:17 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260510-040016.md
+2026-05-10 04:01:17 [INFO] ----------------------------------------
+2026-05-10 04:01:17 [INFO] 主题: Claude AI
+2026-05-10 04:01:17 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-05-10 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260510-040016.json
+2026-05-10 04:01:17 [INFO] 分析结果: Claude AI
+2026-05-10 04:01:17 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260510-040016.md
+2026-05-10 04:01:17 [INFO] ----------------------------------------
+2026-05-10 04:01:17 [INFO] 主题: AI tools
+2026-05-10 04:01:17 [INFO] 搜索: AI tools 2026 best new software
+2026-05-10 04:01:18 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260510-040016.json
+2026-05-10 04:01:18 [INFO] 分析结果: AI tools
+2026-05-10 04:01:18 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260510-040016.md
+2026-05-10 04:01:18 [INFO] ----------------------------------------
+2026-05-10 04:01:18 [INFO] 主题: multimodal AI
+2026-05-10 04:01:18 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-05-10 04:01:19 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260510-040016.json
+2026-05-10 04:01:19 [INFO] 分析结果: multimodal AI
+2026-05-10 04:01:19 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260510-040016.md
+2026-05-10 04:01:19 [INFO] ----------------------------------------
+2026-05-10 04:01:19 [INFO] 主题: AI prompt engineering
+2026-05-10 04:01:19 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-05-10 04:01:21 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260510-040016.json
+2026-05-10 04:01:21 [INFO] 分析结果: AI prompt engineering
+2026-05-10 04:01:21 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260510-040016.md
+2026-05-10 04:01:21 [INFO] ----------------------------------------
+2026-05-10 04:01:21 [INFO] 主题: OpenAI
+2026-05-10 04:01:21 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-05-10 04:01:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260510-040016.json
+2026-05-10 04:01:22 [INFO] 分析结果: OpenAI
+2026-05-10 04:01:22 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260510-040016.md
+2026-05-10 04:01:22 [INFO] ----------------------------------------
+2026-05-10 04:01:22 [INFO] 主题: AI agents
+2026-05-10 04:01:22 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-05-10 04:01:23 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260510-040016.json
+2026-05-10 04:01:23 [INFO] 分析结果: AI agents
+2026-05-10 04:01:23 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260510-040016.md
+2026-05-10 04:01:23 [INFO] ----------------------------------------
+2026-05-10 04:01:23 [INFO] 主题: AI coding
+2026-05-10 04:01:23 [INFO] 搜索: AI coding 2026 programming assistants
+2026-05-10 04:01:24 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260510-040016.json
+2026-05-10 04:01:24 [INFO] 分析结果: AI coding
+2026-05-10 04:01:24 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260510-040016.md
+2026-05-10 04:01:24 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-10.md
+2026-05-10 04:01:24 [INFO] ========================================
+2026-05-10 04:01:24 [INFO] ✅ AI Research Cron 完成
+2026-05-10 04:01:24 [INFO] ========================================
+2026-05-10 04:01:24 [INFO] 完成时间: Sun May 10 04:01:24 CST 2026
+2026-05-10 04:01:24 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-05-10.md
+2026-05-10 04:01:24 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+[2026-05-10 10:00:30] Twitter API error: Credits insufficient. Need to recharge.
+2026-06-02 08:00:09 [INFO] ========================================
+2026-06-02 08:00:09 [INFO] 🔍 AI Research Cron 启动
+2026-06-02 08:00:09 [INFO] ========================================
+2026-06-02 08:00:09 [INFO] 开始时间: Tue Jun  2 08:00:09 CST 2026
+2026-06-02 08:00:09 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-02 08:00:09 [INFO] ----------------------------------------
+2026-06-02 08:00:09 [INFO] 主题: AI news
+2026-06-02 08:00:09 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-02 08:01:09 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260602-080009.json
+2026-06-02 08:01:09 [INFO] 分析结果: AI news
+2026-06-02 08:01:09 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260602-080009.md
+2026-06-02 08:01:09 [INFO] ----------------------------------------
+2026-06-02 08:01:09 [INFO] 主题: Claude AI
+2026-06-02 08:01:09 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-02 08:01:10 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260602-080009.json
+2026-06-02 08:01:10 [INFO] 分析结果: Claude AI
+2026-06-02 08:01:10 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260602-080009.md
+2026-06-02 08:01:10 [INFO] ----------------------------------------
+2026-06-02 08:01:10 [INFO] 主题: AI tools
+2026-06-02 08:01:10 [INFO] 搜索: AI tools 2026 best new software
+2026-06-02 08:01:11 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260602-080009.json
+2026-06-02 08:01:11 [INFO] 分析结果: AI tools
+2026-06-02 08:01:11 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260602-080009.md
+2026-06-02 08:01:11 [INFO] ----------------------------------------
+2026-06-02 08:01:11 [INFO] 主题: multimodal AI
+2026-06-02 08:01:11 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-02 08:01:12 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260602-080009.json
+2026-06-02 08:01:12 [INFO] 分析结果: multimodal AI
+2026-06-02 08:01:12 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260602-080009.md
+2026-06-02 08:01:12 [INFO] ----------------------------------------
+2026-06-02 08:01:12 [INFO] 主题: AI prompt engineering
+2026-06-02 08:01:12 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-02 08:01:13 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260602-080009.json
+2026-06-02 08:01:13 [INFO] 分析结果: AI prompt engineering
+2026-06-02 08:01:13 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260602-080009.md
+2026-06-02 08:01:13 [INFO] ----------------------------------------
+2026-06-02 08:01:13 [INFO] 主题: OpenAI
+2026-06-02 08:01:13 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-02 08:01:14 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260602-080009.json
+2026-06-02 08:01:14 [INFO] 分析结果: OpenAI
+2026-06-02 08:01:14 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260602-080009.md
+2026-06-02 08:01:14 [INFO] ----------------------------------------
+2026-06-02 08:01:14 [INFO] 主题: AI agents
+2026-06-02 08:01:14 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-02 08:01:15 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260602-080009.json
+2026-06-02 08:01:15 [INFO] 分析结果: AI agents
+2026-06-02 08:01:15 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260602-080009.md
+2026-06-02 08:01:15 [INFO] ----------------------------------------
+2026-06-02 08:01:15 [INFO] 主题: AI coding
+2026-06-02 08:01:15 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-02 08:01:15 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260602-080009.json
+2026-06-02 08:01:15 [INFO] 分析结果: AI coding
+2026-06-02 08:01:15 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260602-080009.md
+2026-06-02 08:01:15 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-02.md
+2026-06-02 08:01:16 [INFO] ========================================
+2026-06-02 08:01:16 [INFO] ✅ AI Research Cron 完成
+2026-06-02 08:01:16 [INFO] ========================================
+2026-06-02 08:01:16 [INFO] 完成时间: Tue Jun  2 08:01:16 CST 2026
+2026-06-02 08:01:16 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-02.md
+2026-06-02 08:01:16 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-02 09:00:09 [INFO] ========================================
+2026-06-02 09:00:09 [INFO] 🔍 AI Research Cron 启动
+2026-06-02 09:00:09 [INFO] ========================================
+2026-06-02 09:00:09 [INFO] 开始时间: Tue Jun  2 09:00:09 CST 2026
+2026-06-02 09:00:09 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-02 09:00:09 [INFO] ----------------------------------------
+2026-06-02 09:00:09 [INFO] 主题: AI news
+2026-06-02 09:00:09 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-02 09:01:09 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260602-090009.json
+2026-06-02 09:01:09 [INFO] 分析结果: AI news
+2026-06-02 09:01:09 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260602-090009.md
+2026-06-02 09:01:09 [INFO] ----------------------------------------
+2026-06-02 09:01:09 [INFO] 主题: Claude AI
+2026-06-02 09:01:09 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-02 09:01:10 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260602-090009.json
+2026-06-02 09:01:10 [INFO] 分析结果: Claude AI
+2026-06-02 09:01:10 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260602-090009.md
+2026-06-02 09:01:10 [INFO] ----------------------------------------
+2026-06-02 09:01:10 [INFO] 主题: AI tools
+2026-06-02 09:01:10 [INFO] 搜索: AI tools 2026 best new software
+2026-06-02 09:01:11 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260602-090009.json
+2026-06-02 09:01:11 [INFO] 分析结果: AI tools
+2026-06-02 09:01:11 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260602-090009.md
+2026-06-02 09:01:11 [INFO] ----------------------------------------
+2026-06-02 09:01:11 [INFO] 主题: multimodal AI
+2026-06-02 09:01:11 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-02 09:01:12 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260602-090009.json
+2026-06-02 09:01:12 [INFO] 分析结果: multimodal AI
+2026-06-02 09:01:12 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260602-090009.md
+2026-06-02 09:01:12 [INFO] ----------------------------------------
+2026-06-02 09:01:12 [INFO] 主题: AI prompt engineering
+2026-06-02 09:01:12 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-02 09:01:13 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260602-090009.json
+2026-06-02 09:01:13 [INFO] 分析结果: AI prompt engineering
+2026-06-02 09:01:13 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260602-090009.md
+2026-06-02 09:01:13 [INFO] ----------------------------------------
+2026-06-02 09:01:13 [INFO] 主题: OpenAI
+2026-06-02 09:01:13 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-02 09:01:14 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260602-090009.json
+2026-06-02 09:01:14 [INFO] 分析结果: OpenAI
+2026-06-02 09:01:14 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260602-090009.md
+2026-06-02 09:01:14 [INFO] ----------------------------------------
+2026-06-02 09:01:14 [INFO] 主题: AI agents
+2026-06-02 09:01:14 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-02 09:01:14 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260602-090009.json
+2026-06-02 09:01:15 [INFO] 分析结果: AI agents
+2026-06-02 09:01:15 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260602-090009.md
+2026-06-02 09:01:15 [INFO] ----------------------------------------
+2026-06-02 09:01:15 [INFO] 主题: AI coding
+2026-06-02 09:01:15 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-02 09:01:16 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260602-090009.json
+2026-06-02 09:01:16 [INFO] 分析结果: AI coding
+2026-06-02 09:01:16 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260602-090009.md
+2026-06-02 09:01:16 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-02.md
+2026-06-02 09:01:16 [INFO] ========================================
+2026-06-02 09:01:16 [INFO] ✅ AI Research Cron 完成
+2026-06-02 09:01:16 [INFO] ========================================
+2026-06-02 09:01:16 [INFO] 完成时间: Tue Jun  2 09:01:16 CST 2026
+2026-06-02 09:01:16 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-02.md
+2026-06-02 09:01:16 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-02 21:03:33 [INFO] ========================================
+2026-06-02 21:03:33 [INFO] 🔍 AI Research Cron 启动
+2026-06-02 21:03:33 [INFO] ========================================
+2026-06-02 21:03:33 [INFO] 开始时间: Tue Jun  2 21:03:33 CST 2026
+2026-06-02 21:03:33 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-02 21:03:33 [INFO] ----------------------------------------
+2026-06-02 21:03:33 [INFO] 主题: AI news
+2026-06-02 21:03:33 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-03 04:00:09 [INFO] ========================================
+2026-06-03 04:00:09 [INFO] 🔍 AI Research Cron 启动
+2026-06-03 04:00:10 [INFO] ========================================
+2026-06-03 04:00:10 [INFO] 开始时间: Wed Jun  3 04:00:10 CST 2026
+2026-06-03 04:00:10 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-03 04:00:10 [INFO] ----------------------------------------
+2026-06-03 04:00:10 [INFO] 主题: AI news
+2026-06-03 04:00:10 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-03 04:01:10 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260603-040009.json
+2026-06-03 04:01:10 [INFO] 分析结果: AI news
+2026-06-03 04:01:10 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260603-040009.md
+2026-06-03 04:01:10 [INFO] ----------------------------------------
+2026-06-03 04:01:10 [INFO] 主题: Claude AI
+2026-06-03 04:01:10 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-03 04:01:11 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260603-040009.json
+2026-06-03 04:01:11 [INFO] 分析结果: Claude AI
+2026-06-03 04:01:11 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260603-040009.md
+2026-06-03 04:01:11 [INFO] ----------------------------------------
+2026-06-03 04:01:11 [INFO] 主题: AI tools
+2026-06-03 04:01:11 [INFO] 搜索: AI tools 2026 best new software
+2026-06-03 04:01:12 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260603-040009.json
+2026-06-03 04:01:12 [INFO] 分析结果: AI tools
+2026-06-03 04:01:12 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260603-040009.md
+2026-06-03 04:01:12 [INFO] ----------------------------------------
+2026-06-03 04:01:12 [INFO] 主题: multimodal AI
+2026-06-03 04:01:12 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-03 04:01:13 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260603-040009.json
+2026-06-03 04:01:13 [INFO] 分析结果: multimodal AI
+2026-06-03 04:01:13 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260603-040009.md
+2026-06-03 04:01:13 [INFO] ----------------------------------------
+2026-06-03 04:01:13 [INFO] 主题: AI prompt engineering
+2026-06-03 04:01:13 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-03 04:01:13 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260603-040009.json
+2026-06-03 04:01:13 [INFO] 分析结果: AI prompt engineering
+2026-06-03 04:01:13 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260603-040009.md
+2026-06-03 04:01:13 [INFO] ----------------------------------------
+2026-06-03 04:01:13 [INFO] 主题: OpenAI
+2026-06-03 04:01:13 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-03 04:01:15 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260603-040009.json
+2026-06-03 04:01:15 [INFO] 分析结果: OpenAI
+2026-06-03 04:01:15 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260603-040009.md
+2026-06-03 04:01:15 [INFO] ----------------------------------------
+2026-06-03 04:01:15 [INFO] 主题: AI agents
+2026-06-03 04:01:15 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-03 04:01:16 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260603-040009.json
+2026-06-03 04:01:16 [INFO] 分析结果: AI agents
+2026-06-03 04:01:16 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260603-040009.md
+2026-06-03 04:01:16 [INFO] ----------------------------------------
+2026-06-03 04:01:16 [INFO] 主题: AI coding
+2026-06-03 04:01:16 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-03 04:01:18 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260603-040009.json
+2026-06-03 04:01:18 [INFO] 分析结果: AI coding
+2026-06-03 04:01:18 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260603-040009.md
+2026-06-03 04:01:18 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-03.md
+2026-06-03 04:01:18 [INFO] ========================================
+2026-06-03 04:01:18 [INFO] ✅ AI Research Cron 完成
+2026-06-03 04:01:18 [INFO] ========================================
+2026-06-03 04:01:18 [INFO] 完成时间: Wed Jun  3 04:01:18 CST 2026
+2026-06-03 04:01:18 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-03.md
+2026-06-03 04:01:18 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-03 08:00:43 [INFO] ========================================
+2026-06-03 08:00:43 [INFO] 🔍 AI Research Cron 启动
+2026-06-03 08:00:43 [INFO] ========================================
+2026-06-03 08:00:43 [INFO] 开始时间: Wed Jun  3 08:00:43 CST 2026
+2026-06-03 08:00:43 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-03 08:00:43 [INFO] ----------------------------------------
+2026-06-03 08:00:43 [INFO] 主题: AI news
+2026-06-03 08:00:43 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-03 08:01:43 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260603-080043.json
+2026-06-03 08:01:43 [INFO] 分析结果: AI news
+2026-06-03 08:01:43 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260603-080043.md
+2026-06-03 08:01:43 [INFO] ----------------------------------------
+2026-06-03 08:01:43 [INFO] 主题: Claude AI
+2026-06-03 08:01:43 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-03 08:01:44 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260603-080043.json
+2026-06-03 08:01:44 [INFO] 分析结果: Claude AI
+2026-06-03 08:01:44 [INFO] 找到 26 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260603-080043.md
+2026-06-03 08:01:44 [INFO] ----------------------------------------
+2026-06-03 08:01:44 [INFO] 主题: AI tools
+2026-06-03 08:01:44 [INFO] 搜索: AI tools 2026 best new software
+2026-06-03 08:01:45 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260603-080043.json
+2026-06-03 08:01:45 [INFO] 分析结果: AI tools
+2026-06-03 08:01:45 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260603-080043.md
+2026-06-03 08:01:45 [INFO] ----------------------------------------
+2026-06-03 08:01:45 [INFO] 主题: multimodal AI
+2026-06-03 08:01:45 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-03 08:01:46 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260603-080043.json
+2026-06-03 08:01:46 [INFO] 分析结果: multimodal AI
+2026-06-03 08:01:46 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260603-080043.md
+2026-06-03 08:01:46 [INFO] ----------------------------------------
+2026-06-03 08:01:46 [INFO] 主题: AI prompt engineering
+2026-06-03 08:01:46 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-03 08:01:47 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260603-080043.json
+2026-06-03 08:01:47 [INFO] 分析结果: AI prompt engineering
+2026-06-03 08:01:47 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260603-080043.md
+2026-06-03 08:01:47 [INFO] ----------------------------------------
+2026-06-03 08:01:47 [INFO] 主题: OpenAI
+2026-06-03 08:01:47 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-03 08:01:49 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260603-080043.json
+2026-06-03 08:01:49 [INFO] 分析结果: OpenAI
+2026-06-03 08:01:49 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260603-080043.md
+2026-06-03 08:01:49 [INFO] ----------------------------------------
+2026-06-03 08:01:49 [INFO] 主题: AI agents
+2026-06-03 08:01:49 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-03 08:01:50 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260603-080043.json
+2026-06-03 08:01:50 [INFO] 分析结果: AI agents
+2026-06-03 08:01:50 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260603-080043.md
+2026-06-03 08:01:50 [INFO] ----------------------------------------
+2026-06-03 08:01:50 [INFO] 主题: AI coding
+2026-06-03 08:01:50 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-03 08:01:51 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260603-080043.json
+2026-06-03 08:01:51 [INFO] 分析结果: AI coding
+2026-06-03 08:01:51 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260603-080043.md
+2026-06-03 08:01:51 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-03.md
+2026-06-03 08:01:51 [INFO] ========================================
+2026-06-03 08:01:51 [INFO] ✅ AI Research Cron 完成
+2026-06-03 08:01:51 [INFO] ========================================
+2026-06-03 08:01:51 [INFO] 完成时间: Wed Jun  3 08:01:51 CST 2026
+2026-06-03 08:01:51 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-03.md
+2026-06-03 08:01:51 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-04 04:00:17 [INFO] ========================================
+2026-06-04 04:00:17 [INFO] 🔍 AI Research Cron 启动
+2026-06-04 04:00:17 [INFO] ========================================
+2026-06-04 04:00:17 [INFO] 开始时间: Thu Jun  4 04:00:17 CST 2026
+2026-06-04 04:00:17 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-04 04:00:17 [INFO] ----------------------------------------
+2026-06-04 04:00:17 [INFO] 主题: AI news
+2026-06-04 04:00:17 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-04 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260604-040017.json
+2026-06-04 04:01:17 [INFO] 分析结果: AI news
+2026-06-04 04:01:17 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260604-040017.md
+2026-06-04 04:01:17 [INFO] ----------------------------------------
+2026-06-04 04:01:17 [INFO] 主题: Claude AI
+2026-06-04 04:01:17 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-04 04:01:19 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260604-040017.json
+2026-06-04 04:01:19 [INFO] 分析结果: Claude AI
+2026-06-04 04:01:19 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260604-040017.md
+2026-06-04 04:01:19 [INFO] ----------------------------------------
+2026-06-04 04:01:19 [INFO] 主题: AI tools
+2026-06-04 04:01:19 [INFO] 搜索: AI tools 2026 best new software
+2026-06-04 04:01:20 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260604-040017.json
+2026-06-04 04:01:20 [INFO] 分析结果: AI tools
+2026-06-04 04:01:20 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260604-040017.md
+2026-06-04 04:01:20 [INFO] ----------------------------------------
+2026-06-04 04:01:20 [INFO] 主题: multimodal AI
+2026-06-04 04:01:20 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-04 04:01:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260604-040017.json
+2026-06-04 04:01:22 [INFO] 分析结果: multimodal AI
+2026-06-04 04:01:22 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260604-040017.md
+2026-06-04 04:01:22 [INFO] ----------------------------------------
+2026-06-04 04:01:22 [INFO] 主题: AI prompt engineering
+2026-06-04 04:01:22 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-04 04:01:23 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260604-040017.json
+2026-06-04 04:01:23 [INFO] 分析结果: AI prompt engineering
+2026-06-04 04:01:23 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260604-040017.md
+2026-06-04 04:01:23 [INFO] ----------------------------------------
+2026-06-04 04:01:23 [INFO] 主题: OpenAI
+2026-06-04 04:01:23 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-04 04:01:24 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260604-040017.json
+2026-06-04 04:01:24 [INFO] 分析结果: OpenAI
+2026-06-04 04:01:24 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260604-040017.md
+2026-06-04 04:01:24 [INFO] ----------------------------------------
+2026-06-04 04:01:24 [INFO] 主题: AI agents
+2026-06-04 04:01:24 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-04 04:01:25 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260604-040017.json
+2026-06-04 04:01:25 [INFO] 分析结果: AI agents
+2026-06-04 04:01:25 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260604-040017.md
+2026-06-04 04:01:25 [INFO] ----------------------------------------
+2026-06-04 04:01:25 [INFO] 主题: AI coding
+2026-06-04 04:01:25 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-04 04:01:27 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260604-040017.json
+2026-06-04 04:01:27 [INFO] 分析结果: AI coding
+2026-06-04 04:01:27 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260604-040017.md
+2026-06-04 04:01:27 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-04.md
+2026-06-04 04:01:27 [INFO] ========================================
+2026-06-04 04:01:27 [INFO] ✅ AI Research Cron 完成
+2026-06-04 04:01:27 [INFO] ========================================
+2026-06-04 04:01:27 [INFO] 完成时间: Thu Jun  4 04:01:27 CST 2026
+2026-06-04 04:01:27 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-04.md
+2026-06-04 04:01:27 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-05 04:00:08 [INFO] ========================================
+2026-06-05 04:00:08 [INFO] 🔍 AI Research Cron 启动
+2026-06-05 04:00:08 [INFO] ========================================
+2026-06-05 04:00:08 [INFO] 开始时间: Fri Jun  5 04:00:08 CST 2026
+2026-06-05 04:00:08 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-05 04:00:08 [INFO] ----------------------------------------
+2026-06-05 04:00:08 [INFO] 主题: AI news
+2026-06-05 04:00:08 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-05 04:01:09 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260605-040008.json
+2026-06-05 04:01:09 [INFO] 分析结果: AI news
+2026-06-05 04:01:09 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260605-040008.md
+2026-06-05 04:01:09 [INFO] ----------------------------------------
+2026-06-05 04:01:09 [INFO] 主题: Claude AI
+2026-06-05 04:01:09 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-05 04:01:10 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260605-040008.json
+2026-06-05 04:01:10 [INFO] 分析结果: Claude AI
+2026-06-05 04:01:10 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260605-040008.md
+2026-06-05 04:01:10 [INFO] ----------------------------------------
+2026-06-05 04:01:10 [INFO] 主题: AI tools
+2026-06-05 04:01:10 [INFO] 搜索: AI tools 2026 best new software
+2026-06-05 04:01:13 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260605-040008.json
+2026-06-05 04:01:13 [INFO] 分析结果: AI tools
+2026-06-05 04:01:13 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260605-040008.md
+2026-06-05 04:01:13 [INFO] ----------------------------------------
+2026-06-05 04:01:13 [INFO] 主题: multimodal AI
+2026-06-05 04:01:13 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-05 04:01:14 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260605-040008.json
+2026-06-05 04:01:14 [INFO] 分析结果: multimodal AI
+2026-06-05 04:01:14 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260605-040008.md
+2026-06-05 04:01:14 [INFO] ----------------------------------------
+2026-06-05 04:01:14 [INFO] 主题: AI prompt engineering
+2026-06-05 04:01:14 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-05 04:01:16 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260605-040008.json
+2026-06-05 04:01:16 [INFO] 分析结果: AI prompt engineering
+2026-06-05 04:01:16 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260605-040008.md
+2026-06-05 04:01:16 [INFO] ----------------------------------------
+2026-06-05 04:01:16 [INFO] 主题: OpenAI
+2026-06-05 04:01:16 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-05 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260605-040008.json
+2026-06-05 04:01:17 [INFO] 分析结果: OpenAI
+2026-06-05 04:01:17 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260605-040008.md
+2026-06-05 04:01:17 [INFO] ----------------------------------------
+2026-06-05 04:01:17 [INFO] 主题: AI agents
+2026-06-05 04:01:17 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-05 04:01:18 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260605-040008.json
+2026-06-05 04:01:18 [INFO] 分析结果: AI agents
+2026-06-05 04:01:18 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260605-040008.md
+2026-06-05 04:01:18 [INFO] ----------------------------------------
+2026-06-05 04:01:18 [INFO] 主题: AI coding
+2026-06-05 04:01:18 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-05 04:01:19 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260605-040008.json
+2026-06-05 04:01:19 [INFO] 分析结果: AI coding
+2026-06-05 04:01:19 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260605-040008.md
+2026-06-05 04:01:19 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-05.md
+2026-06-05 04:01:19 [INFO] ========================================
+2026-06-05 04:01:19 [INFO] ✅ AI Research Cron 完成
+2026-06-05 04:01:19 [INFO] ========================================
+2026-06-05 04:01:19 [INFO] 完成时间: Fri Jun  5 04:01:19 CST 2026
+2026-06-05 04:01:19 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-05.md
+2026-06-05 04:01:19 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+[2026-06-05 22:00:12] Twitter search failed - credits exhausted
+2026-06-06 02:30:53 [INFO] ========================================
+2026-06-06 02:30:53 [INFO] 🔍 AI Research Cron 启动
+2026-06-06 02:30:53 [INFO] ========================================
+2026-06-06 02:30:53 [INFO] 开始时间: Sat Jun  6 02:30:53 CST 2026
+2026-06-06 02:30:53 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-06 02:30:53 [INFO] ----------------------------------------
+2026-06-06 02:30:53 [INFO] 主题: AI news
+2026-06-06 02:30:53 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-06 02:31:53 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260606-023053.json
+2026-06-06 02:31:53 [INFO] 分析结果: AI news
+2026-06-06 02:31:53 [INFO] 找到 17 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260606-023053.md
+2026-06-06 02:31:53 [INFO] ----------------------------------------
+2026-06-06 02:31:53 [INFO] 主题: Claude AI
+2026-06-06 02:31:53 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-06 02:31:54 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260606-023053.json
+2026-06-06 02:31:54 [INFO] 分析结果: Claude AI
+2026-06-06 02:31:55 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260606-023053.md
+2026-06-06 02:31:55 [INFO] ----------------------------------------
+2026-06-06 02:31:55 [INFO] 主题: AI tools
+2026-06-06 02:31:55 [INFO] 搜索: AI tools 2026 best new software
+2026-06-06 02:31:57 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260606-023053.json
+2026-06-06 02:31:57 [INFO] 分析结果: AI tools
+2026-06-06 02:31:57 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260606-023053.md
+2026-06-06 02:31:57 [INFO] ----------------------------------------
+2026-06-06 02:31:57 [INFO] 主题: multimodal AI
+2026-06-06 02:31:57 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-06 02:31:58 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260606-023053.json
+2026-06-06 02:31:58 [INFO] 分析结果: multimodal AI
+2026-06-06 02:31:58 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260606-023053.md
+2026-06-06 02:31:58 [INFO] ----------------------------------------
+2026-06-06 02:31:58 [INFO] 主题: AI prompt engineering
+2026-06-06 02:31:58 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-06 02:31:59 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260606-023053.json
+2026-06-06 02:31:59 [INFO] 分析结果: AI prompt engineering
+2026-06-06 02:31:59 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260606-023053.md
+2026-06-06 02:31:59 [INFO] ----------------------------------------
+2026-06-06 02:31:59 [INFO] 主题: OpenAI
+2026-06-06 02:31:59 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-06 02:32:00 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260606-023053.json
+2026-06-06 02:32:00 [INFO] 分析结果: OpenAI
+2026-06-06 02:32:00 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260606-023053.md
+2026-06-06 02:32:00 [INFO] ----------------------------------------
+2026-06-06 02:32:00 [INFO] 主题: AI agents
+2026-06-06 02:32:00 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-06 02:32:00 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260606-023053.json
+2026-06-06 02:32:00 [INFO] 分析结果: AI agents
+2026-06-06 02:32:01 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260606-023053.md
+2026-06-06 02:32:01 [INFO] ----------------------------------------
+2026-06-06 02:32:01 [INFO] 主题: AI coding
+2026-06-06 02:32:01 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-06 02:32:01 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260606-023053.json
+2026-06-06 02:32:01 [INFO] 分析结果: AI coding
+2026-06-06 02:32:01 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260606-023053.md
+2026-06-06 02:32:01 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-06.md
+2026-06-06 02:32:01 [INFO] ========================================
+2026-06-06 02:32:01 [INFO] ✅ AI Research Cron 完成
+2026-06-06 02:32:01 [INFO] ========================================
+2026-06-06 02:32:01 [INFO] 完成时间: Sat Jun  6 02:32:01 CST 2026
+2026-06-06 02:32:01 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-06.md
+2026-06-06 02:32:01 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-06 03:01:01 [INFO] ========================================
+2026-06-06 03:01:01 [INFO] 🔍 AI Research Cron 启动
+2026-06-06 03:01:01 [INFO] ========================================
+2026-06-06 03:01:01 [INFO] 开始时间: Sat Jun  6 03:01:01 CST 2026
+2026-06-06 03:01:01 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-06 03:01:01 [INFO] ----------------------------------------
+2026-06-06 03:01:01 [INFO] 主题: AI news
+2026-06-06 03:01:01 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-06 03:02:01 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260606-030101.json
+2026-06-06 03:02:01 [INFO] 分析结果: AI news
+2026-06-06 03:02:01 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260606-030101.md
+2026-06-06 03:02:01 [INFO] ----------------------------------------
+2026-06-06 03:02:01 [INFO] 主题: Claude AI
+2026-06-06 03:02:01 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-06 03:02:02 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260606-030101.json
+2026-06-06 03:02:02 [INFO] 分析结果: Claude AI
+2026-06-06 03:02:02 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260606-030101.md
+2026-06-06 03:02:02 [INFO] ----------------------------------------
+2026-06-06 03:02:02 [INFO] 主题: AI tools
+2026-06-06 03:02:02 [INFO] 搜索: AI tools 2026 best new software
+2026-06-06 03:02:03 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260606-030101.json
+2026-06-06 03:02:03 [INFO] 分析结果: AI tools
+2026-06-06 03:02:03 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260606-030101.md
+2026-06-06 03:02:03 [INFO] ----------------------------------------
+2026-06-06 03:02:03 [INFO] 主题: multimodal AI
+2026-06-06 03:02:03 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-06 03:02:04 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260606-030101.json
+2026-06-06 03:02:04 [INFO] 分析结果: multimodal AI
+2026-06-06 03:02:04 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260606-030101.md
+2026-06-06 03:02:04 [INFO] ----------------------------------------
+2026-06-06 03:02:04 [INFO] 主题: AI prompt engineering
+2026-06-06 03:02:04 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-06 03:02:06 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260606-030101.json
+2026-06-06 03:02:06 [INFO] 分析结果: AI prompt engineering
+2026-06-06 03:02:06 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260606-030101.md
+2026-06-06 03:02:06 [INFO] ----------------------------------------
+2026-06-06 03:02:06 [INFO] 主题: OpenAI
+2026-06-06 03:02:06 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-06 03:02:07 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260606-030101.json
+2026-06-06 03:02:07 [INFO] 分析结果: OpenAI
+2026-06-06 03:02:07 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260606-030101.md
+2026-06-06 03:02:07 [INFO] ----------------------------------------
+2026-06-06 03:02:07 [INFO] 主题: AI agents
+2026-06-06 03:02:07 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-06 03:02:08 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260606-030101.json
+2026-06-06 03:02:08 [INFO] 分析结果: AI agents
+2026-06-06 03:02:08 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260606-030101.md
+2026-06-06 03:02:08 [INFO] ----------------------------------------
+2026-06-06 03:02:08 [INFO] 主题: AI coding
+2026-06-06 03:02:08 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-06 03:02:10 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260606-030101.json
+2026-06-06 03:02:10 [INFO] 分析结果: AI coding
+2026-06-06 03:02:10 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260606-030101.md
+2026-06-06 03:02:10 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-06.md
+2026-06-06 03:02:10 [INFO] ========================================
+2026-06-06 03:02:10 [INFO] ✅ AI Research Cron 完成
+2026-06-06 03:02:10 [INFO] ========================================
+2026-06-06 03:02:10 [INFO] 完成时间: Sat Jun  6 03:02:10 CST 2026
+2026-06-06 03:02:10 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-06.md
+2026-06-06 03:02:10 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-06 04:00:10 [INFO] ========================================
+2026-06-06 04:00:10 [INFO] 🔍 AI Research Cron 启动
+2026-06-06 04:00:10 [INFO] ========================================
+2026-06-06 04:00:10 [INFO] 开始时间: Sat Jun  6 04:00:10 CST 2026
+2026-06-06 04:00:10 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-06 04:00:10 [INFO] ----------------------------------------
+2026-06-06 04:00:10 [INFO] 主题: AI news
+2026-06-06 04:00:10 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-06 04:01:10 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260606-040010.json
+2026-06-06 04:01:10 [INFO] 分析结果: AI news
+2026-06-06 04:01:10 [INFO] 找到 17 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260606-040010.md
+2026-06-06 04:01:10 [INFO] ----------------------------------------
+2026-06-06 04:01:10 [INFO] 主题: Claude AI
+2026-06-06 04:01:10 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-06 04:01:13 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260606-040010.json
+2026-06-06 04:01:13 [INFO] 分析结果: Claude AI
+2026-06-06 04:01:13 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260606-040010.md
+2026-06-06 04:01:13 [INFO] ----------------------------------------
+2026-06-06 04:01:13 [INFO] 主题: AI tools
+2026-06-06 04:01:13 [INFO] 搜索: AI tools 2026 best new software
+2026-06-06 04:01:14 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260606-040010.json
+2026-06-06 04:01:14 [INFO] 分析结果: AI tools
+2026-06-06 04:01:14 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260606-040010.md
+2026-06-06 04:01:14 [INFO] ----------------------------------------
+2026-06-06 04:01:14 [INFO] 主题: multimodal AI
+2026-06-06 04:01:14 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-06 04:01:16 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260606-040010.json
+2026-06-06 04:01:16 [INFO] 分析结果: multimodal AI
+2026-06-06 04:01:16 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260606-040010.md
+2026-06-06 04:01:16 [INFO] ----------------------------------------
+2026-06-06 04:01:16 [INFO] 主题: AI prompt engineering
+2026-06-06 04:01:16 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-06 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260606-040010.json
+2026-06-06 04:01:17 [INFO] 分析结果: AI prompt engineering
+2026-06-06 04:01:17 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260606-040010.md
+2026-06-06 04:01:17 [INFO] ----------------------------------------
+2026-06-06 04:01:17 [INFO] 主题: OpenAI
+2026-06-06 04:01:17 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-06 04:01:19 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260606-040010.json
+2026-06-06 04:01:19 [INFO] 分析结果: OpenAI
+2026-06-06 04:01:19 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260606-040010.md
+2026-06-06 04:01:19 [INFO] ----------------------------------------
+2026-06-06 04:01:19 [INFO] 主题: AI agents
+2026-06-06 04:01:19 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-06 04:01:21 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260606-040010.json
+2026-06-06 04:01:21 [INFO] 分析结果: AI agents
+2026-06-06 04:01:21 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260606-040010.md
+2026-06-06 04:01:21 [INFO] ----------------------------------------
+2026-06-06 04:01:21 [INFO] 主题: AI coding
+2026-06-06 04:01:21 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-06 04:01:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260606-040010.json
+2026-06-06 04:01:22 [INFO] 分析结果: AI coding
+2026-06-06 04:01:22 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260606-040010.md
+2026-06-06 04:01:22 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-06.md
+2026-06-06 04:01:22 [INFO] ========================================
+2026-06-06 04:01:22 [INFO] ✅ AI Research Cron 完成
+2026-06-06 04:01:22 [INFO] ========================================
+2026-06-06 04:01:22 [INFO] 完成时间: Sat Jun  6 04:01:22 CST 2026
+2026-06-06 04:01:22 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-06.md
+2026-06-06 04:01:22 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-07 04:00:08 [INFO] ========================================
+2026-06-07 04:00:08 [INFO] 🔍 AI Research Cron 启动
+2026-06-07 04:00:08 [INFO] ========================================
+2026-06-07 04:00:08 [INFO] 开始时间: Sun Jun  7 04:00:08 CST 2026
+2026-06-07 04:00:08 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-07 04:00:08 [INFO] ----------------------------------------
+2026-06-07 04:00:08 [INFO] 主题: AI news
+2026-06-07 04:00:08 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-07 04:01:08 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260607-040008.json
+2026-06-07 04:01:08 [INFO] 分析结果: AI news
+2026-06-07 04:01:08 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260607-040008.md
+2026-06-07 04:01:08 [INFO] ----------------------------------------
+2026-06-07 04:01:08 [INFO] 主题: Claude AI
+2026-06-07 04:01:08 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-07 04:01:09 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260607-040008.json
+2026-06-07 04:01:09 [INFO] 分析结果: Claude AI
+2026-06-07 04:01:09 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260607-040008.md
+2026-06-07 04:01:09 [INFO] ----------------------------------------
+2026-06-07 04:01:09 [INFO] 主题: AI tools
+2026-06-07 04:01:09 [INFO] 搜索: AI tools 2026 best new software
+2026-06-07 04:01:11 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260607-040008.json
+2026-06-07 04:01:11 [INFO] 分析结果: AI tools
+2026-06-07 04:01:11 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260607-040008.md
+2026-06-07 04:01:11 [INFO] ----------------------------------------
+2026-06-07 04:01:11 [INFO] 主题: multimodal AI
+2026-06-07 04:01:11 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-07 04:01:12 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260607-040008.json
+2026-06-07 04:01:12 [INFO] 分析结果: multimodal AI
+2026-06-07 04:01:12 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260607-040008.md
+2026-06-07 04:01:12 [INFO] ----------------------------------------
+2026-06-07 04:01:12 [INFO] 主题: AI prompt engineering
+2026-06-07 04:01:12 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-07 04:01:13 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260607-040008.json
+2026-06-07 04:01:13 [INFO] 分析结果: AI prompt engineering
+2026-06-07 04:01:13 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260607-040008.md
+2026-06-07 04:01:13 [INFO] ----------------------------------------
+2026-06-07 04:01:13 [INFO] 主题: OpenAI
+2026-06-07 04:01:13 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-07 04:01:15 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260607-040008.json
+2026-06-07 04:01:15 [INFO] 分析结果: OpenAI
+2026-06-07 04:01:15 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260607-040008.md
+2026-06-07 04:01:15 [INFO] ----------------------------------------
+2026-06-07 04:01:15 [INFO] 主题: AI agents
+2026-06-07 04:01:15 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-07 04:01:16 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260607-040008.json
+2026-06-07 04:01:16 [INFO] 分析结果: AI agents
+2026-06-07 04:01:16 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260607-040008.md
+2026-06-07 04:01:16 [INFO] ----------------------------------------
+2026-06-07 04:01:16 [INFO] 主题: AI coding
+2026-06-07 04:01:16 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-07 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260607-040008.json
+2026-06-07 04:01:17 [INFO] 分析结果: AI coding
+2026-06-07 04:01:17 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260607-040008.md
+2026-06-07 04:01:17 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-07.md
+2026-06-07 04:01:17 [INFO] ========================================
+2026-06-07 04:01:17 [INFO] ✅ AI Research Cron 完成
+2026-06-07 04:01:17 [INFO] ========================================
+2026-06-07 04:01:17 [INFO] 完成时间: Sun Jun  7 04:01:17 CST 2026
+2026-06-07 04:01:17 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-07.md
+2026-06-07 04:01:17 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-08 03:30:36 [INFO] ========================================
+2026-06-08 03:30:36 [INFO] 🔍 AI Research Cron 启动
+2026-06-08 03:30:36 [INFO] ========================================
+2026-06-08 03:30:36 [INFO] 开始时间: Mon Jun  8 03:30:36 CST 2026
+2026-06-08 03:30:36 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-08 03:30:36 [INFO] ----------------------------------------
+2026-06-08 03:30:36 [INFO] 主题: AI news
+2026-06-08 03:30:36 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-08 03:31:36 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260608-033036.json
+2026-06-08 03:31:36 [INFO] 分析结果: AI news
+2026-06-08 03:31:36 [INFO] 找到 18 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260608-033036.md
+2026-06-08 03:31:36 [INFO] ----------------------------------------
+2026-06-08 03:31:36 [INFO] 主题: Claude AI
+2026-06-08 03:31:36 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-08 03:31:38 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260608-033036.json
+2026-06-08 03:31:38 [INFO] 分析结果: Claude AI
+2026-06-08 03:31:38 [INFO] 找到 28 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260608-033036.md
+2026-06-08 03:31:38 [INFO] ----------------------------------------
+2026-06-08 03:31:38 [INFO] 主题: AI tools
+2026-06-08 03:31:38 [INFO] 搜索: AI tools 2026 best new software
+2026-06-08 03:31:38 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260608-033036.json
+2026-06-08 03:31:39 [INFO] 分析结果: AI tools
+2026-06-08 03:31:39 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260608-033036.md
+2026-06-08 03:31:39 [INFO] ----------------------------------------
+2026-06-08 03:31:39 [INFO] 主题: multimodal AI
+2026-06-08 03:31:39 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-08 03:31:40 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260608-033036.json
+2026-06-08 03:31:40 [INFO] 分析结果: multimodal AI
+2026-06-08 03:31:40 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260608-033036.md
+2026-06-08 03:31:40 [INFO] ----------------------------------------
+2026-06-08 03:31:40 [INFO] 主题: AI prompt engineering
+2026-06-08 03:31:40 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-08 03:31:42 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260608-033036.json
+2026-06-08 03:31:42 [INFO] 分析结果: AI prompt engineering
+2026-06-08 03:31:42 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260608-033036.md
+2026-06-08 03:31:42 [INFO] ----------------------------------------
+2026-06-08 03:31:42 [INFO] 主题: OpenAI
+2026-06-08 03:31:42 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-08 03:31:43 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260608-033036.json
+2026-06-08 03:31:43 [INFO] 分析结果: OpenAI
+2026-06-08 03:31:43 [INFO] 找到 19 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260608-033036.md
+2026-06-08 03:31:43 [INFO] ----------------------------------------
+2026-06-08 03:31:43 [INFO] 主题: AI agents
+2026-06-08 03:31:43 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-08 03:31:45 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260608-033036.json
+2026-06-08 03:31:45 [INFO] 分析结果: AI agents
+2026-06-08 03:31:45 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260608-033036.md
+2026-06-08 03:31:45 [INFO] ----------------------------------------
+2026-06-08 03:31:45 [INFO] 主题: AI coding
+2026-06-08 03:31:45 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-08 03:31:45 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260608-033036.json
+2026-06-08 03:31:45 [INFO] 分析结果: AI coding
+2026-06-08 03:31:46 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260608-033036.md
+2026-06-08 03:31:46 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-08.md
+2026-06-08 03:31:46 [INFO] ========================================
+2026-06-08 03:31:46 [INFO] ✅ AI Research Cron 完成
+2026-06-08 03:31:46 [INFO] ========================================
+2026-06-08 03:31:46 [INFO] 完成时间: Mon Jun  8 03:31:46 CST 2026
+2026-06-08 03:31:46 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-08.md
+2026-06-08 03:31:46 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-08 04:00:17 [INFO] ========================================
+2026-06-08 04:00:17 [INFO] 🔍 AI Research Cron 启动
+2026-06-08 04:00:17 [INFO] ========================================
+2026-06-08 04:00:17 [INFO] 开始时间: Mon Jun  8 04:00:17 CST 2026
+2026-06-08 04:00:17 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-08 04:00:17 [INFO] ----------------------------------------
+2026-06-08 04:00:17 [INFO] 主题: AI news
+2026-06-08 04:00:17 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-08 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260608-040017.json
+2026-06-08 04:01:17 [INFO] 分析结果: AI news
+2026-06-08 04:01:17 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260608-040017.md
+2026-06-08 04:01:17 [INFO] ----------------------------------------
+2026-06-08 04:01:17 [INFO] 主题: Claude AI
+2026-06-08 04:01:17 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-08 04:01:18 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260608-040017.json
+2026-06-08 04:01:18 [INFO] 分析结果: Claude AI
+2026-06-08 04:01:18 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260608-040017.md
+2026-06-08 04:01:18 [INFO] ----------------------------------------
+2026-06-08 04:01:18 [INFO] 主题: AI tools
+2026-06-08 04:01:18 [INFO] 搜索: AI tools 2026 best new software
+2026-06-08 04:01:19 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260608-040017.json
+2026-06-08 04:01:19 [INFO] 分析结果: AI tools
+2026-06-08 04:01:19 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260608-040017.md
+2026-06-08 04:01:19 [INFO] ----------------------------------------
+2026-06-08 04:01:19 [INFO] 主题: multimodal AI
+2026-06-08 04:01:19 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-08 04:01:21 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260608-040017.json
+2026-06-08 04:01:21 [INFO] 分析结果: multimodal AI
+2026-06-08 04:01:21 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260608-040017.md
+2026-06-08 04:01:21 [INFO] ----------------------------------------
+2026-06-08 04:01:21 [INFO] 主题: AI prompt engineering
+2026-06-08 04:01:21 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-08 04:01:21 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260608-040017.json
+2026-06-08 04:01:21 [INFO] 分析结果: AI prompt engineering
+2026-06-08 04:01:21 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260608-040017.md
+2026-06-08 04:01:21 [INFO] ----------------------------------------
+2026-06-08 04:01:21 [INFO] 主题: OpenAI
+2026-06-08 04:01:21 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-08 04:01:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260608-040017.json
+2026-06-08 04:01:22 [INFO] 分析结果: OpenAI
+2026-06-08 04:01:22 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260608-040017.md
+2026-06-08 04:01:22 [INFO] ----------------------------------------
+2026-06-08 04:01:22 [INFO] 主题: AI agents
+2026-06-08 04:01:22 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-08 04:01:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260608-040017.json
+2026-06-08 04:01:22 [INFO] 分析结果: AI agents
+2026-06-08 04:01:22 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260608-040017.md
+2026-06-08 04:01:22 [INFO] ----------------------------------------
+2026-06-08 04:01:22 [INFO] 主题: AI coding
+2026-06-08 04:01:22 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-08 04:01:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260608-040017.json
+2026-06-08 04:01:22 [INFO] 分析结果: AI coding
+2026-06-08 04:01:22 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260608-040017.md
+2026-06-08 04:01:22 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-08.md
+2026-06-08 04:01:22 [INFO] ========================================
+2026-06-08 04:01:22 [INFO] ✅ AI Research Cron 完成
+2026-06-08 04:01:22 [INFO] ========================================
+2026-06-08 04:01:22 [INFO] 完成时间: Mon Jun  8 04:01:22 CST 2026
+2026-06-08 04:01:22 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-08.md
+2026-06-08 04:01:22 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-09 04:00:23 [INFO] ========================================
+2026-06-09 04:00:23 [INFO] 🔍 AI Research Cron 启动
+2026-06-09 04:00:23 [INFO] ========================================
+2026-06-09 04:00:23 [INFO] 开始时间: Tue Jun  9 04:00:23 CST 2026
+2026-06-09 04:00:23 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-09 04:00:23 [INFO] ----------------------------------------
+2026-06-09 04:00:23 [INFO] 主题: AI news
+2026-06-09 04:00:23 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-09 04:01:23 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260609-040023.json
+2026-06-09 04:01:23 [INFO] 分析结果: AI news
+2026-06-09 04:01:23 [INFO] 找到 18 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260609-040023.md
+2026-06-09 04:01:23 [INFO] ----------------------------------------
+2026-06-09 04:01:23 [INFO] 主题: Claude AI
+2026-06-09 04:01:23 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-09 04:01:24 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260609-040023.json
+2026-06-09 04:01:24 [INFO] 分析结果: Claude AI
+2026-06-09 04:01:24 [INFO] 找到 28 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260609-040023.md
+2026-06-09 04:01:24 [INFO] ----------------------------------------
+2026-06-09 04:01:24 [INFO] 主题: AI tools
+2026-06-09 04:01:24 [INFO] 搜索: AI tools 2026 best new software
+2026-06-09 04:01:25 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260609-040023.json
+2026-06-09 04:01:25 [INFO] 分析结果: AI tools
+2026-06-09 04:01:25 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260609-040023.md
+2026-06-09 04:01:25 [INFO] ----------------------------------------
+2026-06-09 04:01:25 [INFO] 主题: multimodal AI
+2026-06-09 04:01:25 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-09 04:01:26 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260609-040023.json
+2026-06-09 04:01:26 [INFO] 分析结果: multimodal AI
+2026-06-09 04:01:26 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260609-040023.md
+2026-06-09 04:01:26 [INFO] ----------------------------------------
+2026-06-09 04:01:26 [INFO] 主题: AI prompt engineering
+2026-06-09 04:01:26 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-09 04:01:27 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260609-040023.json
+2026-06-09 04:01:27 [INFO] 分析结果: AI prompt engineering
+2026-06-09 04:01:27 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260609-040023.md
+2026-06-09 04:01:27 [INFO] ----------------------------------------
+2026-06-09 04:01:27 [INFO] 主题: OpenAI
+2026-06-09 04:01:27 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-09 04:01:29 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260609-040023.json
+2026-06-09 04:01:29 [INFO] 分析结果: OpenAI
+2026-06-09 04:01:29 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260609-040023.md
+2026-06-09 04:01:29 [INFO] ----------------------------------------
+2026-06-09 04:01:29 [INFO] 主题: AI agents
+2026-06-09 04:01:29 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-09 04:01:30 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260609-040023.json
+2026-06-09 04:01:30 [INFO] 分析结果: AI agents
+2026-06-09 04:01:30 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260609-040023.md
+2026-06-09 04:01:30 [INFO] ----------------------------------------
+2026-06-09 04:01:30 [INFO] 主题: AI coding
+2026-06-09 04:01:30 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-09 04:01:31 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260609-040023.json
+2026-06-09 04:01:31 [INFO] 分析结果: AI coding
+2026-06-09 04:01:31 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260609-040023.md
+2026-06-09 04:01:31 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-09.md
+2026-06-09 04:01:31 [INFO] ========================================
+2026-06-09 04:01:31 [INFO] ✅ AI Research Cron 完成
+2026-06-09 04:01:31 [INFO] ========================================
+2026-06-09 04:01:31 [INFO] 完成时间: Tue Jun  9 04:01:31 CST 2026
+2026-06-09 04:01:31 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-09.md
+2026-06-09 04:01:31 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-10 04:00:10 [INFO] ========================================
+2026-06-10 04:00:10 [INFO] 🔍 AI Research Cron 启动
+2026-06-10 04:00:10 [INFO] ========================================
+2026-06-10 04:00:10 [INFO] 开始时间: Wed Jun 10 04:00:10 CST 2026
+2026-06-10 04:00:10 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-10 04:00:10 [INFO] ----------------------------------------
+2026-06-10 04:00:10 [INFO] 主题: AI news
+2026-06-10 04:00:10 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-10 04:01:10 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260610-040010.json
+2026-06-10 04:01:10 [INFO] 分析结果: AI news
+2026-06-10 04:01:10 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260610-040010.md
+2026-06-10 04:01:10 [INFO] ----------------------------------------
+2026-06-10 04:01:10 [INFO] 主题: Claude AI
+2026-06-10 04:01:10 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-10 04:01:12 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260610-040010.json
+2026-06-10 04:01:12 [INFO] 分析结果: Claude AI
+2026-06-10 04:01:12 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260610-040010.md
+2026-06-10 04:01:12 [INFO] ----------------------------------------
+2026-06-10 04:01:12 [INFO] 主题: AI tools
+2026-06-10 04:01:12 [INFO] 搜索: AI tools 2026 best new software
+2026-06-10 04:01:14 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260610-040010.json
+2026-06-10 04:01:14 [INFO] 分析结果: AI tools
+2026-06-10 04:01:14 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260610-040010.md
+2026-06-10 04:01:14 [INFO] ----------------------------------------
+2026-06-10 04:01:14 [INFO] 主题: multimodal AI
+2026-06-10 04:01:14 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-10 04:01:15 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260610-040010.json
+2026-06-10 04:01:15 [INFO] 分析结果: multimodal AI
+2026-06-10 04:01:15 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260610-040010.md
+2026-06-10 04:01:15 [INFO] ----------------------------------------
+2026-06-10 04:01:15 [INFO] 主题: AI prompt engineering
+2026-06-10 04:01:15 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-10 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260610-040010.json
+2026-06-10 04:01:17 [INFO] 分析结果: AI prompt engineering
+2026-06-10 04:01:17 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260610-040010.md
+2026-06-10 04:01:17 [INFO] ----------------------------------------
+2026-06-10 04:01:17 [INFO] 主题: OpenAI
+2026-06-10 04:01:17 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-10 04:01:19 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260610-040010.json
+2026-06-10 04:01:19 [INFO] 分析结果: OpenAI
+2026-06-10 04:01:19 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260610-040010.md
+2026-06-10 04:01:19 [INFO] ----------------------------------------
+2026-06-10 04:01:19 [INFO] 主题: AI agents
+2026-06-10 04:01:19 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-10 04:01:20 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260610-040010.json
+2026-06-10 04:01:20 [INFO] 分析结果: AI agents
+2026-06-10 04:01:20 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260610-040010.md
+2026-06-10 04:01:20 [INFO] ----------------------------------------
+2026-06-10 04:01:20 [INFO] 主题: AI coding
+2026-06-10 04:01:20 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-10 04:01:23 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260610-040010.json
+2026-06-10 04:01:23 [INFO] 分析结果: AI coding
+2026-06-10 04:01:23 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260610-040010.md
+2026-06-10 04:01:23 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-10.md
+2026-06-10 04:01:23 [INFO] ========================================
+2026-06-10 04:01:23 [INFO] ✅ AI Research Cron 完成
+2026-06-10 04:01:23 [INFO] ========================================
+2026-06-10 04:01:23 [INFO] 完成时间: Wed Jun 10 04:01:23 CST 2026
+2026-06-10 04:01:23 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-10.md
+2026-06-10 04:01:23 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-11 03:00:41 [INFO] ========================================
+2026-06-11 03:00:41 [INFO] 🔍 AI Research Cron 启动
+2026-06-11 03:00:41 [INFO] ========================================
+2026-06-11 03:00:41 [INFO] 开始时间: Thu Jun 11 03:00:41 CST 2026
+2026-06-11 03:00:41 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-11 03:00:41 [INFO] ----------------------------------------
+2026-06-11 03:00:41 [INFO] 主题: AI news
+2026-06-11 03:00:41 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-11 03:01:41 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260611-030041.json
+2026-06-11 03:01:41 [INFO] 分析结果: AI news
+2026-06-11 03:01:41 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260611-030041.md
+2026-06-11 03:01:42 [INFO] ----------------------------------------
+2026-06-11 03:01:42 [INFO] 主题: Claude AI
+2026-06-11 03:01:42 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-11 03:01:43 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260611-030041.json
+2026-06-11 03:01:43 [INFO] 分析结果: Claude AI
+2026-06-11 03:01:43 [INFO] 找到 28 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260611-030041.md
+2026-06-11 03:01:43 [INFO] ----------------------------------------
+2026-06-11 03:01:43 [INFO] 主题: AI tools
+2026-06-11 03:01:43 [INFO] 搜索: AI tools 2026 best new software
+2026-06-11 03:01:44 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260611-030041.json
+2026-06-11 03:01:44 [INFO] 分析结果: AI tools
+2026-06-11 03:01:44 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260611-030041.md
+2026-06-11 03:01:44 [INFO] ----------------------------------------
+2026-06-11 03:01:44 [INFO] 主题: multimodal AI
+2026-06-11 03:01:44 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-11 03:01:45 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260611-030041.json
+2026-06-11 03:01:45 [INFO] 分析结果: multimodal AI
+2026-06-11 03:01:45 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260611-030041.md
+2026-06-11 03:01:45 [INFO] ----------------------------------------
+2026-06-11 03:01:45 [INFO] 主题: AI prompt engineering
+2026-06-11 03:01:45 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-11 03:01:47 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260611-030041.json
+2026-06-11 03:01:47 [INFO] 分析结果: AI prompt engineering
+2026-06-11 03:01:47 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260611-030041.md
+2026-06-11 03:01:47 [INFO] ----------------------------------------
+2026-06-11 03:01:47 [INFO] 主题: OpenAI
+2026-06-11 03:01:47 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-11 03:01:48 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260611-030041.json
+2026-06-11 03:01:48 [INFO] 分析结果: OpenAI
+2026-06-11 03:01:48 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260611-030041.md
+2026-06-11 03:01:48 [INFO] ----------------------------------------
+2026-06-11 03:01:48 [INFO] 主题: AI agents
+2026-06-11 03:01:48 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-11 03:01:50 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260611-030041.json
+2026-06-11 03:01:50 [INFO] 分析结果: AI agents
+2026-06-11 03:01:50 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260611-030041.md
+2026-06-11 03:01:50 [INFO] ----------------------------------------
+2026-06-11 03:01:50 [INFO] 主题: AI coding
+2026-06-11 03:01:50 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-11 03:01:51 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260611-030041.json
+2026-06-11 03:01:51 [INFO] 分析结果: AI coding
+2026-06-11 03:01:51 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260611-030041.md
+2026-06-11 03:01:51 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-11.md
+2026-06-11 03:01:51 [INFO] ========================================
+2026-06-11 03:01:51 [INFO] ✅ AI Research Cron 完成
+2026-06-11 03:01:51 [INFO] ========================================
+2026-06-11 03:01:51 [INFO] 完成时间: Thu Jun 11 03:01:51 CST 2026
+2026-06-11 03:01:51 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-11.md
+2026-06-11 03:01:51 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-11 04:00:22 [INFO] ========================================
+2026-06-11 04:00:22 [INFO] 🔍 AI Research Cron 启动
+2026-06-11 04:00:22 [INFO] ========================================
+2026-06-11 04:00:22 [INFO] 开始时间: Thu Jun 11 04:00:22 CST 2026
+2026-06-11 04:00:22 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-11 04:00:22 [INFO] ----------------------------------------
+2026-06-11 04:00:22 [INFO] 主题: AI news
+2026-06-11 04:00:22 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-11 04:01:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260611-040022.json
+2026-06-11 04:01:22 [INFO] 分析结果: AI news
+2026-06-11 04:01:22 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260611-040022.md
+2026-06-11 04:01:22 [INFO] ----------------------------------------
+2026-06-11 04:01:22 [INFO] 主题: Claude AI
+2026-06-11 04:01:22 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-11 04:01:23 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260611-040022.json
+2026-06-11 04:01:23 [INFO] 分析结果: Claude AI
+2026-06-11 04:01:24 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260611-040022.md
+2026-06-11 04:01:24 [INFO] ----------------------------------------
+2026-06-11 04:01:24 [INFO] 主题: AI tools
+2026-06-11 04:01:24 [INFO] 搜索: AI tools 2026 best new software
+2026-06-11 04:01:24 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260611-040022.json
+2026-06-11 04:01:24 [INFO] 分析结果: AI tools
+2026-06-11 04:01:24 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260611-040022.md
+2026-06-11 04:01:24 [INFO] ----------------------------------------
+2026-06-11 04:01:24 [INFO] 主题: multimodal AI
+2026-06-11 04:01:24 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-11 04:01:25 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260611-040022.json
+2026-06-11 04:01:25 [INFO] 分析结果: multimodal AI
+2026-06-11 04:01:26 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260611-040022.md
+2026-06-11 04:01:26 [INFO] ----------------------------------------
+2026-06-11 04:01:26 [INFO] 主题: AI prompt engineering
+2026-06-11 04:01:26 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-11 04:01:27 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260611-040022.json
+2026-06-11 04:01:27 [INFO] 分析结果: AI prompt engineering
+2026-06-11 04:01:27 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260611-040022.md
+2026-06-11 04:01:27 [INFO] ----------------------------------------
+2026-06-11 04:01:27 [INFO] 主题: OpenAI
+2026-06-11 04:01:27 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-11 04:01:29 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260611-040022.json
+2026-06-11 04:01:29 [INFO] 分析结果: OpenAI
+2026-06-11 04:01:29 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260611-040022.md
+2026-06-11 04:01:29 [INFO] ----------------------------------------
+2026-06-11 04:01:29 [INFO] 主题: AI agents
+2026-06-11 04:01:29 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-11 04:01:31 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260611-040022.json
+2026-06-11 04:01:31 [INFO] 分析结果: AI agents
+2026-06-11 04:01:31 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260611-040022.md
+2026-06-11 04:01:31 [INFO] ----------------------------------------
+2026-06-11 04:01:31 [INFO] 主题: AI coding
+2026-06-11 04:01:31 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-11 04:01:32 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260611-040022.json
+2026-06-11 04:01:32 [INFO] 分析结果: AI coding
+2026-06-11 04:01:32 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260611-040022.md
+2026-06-11 04:01:32 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-11.md
+2026-06-11 04:01:32 [INFO] ========================================
+2026-06-11 04:01:32 [INFO] ✅ AI Research Cron 完成
+2026-06-11 04:01:32 [INFO] ========================================
+2026-06-11 04:01:32 [INFO] 完成时间: Thu Jun 11 04:01:32 CST 2026
+2026-06-11 04:01:32 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-11.md
+2026-06-11 04:01:32 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+
+=== 问题备注 ===
+时间: Thu Jun 11 04:01:58 CST 2026
+问题: 大部分搜索引擎不可用 (brave/duckduckgo/google/wikidata 均暂停或超时)
+影响: 所有 AI 研究搜索返回 0 结果
+建议: 考虑更换搜索引擎或等待服务恢复
+===============
+2026-06-12 01:32:47 [INFO] ========================================
+2026-06-12 01:32:47 [INFO] 🔍 AI Research Cron 启动
+2026-06-12 01:32:47 [INFO] ========================================
+2026-06-12 01:32:47 [INFO] 开始时间: Fri Jun 12 01:32:47 CST 2026
+2026-06-12 01:32:47 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-12 01:32:47 [INFO] ----------------------------------------
+2026-06-12 01:32:47 [INFO] 主题: AI news
+2026-06-12 01:32:47 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-12 01:33:47 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260612-013247.json
+2026-06-12 01:33:47 [INFO] 分析结果: AI news
+2026-06-12 01:33:47 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260612-013247.md
+2026-06-12 01:33:47 [INFO] ----------------------------------------
+2026-06-12 01:33:47 [INFO] 主题: Claude AI
+2026-06-12 01:33:47 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-12 01:33:48 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260612-013247.json
+2026-06-12 01:33:48 [INFO] 分析结果: Claude AI
+2026-06-12 01:33:48 [INFO] 找到 27 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260612-013247.md
+2026-06-12 01:33:48 [INFO] ----------------------------------------
+2026-06-12 01:33:48 [INFO] 主题: AI tools
+2026-06-12 01:33:48 [INFO] 搜索: AI tools 2026 best new software
+2026-06-12 01:33:49 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260612-013247.json
+2026-06-12 01:33:49 [INFO] 分析结果: AI tools
+2026-06-12 01:33:49 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260612-013247.md
+2026-06-12 01:33:49 [INFO] ----------------------------------------
+2026-06-12 01:33:49 [INFO] 主题: multimodal AI
+2026-06-12 01:33:49 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-12 01:33:50 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260612-013247.json
+2026-06-12 01:33:50 [INFO] 分析结果: multimodal AI
+2026-06-12 01:33:50 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260612-013247.md
+2026-06-12 01:33:50 [INFO] ----------------------------------------
+2026-06-12 01:33:50 [INFO] 主题: AI prompt engineering
+2026-06-12 01:33:50 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-12 01:33:51 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260612-013247.json
+2026-06-12 01:33:51 [INFO] 分析结果: AI prompt engineering
+2026-06-12 01:33:51 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260612-013247.md
+2026-06-12 01:33:51 [INFO] ----------------------------------------
+2026-06-12 01:33:51 [INFO] 主题: OpenAI
+2026-06-12 01:33:51 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-12 01:33:52 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260612-013247.json
+2026-06-12 01:33:52 [INFO] 分析结果: OpenAI
+2026-06-12 01:33:52 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260612-013247.md
+2026-06-12 01:33:52 [INFO] ----------------------------------------
+2026-06-12 01:33:52 [INFO] 主题: AI agents
+2026-06-12 01:33:52 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-12 01:33:53 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260612-013247.json
+2026-06-12 01:33:53 [INFO] 分析结果: AI agents
+2026-06-12 01:33:53 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260612-013247.md
+2026-06-12 01:33:53 [INFO] ----------------------------------------
+2026-06-12 01:33:53 [INFO] 主题: AI coding
+2026-06-12 01:33:53 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-12 01:33:54 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260612-013247.json
+2026-06-12 01:33:54 [INFO] 分析结果: AI coding
+2026-06-12 01:33:54 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260612-013247.md
+2026-06-12 01:33:54 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-12.md
+2026-06-12 01:33:54 [INFO] ========================================
+2026-06-12 01:33:54 [INFO] ✅ AI Research Cron 完成
+2026-06-12 01:33:54 [INFO] ========================================
+2026-06-12 01:33:54 [INFO] 完成时间: Fri Jun 12 01:33:54 CST 2026
+2026-06-12 01:33:54 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-12.md
+2026-06-12 01:33:54 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+=== Twitter API 问题记录 ===
+时间: Fri Jun 12 02:00:51 CST 2026
+问题: Twitter API 返回 402 Unauthorized - Credits is not enough
+影响: Twitter 搜索功能不可用
+建议: 需要充值 Twitter API credits 或更换 API key
+=========================
+2026-06-12 04:00:08 [INFO] ========================================
+2026-06-12 04:00:08 [INFO] 🔍 AI Research Cron 启动
+2026-06-12 04:00:08 [INFO] ========================================
+2026-06-12 04:00:08 [INFO] 开始时间: Fri Jun 12 04:00:08 CST 2026
+2026-06-12 04:00:08 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-12 04:00:08 [INFO] ----------------------------------------
+2026-06-12 04:00:08 [INFO] 主题: AI news
+2026-06-12 04:00:08 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-12 04:01:08 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260612-040008.json
+2026-06-12 04:01:08 [INFO] 分析结果: AI news
+2026-06-12 04:01:08 [INFO] 找到 20 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260612-040008.md
+2026-06-12 04:01:08 [INFO] ----------------------------------------
+2026-06-12 04:01:08 [INFO] 主题: Claude AI
+2026-06-12 04:01:08 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-12 04:01:09 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260612-040008.json
+2026-06-12 04:01:09 [INFO] 分析结果: Claude AI
+2026-06-12 04:01:09 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260612-040008.md
+2026-06-12 04:01:09 [INFO] ----------------------------------------
+2026-06-12 04:01:09 [INFO] 主题: AI tools
+2026-06-12 04:01:09 [INFO] 搜索: AI tools 2026 best new software
+2026-06-12 04:01:11 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260612-040008.json
+2026-06-12 04:01:11 [INFO] 分析结果: AI tools
+2026-06-12 04:01:11 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260612-040008.md
+2026-06-12 04:01:11 [INFO] ----------------------------------------
+2026-06-12 04:01:11 [INFO] 主题: multimodal AI
+2026-06-12 04:01:11 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-12 04:01:12 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260612-040008.json
+2026-06-12 04:01:12 [INFO] 分析结果: multimodal AI
+2026-06-12 04:01:12 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260612-040008.md
+2026-06-12 04:01:12 [INFO] ----------------------------------------
+2026-06-12 04:01:13 [INFO] 主题: AI prompt engineering
+2026-06-12 04:01:13 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-12 04:01:15 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260612-040008.json
+2026-06-12 04:01:15 [INFO] 分析结果: AI prompt engineering
+2026-06-12 04:01:15 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260612-040008.md
+2026-06-12 04:01:15 [INFO] ----------------------------------------
+2026-06-12 04:01:15 [INFO] 主题: OpenAI
+2026-06-12 04:01:15 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-12 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260612-040008.json
+2026-06-12 04:01:17 [INFO] 分析结果: OpenAI
+2026-06-12 04:01:17 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260612-040008.md
+2026-06-12 04:01:17 [INFO] ----------------------------------------
+2026-06-12 04:01:17 [INFO] 主题: AI agents
+2026-06-12 04:01:17 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-12 04:01:19 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260612-040008.json
+2026-06-12 04:01:19 [INFO] 分析结果: AI agents
+2026-06-12 04:01:19 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260612-040008.md
+2026-06-12 04:01:19 [INFO] ----------------------------------------
+2026-06-12 04:01:19 [INFO] 主题: AI coding
+2026-06-12 04:01:19 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-12 04:01:22 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260612-040008.json
+2026-06-12 04:01:22 [INFO] 分析结果: AI coding
+2026-06-12 04:01:22 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260612-040008.md
+2026-06-12 04:01:22 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-12.md
+2026-06-12 04:01:22 [INFO] ========================================
+2026-06-12 04:01:22 [INFO] ✅ AI Research Cron 完成
+2026-06-12 04:01:22 [INFO] ========================================
+2026-06-12 04:01:22 [INFO] 完成时间: Fri Jun 12 04:01:22 CST 2026
+2026-06-12 04:01:22 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-12.md
+2026-06-12 04:01:22 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-13 04:00:08 [INFO] ========================================
+2026-06-13 04:00:08 [INFO] 🔍 AI Research Cron 启动
+2026-06-13 04:00:08 [INFO] ========================================
+2026-06-13 04:00:08 [INFO] 开始时间: Sat Jun 13 04:00:08 CST 2026
+2026-06-13 04:00:08 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-13 04:00:08 [INFO] ----------------------------------------
+2026-06-13 04:00:08 [INFO] 主题: AI news
+2026-06-13 04:00:08 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-13 04:01:08 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260613-040008.json
+2026-06-13 04:01:08 [INFO] 分析结果: AI news
+2026-06-13 04:01:08 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260613-040008.md
+2026-06-13 04:01:08 [INFO] ----------------------------------------
+2026-06-13 04:01:08 [INFO] 主题: Claude AI
+2026-06-13 04:01:08 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-13 04:01:11 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260613-040008.json
+2026-06-13 04:01:11 [INFO] 分析结果: Claude AI
+2026-06-13 04:01:11 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260613-040008.md
+2026-06-13 04:01:11 [INFO] ----------------------------------------
+2026-06-13 04:01:11 [INFO] 主题: AI tools
+2026-06-13 04:01:11 [INFO] 搜索: AI tools 2026 best new software
+2026-06-13 04:01:12 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260613-040008.json
+2026-06-13 04:01:12 [INFO] 分析结果: AI tools
+2026-06-13 04:01:12 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260613-040008.md
+2026-06-13 04:01:12 [INFO] ----------------------------------------
+2026-06-13 04:01:12 [INFO] 主题: multimodal AI
+2026-06-13 04:01:12 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-13 04:01:13 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260613-040008.json
+2026-06-13 04:01:13 [INFO] 分析结果: multimodal AI
+2026-06-13 04:01:13 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260613-040008.md
+2026-06-13 04:01:13 [INFO] ----------------------------------------
+2026-06-13 04:01:13 [INFO] 主题: AI prompt engineering
+2026-06-13 04:01:13 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-13 04:01:14 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260613-040008.json
+2026-06-13 04:01:14 [INFO] 分析结果: AI prompt engineering
+2026-06-13 04:01:14 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260613-040008.md
+2026-06-13 04:01:14 [INFO] ----------------------------------------
+2026-06-13 04:01:14 [INFO] 主题: OpenAI
+2026-06-13 04:01:14 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-13 04:01:15 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260613-040008.json
+2026-06-13 04:01:15 [INFO] 分析结果: OpenAI
+2026-06-13 04:01:15 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260613-040008.md
+2026-06-13 04:01:15 [INFO] ----------------------------------------
+2026-06-13 04:01:15 [INFO] 主题: AI agents
+2026-06-13 04:01:15 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-13 04:01:16 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260613-040008.json
+2026-06-13 04:01:16 [INFO] 分析结果: AI agents
+2026-06-13 04:01:16 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260613-040008.md
+2026-06-13 04:01:16 [INFO] ----------------------------------------
+2026-06-13 04:01:16 [INFO] 主题: AI coding
+2026-06-13 04:01:16 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-13 04:01:17 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260613-040008.json
+2026-06-13 04:01:17 [INFO] 分析结果: AI coding
+2026-06-13 04:01:17 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260613-040008.md
+2026-06-13 04:01:17 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-13.md
+2026-06-13 04:01:17 [INFO] ========================================
+2026-06-13 04:01:17 [INFO] ✅ AI Research Cron 完成
+2026-06-13 04:01:17 [INFO] ========================================
+2026-06-13 04:01:17 [INFO] 完成时间: Sat Jun 13 04:01:17 CST 2026
+2026-06-13 04:01:17 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-13.md
+2026-06-13 04:01:17 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
+2026-06-13 23:12:39 [INFO] ========================================
+2026-06-13 23:12:39 [INFO] 🔍 AI Research Cron 启动
+2026-06-13 23:12:39 [INFO] ========================================
+2026-06-13 23:12:39 [INFO] 开始时间: Sat Jun 13 23:12:39 CST 2026
+2026-06-13 23:12:39 [INFO] 模式: 深夜 AI 研究搜索
+2026-06-13 23:12:39 [INFO] ----------------------------------------
+2026-06-13 23:12:39 [INFO] 主题: AI news
+2026-06-13 23:12:39 [INFO] 搜索: AI news 2026 artificial intelligence latest
+2026-06-13 23:13:39 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_news_20260613-231239.json
+2026-06-13 23:13:39 [INFO] 分析结果: AI news
+2026-06-13 23:13:39 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_news_20260613-231239.md
+2026-06-13 23:13:39 [INFO] ----------------------------------------
+2026-06-13 23:13:39 [INFO] 主题: Claude AI
+2026-06-13 23:13:39 [INFO] 搜索: Claude AI 2026 Anthropic features
+2026-06-13 23:13:40 [INFO] 结果已保存到: /root/clawd/memory/ai-research/Claude_AI_20260613-231239.json
+2026-06-13 23:13:40 [INFO] 分析结果: Claude AI
+2026-06-13 23:13:40 [INFO] 找到 10 个结果，已保存到: /root/clawd/memory/ai-research/Claude_AI_20260613-231239.md
+2026-06-13 23:13:40 [INFO] ----------------------------------------
+2026-06-13 23:13:40 [INFO] 主题: AI tools
+2026-06-13 23:13:40 [INFO] 搜索: AI tools 2026 best new software
+2026-06-13 23:13:42 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_tools_20260613-231239.json
+2026-06-13 23:13:42 [INFO] 分析结果: AI tools
+2026-06-13 23:13:42 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_tools_20260613-231239.md
+2026-06-13 23:13:42 [INFO] ----------------------------------------
+2026-06-13 23:13:42 [INFO] 主题: multimodal AI
+2026-06-13 23:13:42 [INFO] 搜索: multimodal AI 2026 vision audio
+2026-06-13 23:13:43 [INFO] 结果已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260613-231239.json
+2026-06-13 23:13:43 [INFO] 分析结果: multimodal AI
+2026-06-13 23:13:43 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/multimodal_AI_20260613-231239.md
+2026-06-13 23:13:43 [INFO] ----------------------------------------
+2026-06-13 23:13:43 [INFO] 主题: AI prompt engineering
+2026-06-13 23:13:43 [INFO] 搜索: AI prompt engineering 2026 techniques
+2026-06-13 23:13:44 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260613-231239.json
+2026-06-13 23:13:44 [INFO] 分析结果: AI prompt engineering
+2026-06-13 23:13:44 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_prompt_engineering_20260613-231239.md
+2026-06-13 23:13:44 [INFO] ----------------------------------------
+2026-06-13 23:13:44 [INFO] 主题: OpenAI
+2026-06-13 23:13:44 [INFO] 搜索: OpenAI 2026 GPT updates
+2026-06-13 23:13:45 [INFO] 结果已保存到: /root/clawd/memory/ai-research/OpenAI_20260613-231239.json
+2026-06-13 23:13:45 [INFO] 分析结果: OpenAI
+2026-06-13 23:13:45 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/OpenAI_20260613-231239.md
+2026-06-13 23:13:45 [INFO] ----------------------------------------
+2026-06-13 23:13:45 [INFO] 主题: AI agents
+2026-06-13 23:13:45 [INFO] 搜索: AI agents 2026 autonomous workflow
+2026-06-13 23:13:46 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_agents_20260613-231239.json
+2026-06-13 23:13:46 [INFO] 分析结果: AI agents
+2026-06-13 23:13:46 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_agents_20260613-231239.md
+2026-06-13 23:13:46 [INFO] ----------------------------------------
+2026-06-13 23:13:46 [INFO] 主题: AI coding
+2026-06-13 23:13:46 [INFO] 搜索: AI coding 2026 programming assistants
+2026-06-13 23:13:48 [INFO] 结果已保存到: /root/clawd/memory/ai-research/AI_coding_20260613-231239.json
+2026-06-13 23:13:48 [INFO] 分析结果: AI coding
+2026-06-13 23:13:48 [INFO] 找到 0 个结果，已保存到: /root/clawd/memory/ai-research/AI_coding_20260613-231239.md
+2026-06-13 23:13:48 [INFO] 生成汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-13.md
+2026-06-13 23:13:48 [INFO] ========================================
+2026-06-13 23:13:48 [INFO] ✅ AI Research Cron 完成
+2026-06-13 23:13:48 [INFO] ========================================
+2026-06-13 23:13:48 [INFO] 完成时间: Sat Jun 13 23:13:48 CST 2026
+2026-06-13 23:13:48 [INFO] 汇总报告: /root/clawd/memory/ai-research/research_summary_2026-06-13.md
+2026-06-13 23:13:48 [INFO] 详细日志: /root/clawd/memory/ai-research/research.log
