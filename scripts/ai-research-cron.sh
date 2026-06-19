@@ -42,8 +42,8 @@ search_searxng() {
     if command -v searxng &> /dev/null; then
         searxng --format json --category "$category" "$query" 2>/dev/null | tee "$output_file"
     else
-        # 使用 SearXNG API
-        curl -s "http://localhost:8080/search?format=json&q=$(echo "$query" | sed 's/ /%20/g')&category=$category" -o "$output_file"
+        # 使用 SearXNG API (Bing 引擎，Google 被阻塞)
+        curl -s "http://localhost:8080/search?format=json&q=$(echo "$query" | sed 's/ /%20/g')&category=$category&engines=bing" -o "$output_file"
     fi
 
     log "INFO" "结果已保存到: $output_file"

@@ -1,7 +1,7 @@
 {
   "lastChecks": {
     "context": 1781847129,
-    "achievement_progress": 1781857847,
+    "achievement_progress": 1781869320,
     "review_agent": 1750311036,
     "ai_research": 1750311043,
     "calendar": 1750320869,
@@ -9,7 +9,7 @@
     "weather": 1750304442,
     "email": null
   },
-  "lastHeartbeat": "2026-06-19T16:30:47.040082",
+  "lastHeartbeat": "2026-06-19T18:01:00.000000+08:00",
   "lastNightModeTasks": {
     "date": "2026-06-19",
     "ai_research_completed": true,
@@ -51,6 +51,17 @@
       "context_usage": "1%",
       "status": "ok",
       "achievement": "no_active_sessions"
+    },
+    "2026-06-19T17:31:41.874976+08:00": {
+      "context_usage": "1%",
+      "status": "ok",
+      "achievement": "no_active_sessions",
+      "slack_notification": "failed"
+    },
+    "2026-06-19T18:01": {
+      "context_usage": "1%",
+      "achievement": "no_active_sessions",
+      "slack_notification": "failed"
     }
   }
 }
