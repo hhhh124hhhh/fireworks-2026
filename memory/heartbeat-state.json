@@ -1,15 +1,15 @@
 {
   "lastChecks": {
-    "context": 1781847129,
-    "achievement_progress": 1781869320,
-    "review_agent": 1750311036,
+    "context": 1781874465,
+    "achievement_progress": 1781889890,
+    "review_agent": 1781874465,
     "ai_research": 1750311043,
     "calendar": 1750320869,
     "clawdhub_token": 1750312922,
     "weather": 1750304442,
     "email": null
   },
-  "lastHeartbeat": "2026-06-19T18:01:00.000000+08:00",
+  "lastHeartbeat": "2026-06-19T20:05:00.000000+08:00",
   "lastNightModeTasks": {
     "date": "2026-06-19",
     "ai_research_completed": true,
@@ -62,6 +62,19 @@
       "context_usage": "1%",
       "achievement": "no_active_sessions",
       "slack_notification": "failed"
+    },
+    "2026-06-19T20:03": {
+      "context_usage": "1%",
+      "achievement": "no_active_sessions",
+      "achievement_data_files": 0,
+      "status": "ok"
+    },
+    "2026-06-19T20:05": {
+      "context_usage": "1%",
+      "achievement": "no_active_sessions",
+      "achievement_data_files": 0,
+      "git_push": "rejected_non_fast_forward",
+      "status": "ok"
     }
   }
 }
