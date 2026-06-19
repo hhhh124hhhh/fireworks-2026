@@ -1,19 +1,56 @@
 {
   "lastChecks": {
-    "context_usage": "2026-03-05T20:30:00+08:00",
-    "ai_research": "2026-03-05T04:00:00+08:00",
-    "prompt_workflow": "2026-03-05T09:00:00+08:00",
-    "twitter_search": "2026-03-05T16:00:00+08:00"
+    "context": 1781847129,
+    "achievement_progress": 1781857847,
+    "review_agent": 1750311036,
+    "ai_research": 1750311043,
+    "calendar": 1750320869,
+    "clawdhub_token": 1750312922,
+    "weather": 1750304442,
+    "email": null
   },
-  "status": {
-    "searxng": "unreachable",
-    "ai_research_collected": 0,
-    "prompts_collected_today": 0,
-    "skills_published_today": 0
+  "lastHeartbeat": "2026-06-19T16:30:47.040082",
+  "lastNightModeTasks": {
+    "date": "2026-06-19",
+    "ai_research_completed": true,
+    "ai_research_results": "Fixed search - Bing engine working, 10 results per topic",
+    "review_agent_checked": true,
+    "achievement_system": "No active sessions"
   },
-  "notes": [
-    "2026-03-05: SearXNG 服务不可达 (IP: 149.13.91.232:8080)",
-    "2026-03-05: Twitter 搜索返回空结果",
-    "2026-03-05: 工作流正常执行但无数据收集"
-  ]
+  "daytimeChecks": {
+    "2026-06-19T08:34": {
+      "context_usage": "1%",
+      "calendar_status": "feishu_calendar_needed_authorization",
+      "status": "ok"
+    },
+    "2026-06-19T09:05": {
+      "context_usage": "1%",
+      "calendar_status": "feishu_calendar_needed_authorization",
+      "achievement_status": "no_active_sessions"
+    },
+    "2026-06-19T12:01": {
+      "context_usage": "1%",
+      "calendar_status": "feishu_calendar_needs_authorization",
+      "clawdhub_status": "working",
+      "status": "ok"
+    },
+    "2026-06-19T13:01": {
+      "context_usage": "1%",
+      "calendar_status": "feishu_calendar_needs_authorization",
+      "weather": "Partly cloudy +64F",
+      "status": "ok"
+    },
+    "2026-06-19T13:30": {
+      "context_usage": "1%",
+      "calendar_status": "feishu_calendar_needs_authorization",
+      "subagents": "none_active",
+      "git_status": "uncommitted_changes",
+      "status": "ok"
+    },
+    "2026-06-19T16:30:47.040107": {
+      "context_usage": "1%",
+      "status": "ok",
+      "achievement": "no_active_sessions"
+    }
+  }
 }

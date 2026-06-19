@@ -42,7 +42,9 @@ Add whatever helps you do your job. This is your cheat sheet.
 - **Usage:** Always use searXNG skill for any web search needs
 - **Exception:** Only use other search methods if explicitly requested by user
 
-### API Keys
+### SearXNG
+- **URL**: http://localhost:8080
+- **注意**: 本地 SearXNG 实例（http://localhost:8080），不再使用外部 IP
 - **Twitter/X API Key**: 已配置 (从 ~/.bashrc 加载)
   - 配置位置：`~/.bashrc`
   - 环境变量名：`TWITTER_API_KEY`
