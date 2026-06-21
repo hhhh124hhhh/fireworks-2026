@@ -1,80 +1,40 @@
 {
   "lastChecks": {
-    "context": 1781874465,
-    "achievement_progress": 1781889890,
-    "review_agent": 1781874465,
-    "ai_research": 1750311043,
+    "context": 1782003952,
+    "achievement_progress": 1782023438,
+    "review_agent": 1782003952,
+    "ai_research": 1781960485,
     "calendar": 1750320869,
-    "clawdhub_token": 1750312922,
-    "weather": 1750304442,
+    "clawdhub_token": 1782023438,
+    "weather": null,
     "email": null
   },
-  "lastHeartbeat": "2026-06-19T20:05:00.000000+08:00",
+  "lastHeartbeat": "2026-06-21T14:30:38+08:00",
   "lastNightModeTasks": {
-    "date": "2026-06-19",
-    "ai_research_completed": true,
-    "ai_research_results": "Fixed search - Bing engine working, 10 results per topic",
+    "date": "2026-06-21",
     "review_agent_checked": true,
-    "achievement_system": "No active sessions"
+    "ai_research_completed": true,
+    "ai_research_topics": 8,
+    "achievement_system": "No active sessions - idle"
   },
   "daytimeChecks": {
-    "2026-06-19T08:34": {
+    "2026-06-21T09:00": {
       "context_usage": "1%",
-      "calendar_status": "feishu_calendar_needed_authorization",
-      "status": "ok"
-    },
-    "2026-06-19T09:05": {
-      "context_usage": "1%",
-      "calendar_status": "feishu_calendar_needed_authorization",
-      "achievement_status": "no_active_sessions"
-    },
-    "2026-06-19T12:01": {
-      "context_usage": "1%",
-      "calendar_status": "feishu_calendar_needs_authorization",
-      "clawdhub_status": "working",
-      "status": "ok"
-    },
-    "2026-06-19T13:01": {
-      "context_usage": "1%",
-      "calendar_status": "feishu_calendar_needs_authorization",
-      "weather": "Partly cloudy +64F",
-      "status": "ok"
-    },
-    "2026-06-19T13:30": {
-      "context_usage": "1%",
-      "calendar_status": "feishu_calendar_needs_authorization",
+      "status": "ok",
+      "achievement": "no_active_sessions",
+      "achievement_data_files": 0,
       "subagents": "none_active",
-      "git_status": "uncommitted_changes",
-      "status": "ok"
+      "clawdhub_token": "valid",
+      "check_time": "2026-06-21T09:05:52+08:00"
     },
-    "2026-06-19T16:30:47.040107": {
-      "context_usage": "1%",
-      "status": "ok",
-      "achievement": "no_active_sessions"
-    },
-    "2026-06-19T17:31:41.874976+08:00": {
+    "$(date -I 2>/dev/null | cut -dT -f1)T14:30": {
       "context_usage": "1%",
       "status": "ok",
       "achievement": "no_active_sessions",
-      "slack_notification": "failed"
-    },
-    "2026-06-19T18:01": {
-      "context_usage": "1%",
-      "achievement": "no_active_sessions",
-      "slack_notification": "failed"
-    },
-    "2026-06-19T20:03": {
-      "context_usage": "1%",
-      "achievement": "no_active_sessions",
       "achievement_data_files": 0,
-      "status": "ok"
-    },
-    "2026-06-19T20:05": {
-      "context_usage": "1%",
-      "achievement": "no_active_sessions",
-      "achievement_data_files": 0,
-      "git_push": "rejected_non_fast_forward",
-      "status": "ok"
+      "subagents": "none_active",
+      "achievement_progress_check": "completed_14:30",
+      "clawdhub_token": "valid"
     }
   }
 }
