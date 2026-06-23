@@ -1,0 +1,10 @@
+- OpenAI | Research & Deployment: https://openai.com/
+- Google AI - How we're making AI helpful for everyone: https://ai.google/
+- ChatGPT: https://chatgpt.com/
+- AI网站汇总（免费chatgpt）（70个持续增加中） - 知乎: https://zhuanlan.zhihu.com/p/622871383
+- GPT-4 | OpenAI: https://openai.com/index/gpt-4/
+- 人工智能 - 维基百科，自由的百科全书: https://zh.m.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
+- Google AI Studio: https://aistudio.google.com/
+- ‎Google Gemini: https://gemini.google.com/
+- 每日AI资讯、热点、动态、融资、产品发布 | AI工具集: https://ai-bot.cn/daily-ai-news/
+- AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全: https://ai-bot.cn/

@@ -1,0 +1,10 @@
+- ChatGPT: https://chatgpt.com/
+- OpenAI | Research & Deployment: https://openai.com/
+- Artificial intelligence - Wikipedia: https://en.m.wikipedia.org/wiki/Artificial_intelligence
+- Artificial intelligence (AI) | Definition, Examples, Types ...: https://www.britannica.com/technology/artificial-intelligence
+- What is Artificial Intelligence (AI)? | Google Cloud: https://cloud.google.com/learn/what-is-artificial-intelligence
+- Google AI - How we're making AI helpful for everyone: https://ai.google/
+- What is artificial intelligence (AI)? - IBM: https://www.ibm.com/think/topics/artificial-intelligence
+- Artificial Intelligence | NSF - U.S. National Science Foundation: https://www.nsf.gov/focus-areas/ai
+- Types of Artificial Intelligence (AI) - GeeksforGeeks: https://www.geeksforgeeks.org/artificial-intelligence/types-of-artificial-intelligence/
+- What is AI - DeepAI: https://deepai.org/chat/what-is-ai

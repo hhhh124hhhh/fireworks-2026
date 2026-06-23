@@ -1,40 +1,26 @@
 {
   "lastChecks": {
-    "context": 1782003952,
-    "achievement_progress": 1782023438,
-    "review_agent": 1782003952,
-    "ai_research": 1781960485,
+    "context": 1751302810,
+    "achievement_progress": 1782173725,
+    "review_agent": 1751302814,
+    "ai_research": 1751306417,
     "calendar": 1750320869,
-    "clawdhub_token": 1782023438,
+    "clawdhub_token": 1751271685,
     "weather": null,
     "email": null
   },
-  "lastHeartbeat": "2026-06-21T14:30:38+08:00",
+  "lastHeartbeat": "2026-06-23T23:00:17+08:00",
   "lastNightModeTasks": {
-    "date": "2026-06-21",
+    "date": "2026-06-23",
     "review_agent_checked": true,
     "ai_research_completed": true,
-    "ai_research_topics": 8,
+    "ai_research_topics": 15,
+    "ai_research_results": 75,
     "achievement_system": "No active sessions - idle"
   },
   "daytimeChecks": {
-    "2026-06-21T09:00": {
-      "context_usage": "1%",
-      "status": "ok",
-      "achievement": "no_active_sessions",
-      "achievement_data_files": 0,
-      "subagents": "none_active",
-      "clawdhub_token": "valid",
-      "check_time": "2026-06-21T09:05:52+08:00"
-    },
-    "$(date -I 2>/dev/null | cut -dT -f1)T14:30": {
-      "context_usage": "1%",
-      "status": "ok",
-      "achievement": "no_active_sessions",
-      "achievement_data_files": 0,
-      "subagents": "none_active",
-      "achievement_progress_check": "completed_14:30",
-      "clawdhub_token": "valid"
-    }
+    "lastAchievementCheck": "2026-06-23T07:32:00+08:00",
+    "achievement_status": "idle_no_sessions",
+    "clawdhub_token_status": "valid"
   }
 }

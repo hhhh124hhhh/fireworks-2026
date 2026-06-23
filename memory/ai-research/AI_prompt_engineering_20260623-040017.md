@@ -1,0 +1,10 @@
+- OpenAI | Research & Deployment: https://openai.com/
+- Google Gemini: https://gemini.google.com/
+- ChatGPT: https://chatgpt.com/
+- DeepAI: https://deepai.org/
+- Google AI - How we're making AI helpful for everyone: https://ai.google/
+- Artificial intelligence - Wikipedia: https://en.m.wikipedia.org/wiki/Artificial_intelligence
+- GPT-4 | OpenAI: https://openai.com/index/gpt-4/
+- Understanding AI: AI tools, training, and skills — Google AI: https://ai.google/learn-ai-skills/
+- DeepLearning.AI: Start or Advance Your Career in AI: https://www.deeplearning.ai/
+- Microsoft Copilot: Your AI companion: https://copilot.microsoft.com/?msockid=27ba6832c4c365a5049a7fb2c5186466
