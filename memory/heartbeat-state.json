@@ -1,26 +1,10 @@
 {
   "lastChecks": {
-    "context": 1751302810,
-    "achievement_progress": 1782173725,
-    "review_agent": 1751302814,
-    "ai_research": 1751306417,
-    "calendar": 1750320869,
-    "clawdhub_token": 1751271685,
-    "weather": null,
-    "email": null
+    "email": 1782864000,
+    "calendar": 1751241600,
+    "weather": 1782864000,
+    "achievement": 1782864484
   },
-  "lastHeartbeat": "2026-06-23T23:00:17+08:00",
-  "lastNightModeTasks": {
-    "date": "2026-06-23",
-    "review_agent_checked": true,
-    "ai_research_completed": true,
-    "ai_research_topics": 15,
-    "ai_research_results": 75,
-    "achievement_system": "No active sessions - idle"
-  },
-  "daytimeChecks": {
-    "lastAchievementCheck": "2026-06-23T07:32:00+08:00",
-    "achievement_status": "idle_no_sessions",
-    "clawdhub_token_status": "valid"
-  }
+  "lastContextCheck": 1782864064,
+  "lastSummarySent": null
 }
