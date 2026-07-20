@@ -1,0 +1,20 @@
+[2026-02-01 09:01:02] ========================================
+[2026-02-01 09:01:02] Starting auto-publish skills script
+[2026-02-01 09:01:02] ========================================
+[2026-02-01 09:01:02] Checking authentication status...
+[2026-02-01 09:01:03] Authenticated successfully
+[2026-02-01 09:01:04] Found 56 skill(s) in /root/clawd/dist
+[2026-02-01 09:01:04] Processing skill: ad-creative-generator
+[2026-02-01 09:01:04] Skill display name: ad-creative-generator
+[2026-02-01 09:01:04] Skill description: Generate diverse, engaging ad prompts for any product or brand across 20+ creative styles and 10 categories. Use when user needs advertisement concepts, marketing prompts, or creative marketing content generation.
+[2026-02-01 09:01:04] Checking if 'ad-creative-generator' is already published...
+[2026-02-01 09:01:05] Skill 'ad-creative-generator' is not published yet
+[2026-02-01 09:01:05] Publishing ad-creative-generator to ClawdHub...
+[2026-02-01 09:01:08] Failed to publish ad-creative-generator
+[2026-02-01 09:01:08] Processing skill: ai-from-trueslazac
+[2026-02-01 09:01:08] Skill display name: ai-from-trueslazac
+[2026-02-01 09:01:08] Skill description: No description provided
+[2026-02-01 09:01:08] Checking if 'ai-from-trueslazac' is already published...
+[2026-02-01 09:01:10] Skill 'ai-from-trueslazac' is not published yet
+[2026-02-01 09:01:10] Publishing ai-from-trueslazac to ClawdHub...
+[2026-02-01 09:01:12] Failed to publish ai-from-trueslazac

@@ -1,0 +1,96 @@
+{
+  "query": "ai-powered reviewer guide tutorial best practices",
+  "results": [
+    {
+      "title": "Building an AI-Powered Code Reviewer with MCP (Part 1)",
+      "url": "https://medium.com/devsecops-ai/building-an-ai-powered-code-reviewer-with-mcp-part-1-36f68906f900",
+      "content": "1. GitHub — Source of truth for PRs and repository events. 2. MCP Server — Middleware service that bridges GitHub and the LLM. Enforces security, sanitization, ...",
+      "engine": "google",
+      "score": 1,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "How to use AI for code reviews",
+      "url": "https://graphite.com/guides/how-to-use-ai-for-code-reviews",
+      "content": "2025年4月30日 — Best practices for AI code reviews · Automatic issue detection: Allow the AI tool to run an initial scan on submitted code. · Manual verification: Use AI feedback ...",
+      "engine": "google",
+      "score": 0.5,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "What Is AI Code Review? Tools, Benefits & Best Practices",
+      "url": "https://www.mend.io/blog/ai-code-review-technologies-challenges-best-practices/",
+      "content": "2025年10月1日 — Discover how AI code review improves code quality, boosts productivity, and enhances security. Explore tools, challenges, and best practices.",
+      "engine": "google",
+      "score": 0.3333333333333333,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "What is AI Code Review, How It Works, and How to Get Started | LinearB Blog",
+      "url": "https://linearb.io/blog/ai-code-review",
+      "content": "2025年4月23日 — Learn all about AI code reviews, and how to implement AI to improve code quality, shorten code review time, and boost developer productivity.",
+      "engine": "google",
+      "score": 0.25,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "AI knowledge base: A complete guide for 2026 - Zendesk",
+      "url": "https://www.zendesk.hk/service/help-center/ai-knowledge-base/",
+      "content": "2025年12月2日 — Discover how an AI knowledge base cuts support load, enables 24/7 info access, boosts internal collaboration, and powers data-driven decisions.",
+      "engine": "google",
+      "score": 0.2,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "Code Reviews with AI a developer guide",
+      "url": "https://foojay.io/today/code-reviews-with-ai-a-developer-guide/",
+      "content": "2025年3月7日 — This article dives into the common pitfalls of code reviews and explores how AI tools can revolutionize each phase of the development lifecycle.",
+      "engine": "google",
+      "score": 0.16666666666666666,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "What AI Is Best for Reviewing Documents? A 2025 Buyer's Guide",
+      "url": "https://leahai.com/blog/best-ai-document-review",
+      "content": "2025年6月24日 — Discover which AI document review tool best fits your needs in 2025 with this comprehensive buyer's guide.",
+      "engine": "google",
+      "score": 0.14285714285714285,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "AI Code Reviews",
+      "url": "https://github.com/resources/articles/ai-code-reviews",
+      "content": "2025年4月9日 — Boost productivity with AI code reviews: automate error detection and get real-time feedback with AI code review tools.",
+      "engine": "google",
+      "score": 0.125,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "Enhancing Code Quality at Scale with AI-Powered Code Reviews",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/enhancing-code-quality-at-scale-with-ai-powered-code-reviews/",
+      "content": "2025年7月14日 — Especially for new hires it can serve as a useful guide, accelerating onboarding and learning of best practices. Customization: tailoring review for your team",
+      "engine": "google",
+      "score": 0.1111111111111111,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "How to Use Generative AI for Document Review - DISCO",
+      "url": "https://csdisco.com/blog/blog-generative-ai-for-document-review",
+      "content": "2025年9月10日 — Learn how to use generative AI for large-scale document review, including benefits, risks, examples, and actionable tips for how to get started.",
+      "engine": "google",
+      "score": 0.1,
+      "thumbnail": "",
+      "publishedDate": null
+    }
+  ],
+  "timestamp": 1769785175782
+}

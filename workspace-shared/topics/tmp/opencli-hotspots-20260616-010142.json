@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-16 01:01:42",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Your AI Model Can Vanish Overnight. Build For That.",
+          "description": "<p>Last night the model I was working in stopped existing. Not slowed down, not rate-limited. I asked the tool to do something routine and it answered that the model \"may not exist, or you may not hav",
+          "url": "https://dev.to/studiomeyer_io/your-ai-model-can-vanish-overnight-build-for-that-22pj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Play-First Programming: An AI-Augmented Constructionist Framework for Learning, Creativity, and AI-Native Software Development",
+          "description": "<h2>\n  \n  \n  Abstract\n</h2>\n\n<p>The emergence of large language models (LLMs) and AI coding assistants has fundamentally altered how software is created, learned, and understood. While much of the exi",
+          "url": "https://dev.to/gregthevibecoder/play-first-programming-an-ai-augmented-constructionist-framework-for-learning-creativity-and-3mhj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Elon is Mining Asteroids and I'm Just Sitting Here Making Modals",
+          "description": "<p>Elon is mining asteroids and I'm just sitting here making modals. Not even good modals. Just modals. For Inertia. Again.</p>\n\n<p>Look, someone had to do it. And apparently that someone is me, a per",
+          "url": "https://dev.to/buhrmi/elon-is-mining-asteroids-and-im-just-sitting-here-making-modals-ppi",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "I built 57 browser-based dev tools in a month — here's how the architecture works",
+          "description": "<p>About a month ago, I launched UtilYard, a free collection of developer tools, text utilities, finance calculators, and image tools all in one place:</p>\n\n<p><a href=\"https://utilyard.com\" rel=\"noop",
+          "url": "https://dev.to/michael_schroeder_ea5e99d/i-built-57-browser-based-dev-tools-in-a-month-heres-how-the-architecture-works-38pc",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "I built a JS/TS runtime in Rust where nothing runs without your permission",
+          "description": "<p>Last week I shipped v2.0.2 of <a href=\"https://github.com/OdinoCano/3va\" rel=\"noopener noreferrer\">3va</a> — a JavaScript and TypeScript runtime written in Rust. Here is why I built it and what mak",
+          "url": "https://dev.to/edgar_misalcanodomngu/i-built-a-jsts-runtime-in-rust-where-nothing-runs-without-your-permission-4efp",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "I built a 1:1 solar system with Fable 5 in the days before it was pulled offline",
+          "description": "<h1>\n  \n  \n  I built a 1:1 solar system with Fable 5 in the days before it was pulled offline\n</h1>\n\n<p>  <iframe src=\"https://www.youtube.com/embed/ZcAjBZiuzzg\">\n  </iframe>\n</p>\n\n<h2>\n  \n  \n    <ifr",
+          "url": "https://dev.to/eric_he/i-built-a-11-solar-system-with-fable-5-in-the-days-before-it-was-pulled-offline-2kni",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "I built a JS/TS runtime in Rust where nothing runs without your permission",
+          "description": "<p>Last week I shipped v2.0.0 of 3va — a JavaScript and TypeScript runtime written in Rust. Here is why I built it and what makes it different from Node.js, Bun, and Deno.<br>\nThe problem<br>\nIn 2024,",
+          "url": "https://dev.to/edgar_misalcanodomngu/i-built-a-jsts-runtime-in-rust-where-nothing-runs-without-your-permission-b6b",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "I got tired of switching tabs to compare AIs, so I built a Consensus Engine",
+          "description": "<p>Like a lot of developers, I’ve integrated AI heavily into my daily workflow. But recently, I ran into a frustrating bottleneck: I couldn't blindly trust a single model.</p>\n\n<p>ChatGPT might give a",
+          "url": "https://dev.to/aiverdict/i-got-tired-of-switching-tabs-to-compare-ais-so-i-built-a-consensus-engine-4cnp",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Demystifying Terraform: Bridging the Gap Between Infrastructure and Cloud",
+          "description": "<p>Let’s face it, tech events are thrilling, but can also be quite overwhelming. I went to AWS Student Community Day on 1st November 2025 in Tirupati. There were some great sessions all day long on di",
+          "url": "https://dev.to/aws-builders/demystifying-terraform-bridging-the-gap-between-infrastructure-and-cloud-jgm",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "How to Use DisposableEmail Safely (WithoutLocking Yourself Out)",
+          "description": "<p>Disposable email feels like a cheat code. Hand the form an address that exists for an hour, get whatever you came for, walk away. No spam. No mailing list. No \"we noticed you haven't logged in\" gui",
+          "url": "https://dev.to/yobox/how-to-use-disposableemail-safely-withoutlocking-yourself-out-2emk",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Fable 5 got banned. This is what comes next.",
+          "description": "<p>The US government just banned Fable 5 for all foreign nationals.<br>\nAnthropic's fix? Disable it for everyone, because verifying nationality at scale is nearly impossible.<br>\nNow they're moving to",
+          "url": "https://dev.to/hamid_iqbal_75c855b7c8375/fable-5-got-banned-this-is-what-comes-next-10ia",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "2-SOC Mimarileri: En Uygun Güvenlik Operasyon Merkezi Modelini Seçmek",
+          "description": "<p>English | Türkçe</p>\n\n<p>&nbsp;</p>\n\n\n\n\n<p><a></a></p>\n\n<h1>\n  \n  \n  SOC Architecture: Choosing the Right Security Operations Center Model for Your Organization\n</h1>\n\n<p>In today’s modern cyber th",
+          "url": "https://dev.to/feyzadandal/2-soc-mimarileri-en-uygun-guvenlik-operasyon-merkezi-modelini-secmek-421n",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

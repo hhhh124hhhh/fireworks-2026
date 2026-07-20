@@ -1,0 +1,31 @@
+{
+  "name": "prompt-rewriter",
+  "version": "1.0.0",
+  "description": "Advanced prompt rewriting and optimization service with quality analysis and multiple rewrite options",
+  "main": "SKILL.md",
+  "keywords": [
+    "prompt",
+    "prompt-engineering",
+    "ai",
+    "rewriting",
+    "prompt-rewriter",
+    "prompt-improvement",
+    "llm",
+    "ai-prompts"
+  ],
+  "author": "jack",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "SKILL.md",
+    "references/"
+  ],
+  "clawdbot": {
+    "skill": {
+      "entry": "SKILL.md",
+      "description": "Analyze prompts for quality, suggest improvements, and generate multiple rewrite options"
+    }
+  }
+}

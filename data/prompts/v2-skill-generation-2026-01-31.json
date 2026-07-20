@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-01-31T12:11:31.284348",
+  "config": {
+    "min_completeness_score": 70,
+    "deduplication": "enabled",
+    "similarity_threshold": 0.85
+  },
+  "stats": {
+    "image_prompts": 10,
+    "video_prompts": 7,
+    "general_prompts": 97,
+    "high_quality": 2,
+    "converted_image": 2,
+    "converted_video": 0,
+    "converted_general": 0,
+    "skipped_low_quality": 111
+  },
+  "deduplication": {
+    "original_count": 114,
+    "deduped_count": 113,
+    "duplicates_removed": 1
+  },
+  "quality_filtering": {
+    "high_quality": 2,
+    "low_quality": 111,
+    "pass_rate": "1.8%"
+  },
+  "type_distribution": {
+    "image-generation": 2
+  },
+  "total_prompts": 114,
+  "total_converted": 2,
+  "total_packaged": 2,
+  "output_dir": "/root/clawd/dist/skills"
+}

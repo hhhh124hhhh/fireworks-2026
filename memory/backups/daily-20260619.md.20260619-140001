@@ -1,0 +1,49 @@
+
+## 9:00 AM 定时任务执行记录
+
+### 1. Quick Report
+- 执行：python3 /root/clawd/scripts/quick-report.py
+- 结果：❌ Slack 失败（配置问题）
+- 错误：clawdbot.json plugin manifest not found
+
+### 2. Full Prompt Workflow  
+- 执行：bash /root/clawd/scripts/full-prompt-workflow.sh
+- 结果：⚠️ 完成但有问题
+- 数据收集：2 条（0 提示词）
+- Skill 转换：0 个
+- Git push：❌ rejected (non-fast-forward)
+- 通知：❌ Slack + Feishu 都失败
+- 报告：/root/clawd/reports/workflow-report-2026-06-19-0900.md
+
+### 待处理
+- Slack/Feishu 通知配置问题（plugin manifest）
+- Git remote 需要 pull --rebase
+
+
+## 📝 记录
+
+**时间**: 2026-06-19 02:00:01
+
+记忆备份清理（20260619-020001）：清理前 4167 tokens，清理后 4167 tokens，节省 0 tokens (0%)，可用上下文从 126833 提升到 126833 tokens（+0%） general
+
+
+## 📝 记录
+
+**时间**: 2026-06-19 02:00:02
+
+记忆备份清理（20260619-020001）：清理前 4167 tokens，清理后 4167 tokens，节省 0 tokens (0%)，可用上下文从 126833 提升到 126833 tokens（+0%） general
+[2026-06-19 16:00] Twitter 搜索 cron 执行完成 - 报告文件为空（正常，数据源问题）
+
+## 21:05 Heartbeat (Evening Check)
+
+### Status
+- Context: 28% (fine)
+- No active subagents
+- Review agent script: broken (sessions_history not a shell command)
+- Quick-report: still failing (clawdbot lark plugin manifest issue)
+- Morning workflow completed with issues (git push rejected)
+
+### Notes
+- check-review-agent.sh needs to be fixed: uses `sessions_history` as shell command instead of tool
+- clawdbot doctor was hanging, needs manual check
+- It's 9 PM, approaching night mode (23:00)

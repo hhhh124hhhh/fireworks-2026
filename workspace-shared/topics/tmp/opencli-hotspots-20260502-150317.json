@@ -1,0 +1,1008 @@
+{
+  "timestamp": "2026-05-02 15:03:17",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Why does it take so long to release black fan versions?",
+          "score": 67,
+          "author": "buildbot",
+          "comments": 17,
+          "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions"
+        },
+        {
+          "rank": 2,
+          "title": "Job Postings for Software Engineers Are Rapidly Rising",
+          "score": 136,
+          "author": "delichon",
+          "comments": 69,
+          "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/"
+        },
+        {
+          "rank": 3,
+          "title": "Ti-84 Evo",
+          "score": 413,
+          "author": "thatxliner",
+          "comments": 367,
+          "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo"
+        },
+        {
+          "rank": 4,
+          "title": "Spirit Airlines Is Winding Down All Operations",
+          "score": 11,
+          "author": "CaliforniaKarl",
+          "comments": 3,
+          "url": "https://www.spiritrestructuring.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://www.spiritrestructuring.com/"
+        },
+        {
+          "rank": 5,
+          "title": "Ask.com has closed",
+          "score": 200,
+          "author": "supermdguy",
+          "comments": 102,
+          "url": "https://www.ask.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://www.ask.com/"
+        },
+        {
+          "rank": 6,
+          "title": "Artemis II Photo Timeline",
+          "score": 163,
+          "author": "geerlingguy",
+          "comments": 12,
+          "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003"
+        },
+        {
+          "rank": 7,
+          "title": "New research suggests people can communicate and practice skills while dreaming",
+          "score": 310,
+          "author": "XzetaU8",
+          "comments": 175,
+          "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we"
+        },
+        {
+          "rank": 8,
+          "title": "To Restore an Island Paradise, Add Fungi",
+          "score": 46,
+          "author": "Brajeshwar",
+          "comments": 5,
+          "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi"
+        },
+        {
+          "rank": 9,
+          "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
+          "score": 19,
+          "author": "nateb2022",
+          "comments": 3,
+          "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://www.liquid.ai/blog/lfm2-24b-a2b"
+        },
+        {
+          "rank": 10,
+          "title": "K3k: Kubernetes in Kubernetes",
+          "score": 24,
+          "author": "jzebedee",
+          "comments": 11,
+          "url": "https://github.com/rancher/k3k",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://github.com/rancher/k3k"
+        },
+        {
+          "rank": 11,
+          "title": "CollectWise (YC F24) Is Hiring",
+          "score": 1,
+          "author": "OBrien_1107",
+          "url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer"
+        },
+        {
+          "rank": 12,
+          "title": "Integer Overflow Checking Cost",
+          "score": 13,
+          "author": "iwsk",
+          "comments": 3,
+          "url": "https://danluu.com/integer-overflow/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://danluu.com/integer-overflow/"
+        },
+        {
+          "rank": 13,
+          "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+          "score": 150,
+          "author": "proberts",
+          "comments": 211,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012"
+        },
+        {
+          "rank": 14,
+          "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+          "score": 126,
+          "author": "zdw",
+          "comments": 163,
+          "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/"
+        },
+        {
+          "rank": 15,
+          "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+          "score": 132,
+          "author": "wooster",
+          "comments": 49,
+          "url": "https://github.com/microsoft/lib0xc",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://github.com/microsoft/lib0xc"
+        },
+        {
+          "rank": 16,
+          "title": "Ask HN: Who is hiring? (May 2026)",
+          "score": 253,
+          "author": "whoishiring",
+          "comments": 269,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015"
+        },
+        {
+          "rank": 17,
+          "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+          "score": 42,
+          "author": "bookofjoe",
+          "comments": 12,
+          "url": "https://www.nature.com/articles/s41467-026-71526-5",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.nature.com/articles/s41467-026-71526-5"
+        },
+        {
+          "rank": 18,
+          "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+          "score": 483,
+          "author": "sleepingNomad",
+          "comments": 139,
+          "url": "https://github.com/darrylmorley/whatcable",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://github.com/darrylmorley/whatcable"
+        },
+        {
+          "rank": 19,
+          "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+          "score": 60,
+          "author": "susam",
+          "comments": 12,
+          "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf"
+        },
+        {
+          "rank": 20,
+          "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
+          "score": 136,
+          "author": "peter_d_sherman",
+          "comments": 32,
+          "url": "https://github.com/whohas/whohas",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://github.com/whohas/whohas"
+        },
+        {
+          "rank": 21,
+          "title": "Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity",
+          "score": 10,
+          "author": "kamilmrzyglod",
+          "comments": 4,
+          "url": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/"
+        },
+        {
+          "rank": 22,
+          "title": "Apocalypse Early Warning System",
+          "score": 157,
+          "author": "carlsborg",
+          "comments": 84,
+          "url": "https://ews.kylemcdonald.net/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://ews.kylemcdonald.net/"
+        },
+        {
+          "rank": 23,
+          "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
+          "score": 3,
+          "author": "trangram",
+          "comments": 1,
+          "url": "https://mathstick.github.io",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://mathstick.github.io"
+        },
+        {
+          "rank": 24,
+          "title": "The smelly baby problem",
+          "score": 161,
+          "author": "dionysou",
+          "comments": 104,
+          "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered"
+        },
+        {
+          "rank": 25,
+          "title": "Create an MP4 video of a web page scrolling at a steady speed",
+          "score": 14,
+          "author": "shawnzam",
+          "comments": 4,
+          "url": "https://github.com/upenn/web-scroll-video",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://github.com/upenn/web-scroll-video"
+        },
+        {
+          "rank": 26,
+          "title": "I built the Playwright for desktop apps. 80% token savings",
+          "score": 45,
+          "author": "lahfir",
+          "comments": 16,
+          "url": "https://github.com/lahfir/agent-desktop",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://github.com/lahfir/agent-desktop"
+        },
+        {
+          "rank": 27,
+          "title": "Tvheadend: Self-Hosted IPTV Server",
+          "score": 28,
+          "author": "hyperific",
+          "comments": 9,
+          "url": "https://tvheadend.org",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://tvheadend.org"
+        },
+        {
+          "rank": 28,
+          "title": "The gay jailbreak technique (2025)",
+          "score": 484,
+          "author": "bobsmooth",
+          "comments": 197,
+          "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md"
+        },
+        {
+          "rank": 29,
+          "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+          "score": 380,
+          "author": "joshcsimmons",
+          "comments": 105,
+          "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/"
+        },
+        {
+          "rank": 30,
+          "title": "Whimsical Animations Course Open House",
+          "score": 87,
+          "author": "SpyCoder77",
+          "comments": 9,
+          "url": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://courses.joshwcomeau.com/wham/open-house/00-introduction"
+        }
+      ]
+    },
+    "github": {
+      "count": 9,
+      "items": [
+        {
+          "rank": 1,
+          "title": "TauricResearch /TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "language": "Python",
+          "stars": 60353,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "soxoj /maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "url": "https://github.com/soxoj/maigret",
+          "language": "Python",
+          "stars": 21915,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "warpdotdev /warp",
+          "description": "Warp is an agentic development environment, born out of the terminal.",
+          "url": "https://github.com/warpdotdev/warp",
+          "language": "Rust",
+          "stars": 51865,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "1jehuang /jcode",
+          "description": "Coding Agent Harness",
+          "url": "https://github.com/1jehuang/jcode",
+          "language": "Rust",
+          "stars": 2475,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "mattpocock /skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "url": "https://github.com/mattpocock/skills",
+          "language": "Shell",
+          "stars": 53245,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "browserbase /skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "url": "https://github.com/browserbase/skills",
+          "language": "JavaScript",
+          "stars": 1254,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "simstudioai /sim",
+          "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+          "url": "https://github.com/simstudioai/sim",
+          "language": "TypeScript",
+          "stars": 28222,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "obra /superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "url": "https://github.com/obra/superpowers",
+          "language": "Shell",
+          "stars": 175900,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "Flowseal /zapret-discord-youtube",
+          "description": "",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "language": "Batchfile",
+          "stars": 26998,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "v2ex": {
+      "count": 9,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Codex 登录需要验证手机号了",
+          "replies": 42,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "chatgpt 代充这是常规操作 还是我被坑了",
+          "replies": 40,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "海鲜市场花 1700 大洋买了个苏州电信的老号",
+          "replies": 37,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "一个希望能解决经济和就业的开源项目",
+          "replies": 36,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "iOS 屏蔽更新的描述文件（tvOS26 Beta）今天失效了",
+          "replies": 30,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "异地组网方案怎么选？从 n2n 到 WireGuard，折腾一圈后的真实记录",
+          "replies": 28,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "MiMo-V2.5-Pro，一句提问掉了 90000000（千万）token",
+          "replies": 22,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "[送兑换码] 做了个本地 4K 视频播放器 QuietBox，想请大家帮忙体验下",
+          "replies": 20,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "5.5 codex 模型是不是更耗流量了......",
+          "replies": 19,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Switching to Secondary Is Faster",
+          "description": "<blockquote>\n<p>Remember, switching to your pistol is always faster than reloading.</p>\n</blockquote>\n\n<p>The same idea applies to LLM workflows.</p>\n\n<p>Most of the time, you don't need a flagship mo",
+          "url": "https://dev.to/wheynelau/switching-to-secondary-is-faster-mhc",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "[Boost]",
+          "description": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a href=\"https://dev.to/k_ivanow/i-tested-28-query-pairs-to-see-if-semantic-caches-actually-lie-to-users-the-result-surprised-me-333",
+          "url": "https://dev.to/k_ivanow/-5enl",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Porting Libraries to Crystal with AI",
+          "description": "<p>This post was originally written in Japanese and translated into English by the author using ChatGPT. The original post is available <a href=\"https://qiita.com/kojix2/items/5680eb80af52a299763c\" re",
+          "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "The Ultimate Guide to Fixing AppImages on Ubuntu 24.04 LTS",
+          "description": "<p>If you have recently upgraded to <strong>Ubuntu 24.04 (Noble Numbat)</strong> or <strong>22.04 LTS</strong>, you might have noticed a frustrating trend: your favorite AppImages—like Oodles TimeTrac",
+          "url": "https://dev.to/nileshcodehub/the-ultimate-guide-to-fixing-appimages-on-ubuntu-2404-lts-5g00",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS",
+          "description": "<blockquote>\n<p><strong>Original Japanese article</strong>: <a href=\"https://zenn.dev/penginpenguin/articles/28aa29c2f9fbeb\" rel=\"noopener noreferrer\">Apache Polarisとは何か？オープンなデータカタログが求められる理由とAWSとの組み合わ",
+          "url": "https://dev.to/aws-builders/what-is-apache-polaris-why-open-data-catalogs-matter-and-how-to-use-them-with-aws-5gal",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Why AI Makes Software Fundamentals More Expensive Than Ever",
+          "description": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>There is a message circulating in the dev world that's intended to be comforting, but it's actually a bit of a trap. It’s the idea that in the age of LLMs, your har",
+          "url": "https://dev.to/ranjancse/why-ai-makes-software-fundamentals-more-expensive-than-ever-48g6",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "The 6 MCP tools in Hashlock Markets — what each one does and when an agent calls it",
+          "description": "<p>When you wire an AI agent into Hashlock Markets, it gets exactly six MCP tools. That is the whole surface. There is no SDK to import, no fifty-method client to pin to a major version, no separate a",
+          "url": "https://dev.to/barissozen/the-6-mcp-tools-in-hashlock-markets-what-each-one-does-and-when-an-agent-calls-it-54gm",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Architecting for Modern Finance: Deconstructing the Financial Services Ecosystem - Part 2",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6oovpn9dss2ej79vn",
+          "url": "https://dev.to/marunkumar1983/architecting-for-modern-finance-deconstructing-the-financial-services-ecosystem-part-2-4gek",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "\"AI-Accelerated Development\" is Just a Cute Name for Not Knowing What You're Doing",
+          "description": "<p><strong>Calling Yourself an \"AIOps Engineer\" Because You Wrapped an API is Like Claiming Michelin Status for Microwaving a Hot Pocket.</strong></p>\n\n<p>Recently, I decided to dedicate some serious ",
+          "url": "https://dev.to/vjmourya/ai-accelerated-development-is-just-a-cute-name-for-not-knowing-what-youre-doing-35ij",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Why Standard Indexes Fail: The Architecture of the Covering Index",
+          "description": "<p>In my last article, I broke down how and why to use indexes wisely for efficient lookups and data retrieval by identifying fields to index and which not to index. Can read that <a href=\"https://dev",
+          "url": "https://dev.to/opeyemi_oluwagbemiga_a213/why-standard-indexes-fail-the-architecture-of-the-covering-index-4g0o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "TestSprite Review: AI Testing Agent untuk Developer Indonesia — Apakah Worth It?",
+          "description": "<p>Sebagai developer yang aktif mengerjakan proyek SaaS di Indonesia, masalah testing selalu jadi bottleneck terbesar dalam workflow saya. Manual testing memakan waktu, automation framework butuh main",
+          "url": "https://dev.to/asta_kuri_a8/testsprite-review-ai-testing-agent-untuk-developer-indonesia-apakah-worth-it-457e",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "How I Built a Production-Ready Voucher Management System with Laravel 12 and Vue 3",
+          "description": "<h2>\n  \n  \n  The Problem\n</h2>\n\n<p>I'm a CS student in the Philippines. During my time observing how <br>\noffices work, I noticed something that kept bothering me.</p>\n\n<p>Voucher processing is still ",
+          "url": "https://dev.to/chrislfallaria/how-i-built-a-production-ready-voucher-management-system-with-laravel-12-and-vue-3-3dl0",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "combat LLM spam by building a web of trust",
+          "description": "",
+          "url": "https://blog.tangled.org/vouching/",
+          "score": 34,
+          "comments": 27,
+          "tags": [
+            "vcs"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Inverse Sapir-Whorf and programming languages",
+          "description": "",
+          "url": "https://lukeplant.me.uk/blog/posts/inverse-sapir-whorf-and-programming-languages/",
+          "score": 26,
+          "comments": 7,
+          "tags": [
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Canonical is under attack",
+          "description": "<p>Also: <a href=\"https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/\" rel=\"ugc\">https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/</a></p>\n",
+          "url": "https://status.canonical.com/",
+          "score": 21,
+          "comments": 13,
+          "tags": [
+            "linux",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "What Conferences are You Excited to Attend in the Next 12 Months?",
+          "description": "<p>I've let conference attendance slide in the last few years (last was ElixirConf 2023), and would like to get back in the habit. I value them from a professional development/community POV. I've even got a trip to Europe planned in the next year and could dovetail that--since I'm suspecting that the \"good conferences\" are happening more and more outside of the states.</p>\n",
+          "url": "",
+          "score": 14,
+          "comments": 16,
+          "tags": [
+            "event"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Why I Don’t Vibe Code",
+          "description": "",
+          "url": "https://jacobharr.is/personal/i-dont-vibe-code",
+          "score": 53,
+          "comments": 9,
+          "tags": [
+            "practices",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "A life update from Zach Oakes: Zig, AI, unemployment, and more",
+          "description": "<p>Zach Oakes, who some of you might know from his many Clojure projects, disappeared for a while.  He recently posted this and a couple of videos about what he's been up to and his VCS system.</p>\n",
+          "url": "https://www.youtube.com/watch?v=DhhPUrizZcw",
+          "score": 42,
+          "comments": 6,
+          "tags": [
+            "person",
+            "video"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "The Architect's Instinct",
+          "description": "",
+          "url": "https://webframp.com/posts/architects-instinct/",
+          "score": 2,
+          "comments": 1,
+          "tags": [
+            "ai",
+            "philosophy"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Progressive Web Components",
+          "description": "",
+          "url": "https://arielsalminen.com/2026/progressive-web-components/",
+          "score": 13,
+          "comments": 16,
+          "tags": [
+            "javascript",
+            "vibecoding",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Palantir Workers Are Finally Noticing The Skulls On Their Caps",
+          "description": "",
+          "url": "https://www.techdirt.com/2026/04/30/palantir-workers-are-finally-noticing-the-skulls-on-their-caps/",
+          "score": 24,
+          "comments": 1,
+          "tags": [
+            "culture"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Reducing ML-KEM-768 encapsulation key sizes by 24 octets",
+          "description": "",
+          "url": "https://runxiyu.org/comp/mlkem768pack/",
+          "score": 2,
+          "comments": 1,
+          "tags": [
+            "cryptography"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "XITLOG - patch-based merging is now enabled by default",
+          "description": "",
+          "url": "https://xit-vcs.github.io/xitlog/devlog-patch-merge-default.html",
+          "score": 13,
+          "comments": 0,
+          "tags": [
+            "vcs"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "If I Could Make My Own GitHub",
+          "description": "",
+          "url": "https://matduggan.com/if-i-could-make-my-own-github/",
+          "score": 49,
+          "comments": 22,
+          "tags": [
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "micro-benchmarks don’t tell the whole story",
+          "description": "",
+          "url": "https://hyper.dev/2026/chez-scheme-letloop-transparent-async-microbenchmark/",
+          "score": 7,
+          "comments": 3,
+          "tags": [
+            "lisp",
+            "performance",
+            "vibecoding",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "What are you doing this weekend?",
+          "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
+          "url": "",
+          "score": 20,
+          "comments": 42,
+          "tags": [
+            "ask",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "I Do Not Recommend Bitwarden",
+          "description": "",
+          "url": "https://マリウス.com/i-do-not-recommend-bitwarden/",
+          "score": 2,
+          "comments": 0,
+          "tags": [
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Finding a RCE in my old TP-Link router",
+          "description": "",
+          "url": "https://mrbruh.com/tplink/",
+          "score": 5,
+          "comments": 1,
+          "tags": [
+            "reversing",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Porting microgpt to Futhark, Part I",
+          "description": "",
+          "url": "https://www.kmjn.org/notes/microgpt_futhark.html",
+          "score": 29,
+          "comments": 2,
+          "tags": [
+            "ai",
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Pu.sh – a full coding-agent harness in 400 lines of shell (pu.dev)",
+          "description": "",
+          "url": "https://pu.dev",
+          "score": 2,
+          "comments": 2,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Typing Your Django Project in 2026",
+          "description": "",
+          "url": "https://blog.pecar.me/typing-your-django-project-in-2026/",
+          "score": 9,
+          "comments": 4,
+          "tags": [
+            "python",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "Shigeru Miyamoto has probably never compiled a line of code in his life and is still a better coder than most of you",
+          "description": "",
+          "url": "https://indiepixel.de/blog/posts/shigeru-miyamoto-has-probably-never-compiled-a-line-of-code-in-his-life-and-is-still-a-better-coder-than-most-of-you/",
+          "score": 9,
+          "comments": 12,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 80,
+    "hackernews": 30,
+    "github": 9,
+    "v2ex": 9,
+    "devto": 12,
+    "lobsters": 20
+  }
+}

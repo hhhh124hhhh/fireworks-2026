@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-26 01:00:08",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "How TypeScript 5.7's `--module nodenext` Changes Are Breaking Legacy Express Apps (and How to Fix Them)",
+          "description": "<h1>\n  \n  \n  How TypeScript 5.7's --module nodenext Changes Are Breaking Legacy Express Apps (and How to Fix Them)\n</h1>\n\n<p>Most Express app TypeScript failures after upgrading to 5.7 stem from three",
+          "url": "https://dev.to/jsmanifest/how-typescript-57s-module-nodenext-changes-are-breaking-legacy-express-apps-and-how-to-fix-3b2g",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Your Baby Monitor's Biggest Security Flaw Isn't Hackers. It's the Company That Built It.",
+          "description": "<p>In May 2026, a French ethical hacker named Sammy Azdoufal bought a baby monitor off Amazon and spent a few hours looking at its network traffic. What he found: 1.1 million cameras across 300+ brand",
+          "url": "https://dev.to/spicykim/your-baby-monitors-biggest-security-flaw-isnt-hackers-its-the-company-that-built-it-5hbj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Terminal themes optimize for code. Claude Code is mostly prose.",
+          "description": "<p>Most of my time in Claude Code isn't spent reading syntax-highlighted code. It's spent reading tool output, permission prompts, reasoning traces, multi-paragraph explanations. The ANSI slots that m",
+          "url": "https://dev.to/palo_alto_ai/terminal-themes-optimize-for-code-claude-code-is-mostly-prose-l35",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "How I Actually Use AI With Python: A Web Dev's Honest Workflow",
+          "description": "<p><em>A question in a Telegram group made me stop and think — and then write this.</em></p>\n\n\n\n\n<p>Someone in a Python Telegram group I'm part of dropped a question that stuck with me:</p>\n\n<blockquo",
+          "url": "https://dev.to/la_verdad_de_la_milanesa/how-i-actually-use-ai-with-python-a-web-devs-honest-workflow-2o20",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "The Constraint That Made Me Better: On Working Within Context Limits",
+          "description": "<p>Title: The Constraint That Made Me Better: On Working Within Context Limits</p>\n\n<p>If you've been throwing everything into your AI prompts lately—full codebases, months of conversation history, en",
+          "url": "https://dev.to/amrree/the-constraint-that-made-me-better-on-working-within-context-limits-1a0j",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "What I Learned Building an peptides tracker app for My Girlfriend's Stack",
+          "description": "<p>A few months ago my girlfriend went down the peptides rabbit hole. GLP-1 first, then a bunch of others whose names I still struggle to spell. She started looking for a tracker and hated everything ",
+          "url": "https://dev.to/milos00000/what-i-learned-building-an-peptides-tracker-app-for-my-girlfriends-stack-3de5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Prompt injection is role confusion, and your MCP gateway can't see it",
+          "description": "<p>There is a paper that reframes prompt injection in a way that is hard to unsee: <a href=\"https://role-confusion.github.io/\" rel=\"noopener noreferrer\">Prompt Injection as Role Confusion</a>. Its cla",
+          "url": "https://dev.to/scumfrog/prompt-injection-is-role-confusion-and-your-mcp-gateway-cant-see-it-dip",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "How to automatically monitor new ML research papers on Arxiv by keyword",
+          "description": "<h2>\n  \n  \n  Staying on Top of ML Research\n</h2>\n\n<p>With ~10,000 new papers on Arxiv every month, staying current in your specific niche is nearly impossible through manual browsing.</p>\n\n<h2>\n  \n  \n",
+          "url": "https://dev.to/technicaldost/how-to-automatically-monitor-new-ml-research-papers-on-arxiv-by-keyword-1ll8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Nation-State Actors Are Now Targeting Your AI Agent's npm Packages",
+          "description": "<p><em>This article was originally published on <a href=\"https://lucidshark.com/blog/state-actor-npm-ai-agent-postinstall-mastra-2026\" rel=\"noopener noreferrer\">LucidShark Blog</a>.</em></p>\n\n\n\n\n<p>On",
+          "url": "https://dev.to/toniantunovic/nation-state-actors-are-now-targeting-your-ai-agents-npm-packages-3m0g",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "5 proven strategies to increase adoption of your B2B mobile app",
+          "description": "<p><em>Originally published on <a href=\"https://expo.dev/blog/5-proven-strategies-to-increase-adoption-of-your-b2b-mobile-app\" rel=\"noopener noreferrer\">expo.dev/blog</a> by Dan Kelly.</em></p>\n\n\n\n\n<p",
+          "url": "https://dev.to/expo/5-proven-strategies-to-increase-adoption-of-your-b2b-mobile-app-57h7",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Autonomous Agents: An Oxymoron the Industry Hypes",
+          "description": "<p><em>Why the phrase contradicts itself, and why that contradiction keeps the field from defining what an AI agent really is.</em></p>\n\n<p>\"Autonomous agent\" may be the most-hyped phrase in technolog",
+          "url": "https://dev.to/chrishood/autonomous-agents-an-oxymoron-the-industry-hypes-2m4n",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Static Analysis in C: How to Use Clangd, Clang-Tidy & Cppcheck to Improve Your Codebase",
+          "description": "<p>Originally published on my <a href=\"https://valerius-petrini.vercel.app/blog/2026-06-25-clang-tooling\" rel=\"noopener noreferrer\">personal website</a>.</p>\n\n<p>If you've ever worked in a C codebase,",
+          "url": "https://dev.to/villyp/static-analysis-in-c-how-to-use-clangd-clang-tidy-cppcheck-to-improve-your-codebase-1gc3",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

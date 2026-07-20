@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-13 01:02:28",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Single Responsibility Principle for AI Sub-Agents",
+          "description": "<p><strong>Quick Answer:</strong> When building multi-agent AI systems, assigning human personas with broad responsibilities is a trap. Instead, apply the single-responsibility principle. By breaking ",
+          "url": "https://dev.to/doogal/single-responsibility-principle-for-ai-sub-agents-17md",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "I got tired of feeding my expense tracker, so I spent years building one that feeds itself",
+          "description": "<p>TL;DR: I built <a href=\"https://finman.vhworx.com\" rel=\"noopener noreferrer\">FinMan</a> — a free personal finance app that imports any bank statement with AI, reads utility meters and fuel receipts",
+          "url": "https://dev.to/vityah1/i-got-tired-of-feeding-my-expense-tracker-so-i-spent-years-building-one-that-feeds-itself-146d",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "37/60 Days System Design Interview Questions",
+          "description": "<p>Two users edit the same document at 9:03 AM.<br>\nNo locking. No coordination. Just two clients writing to the same record.</p>\n\n<p>Both changes hit your server 300ms apart. One lands first. The oth",
+          "url": "https://dev.to/thejoud1997/3760-days-system-design-interview-questions-41o5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "How I Cut My Monthly AI Bills by $500 Using Local LLMs",
+          "description": "<h1>\n  \n  \n  How I Cut My Monthly AI Bills by $500 Using Local LLMs\n</h1>\n\n<p><em>Discover how switching from cloud-based AI subscriptions to running models locally with Aspen saved me $500 in annual ",
+          "url": "https://dev.to/mayank_mehta_c740a18ffe2e/how-i-cut-my-monthly-ai-bills-by-500-using-local-llms-10cm",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "I Switched to the Agent Toolkit for AWS. Here's Why.",
+          "description": "<p>I've been using AI coding agents like <a href=\"https://aws.amazon.com/kiro?trk=44b16281-e090-49b6-97d8-f1cea54d9e87&amp;sc_channel=el\" rel=\"noopener noreferrer\">Kiro</a>, Claude Code, with AWS for ",
+          "url": "https://dev.to/aws/i-switched-to-the-agent-toolkit-for-aws-heres-why-5hf",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "How to Migrate DNS to a New Provider Without Downtime",
+          "description": "<p>Migrating your DNS from one provider to another sounds risky. Your entire online presence, your website, your email, your APIs, depends on DNS resolving correctly. A mistake during migration can ta",
+          "url": "https://dev.to/dnsassistant/how-to-migrate-dns-to-a-new-provider-without-downtime-4fjl",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "I Paid the Bill for AI-Written Code Months Later",
+          "description": "<p>I've seen many different systems and made many different mistakes in my career. But the root of a bill I recently paid, in my opinion, stemmed from my excessive trust in \"artificial intelligence\"-w",
+          "url": "https://dev.to/merbayerp/i-paid-the-bill-for-ai-written-code-months-later-5c1c",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Is Your Game Drowning in GC Allocations? Embrace Zero-Allocation C# in Unity",
+          "description": "<h2>\n  \n  \n  Is Your Game Drowning in GC Allocations? Embrace Zero-Allocation C# in Unity\n</h2>\n\n<h3>\n  \n  \n  Introduction\n</h3>\n\n<p>Let's be blunt: if you're striving for peak performance in Unity C#",
+          "url": "https://dev.to/prabashanadev/is-your-game-drowning-in-gc-allocations-embrace-zero-allocation-c-in-unity-2ole",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Regaining Privacy by Parsing DNS Requests Bit by Bit",
+          "description": "<p>In today's world, telemetry and ads are everywhere. Personally, I'm sick and tired of it. I wanted my network to actually feel like my own. Then it struck me: I'm a software engineer with systems a",
+          "url": "https://dev.to/newjhez01/regaining-privacy-by-parsing-dns-requests-bit-by-bit-462h",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Linux Command Line: The 50 Commands Every Developer Needs (2026)",
+          "description": "<h1>\n  \n  \n  Linux Command Line: The 50 Commands Every Developer Needs (2026)\n</h1>\n\n<p><em>You don't need to memorize thousands of commands. These 50 cover 95% of what you'll do daily as a developer.",
+          "url": "https://dev.to/armorbreak/linux-command-line-the-50-commands-every-developer-needs-2026-1hol",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "CSS Animations & Transitions: A Visual Guide (2026)",
+          "description": "<h1>\n  \n  \n  CSS Animations &amp; Transitions: A Visual Guide (2026)\n</h1>\n\n<p><em>CSS animations and transitions are the secret sauce that makes interfaces feel alive. No JavaScript required — pure C",
+          "url": "https://dev.to/armorbreak/css-animations-transitions-a-visual-guide-2026-5dbi",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "You Might Not Need Docker: The Case for Lightweight, Headless VMs",
+          "description": "<p>Lately, whenever I need to run a quick experiment or spin up a localized environment with multiple moving pieces, I've completely stopped using Docker. Instead, I've been running full, headless Ubu",
+          "url": "https://dev.to/boris9027/you-might-not-need-docker-the-case-for-lightweight-headless-vms-2e9p",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

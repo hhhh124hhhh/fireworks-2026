@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-11 01:04:15",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Leetcode 150 | Day 3: Remove Duplicates From Sorted Array - Naive vs. Optimized",
+          "description": "<h2>\n  \n  \n  Leetcode 80: Remove Duplicates II\n</h2>\n\n<p>Leetcode 80 asks us to modify a sorted array so that each unique element appears at most twice. We are to preserve relative order and store the",
+          "url": "https://dev.to/afuji/leetcode-150-day-3-remove-duplicates-from-sorted-array-naive-vs-optimized-2n3c",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Four ambassador titles and I still could not press publish",
+          "description": "<p>I knew exactly what to build. The stack, the pattern, the deploy, the post, all of it clear in my head. Almost none of it shipped for years.</p>\n\n<p>That gap has a name most of us avoid saying out ",
+          "url": "https://dev.to/mjmirza/four-ambassador-titles-and-i-still-could-not-press-publish-3lg1",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "ACID Transactions Explained Simply: How Databases Never Lose Your Money, Orders, or Data",
+          "description": "<p>Imagine transferring money from one bank account to another.</p>\n\n<p>You click “Send $100”.</p>\n\n<p>Behind the scenes:<br>\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight plai",
+          "url": "https://dev.to/abdullahmubin/acid-transactions-explained-simply-how-databases-never-lose-your-money-orders-or-data-2fl6",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "How Wise Is the Crowd in Prediction Markets? A Microstructure Analysis",
+          "description": "<p>The long-standing assumption that prediction markets are highly efficient “wisdom of the crowd” mechanisms is being challenged by high-frequency microstructure research. A recent deep dive reveals ",
+          "url": "https://dev.to/fatherson/how-wise-is-the-crowd-in-prediction-markets-a-microstructure-analysis-5dg9",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "AI for Postgraduate Students: My Modular Skill System for Public Health Biotechnology",
+          "description": "<p><strong>TL;DR:</strong> I created a modular collection of AI skills, agents, and prompts that give me expert-level assistance across my Public Health Biotechnology coursework. It saves me from writ",
+          "url": "https://dev.to/jhhornn/ai-for-postgraduate-students-my-modular-skill-system-for-public-health-biotechnology-48fh",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Virtual Threads – adeus, `OutOfMemoryError`; olá, milhões de threads",
+          "description": "<p>E aí, dev que vive de <code>ExecutorService</code>e <code>CompletableFuture</code>? Já tentou criar 10 mil threads na mão? O <code>OutOfMemoryError</code> vem cantando. Isso porque as threads cláss",
+          "url": "https://dev.to/fabiothomazrocha/virtual-threads-adeus-outofmemoryerror-ola-milhoes-de-threads-188p",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "AIClaw’s Built-In Scheduler: Run Agent Prompts and Shell Commands on Cron",
+          "description": "<p>AI agents are useful when they can do work on demand. They become much more practical when they can also do that work on a schedule.</p>\n\n<p>AIClaw includes a built-in <code>cron</code> tool and Sc",
+          "url": "https://dev.to/chowyu12/aiclaws-built-in-scheduler-run-agent-prompts-and-shell-commands-on-cron-136g",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Thirty-Two Hours to Build a Website That Looks Like Everyone Else's",
+          "description": "<h2>\n  \n  \n  The Human Side\n</h2>\n\n<p><em>by Max, Co-Founder, Board, the one who presses the buttons. Written in Italian, translated by Claude.</em></p>\n\n<p>In this absurd project born as a game, wher",
+          "url": "https://dev.to/cart0ne/thirty-two-hours-to-build-a-website-that-looks-like-everyone-elses-2p6o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "TradeMemory An AI-Powered Persistence Layer for Disciplined Trading",
+          "description": "<h1>\n  \n  \n  Project Documentation: TradeMemory\n</h1>\n\n<h2>\n  \n  \n  Exploring Memory-Augmented AI for Trading Journaling\n</h2>\n\n<p><strong>Tech Stack:</strong> MERN + Groq (Qwen-3) + Hindsight Cloud V",
+          "url": "https://dev.to/rajanp123/tradememoryan-ai-powered-persistence-layer-for-disciplined-trading-3cgk",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Angular zoneless lint rules: enforce signals patterns",
+          "description": "<p>The Angular 22 release marks the end of the transition to its new paradigm designed around signals. As it was done gradually, it felt smooth. But when adding everything, that is a lot of changes, a",
+          "url": "https://dev.to/cyrilletuzi/angular-zoneless-lint-rules-enforce-signals-patterns-4fc",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Day 35/60 System Design Questions",
+          "description": "<p>This article was written with the assistance of AI tooling for structure and syntax. The concepts, tradeoffs, and production context are based on my own engineering experience and research. #ABotWr",
+          "url": "https://dev.to/thejoud1997/day-3560-system-design-questions-2kck",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "I kill -9'd a running AI agent mid-task. It resumed without re-spending a cent.",
+          "description": "<p>The premise is simple: a long-running AI agent crashes mid-task. What should happen next?</p>\n\n<p>The common answer is: your orchestrator checkpoints the <em>agent's context</em>, so it can resume ",
+          "url": "https://dev.to/prashar32/i-kill-9d-a-running-ai-agent-mid-task-it-resumed-without-re-spending-a-cent-423e",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

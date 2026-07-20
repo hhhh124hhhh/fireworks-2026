@@ -1,0 +1,901 @@
+{
+  "timestamp": "2026-06-21 02:03:09",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "SMPTE Makes Its Standards Freely Accessible",
+          "score": 44,
+          "author": "zdw",
+          "comments": 20,
+          "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community"
+        },
+        {
+          "rank": 2,
+          "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+          "score": 25,
+          "author": "zdw",
+          "comments": 4,
+          "url": "https://www.lispm.net/apps/uhf-x11/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://www.lispm.net/apps/uhf-x11/"
+        },
+        {
+          "rank": 3,
+          "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+          "score": 82,
+          "author": "LowLevelMahn",
+          "comments": 20,
+          "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html"
+        },
+        {
+          "rank": 4,
+          "title": "CSSQuake",
+          "score": 341,
+          "author": "msalsas",
+          "comments": 71,
+          "url": "https://cssquake.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://cssquake.com/"
+        },
+        {
+          "rank": 5,
+          "title": "Ember, a native iOS Hacker News reader I built around accessibility",
+          "score": 26,
+          "author": "sylwester",
+          "comments": 4,
+          "url": "https://github.com/DatanoiseTV/ember-hackernews",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://github.com/DatanoiseTV/ember-hackernews"
+        },
+        {
+          "rank": 6,
+          "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+          "score": 26,
+          "author": "shpran",
+          "comments": 5,
+          "url": "https://startupwiki.tech/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://startupwiki.tech/"
+        },
+        {
+          "rank": 7,
+          "title": "S‑CURVES a field guide to technology adoption · 1825–2026",
+          "score": 8,
+          "author": "sapal",
+          "comments": 0,
+          "url": "https://escurves.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://escurves.com/"
+        },
+        {
+          "rank": 8,
+          "title": "Show HN: Microcrad – Micrograd Reimplemented in C",
+          "score": 23,
+          "author": "oraziorillo",
+          "comments": 5,
+          "url": "https://github.com/oraziorillo/microcrad",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://github.com/oraziorillo/microcrad"
+        },
+        {
+          "rank": 9,
+          "title": "Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios",
+          "score": 22,
+          "author": "karakoram",
+          "comments": 2,
+          "url": "https://vawaa.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://vawaa.com/"
+        },
+        {
+          "rank": 10,
+          "title": "VPN ban update for UK households as government looks at 'age-gate'",
+          "score": 186,
+          "author": "iamnothere",
+          "comments": 177,
+          "url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063"
+        },
+        {
+          "rank": 11,
+          "title": "The European Social Stack",
+          "score": 89,
+          "author": "doener",
+          "comments": 74,
+          "url": "https://european.social",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://european.social"
+        },
+        {
+          "rank": 12,
+          "title": "Temporary Cloudflare Accounts for AI Agents",
+          "score": 66,
+          "author": "farhadhf",
+          "comments": 43,
+          "url": "https://blog.cloudflare.com/temporary-accounts/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://blog.cloudflare.com/temporary-accounts/"
+        },
+        {
+          "rank": 13,
+          "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+          "score": 78,
+          "author": "car",
+          "comments": 25,
+          "url": "https://bootimus.com",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://bootimus.com"
+        },
+        {
+          "rank": 14,
+          "title": "Web Browsers on PDAS",
+          "score": 26,
+          "author": "robin_reala",
+          "comments": 7,
+          "url": "https://vale.rocks/posts/pda-browsers",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://vale.rocks/posts/pda-browsers"
+        },
+        {
+          "rank": 15,
+          "title": "Where to Find the Colors Your Screen Can't Show You",
+          "score": 353,
+          "author": "moultano",
+          "comments": 89,
+          "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/"
+        },
+        {
+          "rank": 16,
+          "title": "Mencius (2016)",
+          "score": 15,
+          "author": "jruohonen",
+          "comments": 1,
+          "url": "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content"
+        },
+        {
+          "rank": 17,
+          "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+          "score": 106,
+          "author": "Brajeshwar",
+          "comments": 47,
+          "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
+        },
+        {
+          "rank": 18,
+          "title": "I Stored a Website in a Favicon",
+          "score": 259,
+          "author": "theanonymousone",
+          "comments": 90,
+          "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/"
+        },
+        {
+          "rank": 19,
+          "title": "Cargo-Geiger",
+          "score": 22,
+          "author": "tosh",
+          "comments": 6,
+          "url": "https://github.com/geiger-rs/cargo-geiger",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://github.com/geiger-rs/cargo-geiger"
+        },
+        {
+          "rank": 20,
+          "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
+          "score": 102,
+          "author": "tcp_handshaker",
+          "comments": 48,
+          "url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video"
+        },
+        {
+          "rank": 21,
+          "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+          "score": 95,
+          "author": "drayfield",
+          "comments": 50,
+          "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/"
+        },
+        {
+          "rank": 22,
+          "title": "Can you see three trees?",
+          "score": 267,
+          "author": "Pamar",
+          "comments": 129,
+          "url": "https://www.not-ship.com/can-you-see-three-trees/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://www.not-ship.com/can-you-see-three-trees/"
+        },
+        {
+          "rank": 23,
+          "title": "Computed goto for efficient dispatch tables (2012)",
+          "score": 34,
+          "author": "firephox",
+          "comments": 14,
+          "url": "https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables"
+        },
+        {
+          "rank": 24,
+          "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+          "score": 423,
+          "author": "oshrimpton",
+          "comments": 207,
+          "url": "https://arrowtsx.dev/bigger-models/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://arrowtsx.dev/bigger-models/"
+        },
+        {
+          "rank": 25,
+          "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+          "score": 49,
+          "author": "karakoram",
+          "comments": 5,
+          "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/"
+        },
+        {
+          "rank": 26,
+          "title": "There are no instances in ATProto",
+          "score": 502,
+          "author": "danabramov",
+          "comments": 281,
+          "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://overreacted.io/there-are-no-instances-in-atproto/"
+        },
+        {
+          "rank": 27,
+          "title": "Human Judgment as a Specification",
+          "score": 35,
+          "author": "surprisetalk",
+          "comments": 16,
+          "url": "https://blog.brownplt.org/2026/06/09/pick.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://blog.brownplt.org/2026/06/09/pick.html"
+        },
+        {
+          "rank": 28,
+          "title": "Data Compression Explained (2012)",
+          "score": 176,
+          "author": "mtdewcmu",
+          "comments": 29,
+          "url": "https://mattmahoney.net/dc/dce.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://mattmahoney.net/dc/dce.html"
+        },
+        {
+          "rank": 29,
+          "title": "Pong in S Favicon",
+          "score": 24,
+          "author": "theanonymousone",
+          "comments": 4,
+          "url": "https://pong-in-a-favicon.franzai.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://pong-in-a-favicon.franzai.com/"
+        },
+        {
+          "rank": 30,
+          "title": "The Cold War's Accidental Whale Observatory",
+          "score": 52,
+          "author": "pseudolus",
+          "comments": 24,
+          "url": "https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/"
+        }
+      ]
+    },
+    "github": {
+      "count": 17,
+      "items": [
+        {
+          "rank": 1,
+          "title": "palmier-io /palmier-pro",
+          "description": "macOS video editor built for AI",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "language": "Swift",
+          "stars": 2923,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "penpot /penpot",
+          "description": "Penpot: The open-source design tool for design and code collaboration",
+          "url": "https://github.com/penpot/penpot",
+          "language": "Clojure",
+          "stars": 51137,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "calesthio /OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "language": "Python",
+          "stars": 6862,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "tursodatabase /turso",
+          "description": "Turso is an in-process SQL database, compatible with SQLite.",
+          "url": "https://github.com/tursodatabase/turso",
+          "language": "Rust",
+          "stars": 20203,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "DeusData /codebase-memory-mcp",
+          "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "language": "C",
+          "stars": 9100,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "google-research /timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "url": "https://github.com/google-research/timesfm",
+          "language": "Python",
+          "stars": 24409,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "twentyhq /twenty",
+          "description": "The open alternative to Salesforce, designed for AI.",
+          "url": "https://github.com/twentyhq/twenty",
+          "language": "TypeScript",
+          "stars": 50763,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "Kong /insomnia",
+          "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+          "url": "https://github.com/Kong/insomnia",
+          "language": "TypeScript",
+          "stars": 39227,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "tw93 /Pake",
+          "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+          "url": "https://github.com/tw93/Pake",
+          "language": "Rust",
+          "stars": 54125,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "chopratejas /headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "url": "https://github.com/chopratejas/headroom",
+          "language": "Python",
+          "stars": 41269,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "jamiepine /voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "url": "https://github.com/jamiepine/voicebox",
+          "language": "TypeScript",
+          "stars": 30899,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "Kilo-Org /kilocode",
+          "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "language": "TypeScript",
+          "stars": 23240,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "mattpocock /skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "url": "https://github.com/mattpocock/skills",
+          "language": "Shell",
+          "stars": 137922,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 14,
+          "title": "withastro /flue",
+          "description": "The sandbox agent framework.",
+          "url": "https://github.com/withastro/flue",
+          "language": "TypeScript",
+          "stars": 6034,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 15,
+          "title": "owainlewis /awesome-artificial-intelligence",
+          "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+          "language": "",
+          "stars": 14713,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 16,
+          "title": "pppscn /SmsForwarder",
+          "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是",
+          "url": "https://github.com/pppscn/SmsForwarder",
+          "language": "Kotlin",
+          "stars": 26457,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 17,
+          "title": "1jehuang /jcode",
+          "description": "Coding Agent Harness",
+          "url": "https://github.com/1jehuang/jcode",
+          "language": "Rust",
+          "stars": 7349,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Town Square, the community deserves connection",
+          "description": "",
+          "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
+          "score": 14,
+          "comments": 8,
+          "tags": [
+            "vibecoding",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "There Are No Instances in atproto",
+          "description": "",
+          "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+          "score": 18,
+          "comments": 23,
+          "tags": [
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "I can haz smoller NixOS ISOs?",
+          "description": "",
+          "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
+          "score": 56,
+          "comments": 18,
+          "tags": [
+            "nix",
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Meet Alice. Alice is impatient",
+          "description": "",
+          "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+          "score": 17,
+          "comments": 3,
+          "tags": [
+            "math",
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Bevy 0.19",
+          "description": "",
+          "url": "https://bevy.org/news/bevy-0-19/",
+          "score": 63,
+          "comments": 7,
+          "tags": [
+            "games",
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "I am dreading our LLM-written incident report future",
+          "description": "",
+          "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/",
+          "score": 28,
+          "comments": 9,
+          "tags": [
+            "devops",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "The cube, the epicycles and the human face",
+          "description": "",
+          "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
+          "score": 7,
+          "comments": 4,
+          "tags": [
+            "math"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Safe SIMD in Rust, even on the inside",
+          "description": "",
+          "url": "https://shnatsel.medium.com/safe-simd-in-rust-even-on-the-inside-c6f1ff381828",
+          "score": 24,
+          "comments": 1,
+          "tags": [
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "I Stored a Website in a Favicon",
+          "description": "",
+          "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+          "score": 8,
+          "comments": 0,
+          "tags": [
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "What has (can) the EU Cyber Resilience Act done (do) for you?",
+          "description": "",
+          "url": "https://nxdomain.no/~peter/what_hascan_eu_cra_donedo_for_you.html",
+          "score": 16,
+          "comments": 1,
+          "tags": [
+            "law",
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Fedora 44 Gnome review - We're not in Kansas anymore",
+          "description": "",
+          "url": "https://www.dedoimedo.com/computers/fedora-44-gnome.html",
+          "score": 2,
+          "comments": 1,
+          "tags": [
+            "linux"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "OCaml 5.5.0 released",
+          "description": "",
+          "url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+          "score": 4,
+          "comments": 0,
+          "tags": [
+            "compilers",
+            "ml",
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "UHF X11: X11 built for VisionOS and Apple Vision Pro",
+          "description": "",
+          "url": "https://www.lispm.net/apps/uhf-x11/",
+          "score": 12,
+          "comments": 0,
+          "tags": [
+            "unix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "SMPTE Makes Its Standards Freely Accessible",
+          "description": "",
+          "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+          "score": 18,
+          "comments": 4,
+          "tags": [
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Announcing the next generation of Distrobox",
+          "description": "",
+          "url": "https://distrobox.it/posts/announcing_distrobox_next/",
+          "score": 3,
+          "comments": 0,
+          "tags": [
+            "go",
+            "linux"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Godot 4.7: Lights, Camera, Action",
+          "description": "",
+          "url": "https://godotengine.org/releases/4.7/",
+          "score": 82,
+          "comments": 5,
+          "tags": [
+            "games",
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "XLibre XServer 25.2 released",
+          "description": "",
+          "url": "https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes",
+          "score": 3,
+          "comments": 3,
+          "tags": [
+            "linux",
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "cssQuake - Play Quake in Your Browser",
+          "description": "",
+          "url": "https://cssquake.com/",
+          "score": 2,
+          "comments": 1,
+          "tags": [
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Aspirational Clownmaxxing and Joey's cadillac todo list",
+          "description": "",
+          "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
+          "score": 13,
+          "comments": 5,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "DiffsHub",
+          "description": "",
+          "url": "https://diffshub.com/",
+          "score": 28,
+          "comments": 28,
+          "tags": [
+            "vcs"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 67,
+    "hackernews": 30,
+    "github": 17,
+    "lobsters": 20
+  }
+}

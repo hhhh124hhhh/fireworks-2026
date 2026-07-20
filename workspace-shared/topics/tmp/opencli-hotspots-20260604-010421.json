@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-04 01:04:21",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Git rerere: the feature you didnt know you needed",
+          "description": "<p>Every few weeks I hit the same merge conflict. Same file, same lines, same decisions. For years I just dealt with it — resolve, commit, move on. Then I stumbled over <code>rerere</code> and now I d",
+          "url": "https://dev.to/schiff_heimlich/git-rerere-the-feature-you-didnt-know-you-needed-383o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "A Practical Git-First Deployment Orchestration",
+          "description": "<h1>\n  \n  \n  A Practical Git-First Deployment Orchestration\n</h1>\n\n<h3>\n  \n  \n  A Practical Git-First Deployment Orchestration\n</h3>\n\n<p>A solid version-control workflow isn’t just about commits; it’s",
+          "url": "https://dev.to/therizwansaleem/a-practical-git-first-deployment-orchestration-1k7l",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "My first 8 months with AI",
+          "description": "<p>There's a tremendous amount of hype and hate around AI these days. Most techies seem to be on the hype side and most normies are on the hate side. Everybody has \"good enough\" reasons for their take",
+          "url": "https://dev.to/chicks/my-first-8-months-with-ai-390i",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "I Built a Prediction Market Insider Trading Detector in One Afternoon (Because George Santos)",
+          "description": "<p>This morning I woke up to news that George Santos is under federal investigation for insider trading on Kalshi. By end of day I had a working anomaly detector monitoring 410 politically-sensitive p",
+          "url": "https://dev.to/lweiss01/i-built-a-prediction-market-insider-trading-detector-in-one-afternoon-because-george-santos-4dkk",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "⚡ Revisiting My Old ML Project: Battery Drain Predictor Using Linear Regression",
+          "description": "<p>This is a submission for the GitHub Finish-Up-A-Thon Challenge</p>\n\n<p>What I Built</p>\n\n<p>One of the projects I built while learning Machine Learning was a Battery Drain Predictor using Linear Re",
+          "url": "https://dev.to/manvanthgowda/revisiting-my-old-ml-project-battery-drain-predictor-using-linear-regression-31f0",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Brute-Force Retrieval Holds Through 5,000 Memories. Then It Doesn't.",
+          "description": "<p>The last post I wrote measured how long it takes to query my Linux box's memory store from my Mac over a WireGuard mesh. The answer was about 20 milliseconds, plus or minus a few for Tailscale jitt",
+          "url": "https://dev.to/newtorob/brute-force-retrieval-holds-through-5000-memories-then-it-doesnt-5bm3",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "28/30 Days System Design Questions!",
+          "description": "<p>You're building a semantic search feature for a B2B SaaS product.</p>\n\n<p>The corpus: 4 million support articles, docs, and user-generated tickets. Users type natural language queries. They expect ",
+          "url": "https://dev.to/thejoud1997/2830-days-system-design-questions-5hh1",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Microsoft Build 2026: Top announcements from a DevOps lens",
+          "description": "<h2>\n  \n  \n  Microsoft Build 2026: Top announcements from a DevOps lens\n</h2>\n\n<p>Microsoft Build 2026 was not just another Copilot-heavy keynote. It felt like Microsoft drawing a new operating model ",
+          "url": "https://dev.to/pwd9000/microsoft-build-2026-top-announcements-from-a-devops-lens-419k",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Stop flattening your typography tokens: Preserving bound aliases in W3C exports",
+          "description": "<p>I was looking at a pull request last Monday. The marketing team had just rolled out a massive rebrand. We swapped our primary typeface from Inter to a custom geometric sans. The design team updated",
+          "url": "https://dev.to/alexandersstudi/stop-flattening-your-typography-tokens-preserving-bound-aliases-in-w3c-exports-593n",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "AI Is Not Killing Developers. It’s Doing What We Always Did to Ourselves",
+          "description": "<p>AI is considered as a threat for developers. Not existential — nobody thinks Skynet is coming for your VS Code. But as a “tool” that makes developers less knowledgeable about the tricks of software",
+          "url": "https://dev.to/homolibere/ai-is-not-killing-developers-its-doing-what-we-always-did-to-ourselves-bm2",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Road To KiwiEngine #8: Why I Built Seltzer Instead of Reaching for Another Framework",
+          "description": "<p>Recently, I published another piece of the ecosystem publicly:</p>\n\n<p><a href=\"https://www.npmjs.com/package/@citrusworx/seltzer\" rel=\"noopener noreferrer\">@citrusworx/seltzer on NPM</a></p>\n\n<p>A",
+          "url": "https://dev.to/stinklewinks/road-to-kiwiengine-8why-i-built-seltzer-instead-of-reaching-for-another-framework-282b",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "I paid $0.05 to analyze Notion's competitive position. Here's what an AI agent found in 1.2 seconds.",
+          "description": "<p>No account. No API key. No subscription. Just a wallet and an HTTP request.<br>\nThis is what competitive intelligence looks like when you remove the human from the loop.</p>\n\n<p>The problem with co",
+          "url": "https://dev.to/trustboost/i-paid-005-to-analyze-notions-competitive-position-heres-what-an-ai-agent-found-in-12-seconds-16mp",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

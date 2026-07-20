@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "skills": {
+    "openclaw-agent-builder": {
+      "path": "../../../../skills/openclaw-agent-builder",
+      "description": "Scaffold a new OpenClaw agent workspace with governance defaults and starter docs.",
+      "name": "OpenClaw Agent Builder",
+      "source": "local",
+      "version": "1.0.0"
+    },
+    "openclaw-capability-admin": {
+      "path": "../../../../skills/openclaw-capability-admin",
+      "description": "Safe skill registration, tool documentation, and shared MCP verification for OpenClaw agents.",
+      "name": "OpenClaw Capability Admin",
+      "source": "local",
+      "version": "1.0.0"
+    },
+    "chrome-devtools": {
+      "name": "Chrome DevTools MCP",
+      "source": "local",
+      "version": "1.0.0",
+      "path": "../../workspace-main-lite/skills/chrome-devtools",
+      "description": "Shared real-Chrome browser automation with persistent cookies.",
+      "tools": [
+        "navigate",
+        "evaluate",
+        "screenshot",
+        "scrape_page"
+      ]
+    },
+    "intel-hotspot-grabber": {
+      "name": "Intel Hotspot Grabber",
+      "source": "local",
+      "version": "1.0.0",
+      "path": "../../workspace-main-lite/skills/intel-hotspot-grabber",
+      "description": "Hotspot collection across Weibo, Zhihu, Baidu and other monitored sources."
+    },
+    "jd-collector": {
+      "name": "JD Collector",
+      "source": "local",
+      "version": "1.0.0",
+      "path": "../../workspace-main-lite/skills/jd-collector",
+      "description": "Collector used when intel tasks need JD product and market signals."
+    },
+    "analyze": {
+      "name": "Analyze",
+      "source": "clawhub",
+      "version": "1.0.0",
+      "path": "../../workspace-main-lite/skills/analyze",
+      "description": "缁撴瀯鍖栧垎鏋愭鏋?- 鏁版嵁/浠ｇ爜/鏂囨湰/鍐崇瓥/瑙嗚浜旂淮鍒嗘瀽",
+      "tools": [
+        "data",
+        "code",
+        "text",
+        "decision",
+        "visual"
+      ]
+    },
+    "opencli": {
+      "name": "OpenCLI",
+      "source": "npm",
+      "version": "1.1.1",
+      "description": "浏览器/网站操作 CLI - 社交媒体/新闻/金融数据/内容平台自动化",
+      "entryPoint": "opencli",
+      "usage": "opencli <platform> <command> [options] [-f json]",
+      "platforms": ["twitter", "weibo", "zhihu", "bilibili", "xiaohongshu", "jike", "hackernews", "v2ex", "youtube", "weread"],
+      "tools": ["hot", "search", "trending", "feed", "create", "download"]
+    },
+    "opencli-hotspot-grabber": {
+      "name": "OpenCLI Hotspot Grabber",
+      "source": "local",
+      "version": "1.0.0",
+      "path": "skills/opencli-hotspot-grabber",
+      "description": "全域热点抓取工具 - 基于 OpenCLI 支持 9 个平台 (HackerNews/GitHub/V2EX/arXiv/B 站/小红书/雪球/微博/知乎) 的技术趋势、内容素材和社会热点采集",
+      "entryPoint": "python skills/opencli-hotspot-grabber/hotspot_grabber.py",
+      "platforms": ["hackernews", "github", "v2ex", "arxiv", "bilibili", "xiaohongshu", "xueqiu", "weibo", "zhihu"],
+      "outputFormat": "json"
+    }
+  }
+}

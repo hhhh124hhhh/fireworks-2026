@@ -1,0 +1,73 @@
+{
+  "crawlTime": "2026-03-16T09:15:00+08:00",
+  "crawlRound": "Round-20260316-AM",
+  "agent": "Agent-X",
+  "platforms": {
+    "weibo": {
+      "url": "https://s.weibo.com/top/summary",
+      "crawledAt": "2026-03-16T09:10:00+08:00",
+      "topTopics": [
+        {"rank": 1, "title": "315 曝光名单", "hot": "2254661", "tag": "热"},
+        {"rank": 2, "title": "2026 奥斯卡获奖名单", "hot": "993541", "tag": "热"},
+        {"rank": 3, "title": "网警提醒看不见的虚假更要防", "hot": "791664", "tag": ""},
+        {"rank": 4, "title": "315 曝光的鸡爪公司股东也在看晚会", "hot": "358411", "tag": ""},
+        {"rank": 5, "title": "网红锅巴公司已停产停售", "hot": "333505", "tag": "新"},
+        {"rank": 15, "title": "给 AI 投毒已成产业链", "hot": "197654", "tag": "", "relevant": true}
+      ]
+    },
+    "zhihu": {
+      "url": "https://www.zhihu.com/hot",
+      "crawledAt": "2026-03-16T09:11:00+08:00",
+      "topTopics": [
+        {"rank": 1, "title": "2026 年央视 315 晚会，披露了哪些消费乱象？", "hot": "1582 万热度"},
+        {"rank": 2, "title": "315 曝光私域营销，商家包装假专家专坑老人", "hot": "411 万热度"},
+        {"rank": 11, "title": "「315 曝光 AI 投毒产业链」，通过 GEO 能在大模型里让特定产品榜上有名", "hot": "148 万热度", "relevant": true},
+        {"rank": 12, "title": "315 晚会打假万能神药「外泌体」", "hot": "147 万热度"},
+        {"rank": 13, "title": "字节跳动因版权纠纷暂停 Seedance 2.0 的全球发布", "hot": "147 万热度", "relevant": true}
+      ]
+    },
+    "baidu": {
+      "url": "https://top.baidu.com/board?tab=realtime",
+      "crawledAt": "2026-03-16T09:12:00+08:00",
+      "topTopics": [
+        {"rank": 1, "title": "315 曝光的鸡爪公司股东也在看晚会", "hot": "7808893"},
+        {"rank": 2, "title": "055 大驱为何让全世界都想抄作业", "hot": "7711819", "tag": "新"},
+        {"rank": 4, "title": "315 晚会", "hot": "7521143", "tag": "热"},
+        {"rank": 12, "title": "315 晚会曝光完整名单", "hot": "6761720", "tag": "热"},
+        {"rank": 19, "title": "一台接收器就能捕捉你的输入内容", "hot": "6086385", "relevant": true},
+        {"rank": 35, "title": "最怕 315 的私域营销上 315 晚会了", "hot": "4549556", "tag": "热", "relevant": true}
+      ]
+    }
+  },
+  "selectedTopics": [
+    {
+      "id": 1,
+      "title": "AI 投毒产业链",
+      "score": 88,
+      "priority": "P0",
+      "platforms": ["weibo", "zhihu"],
+      "reason": "315 晚会官方曝光，与公众号定位完美匹配，技术含量高"
+    },
+    {
+      "id": 2,
+      "title": "字节 Seedance 2.0 版权纠纷",
+      "score": 75,
+      "priority": "P1",
+      "platforms": ["zhihu"],
+      "reason": "AI 版权长期热点，可延伸到代码生成版权问题"
+    },
+    {
+      "id": 3,
+      "title": "无线键鼠窃密风险",
+      "score": 68,
+      "priority": "P2",
+      "platforms": ["baidu"],
+      "reason": "315 相关热点，适合技术解析，但与 AI 定位稍有偏离"
+    }
+  ],
+  "keywords": {
+    "core": ["OpenClaw", "龙虾", "Cursor", "Claude"],
+    "rotating": ["AI 副业", "AI 赚钱"],
+    "matches": []
+  }
+}

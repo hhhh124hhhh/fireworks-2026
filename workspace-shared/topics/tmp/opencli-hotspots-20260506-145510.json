@@ -1,0 +1,1087 @@
+{
+  "timestamp": "2026-05-06 14:55:10",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+          "score": 200,
+          "author": "rolph",
+          "comments": 108,
+          "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://blog.cloudflare.com/agents-stripe-projects/"
+        },
+        {
+          "rank": 2,
+          "title": "StarFighter 16-Inch",
+          "score": 212,
+          "author": "signa11",
+          "comments": 122,
+          "url": "https://us.starlabs.systems/pages/starfighter",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://us.starlabs.systems/pages/starfighter"
+        },
+        {
+          "rank": 3,
+          "title": "CARA 2.0 – \"I Built a Better Robot Dog\"",
+          "score": 38,
+          "author": "hakonjdjohnsen",
+          "comments": 0,
+          "url": "https://www.aaedmusa.com/projects/cara2",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://www.aaedmusa.com/projects/cara2"
+        },
+        {
+          "rank": 4,
+          "title": ".de TLD offline due to DNSSEC?",
+          "score": 613,
+          "author": "warpspin",
+          "comments": 306,
+          "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://dnssec-analyzer.verisignlabs.com/nic.de"
+        },
+        {
+          "rank": 5,
+          "title": "Telus Uses AI to Alter Call-Agent Accents",
+          "score": 113,
+          "author": "debo_",
+          "comments": 71,
+          "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63"
+        },
+        {
+          "rank": 6,
+          "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+          "score": 40,
+          "author": "neilfrndes",
+          "comments": 32,
+          "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now"
+        },
+        {
+          "rank": 7,
+          "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+          "score": 530,
+          "author": "amrrs",
+          "comments": 245,
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/"
+        },
+        {
+          "rank": 8,
+          "title": "Write some software, give it away for free",
+          "score": 228,
+          "author": "nohell",
+          "comments": 147,
+          "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026"
+        },
+        {
+          "rank": 9,
+          "title": "YouTube, your RSS feeds are broken",
+          "score": 69,
+          "author": "veeti",
+          "comments": 26,
+          "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://openrss.org/blog/youtube-your-feeds-are-broken"
+        },
+        {
+          "rank": 10,
+          "title": "Computer Use is 45x more expensive than structured APIs",
+          "score": 379,
+          "author": "palashawas",
+          "comments": 215,
+          "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/"
+        },
+        {
+          "rank": 11,
+          "title": "Three Inverse Laws of AI",
+          "score": 418,
+          "author": "blenderob",
+          "comments": 283,
+          "url": "https://susam.net/inverse-laws-of-robotics.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://susam.net/inverse-laws-of-robotics.html"
+        },
+        {
+          "rank": 12,
+          "title": "Ombudsman column: The Pentagon is trying to silence me",
+          "score": 148,
+          "author": "petethomas",
+          "comments": 20,
+          "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html"
+        },
+        {
+          "rank": 13,
+          "title": "EEVblog: The 555 Timer is 55 years old [video]",
+          "score": 273,
+          "author": "brudgers",
+          "comments": 67,
+          "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://www.youtube.com/watch?v=6JhK8iCQuqI"
+        },
+        {
+          "rank": 14,
+          "title": "Why most product tours get skipped",
+          "score": 131,
+          "author": "pancomplex",
+          "comments": 103,
+          "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://productonboarding.com/articles/why-product-tours-get-skipped"
+        },
+        {
+          "rank": 15,
+          "title": "Make some art with your phone sensors",
+          "score": 19,
+          "author": "adm4",
+          "comments": 5,
+          "url": "https://tautme.github.io/phone-sensors/sensor-etch.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://tautme.github.io/phone-sensors/sensor-etch.html"
+        },
+        {
+          "rank": 16,
+          "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+          "score": 45,
+          "author": "omarsar",
+          "comments": 5,
+          "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin"
+        },
+        {
+          "rank": 17,
+          "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+          "score": 1380,
+          "author": "john-doe",
+          "comments": 921,
+          "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
+        },
+        {
+          "rank": 18,
+          "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+          "score": 150,
+          "author": "ouli",
+          "comments": 58,
+          "url": "https://paletteinspiration.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://paletteinspiration.com/"
+        },
+        {
+          "rank": 19,
+          "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
+          "score": 337,
+          "author": "adrianmsmith",
+          "comments": 515,
+          "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://twitter.com/brian_armstrong/status/2051616759145185723"
+        },
+        {
+          "rank": 20,
+          "title": "Five Banana Lessons",
+          "score": 4,
+          "author": "herbertl",
+          "comments": 0,
+          "url": "https://allensthoughts.com/2026/05/03/five-banana-lessons/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://allensthoughts.com/2026/05/03/five-banana-lessons/"
+        },
+        {
+          "rank": 21,
+          "title": "I'm scared about biological computing",
+          "score": 194,
+          "author": "kuberwastaken",
+          "comments": 157,
+          "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing"
+        },
+        {
+          "rank": 22,
+          "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+          "score": 112,
+          "author": "mtricot",
+          "comments": 29,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021"
+        },
+        {
+          "rank": 23,
+          "title": "Agents for financial services and insurance",
+          "score": 226,
+          "author": "louiereederson",
+          "comments": 169,
+          "url": "https://www.anthropic.com/news/finance-agents",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://www.anthropic.com/news/finance-agents"
+        },
+        {
+          "rank": 24,
+          "title": "Should I run plain Docker Compose in production in 2026?",
+          "score": 388,
+          "author": "pmig",
+          "comments": 272,
+          "url": "https://distr.sh/blog/running-docker-in-production/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://distr.sh/blog/running-docker-in-production/"
+        },
+        {
+          "rank": 25,
+          "title": "When everyone has AI and the company still learns nothing",
+          "score": 348,
+          "author": "youngbrioche",
+          "comments": 233,
+          "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
+        },
+        {
+          "rank": 26,
+          "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+          "score": 136,
+          "author": "gmays",
+          "comments": 28,
+          "url": "https://arxiv.org/abs/2604.26752",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://arxiv.org/abs/2604.26752"
+        },
+        {
+          "rank": 27,
+          "title": "Feds Fine Durham Energy Efficiency Co $722M",
+          "score": 17,
+          "author": "ChuckMcM",
+          "comments": 10,
+          "url": "https://www.theassemblync.com/news/business/american-efficient-ferc-durham-fine/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://www.theassemblync.com/news/business/american-efficient-ferc-durham-fine/"
+        },
+        {
+          "rank": 28,
+          "title": "I completed 100 Days of Java over 5 years and mapped the journey as a graph",
+          "score": 50,
+          "author": "celurian92",
+          "comments": 18,
+          "url": "https://mohibulsblog.netlify.app/java/100daysofjava/graph/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://mohibulsblog.netlify.app/java/100daysofjava/graph/"
+        },
+        {
+          "rank": 29,
+          "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+          "score": 317,
+          "author": "littlexsparkee",
+          "comments": 372,
+          "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php"
+        },
+        {
+          "rank": 30,
+          "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
+          "score": 363,
+          "author": "spankibalt",
+          "comments": 324,
+          "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/"
+        }
+      ]
+    },
+    "github": {
+      "count": 16,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Hmbown /DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "language": "Rust",
+          "stars": 9699,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "ruvnet /ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
+          "url": "https://github.com/ruvnet/ruflo",
+          "language": "TypeScript",
+          "stars": 44235,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "virattt /dexter",
+          "description": "An autonomous agent for deep financial research",
+          "url": "https://github.com/virattt/dexter",
+          "language": "TypeScript",
+          "stars": 23978,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "docusealco /docuseal",
+          "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+          "url": "https://github.com/docusealco/docuseal",
+          "language": "Ruby",
+          "stars": 14189,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "bwya77 /vscode-dark-islands",
+          "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+          "url": "https://github.com/bwya77/vscode-dark-islands",
+          "language": "PowerShell",
+          "stars": 7973,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "mksglu /context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+          "url": "https://github.com/mksglu/context-mode",
+          "language": "TypeScript",
+          "stars": 13294,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "cocoindex-io /cocoindex",
+          "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+          "url": "https://github.com/cocoindex-io/cocoindex",
+          "language": "Python",
+          "stars": 8502,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "msitarzewski /agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "language": "Shell",
+          "stars": 93945,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "jwasham /coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "language": "",
+          "stars": 346015,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "D4Vinci /Scrapling",
+          "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "language": "Python",
+          "stars": 45378,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "Arindam200 /awesome-ai-apps",
+          "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+          "url": "https://github.com/Arindam200/awesome-ai-apps",
+          "language": "Python",
+          "stars": 11589,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "AIDC-AI /Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "language": "Python",
+          "stars": 12200,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "LearningCircuit /local-deep-research",
+          "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp",
+          "url": "https://github.com/LearningCircuit/local-deep-research",
+          "language": "Python",
+          "stars": 5309,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 14,
+          "title": "browserbase /skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "url": "https://github.com/browserbase/skills",
+          "language": "JavaScript",
+          "stars": 2470,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 15,
+          "title": "forrestchang /andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "language": "",
+          "stars": 114925,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 16,
+          "title": "PriorLabs /TabPFN",
+          "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+          "url": "https://github.com/PriorLabs/TabPFN",
+          "language": "Python",
+          "stars": 6422,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "v2ex": {
+      "count": 9,
+      "items": [
+        {
+          "rank": 1,
+          "title": "51 期间有啥有意思的事情呢！",
+          "replies": 131,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "相亲太难了",
+          "replies": 105,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "都 2026 年了，为什么还有人觉得 AMD 比 Nvidia 更适合部署本地大模型？",
+          "replies": 89,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "有老家在河南，然后在一线城市打工的么",
+          "replies": 87,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "“万 1 免 5” a 股券商 ETF 低佣免五开户，这周抽一把龙泉秦王剑 ~~ [大笑脸开户]",
+          "replies": 75,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "又一个天才程序员陨落了，刚续费五天",
+          "replies": 75,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "求推荐一辆摩托车，用途：通勤，钓鱼，回老家（单程 200km）",
+          "replies": 70,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "[AI 中转站 / 福利贴]OneXModel 推广拉新，限时回帖送$，稳定、靠谱、好用～",
+          "replies": 55,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "还有三个月预产期， 618 要先买哪些东西，哪些东西需要买好一点的，过来人帮忙给点建议",
+          "replies": 50,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Code Story: Building a Custom LangChain 0.30 Agent for Jira Ticket Automation",
+          "description": "<p>In 2024, the average backend engineer spends 14.2 hours per week on Jira ticket triage, status updates, and mindless administrative toil—time that should be spent shipping features. This number com",
+          "url": "https://dev.to/johalputt/code-story-building-a-custom-langchain-030-agent-for-jira-ticket-automation-1330",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Why Python Became the Default Language for AI?",
+          "description": "<p>Python did not become the dominant AI language because it was the fastest or the most powerful. It became dominant because it was the most practical. That distinction matters a lot if you work in t",
+          "url": "https://dev.to/sanket-parmar/why-python-became-the-default-language-for-ai-4m64",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "StrictJS Runtime: Bringing Rust-Like Safety to JavaScript with WebAssembly",
+          "description": "<p>JavaScript is powerful, flexible… and sometimes too flexible.<br>\nIf you’ve ever dealt with unpredictable types, silent bugs, or performance bottlenecks in heavy computations, you already know the ",
+          "url": "https://dev.to/kenneth732/strictjs-runtime-bringing-rust-like-safety-to-javascript-with-webassembly-5628",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "CalyxOS on Android 16: I Ran It on a Motorola G45 5G (India Variant)",
+          "description": "<p>After a year of silence, CalyxOS is back — and it's running on a ₹10,000 phone with a locked bootloader.</p>\n\n<p>Every privacy OS article you've ever read has the same device photo: a Pixel. Graphe",
+          "url": "https://dev.to/nishrico0098/calyxos-on-android-16-i-ran-it-on-a-motorola-g45-5g-india-variant-2a1o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "How AI Works Under the Hood: LLMs Explained with Code",
+          "description": "<blockquote>\n<p>This post was originally published on my blog: <a href=\"https://nitayneeman.com/blog/how-ai-works-under-the-hood-llms-explained-with-code/\" rel=\"noopener noreferrer\">nitayneeman.com</a",
+          "url": "https://dev.to/nitayneeman-website/how-ai-works-under-the-hood-llms-explained-with-code-35jj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+          "description": "<p>Hey there again guys!<br>\nIt’s been almost two months since my last post. And in the back of my head, there was this constant thought:</p>\n\n<p>“I need to get back to writing.”</p>\n\n<p>But every tim",
+          "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Claude Code Context Window Rot: Why Sessions Get Dumber (And How to Fix It)",
+          "description": "<p>You know the pattern. You open a fresh Claude Code session, paste in the task, and the first few responses are sharp. Claude reads the right files, makes sensible decisions, and follows your archit",
+          "url": "https://dev.to/amitba/claude-code-context-window-rot-why-sessions-get-dumber-and-how-to-fix-it-50ni",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "I Let AI Run My Code Reviews for 30 Days - The Results Shocked Me",
+          "description": "<p>On March 3, 2026, I connected a custom agentic pipeline to our team GitHub repository. I gave it read access to pull requests, diff outputs, and our internal linting config. My goal was simple. I w",
+          "url": "https://dev.to/hopkins_jesse_cdb68cfa22c/i-let-ai-run-my-code-reviews-for-30-days-the-results-shocked-me-2575",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "AI Agents Won't Replace Your Job—But Ignoring Them Might",
+          "description": "<h2>\n  \n  \n  Why This Debate Matters Right Now\n</h2>\n\n<p>By early 2026, the pitch has become unavoidable: build an AI agent, hand it your job, collect the output. Creators on every platform are packag",
+          "url": "https://dev.to/forgeflows/ai-agents-wont-replace-your-job-but-ignoring-them-might-1ekj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Desconstruyendo el Stack de Medios de TikTok: Cómo construir un motor de extracción de alto rendimiento y sin marcas de agua",
+          "description": "<h2>\n  \n  \n  Introducción\n</h2>\n\n<p>Como desarrolladores, a menudo nos fascina cómo las plataformas a escala global gestionan y distribuyen volúmenes masivos de datos multimedia. TikTok no es solo una",
+          "url": "https://dev.to/yqqwe/desconstruyendo-el-stack-de-medios-de-tiktok-como-construir-un-motor-de-extraccion-de-alto-5hmn",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Analyse du Stack Média de TikTok : Construire un moteur d'extraction haute performance sans watermark",
+          "description": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>En tant que développeurs, nous sommes souvent fascinés par la manière dont les plateformes à l'échelle mondiale gèrent et distribuent des volumes massifs de données",
+          "url": "https://dev.to/yqqwe/analyse-du-stack-media-de-tiktok-construire-un-moteur-dextraction-haute-performance-sans-325a",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Beyond the Textbook: Three Months Modelling Drug Interactions for GoDavaii's AI",
+          "description": "<p>Recently, I saw a headline about CARE Hospitals doctors pointing out that a persistent cough might signal undiagnosed asthma. It's a stark reminder of how seemingly simple symptoms can hide complex",
+          "url": "https://dev.to/godavaii/beyond-the-textbook-three-months-modelling-drug-interactions-for-godavaiis-ai-lk1",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Why didn’t IPv6 work in my home network?",
+          "description": "",
+          "url": "https://gowtham.dev/blog/ipv6-problems.html",
+          "score": 37,
+          "comments": 20,
+          "tags": [
+            "debugging",
+            "networking"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "RSS Feeds Send Me More Traffic Than Google",
+          "description": "",
+          "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
+          "score": 72,
+          "comments": 23,
+          "tags": [
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "A bidirectional typechecking puzzle",
+          "description": "",
+          "url": "https://haskellforall.com/2026/05/a-bidirectional-typechecking-puzzle",
+          "score": 43,
+          "comments": 11,
+          "tags": [
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "krabby: making a fast Rust compiler",
+          "description": "",
+          "url": "https://bal-e.org/speed/krabby/",
+          "score": 15,
+          "comments": 7,
+          "tags": [
+            "compilers",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "SLAM: s6/synit based NixOS",
+          "description": "",
+          "url": "https://worker.informatics.coop/slam/",
+          "score": 23,
+          "comments": 6,
+          "tags": [
+            "nix",
+            "osdev"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "claude code is not making your product better",
+          "description": "",
+          "url": "https://ethanding.substack.com/p/claude-code-is-not-making-your-product",
+          "score": 26,
+          "comments": 11,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "A Caddy Cert Expired Because systemd-resolved Was Selectively Broken",
+          "description": "",
+          "url": "https://rant.mvh.dev/a-caddy-cert-expired-because-systemd-resolved-was-selectively-broken/",
+          "score": 27,
+          "comments": 10,
+          "tags": [
+            "devops",
+            "networking"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "StarFighter 16-inch",
+          "description": "",
+          "url": "https://us.starlabs.systems/pages/starfighter",
+          "score": 13,
+          "comments": 6,
+          "tags": [
+            "hardware"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Bun (the js runtime) is being vibe-ported from zig to rust",
+          "description": "",
+          "url": "https://github.com/oven-sh/bun/blob/claude/phase-a-port/docs/PORTING.md",
+          "score": 49,
+          "comments": 59,
+          "tags": [
+            "javascript",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Comparing the Z80 and 6502 to Their Relatives",
+          "description": "",
+          "url": "https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/",
+          "score": 15,
+          "comments": 3,
+          "tags": [
+            "hardware",
+            "retrocomputing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Podman rootless containers and the Copy Fail exploit",
+          "description": "",
+          "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+          "score": 39,
+          "comments": 14,
+          "tags": [
+            "linux",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/ac/ax/be/bn)",
+          "description": "",
+          "url": "https://www.wiisfi.com/",
+          "score": 12,
+          "comments": 0,
+          "tags": [
+            "networking"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "One week of view_types",
+          "description": "",
+          "url": "https://scrabsha.dev/articles/one-week-of-view-types.html",
+          "score": 17,
+          "comments": 1,
+          "tags": [
+            "plt",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "Behavior-Oriented Concurrency for Python: Lock-less, Deadlock-free, Ownership-based",
+          "description": "",
+          "url": "https://microsoft.github.io/bocpy/",
+          "score": 11,
+          "comments": 10,
+          "tags": [
+            "plt",
+            "python"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Security Advisory: Local privilege escalation in Lix and Nix",
+          "description": "",
+          "url": "https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407",
+          "score": 68,
+          "comments": 4,
+          "tags": [
+            "nix",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Principia Softwarica",
+          "description": "",
+          "url": "https://principia-softwarica.org/",
+          "score": 4,
+          "comments": 1,
+          "tags": [
+            "osdev"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Tokens and Dreams",
+          "description": "",
+          "url": "https://charlesleifer.com/blog/tokens-and-dreams/",
+          "score": 12,
+          "comments": 0,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "The vi family",
+          "description": "",
+          "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
+          "score": 6,
+          "comments": 0,
+          "tags": [
+            "editors"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "We're announcing Mikan: a proof assistant for cubical type theory, forked from the Agda codebase",
+          "description": "",
+          "url": "https://types.pl/@amy/116522250630340534",
+          "score": 15,
+          "comments": 1,
+          "tags": [
+            "plt",
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "An exploitable integer overflow in Lix (CVE-2026-44028)",
+          "description": "",
+          "url": "https://lix.systems/blog/2026-05-05-lix-unsigned-integer-overflow/",
+          "score": 6,
+          "comments": 1,
+          "tags": [
+            "nix",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 87,
+    "hackernews": 30,
+    "github": 16,
+    "v2ex": 9,
+    "devto": 12,
+    "lobsters": 20
+  }
+}

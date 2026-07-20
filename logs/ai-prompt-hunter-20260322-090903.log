@@ -1,0 +1,168 @@
+2026-03-22 09:09:03 [INFO] ========================================
+2026-03-22 09:09:03 [INFO] 🏹 AI Prompt Hunter 启动
+2026-03-22 09:09:03 [INFO] ========================================
+2026-03-22 09:09:03 [INFO] 开始时间: Sun Mar 22 09:09:03 CST 2026
+2026-03-22 09:09:03 [INFO] ========================================
+2026-03-22 09:09:03 [INFO] 🚀 开始阶段: 搜索 AI 提示词 (SearXNG)
+2026-03-22 09:09:03 [INFO] ========================================
+python3: can't open file '/root/clawd/scripts/collect-prompts-via-searxng.py': [Errno 2] No such file or directory
+2026-03-22 09:09:04 [INFO] ✅ 阶段完成: 搜索 AI 提示词 - 成功
+2026-03-22 09:09:04 [INFO] ========================================
+2026-03-22 09:09:04 [INFO] 🚀 开始阶段: 评估提示词质量
+2026-03-22 09:09:04 [INFO] ========================================
+================================================================================
+📊 评估提示词质量
+================================================================================
+
+📁 找到 14 个输入文件
+
+📖 处理: image-prompts-v2.jsonl
+  ✓ 评估完成
+📖 处理: google-sora2-prompts-manual.jsonl
+  ✓ 评估完成
+📖 处理: twitter-prompts.jsonl
+  ✓ 评估完成
+📖 处理: general-prompts-v2.jsonl
+  ✓ 评估完成
+📖 处理: reddit-prompts.jsonl
+  ✓ 评估完成
+📖 处理: github-prompts.jsonl
+  ✓ 评估完成
+📖 处理: github-awesome-prompts.jsonl
+  ✓ 评估完成
+📖 处理: firecrawl-prompts.jsonl
+  ✓ 评估完成
+📖 处理: visual-ai-prompts.jsonl
+  ✓ 评估完成
+📖 处理: google-sora2-prompts.jsonl
+  ✓ 评估完成
+📖 处理: video-prompts-v2.jsonl
+  ✓ 评估完成
+📖 处理: extracted-prompts.jsonl
+  ✓ 评估完成
+📖 处理: image-prompts.jsonl
+  ✓ 评估完成
+📖 处理: video-prompts.jsonl
+  ✓ 评估完成
+
+💾 保存评估结果...
+
+================================================================================
+✅ 评估完成！
+================================================================================
+
+📊 统计:
+  总评估: 329 个
+  高质量 (≥80): 0 个
+  中等质量 (60-79): 0 个
+  低质量 (<60): 329 个
+  平均分数: 18.61
+
+📁 输出文件:
+  评估结果: /root/clawd/data/prompts/evaluated/evaluated-prompts-20260322-090904.jsonl
+  评估报告: /root/clawd/data/prompts/evaluated/evaluation-report-20260322-090904.json
+2026-03-22 09:09:04 [INFO] ✅ 阶段完成: 评估提示词质量 - 成功
+2026-03-22 09:09:04 [INFO] ========================================
+2026-03-22 09:09:04 [INFO] 🚀 开始阶段: 转换为 Skills
+2026-03-22 09:09:04 [INFO] ========================================
+================================================================================
+🔄 转换 Prompts 为 Skills (增强版)
+================================================================================
+
+📝 日志文件: /root/clawd/data/conversion-logs/conversion-20260322_090904.jsonl
+
+[✓ 已加载] reddit: reddit-prompts.jsonl (112641 bytes)
+[✓ 已加载] github: github-prompts.jsonl (25878 bytes)
+[✓ 已加载] github-awesome: github-awesome-prompts.jsonl (2811 bytes)
+[✓ 已加载] hackernews: hacker-news-ai.jsonl (14196 bytes)
+[✓ 已加载] collected: collected.jsonl (354676 bytes)
+[✓ 已加载] firecrawl: firecrawl-prompts.jsonl (819464 bytes)
+[✗ 跳过] image: image-prompts.jsonl (不存在或为空)
+[✗ 跳过] general: general-prompts-v2.jsonl (不存在或为空)
+[✓ 已加载] image-v2: image-prompts-v2.jsonl (3898 bytes)
+[✓ 已加载] video-v2: video-prompts-v2.jsonl (2652 bytes)
+
+总共加载 8 个数据源
+
+[处理中] reddit prompts: reddit-prompts.jsonl
+  ⚠️  跳过第 1 行: name 'prompt_display' is not defined
+  ⚠️  跳过第 2 行: name 'prompt_display' is not defined
+  ⚠️  跳过第 16 行: name 'prompt_display' is not defined
+  ⚠️  跳过第 22 行: name 'prompt_display' is not defined
+  ⚠️  跳过第 29 行: name 'prompt_display' is not defined
+  ✓ 完成
+
+[处理中] github prompts: github-prompts.jsonl
+  ⚠️  跳过第 5 行: name 'prompt_display' is not defined
+  ✓ 完成
+
+[处理中] github-awesome prompts: github-awesome-prompts.jsonl
+  ✓ 完成
+
+[处理中] hackernews prompts: hacker-news-ai.jsonl
+  ✓ 完成
+
+[处理中] collected prompts: collected.jsonl
+  ✓ 完成
+
+[处理中] firecrawl prompts: firecrawl-prompts.jsonl
+  ⚠️  跳过第 3 行: name 'prompt_display' is not defined
+  ⚠️  跳过第 364 行: 'NoneType' object is not subscriptable
+  ✓ 完成
+
+[处理中] image-v2 prompts: image-prompts-v2.jsonl
+  ✓ 完成
+
+[处理中] video-v2 prompts: video-prompts-v2.jsonl
+  ⚠️  跳过第 4 行: name 'prompt_display' is not defined
+  ✓ 完成
+
+[打包] 生成 .skill 文件...
+  ✓ 打包完成: 0 个 .skill 文件
+
+生成统计报告...
+✅ 报告已保存: /root/clawd/data/conversion-logs/conversion-report-20260322_090904.json
+
+================================================================================
+✅ 转换完成！
+================================================================================
+
+📊 统计信息:
+  总计处理: 1224 条
+  成功转换: 0 个
+  跳过 (内容无效): 143 条
+  跳过 (重复): 21 条
+  跳过 (低质量): 1051 条
+
+  类型分布:
+    Text Prompt: 143
+    Image Generation: 23
+    Video Generation: 6
+
+  打包: 0 个 .skill 文件
+
+📁 输出文件:
+  Skills: /root/clawd/dist/skills
+  日志: /root/clawd/data/conversion-logs/conversion-20260322_090904.jsonl
+  报告: /root/clawd/data/conversion-logs/conversion-report-20260322_090904.json
+2026-03-22 09:09:05 [INFO] ✅ 阶段完成: 转换为 Skills - 成功
+2026-03-22 09:09:05 [INFO] ========================================
+2026-03-22 09:09:05 [INFO] 🚀 开始阶段: 上传到 ClawdHub
+2026-03-22 09:09:05 [INFO] ========================================
+[2026-03-22 09:09:05] ==========================================
+[2026-03-22 09:09:05] 📦 批量上传 Skills 到 ClawdHub（完全修复版）
+[2026-03-22 09:09:05] ==========================================
+[2026-03-22 09:09:05] 
+[0;32m[INFO][0m 配置信息:
+[2026-03-22 09:09:05]   Skills 目录: /root/clawd/dist/skills
+[2026-03-22 09:09:05]   Registry: https://www.clawhub.ai/api
+[2026-03-22 09:09:05] 
+[0;32m[INFO][0m 找到 0 个 .skill 文件
+[2026-03-22 09:09:05] 
+[1;33m[WARN][0m 没有 .skill 文件需要上传
+2026-03-22 09:09:05 [INFO] ✅ 阶段完成: 上传到 ClawdHub - 成功
+2026-03-22 09:09:05 [INFO] ========================================
+2026-03-22 09:09:05 [INFO] ✅ AI Prompt Hunter 完成
+2026-03-22 09:09:05 [INFO] ========================================
+2026-03-22 09:09:05 [INFO] 完成时间: Sun Mar 22 09:09:05 CST 2026
+2026-03-22 09:09:05 [INFO] 生成的 Skills: 0

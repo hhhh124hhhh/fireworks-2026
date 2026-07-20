@@ -1,0 +1,11 @@
+
+# =========== CLEANUP & ARCHIVE ===========
+
+# Cleanup Old Files (daily 3:00)
+0 3 * * * bash /root/clawd/scripts/cleanup-old-files.sh >> /root/clawd/logs/cleanup-cron.log 2>&1
+
+# Rclone Backup (daily 4:00)
+0 4 * * * bash /root/clawd/scripts/rclone-backup.sh >> /root/clawd/logs/rclone-backup-cron.log 2>&1
+
+# Auto Archive (weekly Sunday 2:00)
+0 2 * * 0 bash /root/clawd/scripts/auto-archive.sh >> /root/clawd/logs/archive-cron.log 2>&1

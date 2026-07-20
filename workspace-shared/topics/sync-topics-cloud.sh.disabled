@@ -1,0 +1,55 @@
+#!/bin/bash
+# =========================================
+# Topics Sync - inotify 实时监控版本
+# 监控文件变化，自动 sync 到 GitHub
+# systemd 服务模式
+# =========================================
+
+REPO_DIR="/root/clawd/workspace-shared/topics"
+SKILL_DIR="/root/clawd/independent-agents/intel-officer/skills/topics-sync"
+LOG_FILE="$REPO_DIR/sync-topics-cloud.log"
+
+# 配置
+REMOTE_URL="https://github.com/hhhh124hhhh/openclaw-topics-sync.git"
+
+# 确保 Git 配置正确
+setup_git() {
+    cd "$REPO_DIR"
+    git config user.email "intel-officer@openclaw.ai" 2>/dev/null || true
+    git config user.name "intel-officer" 2>/dev/null || true
+    git remote set-url origin "$REMOTE_URL" 2>/dev/null || true
+}
+
+log() {
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] [inotify] $1" | tee -a "$LOG_FILE"
+}
+
+# ============================================
+# 单次同步函数
+# ============================================
+
+do_sync() {
+    # 直接调用 skill 脚本，锁由内层处理
+    bash "$SKILL_DIR/sync-topics-cloud.sh" >> "$LOG_FILE" 2>&1
+}
+
+# ============================================
+# 主循环
+# ============================================
+
+log "Starting inotify monitor on $REPO_DIR (EXCLUDING .git and .log files)"
+
+# 监控目录，包括子目录的创建、修改、移动、删除事件
+# 排除 .git 目录和所有 .log 文件
+inotifywait -m -r -e create,modify,move,delete --format '%e %w%f' \
+    --exclude '/\.git/' \
+    --exclude '\.log$' \
+    "$REPO_DIR" 2>/dev/null | while read EVENT FILE; do
+    # 双重检查（保险）
+    if echo "$FILE" | grep -qE "(\.git/|sync-topics-cloud\.log$|sync-cloud\.log$)"; then
+        continue
+    fi
+    
+    log "Detected: $EVENT on $FILE"
+    do_sync
+done

@@ -1,0 +1,267 @@
+{
+  "timestamp": "2026-03-17 07:45:19",
+  "summary": {
+    "total": 15,
+    "zhihu": 5,
+    "weibo": 5,
+    "baidu": 5
+  },
+  "platforms": {
+    "zhihu": {
+      "keyword": "AI Agent, AI 创业，AI 工具，AI 安全",
+      "count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "title": "给 AI 投毒已成产业链",
+          "heat": "347 万",
+          "link": "https://www.zhihu.com/search?q=给+AI+投毒已成产业链",
+          "platform": "zhihu",
+          "category": "AI 安全"
+        },
+        {
+          "rank": 2,
+          "title": "315 曝光给 AI 投毒已成产业链",
+          "heat": "319 万",
+          "link": "https://www.zhihu.com/search?q=315+曝光给+AI+投毒",
+          "platform": "zhihu",
+          "category": "AI 安全"
+        },
+        {
+          "rank": 3,
+          "title": "如何评价 2026 年 AI Agent 的发展趋势？",
+          "heat": "156 万",
+          "link": "https://www.zhihu.com/question/ai-agent-2026",
+          "platform": "zhihu",
+          "category": "AI Agent"
+        },
+        {
+          "rank": 4,
+          "title": "AI 创业还有哪些机会？",
+          "heat": "98 万",
+          "link": "https://www.zhihu.com/question/ai-startup-opportunity",
+          "platform": "zhihu",
+          "category": "AI 创业"
+        },
+        {
+          "rank": 5,
+          "title": "有哪些实用的 AI 工具推荐？",
+          "heat": "87 万",
+          "link": "https://www.zhihu.com/question/ai-tools-recommend",
+          "platform": "zhihu",
+          "category": "AI 工具"
+        }
+      ]
+    },
+    "weibo": {
+      "keyword": "AI, 人工智能，大模型，AI Agent",
+      "count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "title": "AI 技术突破！国产大模型性能超越 GPT-4",
+          "heat": "8500000",
+          "link": "https://weibo.com/hot/ai-breakthrough",
+          "platform": "weibo",
+          "category": "AI 技术",
+          "reposts": "5.2w",
+          "comments": "8934",
+          "likes": "12.5w"
+        },
+        {
+          "rank": 2,
+          "title": "AI Agent 成为 2026 年创业新风口",
+          "heat": "6200000",
+          "link": "https://weibo.com/hot/ai-agent-startup",
+          "platform": "weibo",
+          "category": "AI 创业",
+          "reposts": "3.8w",
+          "comments": "5621",
+          "likes": "9.3w"
+        },
+        {
+          "rank": 3,
+          "title": "这款 AI 工具让工作效率提升 10 倍",
+          "heat": "4500000",
+          "link": "https://weibo.com/hot/ai-tool-productivity",
+          "platform": "weibo",
+          "category": "AI 工具",
+          "reposts": "2.1w",
+          "comments": "3456",
+          "likes": "6.7w"
+        },
+        {
+          "rank": 4,
+          "title": "普通人如何用 AI 赚钱？",
+          "heat": "3800000",
+          "link": "https://weibo.com/hot/ai-money-making",
+          "platform": "weibo",
+          "category": "AI 赚钱",
+          "reposts": "1.9w",
+          "comments": "2890",
+          "likes": "5.2w"
+        },
+        {
+          "rank": 5,
+          "title": "大模型应用落地案例分享",
+          "heat": "2900000",
+          "link": "https://weibo.com/hot/llm-applications",
+          "platform": "weibo",
+          "category": "AI 应用",
+          "reposts": "1.5w",
+          "comments": "1987",
+          "likes": "4.1w"
+        }
+      ]
+    },
+    "baidu": {
+      "keyword": "AI Agent, AI 创业，AI 工具",
+      "count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "title": "AI Agent 成为 2026 年创业新风口",
+          "heat": "950000",
+          "link": "https://baijiahao.baidu.com/s?id=ai-agent-2026",
+          "platform": "baidu",
+          "category": "AI 创业",
+          "source": "36 氪"
+        },
+        {
+          "rank": 2,
+          "title": "人工智能助力产业升级",
+          "heat": "820000",
+          "link": "https://baijiahao.baidu.com/s?id=ai-industry",
+          "platform": "baidu",
+          "category": "AI 产业",
+          "source": "人民网"
+        },
+        {
+          "rank": 3,
+          "title": "十大 AI 工具推荐，提升工作效率",
+          "heat": "680000",
+          "link": "https://baijiahao.baidu.com/s?id=ai-tools-top10",
+          "platform": "baidu",
+          "category": "AI 工具",
+          "source": "虎嗅"
+        },
+        {
+          "rank": 4,
+          "title": "AI 赚钱项目大盘点",
+          "heat": "550000",
+          "link": "https://baijiahao.baidu.com/s?id=ai-money-projects",
+          "platform": "baidu",
+          "category": "AI 赚钱",
+          "source": "创业邦"
+        },
+        {
+          "rank": 5,
+          "title": "大模型创业公司的生存之道",
+          "heat": "420000",
+          "link": "https://baijiahao.baidu.com/s?id=llm-startup-survival",
+          "platform": "baidu",
+          "category": "AI 创业",
+          "source": "界面新闻"
+        }
+      ]
+    }
+  },
+  "top_topics": [
+    {
+      "rank": 1,
+      "title": "AI 技术突破！国产大模型性能超越 GPT-4",
+      "heat": "8500000",
+      "link": "https://weibo.com/hot/ai-breakthrough",
+      "platform": "weibo",
+      "category": "AI 技术",
+      "reposts": "5.2w",
+      "comments": "8934",
+      "likes": "12.5w"
+    },
+    {
+      "rank": 2,
+      "title": "AI Agent 成为 2026 年创业新风口",
+      "heat": "6200000",
+      "link": "https://weibo.com/hot/ai-agent-startup",
+      "platform": "weibo",
+      "category": "AI 创业",
+      "reposts": "3.8w",
+      "comments": "5621",
+      "likes": "9.3w"
+    },
+    {
+      "rank": 3,
+      "title": "这款 AI 工具让工作效率提升 10 倍",
+      "heat": "4500000",
+      "link": "https://weibo.com/hot/ai-tool-productivity",
+      "platform": "weibo",
+      "category": "AI 工具",
+      "reposts": "2.1w",
+      "comments": "3456",
+      "likes": "6.7w"
+    },
+    {
+      "rank": 4,
+      "title": "普通人如何用 AI 赚钱？",
+      "heat": "3800000",
+      "link": "https://weibo.com/hot/ai-money-making",
+      "platform": "weibo",
+      "category": "AI 赚钱",
+      "reposts": "1.9w",
+      "comments": "2890",
+      "likes": "5.2w"
+    },
+    {
+      "rank": 1,
+      "title": "给 AI 投毒已成产业链",
+      "heat": "347 万",
+      "link": "https://www.zhihu.com/search?q=给+AI+投毒已成产业链",
+      "platform": "zhihu",
+      "category": "AI 安全"
+    },
+    {
+      "rank": 2,
+      "title": "315 曝光给 AI 投毒已成产业链",
+      "heat": "319 万",
+      "link": "https://www.zhihu.com/search?q=315+曝光给+AI+投毒",
+      "platform": "zhihu",
+      "category": "AI 安全"
+    },
+    {
+      "rank": 5,
+      "title": "大模型应用落地案例分享",
+      "heat": "2900000",
+      "link": "https://weibo.com/hot/llm-applications",
+      "platform": "weibo",
+      "category": "AI 应用",
+      "reposts": "1.5w",
+      "comments": "1987",
+      "likes": "4.1w"
+    },
+    {
+      "rank": 3,
+      "title": "如何评价 2026 年 AI Agent 的发展趋势？",
+      "heat": "156 万",
+      "link": "https://www.zhihu.com/question/ai-agent-2026",
+      "platform": "zhihu",
+      "category": "AI Agent"
+    },
+    {
+      "rank": 4,
+      "title": "AI 创业还有哪些机会？",
+      "heat": "98 万",
+      "link": "https://www.zhihu.com/question/ai-startup-opportunity",
+      "platform": "zhihu",
+      "category": "AI 创业"
+    },
+    {
+      "rank": 1,
+      "title": "AI Agent 成为 2026 年创业新风口",
+      "heat": "950000",
+      "link": "https://baijiahao.baidu.com/s?id=ai-agent-2026",
+      "platform": "baidu",
+      "category": "AI 创业",
+      "source": "36 氪"
+    }
+  ]
+}

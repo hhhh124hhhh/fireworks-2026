@@ -1,0 +1,21 @@
+{
+  "processed_prompts": 5,
+  "removed_prompts": 2,
+  "similarity_pairs": [
+    {
+      "index_i": 0,
+      "index_j": 1,
+      "similarity": 0.9169509410858154,
+      "text_i": "Write a creative story about a magical forest",
+      "text_j": "Create a story about an enchanted forest with magic"
+    },
+    {
+      "index_i": 3,
+      "index_j": 4,
+      "similarity": 0.8744962811470032,
+      "text_i": "Write Python code to sort a list",
+      "text_j": "Write a Python function to sort a list of numbers"
+    }
+  ],
+  "last_updated": "2026-02-02 17:21:31.092470"
+}

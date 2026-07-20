@@ -1,0 +1,83 @@
+{
+  "name": "intel-officer capability policy",
+  "_instructions": "Use this file as the source of truth for skill and tool capability changes. Do not rewrite global MCP config without explicit user approval.",
+  "_workflow": [
+    "Update this policy first.",
+    "Run skills/openclaw-capability-admin/scripts/apply-openclaw-capabilities.ps1 with this policy.",
+    "Run skills/openclaw-capability-admin/scripts/verify-openclaw-capabilities.ps1 with this policy.",
+    "Report registered skills, shared MCP findings, and updated docs."
+  ],
+  "_rules": [
+    "Register workspace skills in .openclaw/skills/.skills_store_lock.json.",
+    "Treat MCP as shared infrastructure unless the user explicitly asks to reconfigure it.",
+    "Keep TOOLS.md aligned with declared capabilities.",
+    "Report missing MCP servers or usage docs instead of improvising.",
+    "Do not use this workspace to apply scheduler, heartbeat, gateway, or global capability repairs."
+  ],
+  "agentId": "intel-officer",
+  "skills": [
+    {
+      "id": "intel-hotspot-grabber",
+      "name": "Intel Hotspot Grabber",
+      "source": "local",
+      "version": "1.0.0",
+      "path": "../../workspace-main-lite/skills/intel-hotspot-grabber",
+      "description": "Hotspot collection across Weibo, Zhihu, Baidu and other monitored sources."
+    },
+    {
+      "id": "chrome-devtools",
+      "name": "Chrome DevTools MCP",
+      "source": "local",
+      "version": "1.0.0",
+      "path": "../../workspace-main-lite/skills/chrome-devtools",
+      "description": "Shared real-Chrome browser automation with persistent cookies.",
+      "tools": ["navigate", "evaluate", "screenshot", "scrape_page"]
+    },
+    {
+      "id": "jd-collector",
+      "name": "JD Collector",
+      "source": "local",
+      "version": "1.0.0",
+      "path": "../../workspace-main-lite/skills/jd-collector",
+      "description": "Collector used when intel tasks need JD product and market signals."
+    },
+    {
+      "id": "analyze",
+      "name": "Analyze",
+      "source": "clawhub",
+      "version": "1.0.0",
+      "path": "../../workspace-main-lite/skills/analyze",
+      "description": "结构化分析框架 - 数据/代码/文本/决策/视觉五维分析",
+      "tools": ["data", "code", "text", "decision", "visual"]
+    },
+    {
+      "id": "opencli",
+      "name": "OpenCLI",
+      "source": "npm",
+      "version": "1.1.1",
+      "description": "浏览器/网站操作 CLI - 社交媒体/新闻/金融数据/内容平台自动化",
+      "entryPoint": "opencli",
+      "usage": "opencli <platform> <command> [options] [-f json]",
+      "platforms": ["twitter", "weibo", "zhihu", "bilibili", "xiaohongshu", "jike", "hackernews", "v2ex", "youtube", "weread"],
+      "tools": ["hot", "search", "trending", "feed", "create", "download"]
+    }
+  ],
+  "mcp": {
+    "sharedConfigPath": "D:\\openclaw-data\\.openclaw\\workspace-main-lite\\config\\mcporter.json",
+    "servers": [
+      {
+        "id": "chrome-devtools",
+        "required": true,
+        "usageDocPath": "D:\\openclaw-data\\.openclaw\\workspace-main-lite\\config\\chrome-devtools-mcp-usage.md"
+      }
+    ]
+  },
+  "toolsDoc": {
+    "path": "D:\\openclaw-data\\.openclaw\\workspace-intel-officer\\TOOLS.md",
+    "notes": [
+      "Use intel-hotspot-grabber for recurring hotspot collection before inventing manual scraping steps.",
+      "Use chrome-devtools only against the shared real Chrome on port 9222 and avoid concurrent heavy runs.",
+      "Intel-officer may recommend scheduler or capability changes, but the control plane and human own the actual maintenance."
+    ]
+  }
+}

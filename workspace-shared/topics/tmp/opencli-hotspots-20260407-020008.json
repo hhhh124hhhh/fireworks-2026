@@ -1,0 +1,869 @@
+{
+  "timestamp": "2026-04-07 02:00:08",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
+          "score": 53,
+          "author": "benswerd",
+          "comments": 20,
+          "url": "https://www.freestyle.sh",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://www.freestyle.sh"
+        },
+        {
+          "rank": 2,
+          "title": "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
+          "score": 167,
+          "author": "Bender",
+          "comments": 70,
+          "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/"
+        },
+        {
+          "rank": 3,
+          "title": "sc-im Spreadsheets in Your Terminal",
+          "score": 57,
+          "author": "m-hodges",
+          "comments": 10,
+          "url": "https://github.com/andmarti1424/sc-im",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://github.com/andmarti1424/sc-im"
+        },
+        {
+          "rank": 4,
+          "title": "I won't download your app. The web version is a-ok",
+          "score": 614,
+          "author": "ssiddharth",
+          "comments": 330,
+          "url": "https://www.0xsid.com/blog/wont-download-your-app",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://www.0xsid.com/blog/wont-download-your-app"
+        },
+        {
+          "rank": 5,
+          "title": "A Cryptography Engineer's Perspective on Quantum Computing Timelines",
+          "score": 77,
+          "author": "thadt",
+          "comments": 18,
+          "url": "https://words.filippo.io/crqc-timeline/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://words.filippo.io/crqc-timeline/"
+        },
+        {
+          "rank": 6,
+          "title": "Book Review: There Is No Antimemetics Division",
+          "score": 104,
+          "author": "ibobev",
+          "comments": 73,
+          "url": "https://www.stephendiehl.com/posts/no_antimimetics/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://www.stephendiehl.com/posts/no_antimimetics/"
+        },
+        {
+          "rank": 7,
+          "title": "Claude Code is unusable for complex engineering tasks with the Feb updates",
+          "score": 309,
+          "author": "StanAngeloff",
+          "comments": 199,
+          "url": "https://github.com/anthropics/claude-code/issues/42796",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://github.com/anthropics/claude-code/issues/42796"
+        },
+        {
+          "rank": 8,
+          "title": "81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone",
+          "score": 182,
+          "author": "josephcsible",
+          "comments": 151,
+          "url": "https://twitter.com/Suzierizzo1/status/2040864617467924865",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://twitter.com/Suzierizzo1/status/2040864617467924865"
+        },
+        {
+          "rank": 9,
+          "title": "Reducto releases Deep Extract",
+          "score": 19,
+          "author": "raunakchowdhuri",
+          "comments": 1,
+          "url": "https://reducto.ai/blog/reducto-deep-extract-agent",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://reducto.ai/blog/reducto-deep-extract-agent"
+        },
+        {
+          "rank": 10,
+          "title": "Sky – an Elm-inspired language that compiles to Go",
+          "score": 27,
+          "author": "whalesalad",
+          "comments": 3,
+          "url": "https://github.com/anzellai/sky",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://github.com/anzellai/sky"
+        },
+        {
+          "rank": 11,
+          "title": "What Being Ripped Off Taught Me",
+          "score": 211,
+          "author": "doctorhandshake",
+          "comments": 128,
+          "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://belief.horse/notes/what-being-ripped-off-taught-me/"
+        },
+        {
+          "rank": 12,
+          "title": "Show HN: I built a tiny LLM to demystify how language models work",
+          "score": 775,
+          "author": "armanified",
+          "comments": 119,
+          "url": "https://github.com/arman-bd/guppylm",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://github.com/arman-bd/guppylm"
+        },
+        {
+          "rank": 13,
+          "title": "Adobe modifies hosts file to detect whether Creative Cloud is installed",
+          "score": 27,
+          "author": "rglullis",
+          "comments": 2,
+          "url": "https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/"
+        },
+        {
+          "rank": 14,
+          "title": "The Last Quiet Thing",
+          "score": 33,
+          "author": "coinfused",
+          "comments": 12,
+          "url": "https://www.terrygodier.com/the-last-quiet-thing",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://www.terrygodier.com/the-last-quiet-thing"
+        },
+        {
+          "rank": 15,
+          "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+          "score": 716,
+          "author": "naves",
+          "comments": 496,
+          "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/"
+        },
+        {
+          "rank": 16,
+          "title": "PostHog (YC W20) Is Hiring",
+          "score": 1,
+          "author": "james_impliu",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015"
+        },
+        {
+          "rank": 17,
+          "title": "An open-source 240-antenna array to bounce signals off the Moon",
+          "score": 224,
+          "author": "hillcrestenigma",
+          "comments": 45,
+          "url": "https://moonrf.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://moonrf.com/"
+        },
+        {
+          "rank": 18,
+          "title": "Show HN: GovAuctions lets you browse government auctions at once",
+          "score": 11,
+          "author": "player_piano",
+          "comments": 7,
+          "url": "https://www.govauctions.app/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://www.govauctions.app/"
+        },
+        {
+          "rank": 19,
+          "title": "Gemma 4 on iPhone",
+          "score": 796,
+          "author": "janandonly",
+          "comments": 222,
+          "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337"
+        },
+        {
+          "rank": 20,
+          "title": "France pulls last gold held in US for $15B gain",
+          "score": 485,
+          "author": "teleforce",
+          "comments": 262,
+          "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/"
+        },
+        {
+          "rank": 21,
+          "title": "The 1987 game “The Last Ninja” was 40 kilobytes",
+          "score": 242,
+          "author": "keepamovin",
+          "comments": 156,
+          "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://twitter.com/exQUIZitely/status/2040777977521398151"
+        },
+        {
+          "rank": 22,
+          "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+          "score": 224,
+          "author": "karimf",
+          "comments": 26,
+          "url": "https://github.com/fikrikarim/parlor",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://github.com/fikrikarim/parlor"
+        },
+        {
+          "rank": 23,
+          "title": "One ant for $220: The new frontier of wildlife trafficking",
+          "score": 94,
+          "author": "gmays",
+          "comments": 26,
+          "url": "https://www.bbc.com/news/articles/cg4g44zv37qo",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://www.bbc.com/news/articles/cg4g44zv37qo"
+        },
+        {
+          "rank": 24,
+          "title": "LÖVE: 2D Game Framework for Lua",
+          "score": 382,
+          "author": "cl3misch",
+          "comments": 197,
+          "url": "https://github.com/love2d/love",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://github.com/love2d/love"
+        },
+        {
+          "rank": 25,
+          "title": "Signals, the push-pull based algorithm",
+          "score": 131,
+          "author": "mpweiher",
+          "comments": 34,
+          "url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm"
+        },
+        {
+          "rank": 26,
+          "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
+          "score": 110,
+          "author": "stevebmark",
+          "comments": 54,
+          "url": "https://drop.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://drop.com/"
+        },
+        {
+          "rank": 27,
+          "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+          "score": 370,
+          "author": "vbtechguy",
+          "comments": 92,
+          "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with"
+        },
+        {
+          "rank": 28,
+          "title": "Sheets Spreadsheets in Your Terminal",
+          "score": 166,
+          "author": "_____k",
+          "comments": 44,
+          "url": "https://github.com/maaslalani/sheets",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://github.com/maaslalani/sheets"
+        },
+        {
+          "rank": 29,
+          "title": "Music for Programming",
+          "score": 305,
+          "author": "merusame",
+          "comments": 156,
+          "url": "https://musicforprogramming.net",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://musicforprogramming.net"
+        },
+        {
+          "rank": 30,
+          "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+          "score": 136,
+          "author": "ikessler",
+          "comments": 18,
+          "url": "https://github.com/kessler/gemma-gem",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://github.com/kessler/gemma-gem"
+        }
+      ]
+    },
+    "github": {
+      "count": 14,
+      "items": [
+        {
+          "rank": 1,
+          "title": "abhigyanpatwari /GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "language": "TypeScript",
+          "stars": 23226,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "google-ai-edge /gallery",
+          "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+          "url": "https://github.com/google-ai-edge/gallery",
+          "language": "Kotlin",
+          "stars": 17700,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "block /goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "url": "https://github.com/block/goose",
+          "language": "Rust",
+          "stars": 37893,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "google-ai-edge /LiteRT-LM",
+          "description": "",
+          "url": "https://github.com/google-ai-edge/LiteRT-LM",
+          "language": "C++",
+          "stars": 1909,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "immich-app /immich",
+          "description": "High performance self-hosted photo and video management solution.",
+          "url": "https://github.com/immich-app/immich",
+          "language": "TypeScript",
+          "stars": 96715,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "KeygraphHQ /shannon",
+          "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "language": "TypeScript",
+          "stars": 36307,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "NousResearch /hermes-agent",
+          "description": "The agent that grows with you",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "language": "Python",
+          "stars": 27682,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "tobi /qmd",
+          "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+          "url": "https://github.com/tobi/qmd",
+          "language": "TypeScript",
+          "stars": 18568,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "TelegramMessenger /Telegram-iOS",
+          "description": "Telegram-iOS",
+          "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+          "language": "Swift",
+          "stars": 8272,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "kepano /obsidian-skills",
+          "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+          "url": "https://github.com/kepano/obsidian-skills",
+          "language": "",
+          "stars": 20315,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "ollama /ollama",
+          "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+          "url": "https://github.com/ollama/ollama",
+          "language": "Go",
+          "stars": 167562,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "ggml-org /llama.cpp",
+          "description": "LLM inference in C/C++",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "language": "C++",
+          "stars": 101903,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "siddharthvaddem /openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "language": "TypeScript",
+          "stars": 23683,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 14,
+          "title": "NVIDIA /personaplex",
+          "description": "PersonaPlex code.",
+          "url": "https://github.com/NVIDIA/personaplex",
+          "language": "Python",
+          "stars": 7170,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+          "description": "",
+          "url": "https://sschueller.github.io/posts/the-free-market-lie/",
+          "score": 60,
+          "comments": 35,
+          "tags": [
+            "networking"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Someone at BrowserStack is Leaking Users' Email Address",
+          "description": "",
+          "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+          "score": 37,
+          "comments": 2,
+          "tags": [
+            "privacy"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Stamp It! All Programs Must Report Their Version",
+          "description": "",
+          "url": "https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/",
+          "score": 82,
+          "comments": 32,
+          "tags": [
+            "go",
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Size matters, even on very fast connections",
+          "description": "",
+          "url": "https://maurycyz.com/misc/13kb/",
+          "score": 35,
+          "comments": 4,
+          "tags": [
+            "networking",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "The machines are fine. I'm worried about us",
+          "description": "",
+          "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+          "score": 13,
+          "comments": 7,
+          "tags": [
+            "science",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Best Paper Awards in Computer Science over the past 30 years",
+          "description": "",
+          "url": "https://jeffhuang.com/best_paper_awards/",
+          "score": 30,
+          "comments": 9,
+          "tags": [
+            "compsci"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "dev.css: tiny, simple, classless CSS framework inspired by new.css",
+          "description": "",
+          "url": "https://tangled.org/devins.page/dev.css",
+          "score": 19,
+          "comments": 16,
+          "tags": [
+            "css",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Someone good at CSS help, my website design is dying",
+          "description": "",
+          "url": "https://ahti.space/~nortti/writeups/my-website-design-is-dying.html",
+          "score": 6,
+          "comments": 0,
+          "tags": [
+            "css"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Using Discord on Plan 9",
+          "description": "",
+          "url": "https://pmikkelsen.com/plan9/discord",
+          "score": 15,
+          "comments": 0,
+          "tags": [
+            "osdev"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "A Cryptography Engineer’s Perspective on Quantum Computing Timelines",
+          "description": "",
+          "url": "https://words.filippo.io/crqc-timeline/",
+          "score": 8,
+          "comments": 2,
+          "tags": [
+            "cryptography",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "An Elm-inspired language that compiles to Go, Hindley-Milner types, server-driven UI, single binary output",
+          "description": "",
+          "url": "https://github.com/anzellai/sky",
+          "score": 15,
+          "comments": 3,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Eight years of wanting, three months of building with AI",
+          "description": "",
+          "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+          "score": 78,
+          "comments": 12,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "I Tried Vibing an RSS Reader and My Dreams Did Not Come True",
+          "description": "",
+          "url": "https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/",
+          "score": 9,
+          "comments": 0,
+          "tags": [
+            "mac",
+            "vibecoding",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "What are you doing this week?",
+          "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
+          "url": "",
+          "score": 3,
+          "comments": 5,
+          "tags": [
+            "ask",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "A real-world case of property-based verification",
+          "description": "",
+          "url": "https://ochagavia.nl/blog/a-real-world-case-of-property-based-verification/",
+          "score": 4,
+          "comments": 0,
+          "tags": [
+            "rust",
+            "testing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Endian wars and anti-portability",
+          "description": "",
+          "url": "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/",
+          "score": 13,
+          "comments": 19,
+          "tags": [
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "neomd: A minimal email TUI where you read with Markdown and write in Neovim",
+          "description": "",
+          "url": "https://github.com/ssp-data/neomd",
+          "score": 25,
+          "comments": 2,
+          "tags": [
+            "email",
+            "vibecoding",
+            "vim"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "A tail-call interpreter in (nightly) Rust",
+          "description": "",
+          "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+          "score": 41,
+          "comments": 11,
+          "tags": [
+            "plt",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Easters - an adventofcode-like challenge for easter",
+          "description": "",
+          "url": "https://easters.dev/",
+          "score": 9,
+          "comments": 2,
+          "tags": [
+            "event",
+            "games",
+            "programming",
+            "show"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "OverlayFS for RedoxOS",
+          "description": "",
+          "url": "https://scientiac.space/blog/redox-overlayfs/",
+          "score": 3,
+          "comments": 1,
+          "tags": [
+            "osdev"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 64,
+    "hackernews": 30,
+    "github": 14,
+    "lobsters": 20
+  }
+}

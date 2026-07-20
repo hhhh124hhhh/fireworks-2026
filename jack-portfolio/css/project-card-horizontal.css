@@ -1,0 +1,87 @@
+/* ========================================
+   横版项目卡片布局（GitHub 项目展示）
+   ======================================== */
+
+/* 横版项目卡片 */
+.project-card-horizontal {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    gap: var(--spacing-lg);
+    padding: var(--spacing-lg);
+    min-height: 180px;
+}
+
+/* 左侧：排名 + 项目信息 */
+.project-left {
+    flex: 0 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--spacing-md);
+    min-width: 120px;
+}
+
+/* 项目信息容器 */
+.project-info {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-xs);
+}
+
+/* 右侧：描述 + 标签 + 按钮 */
+.project-right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-md);
+    justify-content: center;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .project-card-horizontal {
+        flex-direction: column;
+        min-height: auto;
+        padding: var(--spacing-md);
+        gap: var(--spacing-md);
+    }
+    
+    .project-left {
+        flex-direction: row;
+        min-width: auto;
+        width: 100%;
+        justify-content: flex-start;
+    }
+    
+    .project-info {
+        flex: 1;
+    }
+    
+    .project-right {
+        width: 100%;
+    }
+}
+
+/* 调整标题和描述的样式 */
+.project-card-horizontal .project-title {
+    font-size: 1.4rem;
+    margin-bottom: 0;
+}
+
+.project-card-horizontal .project-description {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin: 0 0 var(--spacing-sm) 0;
+    flex: 1;
+}
+
+.project-card-horizontal .project-features {
+    margin-bottom: var(--spacing-sm);
+}
+
+/* 调整排名样式 */
+.project-card-horizontal .project-rank {
+    font-size: 2.5rem;
+    line-height: 1;
+}

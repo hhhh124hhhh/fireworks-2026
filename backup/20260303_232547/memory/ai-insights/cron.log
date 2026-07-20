@@ -1,0 +1,84 @@
+🔑 使用 API Key: tvly-dev-YOHTy1Z3gPq...
+============================================================
+AI 洞察生成器 - 黄金选题 Skill v3.0.0
+============================================================
+搜索主题: 10
+搜索源: tavily, searxng, twitter, baidu
+推送到: ['slack']
+
+步骤 1: 多源搜索中...
+  [1/10] 搜索: AI agent best practices 2026
+❌ Tavily 搜索失败: AI agent best practices 2026, 错误: Unauthorized: missing or invalid API key.
+❌ SearXNG 搜索失败: AI agent best practices 2026, 错误: HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=30)
+⚠️  Twitter API Key 未设置，跳过 Twitter 搜索
+⚠️  百度 API Key 未设置，跳过百度搜索
+    ✅ 找到 0 条结果
+  [2/10] 搜索: knowledge worker automation tools
+❌ Tavily 搜索失败: knowledge worker automation tools, 错误: Unauthorized: missing or invalid API key.
+❌ SearXNG 搜索失败: knowledge worker automation tools, 错误: HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=30)
+⚠️  Twitter API Key 未设置，跳过 Twitter 搜索
+⚠️  百度 API Key 未设置，跳过百度搜索
+    ✅ 找到 0 条结果
+  [3/10] 搜索: workflow design patterns AI
+❌ Tavily 搜索失败: workflow design patterns AI, 错误: Unauthorized: missing or invalid API key.
+⚠️  Twitter API Key 未设置，跳过 Twitter 搜索
+⚠️  百度 API Key 未设置，跳过百度搜索
+    ✅ 找到 5 条结果
+  [4/10] 搜索: context engineering examples
+❌ Tavily 搜索失败: context engineering examples, 错误: Unauthorized: missing or invalid API key.
+⚠️  Twitter API Key 未设置，跳过 Twitter 搜索
+⚠️  百度 API Key 未设置，跳过百度搜索
+    ✅ 找到 5 条结果
+  [5/10] 搜索: AI agent case studies enterprise
+❌ Tavily 搜索失败: AI agent case studies enterprise, 错误: Unauthorized: missing or invalid API key.
+⚠️  Twitter API Key 未设置，跳过 Twitter 搜索
+⚠️  百度 API Key 未设置，跳过百度搜索
+    ✅ 找到 5 条结果
+  [6/10] 搜索: AI productivity software reviews
+❌ Tavily 搜索失败: AI productivity software reviews, 错误: Unauthorized: missing or invalid API key.
+⚠️  Twitter API Key 未设置，跳过 Twitter 搜索
+⚠️  百度 API Key 未设置，跳过百度搜索
+    ✅ 找到 5 条结果
+  [7/10] 搜索: enterprise AI adoption trends
+❌ Tavily 搜索失败: enterprise AI adoption trends, 错误: Unauthorized: missing or invalid API key.
+⚠️  Twitter API Key 未设置，跳过 Twitter 搜索
+⚠️  百度 API Key 未设置，跳过百度搜索
+    ✅ 找到 5 条结果
+  [8/10] 搜索: AI skill development training
+❌ Tavily 搜索失败: AI skill development training, 错误: Unauthorized: missing or invalid API key.
+⚠️  Twitter API Key 未设置，跳过 Twitter 搜索
+⚠️  百度 API Key 未设置，跳过百度搜索
+    ✅ 找到 5 条结果
+  [9/10] 搜索: AI automation use cases
+❌ Tavily 搜索失败: AI automation use cases, 错误: Unauthorized: missing or invalid API key.
+⚠️  Twitter API Key 未设置，跳过 Twitter 搜索
+⚠️  百度 API Key 未设置，跳过百度搜索
+    ✅ 找到 5 条结果
+  [10/10] 搜索: AI implementation strategies
+❌ Tavily 搜索失败: AI implementation strategies, 错误: Unauthorized: missing or invalid API key.
+⚠️  Twitter API Key 未设置，跳过 Twitter 搜索
+⚠️  百度 API Key 未设置，跳过百度搜索
+    ✅ 找到 5 条结果
+
+步骤 2: 分析洞察...
+步骤 3: 格式化输出...
+步骤 4: 保存到文件: /root/clawd/memory/ai-insights/insights-20260221.md
+    ✅ 已保存洞察报告
+    ✅ 已保存详细搜索结果: /root/clawd/memory/ai-insights/insights-20260221-detailed.json
+步骤 5: 推送中...
+⚠️  SLACK_WEBHOOK_URL 环境变量未设置
+
+步骤 6: 保存到记忆...
+    ✅ 已保存
+
+============================================================
+✅ 黄金选题分析完成！
+============================================================
+  File "/root/clawd/skills/ai-insights-generator/scripts/ai_insights_generator.py", line 530
+    for i, recommendation in enumerate(insight.get('topic_recommendations', []), 1):
+    ^
+IndentationError: expected an indented block after 'for' statement on line 529
+  File "/root/clawd/skills/ai-insights-generator/scripts/ai_insights_generator.py", line 530
+    for i, recommendation in enumerate(insight.get('topic_recommendations', []), 1):
+    ^
+IndentationError: expected an indented block after 'for' statement on line 529

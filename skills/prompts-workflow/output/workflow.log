@@ -1,0 +1,8 @@
+[2026-02-01T05:02:44.821Z] [INFO] Workflow started in manual mode
+[2026-02-01T05:02:44.825Z] [INFO] Running manual steps: convert
+[2026-02-01T05:02:44.825Z] [INFO] Step 'convert' started
+[2026-02-01T05:02:44.826Z] [INFO] Running convert-prompts-to-skills.py...
+[2026-02-01T05:02:44.943Z] [SUCCESS] Step 'convert' completed
+[2026-02-01T05:02:44.943Z] [SUCCESS] Conversion completed
+[2026-02-01T05:02:44.944Z] [INFO] Workflow ended
+[2026-02-01T05:02:44.944Z] [SUCCESS] Workflow completed successfully!

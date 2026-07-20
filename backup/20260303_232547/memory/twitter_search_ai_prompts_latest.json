@@ -1,0 +1,175 @@
+{
+  "query": "\"AI prompt\" OR \"ChatGPT prompt\" OR \"Claude prompt\" OR \"提示词\" OR \"#提示词\" OR \"prompt engineering\" OR \"#prompt\"",
+  "query_type": "Top",
+  "fetched_at": "2026-01-29T01:51:48.434971Z",
+  "total_tweets": 19,
+  "statistics": {
+    "total_tweets": 19,
+    "total_engagement": {
+      "likes": 23894,
+      "retweets": 3787,
+      "replies": 4008,
+      "quotes": 88,
+      "views": 2753581
+    },
+    "averages": {
+      "likes_per_tweet": 1257.58,
+      "retweets_per_tweet": 199.32,
+      "replies_per_tweet": 210.95
+    },
+    "language_distribution": {
+      "en": 17,
+      "es": 2
+    },
+    "top_hashtags": {},
+    "top_mentions": {
+      "higgsfield_ai": 1,
+      "ai_uncovered": 1
+    },
+    "reply_ratio": 0.0,
+    "top_authors_by_followers": [
+      {
+        "username": "MindBranches",
+        "name": "MindBranches",
+        "followers": 153728,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "javinpaul",
+        "name": "javinpaul",
+        "followers": 104931,
+        "verified": false,
+        "tweet_count": 1
+      },
+      {
+        "username": "mdancho84",
+        "name": "🔥 Matt Dancho (Business Science) 🔥",
+        "followers": 93255,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "arceyul",
+        "name": "Arce.",
+        "followers": 86380,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "Berci",
+        "name": "Berci Meskó, MD, PhD",
+        "followers": 76012,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "Timmysofine",
+        "name": "Oluwatimileyin✨🦋",
+        "followers": 59224,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "MagneticNorse",
+        "name": "Magnetic Norse",
+        "followers": 34760,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "_IntelArt",
+        "name": "IntelArt - Innovación IA",
+        "followers": 25928,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "iam_Uchenna",
+        "name": "Splendor of SQL 🇬🇧💖",
+        "followers": 24679,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "KeorUnreal",
+        "name": "KeorUnreal",
+        "followers": 22496,
+        "verified": true,
+        "tweet_count": 3
+      }
+    ],
+    "most_active_authors": [
+      {
+        "username": "KeorUnreal",
+        "name": "KeorUnreal",
+        "followers": 22496,
+        "verified": true,
+        "tweet_count": 3
+      },
+      {
+        "username": "mdancho84",
+        "name": "🔥 Matt Dancho (Business Science) 🔥",
+        "followers": 93255,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "Ejaz_bashir1",
+        "name": "Ejaz Bashir",
+        "followers": 17215,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "molehillgroup",
+        "name": "Michael Miller",
+        "followers": 212,
+        "verified": false,
+        "tweet_count": 1
+      },
+      {
+        "username": "Berci",
+        "name": "Berci Meskó, MD, PhD",
+        "followers": 76012,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "MagneticNorse",
+        "name": "Magnetic Norse",
+        "followers": 34760,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "MindBranches",
+        "name": "MindBranches",
+        "followers": 153728,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "_IntelArt",
+        "name": "IntelArt - Innovación IA",
+        "followers": 25928,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "Strength04_X",
+        "name": "𝐌",
+        "followers": 10233,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "arceyul",
+        "name": "Arce.",
+        "followers": 86380,
+        "verified": true,
+        "tweet_count": 1
+      }
+    ]
+  }
+}

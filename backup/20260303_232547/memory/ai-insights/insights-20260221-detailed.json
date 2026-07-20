@@ -1,0 +1,313 @@
+{
+  "insights": {
+    "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+    "total_searches": 10,
+    "total_results": 40,
+    "average_results_per_search": 4.0,
+    "topics": [
+      "AI agent best practices 2026",
+      "knowledge worker automation tools",
+      "workflow design patterns AI",
+      "context engineering examples",
+      "AI agent case studies enterprise",
+      "AI productivity software reviews",
+      "enterprise AI adoption trends",
+      "AI skill development training",
+      "AI automation use cases",
+      "AI implementation strategies"
+    ],
+    "sources_used": [
+      "tavily",
+      "searxng",
+      "twitter",
+      "baidu"
+    ],
+    "source_distribution": {
+      "SearXNG": 40
+    },
+    "key_findings": [
+      "搜索了 10 个主题",
+      "总共获取了 40 条结果",
+      "平均每个主题 4 条结果",
+      "搜索源: tavily, searxng, twitter, baidu",
+      "Tavily: 0 条",
+      "SearXNG: 40 条",
+      "Twitter: 0 条",
+      "百度: 0 条"
+    ],
+    "action_items": [
+      "评估选题的上下文现状",
+      "分析不同来源的趋势",
+      "识别最佳选题方向",
+      "验证选题可行性"
+    ],
+    "timestamp": "2026-02-21T09:01:16.033332",
+    "date": "2026-02-21",
+    "time": "09:01:16",
+    "trend_analysis": "基于最近 4 条洞察的分析",
+    "topic_recommendations": [
+      "⚠️ 中热度：该主题有一定关注度，可作为备选选题",
+      "🔍 通用搜索高：SearXNG 结果丰富，适合通用选题"
+    ]
+  },
+  "search_results": {
+    "AI agent best practices 2026": [],
+    "knowledge worker automation tools": [],
+    "workflow design patterns AI": [
+      {
+        "title": "Convertisseur dollar en euro - Boursorama",
+        "url": "https://www.boursorama.com/bourse/devises/convertisseur-devises/dollar-euro",
+        "content": "Boursorama met à votre disposition un convertisseur de devises, qui vous permet de convertir plus de 150 monnaies instantanément et gratuitement, et de connaître le taux de change en direct.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "AI Agent Workflow Design Patterns — An Overview",
+        "url": "https://medium.com/binome/ai-agent-workflow-design-patterns-an-overview-cf9e1f609696",
+        "content": "In this post, we explore various AI agent workflow design patterns, we categorize the patterns into Reflection-focused and Planning-focused, showcasing ...",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Choose a design pattern for your agentic AI system",
+        "url": "https://docs.cloud.google.com/architecture/choose-design-pattern-agentic-ai-system",
+        "content": "This document provides guidance to help you choose a design pattern for your agentic AI system. Agent design patterns are common architectural approaches to build agentic applications. An agent design pattern offers a distinct framework for organizing a system's components, integrating the model, and orchestrating a single agent or multiple agents to accomplish a workflow. AI agents are ...",
+        "source": "SearXNG"
+      },
+      {
+        "title": "5 USD to EUR - Dollars américains to Euros Exchange Rate - Xe",
+        "url": "https://www.xe.com/fr/currencyconverter/convert/?Amount=5&From=USD&To=EUR",
+        "content": "Notre graphique de change USD vers EUR en direct suit 12 mois de taux moyens du marché en temps réel et indique avec précision la valeur de votre argent à tout instant.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Top AI Agentic Workflow Patterns",
+        "url": "https://blog.bytebytego.com/p/top-ai-agentic-workflow-patterns",
+        "content": "15 Dec 2025 — In this article, we will look at the most popular agentic workflow patterns and how they work.",
+        "source": "SearXNG"
+      }
+    ],
+    "context engineering examples": [
+      {
+        "title": "Context Engineering: A Guide With Examples - DataCamp",
+        "url": "https://www.datacamp.com/blog/context-engineering",
+        "content": "8 Jul 2025 — Context engineering is the practice of designing systems that decide what information an AI model sees before it generates a response.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Context Engineering Examples - Medium",
+        "url": "https://medium.com/data-science-in-your-pocket/context-engineering-examples-015c662fcb69",
+        "content": "Moving towards the end of our blog series on Context Engineering, the last one we are talking about some examples from different domains on how context engineering would look like for software ...",
+        "source": "SearXNG"
+      },
+      {
+        "title": "How can I update React Context from inside a child component?",
+        "url": "https://stackoverflow.com/questions/41030361/how-can-i-update-react-context-from-inside-a-child-component",
+        "content": "Feb 8, 2026 · I have the language settings in the context as like below: class LanguageProvider extends Component { static childContextTypes = { langConfig: PropTypes.object, }; getChildContext() {",
+        "source": "SearXNG"
+      },
+      {
+        "title": "sql - Cannot create SSPI context - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/1812541/cannot-create-sspi-context",
+        "content": "Nov 28, 2009 · The \"Cannot Generate SSPI Context\" error is very generic and can happen for a multitude of reasons. Is just a cover error for any underlying Kerberos/NTLM error.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Context Engineering Explained: Practical Examples in 2025",
+        "url": "https://www.kubiya.ai/blog/context-engineering",
+        "content": "Discover context engineering with real-world examples. Learn how it powers reliable AI systems, improves automation, and scales enterprise workflows in 2025.",
+        "source": "SearXNG"
+      }
+    ],
+    "AI agent case studies enterprise": [
+      {
+        "title": "Massachusetts Institute of Technology - MIT News",
+        "url": "https://news.mit.edu/topic/artificial-intelligence2",
+        "content": "2 days ago · Project AI Evidence will connect governments, tech companies, and nonprofits with world-class economists at MIT and across J-PAL's global network to evaluate and improve AI solutions.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Useful AI Agent Case Studies: What Actually Works in Production",
+        "url": "https://neo4j.com/blog/agentic-ai/ai-agent-useful-case-studies/",
+        "content": "Learn how real teams deploy useful AI agents in production, including architectures, tradeoffs, GraphRAG patterns, and measurable impact.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "20 must-read AI agent case studies",
+        "url": "https://enterpriseaiexecutive.ai/p/20-must-read-ai-agents-case-studies-bb2cf6f29ed87b92",
+        "content": "BMW shared how it built 'AIconic Agent', a multi-agent system to enhance information retrieval and decision-making across its supplier network. Full case ...",
+        "source": "SearXNG"
+      },
+      {
+        "title": "AI agent use cases - IBM",
+        "url": "https://www.ibm.com/think/topics/ai-agent-use-cases",
+        "content": "AI agents are poised to transform how enterprises deploy automation and intelligent systems to increase productivity and streamline operations. Unlike previous types of AI tools—assistants, chatbots—which operate on a single-task basis, agentic AI systems can autonomously plan, reason and execute complex tasks with minimal human intervention.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Machine learning | MIT News | Massachusetts Institute of Technology",
+        "url": "https://news.mit.edu/topic/machine-learning",
+        "content": "2 days ago · EnCompass executes AI agent programs by backtracking and making multiple attempts, finding the best set of outputs generated by an LLM. It could help coders work with AI agents more …",
+        "source": "SearXNG"
+      }
+    ],
+    "AI productivity software reviews": [
+      {
+        "title": "Massachusetts Institute of Technology - MIT News",
+        "url": "https://news.mit.edu/topic/artificial-intelligence2",
+        "content": "2 days ago · Project AI Evidence will connect governments, tech companies, and nonprofits with world-class economists at MIT and across J-PAL's global network to evaluate and improve AI solutions.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "6 Best AI Productivity Software & Tools 2026",
+        "url": "https://efficient.app/best/ai-productivity",
+        "content": "1 Jan 2026 — Top 6 AI Productivity Software & Tools in 2026 - Best AI Productivity software reviews, alternatives, comparisons, and promo/discount codes, ...",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Machine learning | MIT News | Massachusetts Institute of Technology",
+        "url": "https://news.mit.edu/topic/machine-learning",
+        "content": "2 days ago · EnCompass executes AI agent programs by backtracking and making multiple attempts, finding the best set of outputs generated by an LLM. It could help coders work with AI agents more …",
+        "source": "SearXNG"
+      },
+      {
+        "title": "I Tested 50+ Productivity Tools for 2 Years. Only 6 Survived | Medium",
+        "url": "https://ilampadmanabhan.medium.com/i-tested-50-productivity-tools-for-2-years-only-6-survived-039f9e85eef9",
+        "content": "Here's what actually works (for me): Blinkist for learning, Google Workspace for foundation work, ChatGPT and Claude for AI productivity, Canva ...",
+        "source": "SearXNG"
+      },
+      {
+        "title": "AI tool generates high-quality images faster than state-of-the-art ...",
+        "url": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+        "content": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than state-of-the-art diffusion models, but that runs about nine …",
+        "source": "SearXNG"
+      }
+    ],
+    "enterprise AI adoption trends": [
+      {
+        "title": "New Enterprise Forum | Events",
+        "url": "https://newenterpriseforum.org/events",
+        "content": "2 days ago · New Enterprise Forum is proud to have the September forum meeting be part of a2Tech360, Ann Arbor’s week-long celebration of innovation and entrepreneurship! Click here for …",
+        "source": "SearXNG"
+      },
+      {
+        "title": "The State of AI: Global Survey 2025",
+        "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+        "content": "5 Nov 2025 — Twenty-three percent of respondents report their organizations are scaling an agentic AI system somewhere in their enterprises (that is, ...",
+        "source": "SearXNG"
+      },
+      {
+        "title": "New Enterprise Forum",
+        "url": "https://newenterpriseforum.org/",
+        "content": "Nov 25, 2025 · Since 1986, we’ve linked entrepreneurs to management expertise, potential joint venture partners, mentors, business services, capital, and other critical resources. Since its founding, NEF …",
+        "source": "SearXNG"
+      },
+      {
+        "title": "The state of enterprise AI",
+        "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report/",
+        "content": "8 Dec 2025 — Adoption is accelerating and deepening · Growth is rapid across industries and geographies · Workers report measurable value from using AI.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "New Enterprise Forum | News",
+        "url": "https://newenterpriseforum.org/news",
+        "content": "May 20, 2025 · New Enterprise Forum (NEF) has announced the names of the five Michigan entrepreneurs who have won awards in recognition of their achievements during the past year. The …",
+        "source": "SearXNG"
+      }
+    ],
+    "AI skill development training": [
+      {
+        "title": "Massachusetts Institute of Technology - MIT News",
+        "url": "https://news.mit.edu/topic/artificial-intelligence2",
+        "content": "2 days ago · Project AI Evidence will connect governments, tech companies, and nonprofits with world-class economists at MIT and across J-PAL's global network to evaluate and improve AI solutions.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Understanding AI: AI tools, training, and skills - Google AI",
+        "url": "https://ai.google/learn-ai-skills/",
+        "content": "Google offers various AI-powered programs, training, and tools to help advance your skills. Develop AI skills and view available resources.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Machine learning | MIT News | Massachusetts Institute of Technology",
+        "url": "https://news.mit.edu/topic/machine-learning",
+        "content": "2 days ago · EnCompass executes AI agent programs by backtracking and making multiple attempts, finding the best set of outputs generated by an LLM. It could help coders work with AI agents more …",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Best AI Courses & Certificates [2026]",
+        "url": "https://www.coursera.org/courses?query=artificial%20intelligence",
+        "content": "Artificial intelligence courses can help you learn machine learning algorithms, natural language processing, computer vision, and neural networks.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "AI tool generates high-quality images faster than state-of-the-art ...",
+        "url": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+        "content": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than state-of-the-art diffusion models, but that runs about nine …",
+        "source": "SearXNG"
+      }
+    ],
+    "AI automation use cases": [
+      {
+        "title": "Massachusetts Institute of Technology - MIT News",
+        "url": "https://news.mit.edu/topic/artificial-intelligence2",
+        "content": "2 days ago · Project AI Evidence will connect governments, tech companies, and nonprofits with world-class economists at MIT and across J-PAL's global network to evaluate and improve AI solutions.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "13 AI Automation Examples To Improve Business Productivity",
+        "url": "https://www.moveworks.com/us/en/resources/blog/business-examples-and-uses-of-ai-automation",
+        "content": "30 Jan 2026 — Common enterprise use cases include HR onboarding, IT issue resolution, payroll processing, compliance workflows, and supply chain operations.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Machine learning | MIT News | Massachusetts Institute of Technology",
+        "url": "https://news.mit.edu/topic/machine-learning",
+        "content": "2 days ago · EnCompass executes AI agent programs by backtracking and making multiple attempts, finding the best set of outputs generated by an LLM. It could help coders work with AI agents more …",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Automation Using AI - 5 Real-World Examples",
+        "url": "https://appian.com/blog/acp/ai/automation-using-ai",
+        "content": "16 Oct 2024 — 1. Customer service chatbots · 2. Invoice processing · 3. Predictive maintenance · 4. HR onboarding · 5. Fraud detection in finance.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "AI tool generates high-quality images faster than state-of-the-art ...",
+        "url": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+        "content": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than state-of-the-art diffusion models, but that runs about nine …",
+        "source": "SearXNG"
+      }
+    ],
+    "AI implementation strategies": [
+      {
+        "title": "Massachusetts Institute of Technology - MIT News",
+        "url": "https://news.mit.edu/topic/artificial-intelligence2",
+        "content": "2 days ago · Project AI Evidence will connect governments, tech companies, and nonprofits with world-class economists at MIT and across J-PAL's global network to evaluate and improve AI solutions.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Artificial intelligence implementation: 8 steps for success",
+        "url": "https://www.ibm.com/think/insights/artificial-intelligence-implementation",
+        "content": "Step 1: Define goals · Step 2: Assess data quality and accessibility · Step 3: Choose the right AI technology · Step 4: Build an AI-proficient team · Step 5: Foster ...",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Machine learning | MIT News | Massachusetts Institute of Technology",
+        "url": "https://news.mit.edu/topic/machine-learning",
+        "content": "2 days ago · EnCompass executes AI agent programs by backtracking and making multiple attempts, finding the best set of outputs generated by an LLM. It could help coders work with AI agents more …",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Strategies for Successful AI Adoption and Implementation",
+        "url": "https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/ai-implementation",
+        "content": "Data security and management strategies · Prioritize data security · Establish a unified data source · Ensure data quality · Implement data governance policies ...",
+        "source": "SearXNG"
+      },
+      {
+        "title": "AI tool generates high-quality images faster than state-of-the-art ...",
+        "url": "https://news.mit.edu/2025/ai-tool-generates-high-quality-images-faster-0321",
+        "content": "Mar 21, 2025 · A hybrid AI approach known as hybrid autoregressive transformer can generate realistic images with the same or better quality than state-of-the-art diffusion models, but that runs about nine …",
+        "source": "SearXNG"
+      }
+    ]
+  }
+}

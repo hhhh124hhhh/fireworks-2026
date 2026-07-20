@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-21 01:00:08",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "From Delivery Rider to Building My First AI System — Here's My Story",
+          "description": "<p>Hi everyone, I'm a self-taught developer from China. I work as a delivery rider from 8 PM to 8 AM, and I code in every spare moment between shifts.</p>\n\n<p>In June 2025, I finished a shift, lay dow",
+          "url": "https://dev.to/ammorick/from-delivery-rider-to-building-my-first-ai-system-heres-my-story-3d9c",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Title: How I Built ZenPlan: A Premium AI Habit Tracker with Next.js, Vercel OIDC, and Amazon DynamoDB",
+          "description": "<p>I built this for the Hack the Zero Stack with Vercel v0 and AWS Databases Hackathon.<br>\nHere's the thing—building a habit tracker sounds easy until you actually start building it. Check off a box,",
+          "url": "https://dev.to/divinefavour1234567/title-how-i-built-zenplan-a-premium-ai-habit-tracker-with-nextjs-vercel-oidc-and-amazon-314l",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "HELIOS — The Longest Day: building computation out of sunlight",
+          "description": "<p><em>This is a submission for the <a href=\"https://dev.to/challenges/june-game-jam-2026-06-03\">June Solstice Game Jam</a></em></p>\n\n<h2>\n  \n  \n  What I Built\n</h2>\n\n<p><strong>HELIOS — The Longest D",
+          "url": "https://dev.to/muhmdusman/helios-the-longest-day-building-computation-out-of-sunlight-k9m",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Bash Script Guide",
+          "description": "<h1>\n  \n  \n  1. Shebang 是什么？\n</h1>\n\n<blockquote>\n<p>告诉系统：这个文件应该由谁解释执行</p>\n</blockquote>\n\n<p>Bash 脚本以&nbsp;<code>shebang</code>&nbsp;开头。Shebang 是&nbsp;<code>bash #</code>&nbsp;和&nbsp;<code>bang !</code",
+          "url": "https://dev.to/atomicwave88/bash-script-guide-51oh",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "My homescreen was chaos. Not anymore.",
+          "description": "<h2>\n  \n  \n  I built an Android widget that learns your app habits — without sending anything to a server\n</h2>\n\n<p>I had a problem. My home screen was organized chaos: folders for Work, Music, Stream",
+          "url": "https://dev.to/niluved/my-homescreen-was-chaos-not-anymore-5a8m",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Preço por token não é custo por tarefa: a inversão que muda a economia dos modelos de raciocínio",
+          "description": "<p><strong>Modelos aparentemente baratos podem consumir mais tokens, executar mais etapas e terminar com uma conta maior — especialmente em agentes de programação e outros fluxos de trabalho longos.</",
+          "url": "https://dev.to/fazedordecodigo/preco-por-token-nao-e-custo-por-tarefa-a-inversao-que-muda-a-economia-dos-modelos-de-raciocinio-p51",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "The Tailwind CSS Ecosystem in 2026: The Only Libraries and Tools That Actually Matter",
+          "description": "<h2>\n  \n  \n  Stop Wasting Time Hunting for Tailwind Resources\n</h2>\n\n<p>Every year, the Tailwind CSS ecosystem grows larger.</p>\n\n<p>New component libraries appear every month. Developers launch fresh",
+          "url": "https://dev.to/er-raj-aryan/the-tailwind-css-ecosystem-in-2026-the-only-libraries-and-tools-that-actually-matter-3k0e",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Building repository-local memory for AI-assisted development",
+          "description": "<p>I've been experimenting with a simple idea: what if coding agents had durable, repository-local memory instead of relying only on the current chat context?</p>\n\n<p>I open-sourced an early implement",
+          "url": "https://dev.to/einherjarlabs/building-repository-local-memory-for-ai-assisted-development-32hk",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Disposable code is a psyop by people who don't maintain anything",
+          "description": "<p>There is an increasing trend on the internet stating that in the AI era, code longevity is “questionable if not problematic\". The argument continues, “if AI can rewrite everything at 10x speed, why",
+          "url": "https://dev.to/adioof/disposable-code-is-a-psyop-by-people-who-dont-maintain-anything-33kg",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Why Idempotency Is Critical in Modern SaaS Architectures",
+          "description": "<p>Idempotency is one of the most important concepts in backend engineering, especially for SaaS platforms that rely on external APIs, webhooks, and asynchronous processing. Without idempotent operati",
+          "url": "https://dev.to/sergey_3c52385cf547dee766/why-idempotency-is-critical-in-modern-saas-architectures-25cd",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Who Is Email Security Actually Built For?",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm01iysb",
+          "url": "https://dev.to/wadco/who-is-email-security-actually-built-for-957",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "I spent 2 months building a tool to solve the biggest headache in US HR: FMLA compliance (Here is what I learned)",
+          "description": "<p>Hey Dev.to community,</p>\n\n<p>For the past two months, I’ve been locked in my room, staring at a giant spreadsheet of U.S. labor laws, wondering why on earth I decided to build something in the HR ",
+          "url": "https://dev.to/gerryhu/i-spent-2-months-building-a-tool-to-solve-the-biggest-headache-in-us-hr-fmla-compliance-here-is-1pn7",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

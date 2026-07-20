@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-05-06 01:00:16",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Claude Desktop com duas contas no macOS: como rodar pessoal e empresa lado a lado",
+          "description": "<blockquote>\n<p><strong>TL;DR:</strong> Claude Desktop não suporta múltiplas contas nativamente. A solução é copiar o <code>.app</code>, modificar o wrapper de lançamento para apontar para um <code>us",
+          "url": "https://dev.to/rflpazini/claude-desktop-com-duas-contas-no-macos-como-rodar-pessoal-e-empresa-lado-a-lado-5aik",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "PHP #2: Apa itu Variable?",
+          "description": "<p>Gampangnya, <strong>Variable</strong> adalah tempat kita menyimpan nilai yang nantinya bisa dipakai kembali.</p>\n\n<p>Misal kita ingin menampilkan data Nama Lengkap dari Siswa. Bisa saja langsung ta",
+          "url": "https://dev.to/ryunze/php-2-apa-itu-variable-52mk",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "What I learned tuning a Reddit DM agent through 8 versions in 24 hours",
+          "description": "<p>My first version of an LLM-powered Reddit reply agent generated this on a B2B SaaS post: \"I've spent years helping companies like yours scale outreach and we've helped hundreds of teams achieve 70%",
+          "url": "https://dev.to/kaloyanyordanov12/what-i-learned-tuning-a-reddit-dm-agent-through-8-versions-in-24-hours-3m4b",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Rust Async Patterns in Tauri — Keeping the UI Responsive While Rust Does Heavy Work",
+          "description": "<p>If this is useful, a ❤️ helps others find it.</p>\n\n<p><em>All tests run on an 8-year-old MacBook Air.</em></p>\n\n<p>A Tauri app has two threads that matter: the main thread (UI) and whatever tokio s",
+          "url": "https://dev.to/hiyoyok/rust-async-patterns-in-tauri-keeping-the-ui-responsive-while-rust-does-heavy-work-e9d",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "I wrote a .NET assertion library to understand assertion libraries",
+          "description": "<p>I have been working on a .NET assertion library called Axiom Assertions.</p>\n\n<p>It started as a way to learn how assertion libraries work, then grew into an experiment around deterministic output,",
+          "url": "https://dev.to/spearzy/i-wrote-a-net-assertion-library-to-understand-assertion-libraries-1mmg",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "I Trained My Own LLM from Scratch in 2025: What That Viral HN Tutorial Doesn't Tell You About the Real Cost",
+          "description": "<h1>\n  \n  \n  I Trained My Own LLM from Scratch in 2025: What That Viral HN Tutorial Doesn't Tell You About the Real Cost\n</h1>\n\n<p>I was scrolling HN on a Tuesday night when I saw the post: <em>\"Train",
+          "url": "https://dev.to/jtorchia/i-trained-my-own-llm-from-scratch-in-2025-what-that-viral-hn-tutorial-doesnt-tell-you-about-the-l66",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Entrené mi propio LLM desde cero en 2025: lo que el tutorial viral de HN no te dice sobre el costo real",
+          "description": "<h1>\n  \n  \n  Entrené mi propio LLM desde cero en 2025: lo que el tutorial viral de HN no te dice sobre el costo real\n</h1>\n\n<p>Estaba revisando HN un martes a la noche cuando vi el post: <em>\"Train Yo",
+          "url": "https://dev.to/jtorchia/entrene-mi-propio-llm-desde-cero-en-2025-lo-que-el-tutorial-viral-de-hn-no-te-dice-sobre-el-costo-3def",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "What is Glyph UI?",
+          "description": "<p>On April 30, 2026. I posted an update after 3 years explaining what I was doing and what new thing I have been working on. And In that I mentioned how AI has made frontend development robotic. Same",
+          "url": "https://dev.to/krybone/what-is-glyph-ui-4h1k",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "The 2026 AEO Checklist: Steps to Get Recommended by ChatGPT, Claude, and Gemini",
+          "description": "<p>If you've ever searched your own product and seen a competitor recommended by an AI assistant instead, you already understand why AEO matters.</p>\n\n<p>Answer Engine Optimization (AEO) is the practi",
+          "url": "https://dev.to/chrisigbojekwe/the-2026-aeo-checklist-40-steps-to-get-recommended-by-chatgpt-claude-and-gemini-96h",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "I Built an Open-Source AWS Resource Browser Because I Was Tired of Running CLI Commands",
+          "description": "<h2>\n  \n  \n  The Problem: We Were Flying Blind\n</h2>\n\n<p>At <a href=\"https://tryrefer.com?utm_source=devto&amp;utm_medium=blog&amp;utm_campaign=stackport\" rel=\"noopener noreferrer\">Refer</a>, we're on",
+          "url": "https://dev.to/davireisvieira/i-built-an-open-source-aws-resource-browser-because-i-was-tired-of-running-cli-commands-476k",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "How to No-Code vs Notion: Lessons Learned",
+          "description": "<h1>\n  \n  \n  No-Code vs Notion: Lessons Learned From Real-World Workflow Builds\n</h1>\n\n<p>For the past 3 years, I’ve built internal tools, client portals, and automated workflows using both dedicated ",
+          "url": "https://dev.to/johalputt/how-to-no-code-vs-notion-lessons-learned-2f0o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Schema descriptions are load-bearing: why missing parameter descriptions break MCP clients",
+          "description": "<p>I shipped <a href=\"https://www.npmjs.com/package/@incultnitollc/mcp-probe\" rel=\"noopener noreferrer\"><code>mcp-probe</code></a> — a CLI that points at any MCP server, enumerates every tool, resourc",
+          "url": "https://dev.to/incultnitollc/schema-descriptions-are-load-bearing-why-missing-parameter-descriptions-break-mcp-clients-4l42",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

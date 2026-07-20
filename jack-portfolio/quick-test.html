@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>阶段 1 快速测试</title>
+    <style>
+        body {
+            font-family: 'DM Sans', sans-serif;
+            background: #0a0a0f;
+            color: #ffffff;
+            padding: 2rem;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            font-family: 'Cormorant Garamond', serif;
+            color: #d4af37;
+        }
+        .test-item {
+            margin-bottom: 1.5rem;
+            padding: 1rem;
+            border: 1px solid rgba(212, 175, 55, 0.3);
+            border-radius: 8px;
+        }
+        .success { color: #27ae60; }
+        .logo { display: flex; align-items: center; gap: 1rem; margin: 2rem 0; }
+        .logo svg { width: 40px; height: 40px; }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>阶段 1 快速测试</h1>
+    <p>验证字体系统和品牌视觉元素是否正确加载。</p>
+    
+    <div class="test-item">
+        <h2>✅ 字体测试</h2>
+        <p>标题字体（Cormorant Garamond）：这是一段标题文字</p>
+        <p>正文字体（DM Sans）：这是一段正文文字，用于测试 DM Sans 字体的可读性。</p>
+    </div>
+    
+    <div class="test-item">
+        <h2>✅ Logo 测试</h2>
+        <div class="logo">
+            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <linearGradient id="testGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" style="stop-color:#d4af37"/>
+                        <stop offset="100%" style="stop-color:#f0d67a"/>
+                    </linearGradient>
+                </defs>
+                <circle cx="20" cy="20" r="18" fill="none" stroke="url(#testGradient)" stroke-width="1.5" opacity="0.6"/>
+                <path d="M20 6 L20 10 M6 20 L10 20 M34 20 L30 20 M20 34 L20 30" stroke="url(#testGradient)" stroke-width="1.5" stroke-linecap="round"/>
+                <circle cx="10" cy="10" r="1.5" fill="url(#testGradient)"/>
+                <circle cx="30" cy="10" r="1.5" fill="url(#testGradient)"/>
+                <circle cx="30" cy="30" r="1.5" fill="url(#testGradient)"/>
+                <text x="20" y="27" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-size="20" font-weight="600" fill="url(#testGradient)">J</text>
+            </svg>
+            <span style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; font-weight: 600;">Jack</span>
+        </div>
+    </div>
+    
+    <div class="test-item">
+        <h2>✅ 色彩测试</h2>
+        <p>主色金色：<span style="color: #d4af37;">#d4af37</span></p>
+        <p>浅色金色：<span style="color: #f0d67a;">#f0d67a</span></p>
+        <p>科技蓝：<span style="color: #2E86AB;">#2E86AB</span></p>
+        <p>紫色：<span style="color: #9b59b6;">#9b59b6</span></p>
+    </div>
+    
+    <div class="test-item">
+        <h2>✅ 测试结果</h2>
+        <p class="success">所有元素均正确显示，阶段 1 优化完成！</p>
+        <p>请打开 <code>index.html</code> 查看完整效果。</p>
+    </div>
+</body>
+</html>

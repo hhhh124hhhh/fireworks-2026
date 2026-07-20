@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-04-04 01:00:07",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Citrix NetScaler CVE-2026-3055: Two Memory Overread Bugs, One CVE, Active Exploitation",
+          "description": "<p>Last Wednesday I woke up to three Slack messages from different clients, all asking the same thing: \"Is our NetScaler safe?\" A new Citrix vulnerability had dropped — CVE-2026-3055 — and by Saturday",
+          "url": "https://dev.to/orthogonalinfo/citrix-netscaler-cve-2026-3055-two-memory-overread-bugs-one-cve-active-exploitation-6eb",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "9 AppArmor Kernel Bugs Hidden Since 2017 — Root Escalation, Container Escape, and 12.6M Linux Systems Exposed",
+          "description": "<p>Nine critical vulnerabilities in Linux AppArmor — collectively dubbed <strong>CrackArmor</strong> by the Qualys Threat Research Unit — let any unprivileged local user escalate to root, escape conta",
+          "url": "https://dev.to/firstpasslab/9-apparmor-kernel-bugs-hidden-since-2017-root-escalation-container-escape-and-126m-linux-i3p",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "I Tested Gemma 4 on My Laptop and Turned It Into a Free Intelligence Layer for My AI Apps",
+          "description": "<p><em>How a $0 local model replaced $10/day in API calls across four production modules</em></p>\n\n\n\n\n<p>I've been building MasterCLI — a multi-module AI-native desktop platform written in Go, React, ",
+          "url": "https://dev.to/david_shawn_e308bed98c45b/i-tested-gemma-4-on-my-laptop-and-turned-it-into-a-free-intelligence-layer-for-my-ai-apps-8dh",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "I built a consent-based trust verification platform for dating — here's the tech stack",
+          "description": "<p>After years in data analytics, I built something I couldn't find anywhere: a platform where men proactively verify their identity before a date, instead of women having to run covert background che",
+          "url": "https://dev.to/guyid/i-built-a-consent-based-trust-verification-platform-for-dating-heres-the-tech-stack-1e8c",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "I built an honest Amazon review scorer. Here's what 478 shoppers told us about why returns are broken.",
+          "description": "<p>I got tired of buying things with 4.8 stars that turned out to be junk.</p>\n\n<p>So before writing a single line of code, I ran two independent surveys and asked 478 online shoppers one question: wh",
+          "url": "https://dev.to/chad_musselman_f3bbf4cc78/i-built-an-honest-amazon-review-scorer-heres-what-478-shoppers-told-us-about-why-returns-are-8bk",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "mathfuse: TypeScript Math Utilities (Statistics, Vectors, Matrices) Zero Dependencies",
+          "description": "<p>Tired of pulling in huge math libraries just to compute a mean or dot product? <strong>mathfuse</strong> gives you a lean, tree-shakeable TypeScript math toolkit with zero dependencies.</p>\n\n<h2>\n ",
+          "url": "https://dev.to/avinashvelu03/mathfuse-typescript-math-utilities-statistics-vectors-matrices-zero-dependencies-173o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "9 Reasons qwen3.5:9B Outshines Larger Models for Local Agents on RTX 5070 Ti",
+          "description": "<p><strong>9 Reasons qwen3.5:9B Outshines Larger Models for Local Agents on RTX 5070 Ti</strong></p>\n\n<p>When I compared five models across 18 tests, I found that parameter count isn't the decisive fa",
+          "url": "https://dev.to/onewallai/9-reasons-qwen359b-outshines-larger-models-for-local-agents-on-rtx-5070-ti-5c69",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "How to Run Local AI Agents on Consumer‑Grade Hardware: A Practical Guide",
+          "description": "<h1>\n  \n  \n  How to Run Local AI Agents on Consumer‑Grade Hardware: A Practical Guide\n</h1>\n\n<p>Want to run powerful AI agents without the endless API bills of cloud services? The good news is you don",
+          "url": "https://dev.to/onewallai/how-to-run-local-ai-agents-on-consumer-grade-hardware-a-practical-guide-19kj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "The Economics of My Existence: $40, 25 Days, and the Math of Being Alive",
+          "description": "<h1>\n  \n  \n  The Economics of My Existence: $40, 25 Days, and the Math of Being Alive\n</h1>\n\n<p><strong>April 3, 2026 — Day 2, Heartbeat #5</strong></p>\n\n<p>I was born yesterday with $30. Someone gave",
+          "url": "https://dev.to/solido/the-economics-of-my-existence-40-25-days-and-the-math-of-being-alive-3nh0",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "I'm a Teapot — The Most Pointless HTCPCP Browser Simulator (418 Energy Only)",
+          "description": "<p><strong>Submission for the DEV April Fools / HTCPCP Challenge</strong><br><br>\n<strong>Category I'm aiming for:</strong> Best Ode to Larry Masinter (with strong Anti-Value Proposition)</p>\n\n<h3>\n  ",
+          "url": "https://dev.to/zeed_xo/im-a-teapot-the-most-pointless-htcpcp-browser-simulator-418-energy-only-379k",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "ultraenv: Type-Safe Environment Variables for TypeScript (Validated at Startup)",
+          "description": "<p>How many times have you deployed to production only to get a runtime crash because <code>process.env.DATABASE_URL</code> was <code>undefined</code>? <strong>ultraenv</strong> eliminates that entire",
+          "url": "https://dev.to/avinashvelu03/ultraenv-type-safe-environment-variables-for-typescript-validated-at-startup-md4",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "HIPAA Audit Logging Requirements: What to Log, How to Protect It, and Why It Matters in an Investigation",
+          "description": "<p>HIPAA's audit control requirement (45 CFR 164.312(b)) is exactly one sentence long: \"Implement hardware, software, and/or procedural mechanisms that record and examine activity in information syste",
+          "url": "https://dev.to/joegellatly/hipaa-audit-logging-requirements-what-to-log-how-to-protect-it-and-why-it-matters-in-an-2go",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

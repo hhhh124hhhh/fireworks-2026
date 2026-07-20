@@ -1,0 +1,68 @@
+#!/usr/bin/env node
+/**
+ * startup-sync.js
+ * 开机启动时执行的同步脚本
+ *
+ * 功能：
+ * 1. git pull 获取云端最新
+ * 2. node merge-topics.js 合并本地+云端
+ * 3. 检查本地是否有未 push 的变更，有则 push
+ */
+
+const { execSync } = require('child_process');
+const path = require('path');
+const fs = require('fs');
+
+const REPO_DIR = __dirname;
+
+function log(msg) {
+  const timestamp = new Date().toISOString().replace(/T/, ' ').substring(0, 19);
+  console.log(`[startup-sync ${timestamp}] ${msg}`);
+}
+
+function run(cmd) {
+  log(`Running: ${cmd}`);
+  try {
+    const output = execSync(cmd, { cwd: REPO_DIR, encoding: 'utf-8' });
+    return output;
+  } catch (err) {
+    return err.stdout || err.message;
+  }
+}
+
+function main() {
+  log('=== Bot4 Startup Sync ===');
+  log(`Repo: ${REPO_DIR}`);
+
+  // 1. 先 pull 云端最新（不 merge，直接 fetch + reset）
+  log('Fetching and resetting to cloud state...');
+  run('git fetch origin');
+  run('git reset --hard origin/main');
+  log('Reset to cloud state completed');
+
+  // 2. 运行 merge（基于云端状态 + 本地文件）
+  log('Running merge...');
+  try {
+    const mergeOutput = execSync('node merge-topics.js', { cwd: REPO_DIR, encoding: 'utf-8' });
+    log(`Merge: ${mergeOutput.trim()}`);
+  } catch (err) {
+    log(`Merge note: ${err.stdout}`);
+  }
+
+  // 3. 检查 merge 后是否有变更
+  const postMergeStatus = run('git status --porcelain');
+  if (postMergeStatus.trim()) {
+    log('Post-merge changes detected, committing and pushing...');
+    const timestamp = new Date().toISOString().replace(/T/, ' ').substring(0, 16);
+    run('git add -A');
+    run(`git commit -m "auto-sync: startup-merge ${timestamp}"`);
+    run('git push origin main');
+    log('Post-merge push completed');
+  } else {
+    log('No merge changes, already in sync with cloud');
+  }
+
+  log('=== Startup Sync Completed ===');
+}
+
+main();

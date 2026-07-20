@@ -1,0 +1,732 @@
+[2026-01-30 21:11:56] ==========================================
+[2026-01-30 21:11:56] 📦 批量上传 Skills 到 ClawdHub（完全修复版）
+[2026-01-30 21:11:56] ==========================================
+[2026-01-30 21:11:56] 
+[0;32m[INFO][0m 配置信息:
+[2026-01-30 21:11:56]   Skills 目录: /root/clawd/dist/skills
+[2026-01-30 21:11:56]   Registry: https://www.clawhub.ai/api
+[2026-01-30 21:11:56] 
+[0;32m[INFO][0m 找到 16 个 .skill 文件
+[2026-01-30 21:11:56] 
+[0;32m[INFO][0m 📦 处理: ai 编码-reddit-454d672a
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: ai 编码-reddit-454d672a
+[0;32m[INFO][0m 📦 处理: ai 编码-reddit-96d5680b
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: ai 编码-reddit-96d5680b
+[0;32m[INFO][0m 📦 处理: ai 编码-unknown-165657c2
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: ai 编码-unknown-165657c2
+[0;32m[INFO][0m 📦 处理: ai-from-trueslazac
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: ai-from-trueslazac
+[0;32m[INFO][0m 📦 处理: ai-portrait-generator
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: ai-portrait-generator
+[0;32m[INFO][0m 📦 处理: merc-income-guide
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: merc-income-guide
+[0;32m[INFO][0m 📦 处理: prompt-from-lexx-aura
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: prompt-from-lexx-aura
+[0;32m[INFO][0m 📦 处理: sora 2-sora-2---未来科技展示-b95f8b89
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: sora 2-sora-2---未来科技展示-b95f8b89
+[0;32m[INFO][0m 📦 处理: sora 2-sora-2---自然纪录片-ff4894c1
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: sora 2-sora-2---自然纪录片-ff4894c1
+[0;32m[INFO][0m 📦 处理: sora 2-sora-2---超级英雄电影-bcb42152
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: sora 2-sora-2---超级英雄电影-bcb42152
+[0;32m[INFO][0m 📦 处理: 提示词工程-reddit-bee10779
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: 提示词工程-reddit-bee10779
+[0;32m[INFO][0m 📦 处理: 谷歌生图-google-imagen-3---人像摄影-aa1d47e0
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: 谷歌生图-google-imagen-3---人像摄影-aa1d47e0
+[0;32m[INFO][0m 📦 处理: 谷歌生图-google-imagen-3---超写实风景-c1d838ac
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: 谷歌生图-google-imagen-3---超写实风景-c1d838ac
+[0;32m[INFO][0m 📦 处理: 谷歌生图-google-veo---动态城市夜景-162c3fd9
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: 谷歌生图-google-veo---动态城市夜景-162c3fd9
+[0;32m[INFO][0m 📦 处理: 通用-reddit-e34899f0
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: 通用-reddit-e34899f0
+[0;32m[INFO][0m 📦 处理: 通用-reddit-e806778a
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✓ 成功发布: 通用-reddit-e806778a
+[2026-01-30 21:12:30] 
+[2026-01-30 21:12:30] ==========================================
+[2026-01-30 21:12:30] 📊 上传统计
+[2026-01-30 21:12:30] ==========================================
+[0;32m[INFO][0m ✅ 成功: 16
+[0;31m[ERROR][0m ❌ 失败: 0
+[2026-01-30 21:12:30] 
+[clawdbot] Failed to start CLI: Error: ENOENT: no such file or directory, uv_cwd
+    at process.wrappedCwd (node:internal/bootstrap/switches/does_own_process_state:142:28)
+    at process.cwd (/usr/lib/node_modules/clawdbot/node_modules/graceful-fs/polyfills.js:10:19)
+    at file:///usr/lib/node_modules/clawdbot/node_modules/@mariozechner/pi-coding-agent/dist/core/tools/bash.js:225:48
+    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:665:26)
+[0;31m[ERROR][0m Feishu 通知发送失败
+[clawdbot] Failed to start CLI: Error: ENOENT: no such file or directory, uv_cwd
+    at process.wrappedCwd (node:internal/bootstrap/switches/does_own_process_state:142:28)
+    at process.cwd (/usr/lib/node_modules/clawdbot/node_modules/graceful-fs/polyfills.js:10:19)
+    at file:///usr/lib/node_modules/clawdbot/node_modules/@mariozechner/pi-coding-agent/dist/core/tools/bash.js:225:48
+    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:665:26)
+[0;31m[ERROR][0m Slack 通知发送失败
+[2026-01-30 21:12:38] 
+[2026-01-30 21:12:38] ==========================================
+[2026-01-30 21:12:38] ✅ 上传统计
+[2026-01-30 21:12:38] ==========================================
+[2026-01-30 21:12:38] 
+[2026-01-30 21:12:38] 日志文件: /root/clawd/logs/clawdhub-batch-upload-fixed.log
+[2026-01-30 21:12:38] 
+[2026-01-31 10:37:09] ==========================================
+[2026-01-31 10:37:09] 📦 批量上传 Skills 到 ClawdHub（完全修复版）
+[2026-01-31 10:37:09] ==========================================
+[2026-01-31 10:37:09] 
+[0;32m[INFO][0m 配置信息:
+[2026-01-31 10:37:09]   Skills 目录: /root/clawd/dist/skills
+[2026-01-31 10:37:09]   Registry: https://www.clawhub.ai/api
+[2026-01-31 10:37:09] 
+[0;32m[INFO][0m 找到 40 个 .skill 文件
+[2026-01-31 10:37:09] 
+[0;32m[INFO][0m 📦 处理: 10-of-my-most-popular-text-to-image-series-prompts-78b0897e
+- Preparing 10-of-my-most-popular-text-to-image-series-prompts-78b0897e@1.0.0
+✖ {"code":"[Request ID: 5036c3828cb7b60d] Server Error","data":"Unauthorized"}
+Error: {"code":"[Request ID: 5036c3828cb7b60d] Server Error","data":"Unauthorized"}
+[0;32m[INFO][0m ✓ 成功发布: 10-of-my-most-popular-text-to-image-series-prompts-78b0897e
+[0;32m[INFO][0m 📦 处理: 15-inspiring-examples-of-midjourney-color-prompts--d5f6c66e
+- Preparing 15-inspiring-examples-of-midjourney-color-prompts--d5f6c66e@1.0.0
+[2026-01-31 21:57:05] ==========================================
+[2026-01-31 21:57:05] 📦 批量上传 Skills 到 ClawdHub（完全修复版）
+[2026-01-31 21:57:05] ==========================================
+[2026-01-31 21:57:05] 
+[0;32m[INFO][0m 配置信息:
+[2026-01-31 21:57:05]   Skills 目录: /root/clawd/dist/skills
+[2026-01-31 21:57:05]   Registry: https://www.clawhub.ai/api
+[2026-01-31 21:57:05] 
+[0;32m[INFO][0m 找到 42 个 .skill 文件
+[2026-01-31 21:57:05] 
+[0;32m[INFO][0m 📦 处理: 10-of-my-most-popular-text-to-image-series-prompts-78b0897e
+- Preparing 10-of-my-most-popular-text-to-image-series-prompts-78b0897e@1.0.0
+✔ OK. Published 10-of-my-most-popular-text-to-image-series-prompts-78b0897e@1.0.0 (k973yrc5ygjcntby6qdxjzephs808x03)
+[0;32m[INFO][0m ✓ 成功发布: 10-of-my-most-popular-text-to-image-series-prompts-78b0897e
+[0;32m[INFO][0m 📦 处理: 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5
+- Preparing 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5@1.0.0
+✔ OK. Published 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5@1.0.0 (k978wkqzmcapseqempy5jjsyhs809d0e)
+[0;32m[INFO][0m ✓ 成功发布: 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5
+[0;32m[INFO][0m 📦 处理: 15-inspiring-examples-of-midjourney-color-prompts--d5f6c66e
+- Preparing 15-inspiring-examples-of-midjourney-color-prompts--d5f6c66e@1.0.0
+✔ OK. Published 15-inspiring-examples-of-midjourney-color-prompts--d5f6c66e@1.0.0 (k975xfp95t9pwc3f52rwk00gv5809yks)
+[0;32m[INFO][0m ✓ 成功发布: 15-inspiring-examples-of-midjourney-color-prompts--d5f6c66e
+[0;32m[INFO][0m 📦 处理: 5-ai-prompts-that-will-transform-your-writing-fore-222d9418
+- Preparing 5-ai-prompts-that-will-transform-your-writing-fore-222d9418@1.0.0
+✔ OK. Published 5-ai-prompts-that-will-transform-your-writing-fore-222d9418@1.0.0 (k979nret78ak6t29cfgxycpgh9808wvj)
+[0;32m[INFO][0m ✓ 成功发布: 5-ai-prompts-that-will-transform-your-writing-fore-222d9418
+[0;32m[INFO][0m 📦 处理: 50-ai-templates-to-save-time-and-improve-productiv-545d62aa
+- Preparing 50-ai-templates-to-save-time-and-improve-productiv-545d62aa@1.0.0
+✔ OK. Published 50-ai-templates-to-save-time-and-improve-productiv-545d62aa@1.0.0 (k97d21ht40q02wa1mkc3gddggh808tvf)
+[0;32m[INFO][0m ✓ 成功发布: 50-ai-templates-to-save-time-and-improve-productiv-545d62aa
+[0;32m[INFO][0m 📦 处理: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b
+- Preparing 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b@1.0.0
+✔ OK. Published 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b@1.0.0 (k977gqw23j1bghm5b225gtwskd8092b0)
+[0;32m[INFO][0m ✓ 成功发布: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b
+[0;32m[INFO][0m 📦 处理: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-4ac228ab
+- Preparing 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-4ac228ab@1.0.0
+✔ OK. Published 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-4ac228ab@1.0.0 (k97b7x82f41mrn48nymaareajh808hd1)
+[0;32m[INFO][0m ✓ 成功发布: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-4ac228ab
+[0;32m[INFO][0m 📦 处理: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-aefb3d26
+- Preparing 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-aefb3d26@1.0.0
+✔ OK. Published 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-aefb3d26@1.0.0 (k97fcjcbnpxqs79hnsvpd7n28n809j15)
+[0;32m[INFO][0m ✓ 成功发布: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-aefb3d26
+[0;32m[INFO][0m 📦 处理: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e41bb853
+- Preparing 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e41bb853@1.0.0
+✔ OK. Published 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e41bb853@1.0.0 (k97f3gsknbvctek3fg1mg5h8p5809rvb)
+[0;32m[INFO][0m ✓ 成功发布: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e41bb853
+[0;32m[INFO][0m 📦 处理: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e7b5d316
+- Preparing 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e7b5d316@1.0.0
+✔ OK. Published 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e7b5d316@1.0.0 (k978pjazajdgxtd5mfm5jt976s809959)
+[0;32m[INFO][0m ✓ 成功发布: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e7b5d316
+[0;32m[INFO][0m 📦 处理: a-beginner-s-guide-to-chatgpt-prompt-engineering-d-1a601e99
+[2026-01-31 21:58:39] ==========================================
+[2026-01-31 21:58:39] 📦 批量上传 Skills 到 ClawdHub（完全修复版）
+[2026-01-31 21:58:39] ==========================================
+[2026-01-31 21:58:39] 
+[0;32m[INFO][0m 配置信息:
+[2026-01-31 21:58:39]   Skills 目录: /root/clawd/dist/skills
+[2026-01-31 21:58:39]   Registry: https://www.clawhub.ai/api
+[2026-01-31 21:58:39] 
+[0;32m[INFO][0m 找到 42 个 .skill 文件
+[2026-01-31 21:58:39] 
+[0;32m[INFO][0m 📦 处理: 10-of-my-most-popular-text-to-image-series-prompts-78b0897e
+- Preparing 10-of-my-most-popular-text-to-image-series-prompts-78b0897e@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;32m[INFO][0m ✓ 成功发布: 10-of-my-most-popular-text-to-image-series-prompts-78b0897e
+[0;32m[INFO][0m 📦 处理: 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5
+- Preparing 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;32m[INFO][0m ✓ 成功发布: 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5
+[0;32m[INFO][0m 📦 处理: 15-inspiring-examples-of-midjourney-color-prompts--d5f6c66e
+- Preparing 15-inspiring-examples-of-midjourney-color-prompts--d5f6c66e@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;32m[INFO][0m ✓ 成功发布: 15-inspiring-examples-of-midjourney-color-prompts--d5f6c66e
+[0;32m[INFO][0m 📦 处理: 5-ai-prompts-that-will-transform-your-writing-fore-222d9418
+- Preparing 5-ai-prompts-that-will-transform-your-writing-fore-222d9418@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;32m[INFO][0m ✓ 成功发布: 5-ai-prompts-that-will-transform-your-writing-fore-222d9418
+[0;32m[INFO][0m 📦 处理: 50-ai-templates-to-save-time-and-improve-productiv-545d62aa
+- Preparing 50-ai-templates-to-save-time-and-improve-productiv-545d62aa@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;32m[INFO][0m ✓ 成功发布: 50-ai-templates-to-save-time-and-improve-productiv-545d62aa
+[0;32m[INFO][0m 📦 处理: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b
+- Preparing 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;32m[INFO][0m ✓ 成功发布: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b
+[0;32m[INFO][0m 📦 处理: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-4ac228ab
+- Preparing 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-4ac228ab@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;32m[INFO][0m ✓ 成功发布: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-4ac228ab
+[0;32m[INFO][0m 📦 处理: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-aefb3d26
+- Preparing 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-aefb3d26@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;32m[INFO][0m ✓ 成功发布: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-aefb3d26
+[0;32m[INFO][0m 📦 处理: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e41bb853
+- Preparing 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e41bb853@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;32m[INFO][0m ✓ 成功发布: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e41bb853
+[0;32m[INFO][0m 📦 处理: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e7b5d316
+- Preparing 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e7b5d316@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;32m[INFO][0m ✓ 成功发布: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e7b5d316
+[0;32m[INFO][0m 📦 处理: a-beginner-s-guide-to-chatgpt-prompt-engineering-d-1a601e99
+- Preparing a-beginner-s-guide-to-chatgpt-prompt-engineering-d-1a601e99@1.0.0
+✔ OK. Published a-beginner-s-guide-to-chatgpt-prompt-engineering-d-1a601e99@1.0.0 (k976rzmeqwtezk6jamfka5w4nh80894m)
+[0;32m[INFO][0m ✓ 成功发布: a-beginner-s-guide-to-chatgpt-prompt-engineering-d-1a601e99
+[0;32m[INFO][0m 📦 处理: a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec
+- Preparing a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec@1.0.0
+✔ OK. Published a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec@1.0.0 (k97826z5vazdnf567bjs1e1vqh809vw2)
+[0;32m[INFO][0m ✓ 成功发布: a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec
+[0;32m[INFO][0m 📦 处理: ai-assistant-prompt-template-examples-templafy-hel-90af51ce
+- Preparing ai-assistant-prompt-template-examples-templafy-hel-90af51ce@1.0.0
+✔ OK. Published ai-assistant-prompt-template-examples-templafy-hel-90af51ce@1.0.0 (k979m9xb6tptn6c95hxrep3mcs809dvx)
+[0;32m[INFO][0m ✓ 成功发布: ai-assistant-prompt-template-examples-templafy-hel-90af51ce
+[0;32m[INFO][0m 📦 处理: ai-image-generation-prompts-0d857478
+- Preparing ai-image-generation-prompts-0d857478@1.0.0
+✔ OK. Published ai-image-generation-prompts-0d857478@1.0.0 (k979f2vkdqnzh3mt5tc7w13w8n808mgf)
+[0;32m[INFO][0m ✓ 成功发布: ai-image-generation-prompts-0d857478
+[0;32m[INFO][0m 📦 处理: ai-image-generation-prompts-3991f149
+- Preparing ai-image-generation-prompts-3991f149@1.0.0
+✔ OK. Published ai-image-generation-prompts-3991f149@1.0.0 (k97a4n3t9rmrnmkajjsmdvcxed808wxk)
+[0;32m[INFO][0m ✓ 成功发布: ai-image-generation-prompts-3991f149
+[0;32m[INFO][0m 📦 处理: ai-image-generation-prompts-9142af54
+- Preparing ai-image-generation-prompts-9142af54@1.0.0
+✔ OK. Published ai-image-generation-prompts-9142af54@1.0.0 (k97a9vetge3gfxgqf3mb6p2nr9808hr4)
+[0;32m[INFO][0m ✓ 成功发布: ai-image-generation-prompts-9142af54
+[0;32m[INFO][0m 📦 处理: ai-image-prompts-for-eye-catching-marketing-creati-4e43d568
+- Preparing ai-image-prompts-for-eye-catching-marketing-creati-4e43d568@1.0.0
+✔ OK. Published ai-image-prompts-for-eye-catching-marketing-creati-4e43d568@1.0.0 (k97d0axecmc42p63ptasfjkx6s8087ev)
+[0;32m[INFO][0m ✓ 成功发布: ai-image-prompts-for-eye-catching-marketing-creati-4e43d568
+[0;32m[INFO][0m 📦 处理: ai-image-prompts-for-eye-catching-marketing-creati-d97f99e2
+- Preparing ai-image-prompts-for-eye-catching-marketing-creati-d97f99e2@1.0.0
+✔ OK. Published ai-image-prompts-for-eye-catching-marketing-creati-d97f99e2@1.0.0 (k9741asz3p4amhd15g79hrj86x809kh0)
+[0;32m[INFO][0m ✓ 成功发布: ai-image-prompts-for-eye-catching-marketing-creati-d97f99e2
+[0;32m[INFO][0m 📦 处理: ai-prompts-5-best-techniques-for-writing-prompts-279e77b3
+- Preparing ai-prompts-5-best-techniques-for-writing-prompts-279e77b3@1.0.0
+✔ OK. Published ai-prompts-5-best-techniques-for-writing-prompts-279e77b3@1.0.0 (k97erkq7b9xvna2tery28zyht5809s86)
+[0;32m[INFO][0m ✓ 成功发布: ai-prompts-5-best-techniques-for-writing-prompts-279e77b3
+[0;32m[INFO][0m 📦 处理: ai-prompts-5-best-techniques-for-writing-prompts-ee46eff2
+- Preparing ai-prompts-5-best-techniques-for-writing-prompts-ee46eff2@1.0.0
+✔ OK. Published ai-prompts-5-best-techniques-for-writing-prompts-ee46eff2@1.0.0 (k974yen5s215qj526e0435sw4s808sn0)
+[0;32m[INFO][0m ✓ 成功发布: ai-prompts-5-best-techniques-for-writing-prompts-ee46eff2
+[0;32m[INFO][0m 📦 处理: any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd
+- Preparing any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd@1.0.0
+✔ OK. Published any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd@1.0.0 (k97f206mjz0t1dnwa6bt9y7md9808k84)
+[0;32m[INFO][0m ✓ 成功发布: any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd
+[0;32m[INFO][0m 📦 处理: best-practices-for-llm-prompt-engineering-palantir-4a296dff
+- Preparing best-practices-for-llm-prompt-engineering-palantir-4a296dff@1.0.0
+✔ OK. Published best-practices-for-llm-prompt-engineering-palantir-4a296dff@1.0.0 (k97cjw1z4repmy1m6tw0gv4aj18092bg)
+[0;32m[INFO][0m ✓ 成功发布: best-practices-for-llm-prompt-engineering-palantir-4a296dff
+[0;32m[INFO][0m 📦 处理: best-practices-for-prompt-engineering-with-the-ope-f26e9557
+- Preparing best-practices-for-prompt-engineering-with-the-ope-f26e9557@1.0.0
+✔ OK. Published best-practices-for-prompt-engineering-with-the-ope-f26e9557@1.0.0 (k97adgkr141p8hr4ezj2sza9cs8082g6)
+[0;32m[INFO][0m ✓ 成功发布: best-practices-for-prompt-engineering-with-the-ope-f26e9557
+[0;32m[INFO][0m 📦 处理: best-stable-diffusion-prompts-guide-with-examples-b5e23001
+- Preparing best-stable-diffusion-prompts-guide-with-examples-b5e23001@1.0.0
+✔ OK. Published best-stable-diffusion-prompts-guide-with-examples-b5e23001@1.0.0 (k9754pazmr6j7jwhy2metmcmw1809gqc)
+[0;32m[INFO][0m ✓ 成功发布: best-stable-diffusion-prompts-guide-with-examples-b5e23001
+[0;32m[INFO][0m 📦 处理: developing-writing-prompts-center-for-excellence-i-d6362a24
+- Preparing developing-writing-prompts-center-for-excellence-i-d6362a24@1.0.0
+✔ OK. Published developing-writing-prompts-center-for-excellence-i-d6362a24@1.0.0 (k97bfyd8pabk6g7evsgddxgpjx809xc9)
+[0;32m[INFO][0m ✓ 成功发布: developing-writing-prompts-center-for-excellence-i-d6362a24
+[0;32m[INFO][0m 📦 处理: examples-of-prompts-prompt-engineering-guide-61f443e2
+- Preparing examples-of-prompts-prompt-engineering-guide-61f443e2@1.0.0
+✔ OK. Published examples-of-prompts-prompt-engineering-guide-61f443e2@1.0.0 (k97cmh9rxqzbnxg3n2r0g8cskh809ns4)
+[0;32m[INFO][0m ✓ 成功发布: examples-of-prompts-prompt-engineering-guide-61f443e2
+[0;32m[INFO][0m 📦 处理: examples-of-prompts-prompt-engineering-guide-647441e3
+- Preparing examples-of-prompts-prompt-engineering-guide-647441e3@1.0.0
+✔ OK. Published examples-of-prompts-prompt-engineering-guide-647441e3@1.0.0 (k976ayv5k1nmc3mya127dwbxv9809j70)
+[0;32m[INFO][0m ✓ 成功发布: examples-of-prompts-prompt-engineering-guide-647441e3
+[0;32m[INFO][0m 📦 处理: free-ai-prompt-generator-for-chatgpt-gemini-more-q-6e800b2c
+- Preparing free-ai-prompt-generator-for-chatgpt-gemini-more-q-6e800b2c@1.0.0
+✔ OK. Published free-ai-prompt-generator-for-chatgpt-gemini-more-q-6e800b2c@1.0.0 (k973jy8jz26pvajk50sc9dmqz5808my6)
+[0;32m[INFO][0m ✓ 成功发布: free-ai-prompt-generator-for-chatgpt-gemini-more-q-6e800b2c
+[0;32m[INFO][0m 📦 处理: generative-ai-prompt-samples-generative-ai-on-vert-49f1ea7f
+- Preparing generative-ai-prompt-samples-generative-ai-on-vert-49f1ea7f@1.0.0
+✔ OK. Published generative-ai-prompt-samples-generative-ai-on-vert-49f1ea7f@1.0.0 (k974cjybqv9ya3z6zkfd086b9d809rrh)
+[0;32m[INFO][0m ✓ 成功发布: generative-ai-prompt-samples-generative-ai-on-vert-49f1ea7f
+[0;32m[INFO][0m 📦 处理: harpa-ai-crafting-exceptional-prompts-for-midjourn-05e5faa9
+- Preparing harpa-ai-crafting-exceptional-prompts-for-midjourn-05e5faa9@1.0.0
+✔ OK. Published harpa-ai-crafting-exceptional-prompts-for-midjourn-05e5faa9@1.0.0 (k976c7xeq1r2f7a969rme040w1809vj4)
+[0;32m[INFO][0m ✓ 成功发布: harpa-ai-crafting-exceptional-prompts-for-midjourn-05e5faa9
+[0;32m[INFO][0m 📦 处理: how-to-craft-the-perfect-prompt-70fa4961
+- Preparing how-to-craft-the-perfect-prompt-70fa4961@1.0.0
+✔ OK. Published how-to-craft-the-perfect-prompt-70fa4961@1.0.0 (k97a6g74x1q69mk4f5twbmefkh809rp0)
+[0;32m[INFO][0m ✓ 成功发布: how-to-craft-the-perfect-prompt-70fa4961
+[0;32m[INFO][0m 📦 处理: introduction-to-prompt-templates-in-langchain-come-35ee588c
+- Preparing introduction-to-prompt-templates-in-langchain-come-35ee588c@1.0.0
+✔ OK. Published introduction-to-prompt-templates-in-langchain-come-35ee588c@1.0.0 (k9792xe997vh77z3rnp7541zwd808d8q)
+[0;32m[INFO][0m ✓ 成功发布: introduction-to-prompt-templates-in-langchain-come-35ee588c
+[0;32m[INFO][0m 📦 处理: r-promptengineering-on-reddit-after-1000-hours-of--94ff76c5
+- Preparing r-promptengineering-on-reddit-after-1000-hours-of--94ff76c5@1.0.0
+✔ OK. Published r-promptengineering-on-reddit-after-1000-hours-of--94ff76c5@1.0.0 (k97dgbqjxcjxbk2fa89eeqhrm1809ddk)
+[0;32m[INFO][0m ✓ 成功发布: r-promptengineering-on-reddit-after-1000-hours-of--94ff76c5
+[0;32m[INFO][0m 📦 处理: r-promptengineering-on-reddit-after-1000-hours-of--e2cf1489
+- Preparing r-promptengineering-on-reddit-after-1000-hours-of--e2cf1489@1.0.0
+✔ OK. Published r-promptengineering-on-reddit-after-1000-hours-of--e2cf1489@1.0.0 (k97am0z8mdezk86cfkgz4grw2d809xwg)
+[0;32m[INFO][0m ✓ 成功发布: r-promptengineering-on-reddit-after-1000-hours-of--e2cf1489
+[0;32m[INFO][0m 📦 处理: r-promptengineering-on-reddit-ai-prompting-tips-fr-cad7c366
+- Preparing r-promptengineering-on-reddit-ai-prompting-tips-fr-cad7c366@1.0.0
+✔ OK. Published r-promptengineering-on-reddit-ai-prompting-tips-fr-cad7c366@1.0.0 (k972420t21h5vmpwc5y1gwv75x809yv5)
+[0;32m[INFO][0m ✓ 成功发布: r-promptengineering-on-reddit-ai-prompting-tips-fr-cad7c366
+[0;32m[INFO][0m 📦 处理: responsible-prompting-course-llm-prompt-templates--cd3cd6fd
+- Preparing responsible-prompting-course-llm-prompt-templates--cd3cd6fd@1.0.0
+✔ OK. Published responsible-prompting-course-llm-prompt-templates--cd3cd6fd@1.0.0 (k979f5n2qsj90jyzxh23rqxyb9809jmc)
+[0;32m[INFO][0m ✓ 成功发布: responsible-prompting-course-llm-prompt-templates--cd3cd6fd
+[0;32m[INFO][0m 📦 处理: stable-diffusion-prompt-guide-basic-to-advanced-ex-750475b1
+- Preparing stable-diffusion-prompt-guide-basic-to-advanced-ex-750475b1@1.0.0
+✔ OK. Published stable-diffusion-prompt-guide-basic-to-advanced-ex-750475b1@1.0.0 (k974knjsqamj6rve8gzqxkbrad809970)
+[0;32m[INFO][0m ✓ 成功发布: stable-diffusion-prompt-guide-basic-to-advanced-ex-750475b1
+[0;32m[INFO][0m 📦 处理: the-2026-guide-to-prompt-engineering-ibm-4a7e73bd
+- Preparing the-2026-guide-to-prompt-engineering-ibm-4a7e73bd@1.0.0
+✔ OK. Published the-2026-guide-to-prompt-engineering-ibm-4a7e73bd@1.0.0 (k975av2a9chwp0nx6fy7yc77mx809asj)
+[0;32m[INFO][0m ✓ 成功发布: the-2026-guide-to-prompt-engineering-ibm-4a7e73bd
+[0;32m[INFO][0m 📦 处理: the-ultimate-guide-to-writing-effective-ai-prompts-65c2a3a3
+- Preparing the-ultimate-guide-to-writing-effective-ai-prompts-65c2a3a3@1.0.0
+✔ OK. Published the-ultimate-guide-to-writing-effective-ai-prompts-65c2a3a3@1.0.0 (k9766nqzd7ps3j71471zk6n6gd80894d)
+[0;32m[INFO][0m ✓ 成功发布: the-ultimate-guide-to-writing-effective-ai-prompts-65c2a3a3
+[0;32m[INFO][0m 📦 处理: the-ultimate-guide-to-writing-effective-ai-prompts-e33e853e
+- Preparing the-ultimate-guide-to-writing-effective-ai-prompts-e33e853e@1.0.0
+✔ OK. Published the-ultimate-guide-to-writing-effective-ai-prompts-e33e853e@1.0.0 (k973nsgt5y3jrffkfy9c6v1es1809fk8)
+[0;32m[INFO][0m ✓ 成功发布: the-ultimate-guide-to-writing-effective-ai-prompts-e33e853e
+[0;32m[INFO][0m 📦 处理: use-prompt-templates-generative-ai-on-vertex-ai-go-b2e80920
+- Preparing use-prompt-templates-generative-ai-on-vertex-ai-go-b2e80920@1.0.0
+✔ OK. Published use-prompt-templates-generative-ai-on-vertex-ai-go-b2e80920@1.0.0 (k97esr344g8wqc96ev6n55dgf18095ez)
+[0;32m[INFO][0m ✓ 成功发布: use-prompt-templates-generative-ai-on-vertex-ai-go-b2e80920
+[0;32m[INFO][0m 📦 处理: use-prompt-templates-generative-ai-on-vertex-ai-go-b5765981
+- Preparing use-prompt-templates-generative-ai-on-vertex-ai-go-b5765981@1.0.0
+✔ OK. Published use-prompt-templates-generative-ai-on-vertex-ai-go-b5765981@1.0.0 (k97fpd42eg8zrq3rhzbetadmx5808pga)
+[0;32m[INFO][0m ✓ 成功发布: use-prompt-templates-generative-ai-on-vertex-ai-go-b5765981
+[2026-01-31 22:01:13] 
+[2026-01-31 22:01:13] ==========================================
+[2026-01-31 22:01:13] 📊 上传统计
+[2026-01-31 22:01:13] ==========================================
+[0;32m[INFO][0m ✅ 成功: 42
+[0;31m[ERROR][0m ❌ 失败: 0
+[2026-01-31 22:01:13] 
+[clawdbot] Failed to start CLI: Error: ENOENT: no such file or directory, uv_cwd
+    at process.wrappedCwd (node:internal/bootstrap/switches/does_own_process_state:142:28)
+    at process.cwd (/usr/lib/node_modules/clawdbot/node_modules/graceful-fs/polyfills.js:10:19)
+    at file:///usr/lib/node_modules/clawdbot/node_modules/@mariozechner/pi-coding-agent/dist/core/tools/bash.js:225:48
+    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:665:26)
+[0;31m[ERROR][0m Feishu 通知发送失败
+[clawdbot] Failed to start CLI: Error: ENOENT: no such file or directory, uv_cwd
+    at process.wrappedCwd (node:internal/bootstrap/switches/does_own_process_state:142:28)
+    at process.cwd (/usr/lib/node_modules/clawdbot/node_modules/graceful-fs/polyfills.js:10:19)
+    at file:///usr/lib/node_modules/clawdbot/node_modules/@mariozechner/pi-coding-agent/dist/core/tools/bash.js:225:48
+    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:665:26)
+[0;31m[ERROR][0m Slack 通知发送失败
+[2026-01-31 22:01:21] 
+[2026-01-31 22:01:21] ==========================================
+[2026-01-31 22:01:21] ✅ 上传统计
+[2026-01-31 22:01:21] ==========================================
+[2026-01-31 22:01:21] 
+[2026-01-31 22:01:21] 日志文件: /root/clawd/logs/clawdhub-batch-upload-fixed.log
+[2026-01-31 22:01:21] 
+[2026-03-22 09:09:02] ==========================================
+[2026-03-22 09:09:02] 📦 批量上传 Skills 到 ClawdHub（完全修复版）
+[2026-03-22 09:09:02] ==========================================
+[2026-03-22 09:09:02] 
+[0;32m[INFO][0m 配置信息:
+[2026-03-22 09:09:02]   Skills 目录: /root/clawd/dist/skills
+[2026-03-22 09:09:02]   Registry: https://www.clawhub.ai/api
+[2026-03-22 09:09:02] 
+[0;32m[INFO][0m 找到 0 个 .skill 文件
+[2026-03-22 09:09:02] 
+[1;33m[WARN][0m 没有 .skill 文件需要上传
+[2026-03-22 09:09:05] ==========================================
+[2026-03-22 09:09:05] 📦 批量上传 Skills 到 ClawdHub（完全修复版）
+[2026-03-22 09:09:05] ==========================================
+[2026-03-22 09:09:05] 
+[0;32m[INFO][0m 配置信息:
+[2026-03-22 09:09:05]   Skills 目录: /root/clawd/dist/skills
+[2026-03-22 09:09:05]   Registry: https://www.clawhub.ai/api
+[2026-03-22 09:09:05] 
+[0;32m[INFO][0m 找到 0 个 .skill 文件
+[2026-03-22 09:09:05] 
+[1;33m[WARN][0m 没有 .skill 文件需要上传
+[2026-03-22 09:09:06] ==========================================
+[2026-03-22 09:09:06] 📦 批量上传 Skills 到 ClawdHub（完全修复版）
+[2026-03-22 09:09:06] ==========================================
+[2026-03-22 09:09:06] 
+[0;32m[INFO][0m 配置信息:
+[2026-03-22 09:09:06]   Skills 目录: /root/clawd/dist/skills
+[2026-03-22 09:09:06]   Registry: https://www.clawhub.ai/api
+[2026-03-22 09:09:06] 
+[0;32m[INFO][0m 找到 0 个 .skill 文件
+[2026-03-22 09:09:06] 
+[1;33m[WARN][0m 没有 .skill 文件需要上传
+[2026-03-22 09:09:06] ==========================================
+[2026-03-22 09:09:06] 📦 批量上传 Skills 到 ClawdHub（完全修复版）
+[2026-03-22 09:09:07] ==========================================
+[2026-03-22 09:09:07] 
+[0;32m[INFO][0m 配置信息:
+[2026-03-22 09:09:07]   Skills 目录: /root/clawd/dist/skills
+[2026-03-22 09:09:07]   Registry: https://www.clawhub.ai/api
+[2026-03-22 09:09:07] 
+[0;32m[INFO][0m 找到 0 个 .skill 文件
+[2026-03-22 09:09:07] 
+[1;33m[WARN][0m 没有 .skill 文件需要上传
+[2026-03-22 09:09:07] ==========================================
+[2026-03-22 09:09:07] 📦 批量上传 Skills 到 ClawdHub（完全修复版）
+[2026-03-22 09:09:07] ==========================================
+[2026-03-22 09:09:07] 
+[0;32m[INFO][0m 配置信息:
+[2026-03-22 09:09:07]   Skills 目录: /root/clawd/dist/skills
+[2026-03-22 09:09:07]   Registry: https://www.clawhub.ai/api
+[2026-03-22 09:09:07] 
+[0;32m[INFO][0m 找到 0 个 .skill 文件
+[2026-03-22 09:09:07] 
+[1;33m[WARN][0m 没有 .skill 文件需要上传
+[2026-05-05 09:24:19] ==========================================
+[2026-05-05 09:24:19] 📦 批量上传 Skills 到 ClawdHub（完全修复版）
+[2026-05-05 09:24:19] ==========================================
+[2026-05-05 09:24:19] 
+[0;32m[INFO][0m 配置信息:
+[2026-05-05 09:24:19]   Skills 目录: /root/clawd/dist/skills
+[2026-05-05 09:24:19]   Registry: https://www.clawhub.ai/api
+[2026-05-05 09:24:19] 
+[0;32m[INFO][0m 找到 0 个 .skill 文件
+[2026-05-05 09:24:19] 
+[1;33m[WARN][0m 没有 .skill 文件需要上传

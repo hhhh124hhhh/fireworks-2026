@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-06 01:02:35",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Go Beginner Mistake #1: When `log.Println()` Made Me Question `time.Now().Format()`",
+          "description": "<p><em>A small bug that taught me to read my tools before blaming my code.</em></p>\n\n\n\n\n<h2>\n  \n  \n  The Plan\n</h2>\n\n<p>I was building a <strong>Net-Cat project</strong> in Go — a simplified version o",
+          "url": "https://dev.to/perezodiyo/go-beginner-mistake-1-when-logprintln-made-me-question-timenowformat-3ig0",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+          "description": "<blockquote>\n<p>Gemma 4 12B is designed to bring high-performance multimodal intelligence directly to your laptop, combining mobile-first efficiency with advanced reasoning.</p>\n</blockquote>\n\n<p>Toda",
+          "url": "https://dev.to/googleai/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model-3ge5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "I’m building DevDeck: an open-source developer memory app for tools, snippets, prompts, and shared knowledge",
+          "description": "<p>Developers do not have a saving problem.</p>\n\n<p>We have a rediscovery problem.</p>\n\n<p>I keep finding useful repos, CLIs, snippets, prompts, shortcuts, articles, and workflow notes. Some come from",
+          "url": "https://dev.to/tiagofur/im-building-devdeck-an-open-source-developer-memory-app-for-tools-snippets-prompts-and-shared-1gk6",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Everything's Green Cap.",
+          "description": "<p>My AI told me the job was done. My container said it was running. My firewall said it was up.</p>\n\n<p>All three were lying.</p>\n\n<p>I run a security homelab out of a fifth wheel in rural Oklahoma. ",
+          "url": "https://dev.to/p4r4n0id/everythings-green-cap-3586",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Analyzing Polymarket Order Books with Python: Building Liquidity Intelligence for Prediction Markets",
+          "description": "<p>If you've already built a market scanner using the Polymarket CLOB API, the next logical step is learning how to analyze the order book itself.</p>\n\n<p>In traditional financial markets, professiona",
+          "url": "https://dev.to/mateosoul/analyzing-polymarket-order-books-with-python-building-liquidity-intelligence-for-prediction-markets-1ipi",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Getting Started with pg_durable: Durable Workflows Inside PostgreSQL",
+          "description": "<p>Modern applications demand long‑lasting workflows that can withstand crashes, restarts, and failures, often relying on external platforms. <a href=\"https://github.com/microsoft/pg_durable\" rel=\"noo",
+          "url": "https://dev.to/franckpachot/getting-started-with-pgdurable-durable-workflows-inside-postgresql-3980",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Road To KiwiEngine #10: Why Sugar Isn’t Just Another Page Builder",
+          "description": "<p>Most visual web builders think in pages.</p>\n\n<p>I’m thinking in systems.</p>\n\n<p>That distinction is the entire reason Sugar exists.</p>\n\n<p>Because after years of working with websites, applicati",
+          "url": "https://dev.to/stinklewinks/road-to-kiwiengine-10-why-sugar-isnt-just-another-page-builder-1n2d",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "MAI-Thinking-1: Microsoft's New Reasoning Model and What It Means for Developers",
+          "description": "<p>Microsoft just shipped MAI-Thinking-1, their first in-house reasoning model. If you've been watching the AI space, you know reasoning models — the kind that \"think before they answer\" — have become",
+          "url": "https://dev.to/arshtechpro/mai-thinking-1-microsofts-new-reasoning-model-and-what-it-means-for-developers-2fma",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Building Dynamic Yup Validation Schemas from JSON in React + Formik (Part 2)",
+          "description": "<p>In the previous article, I showed how I built a dynamic form renderer using JSON configuration in React + Formik.</p>\n\n<p>Rendering the form fields turned out to be the easy part. The real challeng",
+          "url": "https://dev.to/shivani_ravikumar/building-dynamic-yup-validation-schemas-from-json-in-react-formik-part-2-171d",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "How to Build Your Own Polymarket",
+          "description": "<blockquote>\n<p>What it takes to build a prediction market platform like Polymarket in 2026, why you can't just fork it, and how to ship one on Base with an onchain CLOB, dual-oracle resolution, and a",
+          "url": "https://dev.to/crevelop/how-to-build-your-own-polymarket-8g8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "The libraries I actually reach for — and the rule I use to decide",
+          "description": "<p>My last two posts were about <em>not</em> installing things the browser already gives you — native elements over libraries. But that's only half a rule, and leaving it there would be dishonest, bec",
+          "url": "https://dev.to/dimonb19a/the-libraries-i-actually-reach-for-and-the-rule-i-use-to-decide-2f82",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Edge Computing for IIoT: When to Process at the Source",
+          "description": "<p>My first attempt at a remote vibration monitoring system ended with a network switch that couldn't handle the throughput and a cloud bill that made me question my life choices. I was streaming raw ",
+          "url": "https://dev.to/futhgar/edge-computing-for-iiot-when-to-process-at-the-source-57bc",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

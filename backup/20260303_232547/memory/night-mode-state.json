@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-02-05T13:16:07.360022+08:00",
+  "can_notify": true,
+  "reason": "白天时段，允许通知",
+  "night_mode_start": 23,
+  "night_mode_end": 7,
+  "timezone": "UTC+8"
+}

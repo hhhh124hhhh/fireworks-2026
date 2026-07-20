@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-17 01:03:18",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "GitOps as the Architecture of Digital Sovereignty: Building Compliant Kubernetes Platforms Under EU Law",
+          "description": "<p><em>How GitOps enables European organizations to achieve compliance-by-design on Kubernetes while maintaining operational sovereignty under GDPR, DMA, and emerging EU digital regulations.</em></p>\n",
+          "url": "https://dev.to/cyberandyou/gitops-as-the-architecture-of-digital-sovereignty-building-compliant-kubernetes-platforms-under-eu-3ao2",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "COSS Weekly: VoidZero acquired by Cloudflare, Ona acquired by OpenAI, PhoenixAI raises $80M, and more",
+          "description": "<p>This week in COSS: The recent flurry of COSS M&amp;A activity continues as VoidZero was acquired by Cloudflare and Ona was acquired by OpenAI. Meanwhile, on the funding front, PhoenixAI raised an $",
+          "url": "https://dev.to/sabirchinstrap/coss-weekly-voidzero-acquired-by-cloudflare-ona-acquired-by-openai-phoenixai-raises-80m-and-56b9",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Assign Cookies | Greedy Algorithm",
+          "description": "<div class=\"crayons-card c-embed text-styles text-styles--secondary\">\n    <div class=\"c-embed__content\">\n      <div class=\"c-embed__body flex items-center justify-between\">\n        <a href=\"https://le",
+          "url": "https://dev.to/jaspreet_singh_86ae1740ac/assign-cookies-greedy-algorithm-5h9o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Zero Dependancy Pipelines in Pure Python",
+          "description": "<p><strong>Architecting the Zero-Dependency Toolset</strong><br>\nTo build a high-performance system without relying on external frameworks, we must master the native tools Python provides for structur",
+          "url": "https://dev.to/techstackio/zero-dependancy-pipelines-in-pure-python-aa0",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Why Java Was Created — The Platform Independence Story",
+          "description": "<p>I started learning Core Java today. Most tutorials just throw syntax at you, but I wanted to understand why Java even exists. Here's what I found.</p>\n\n<h2>\n  \n  \n  The World Before Java\n</h2>\n\n<p>",
+          "url": "https://dev.to/sakshi_hanwat_5f5cbba3dbf/why-java-was-created-the-platform-independence-story-20m9",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Ask a DEV Community Mod!",
+          "description": "<blockquote>\n<p><strong>Disclaimer: Please read the full post before commenting.</strong></p>\n</blockquote>\n\n<p>Hey everyone!</p>\n\n<p>If you do not know me, my name is Francis. I have been a DEV user ",
+          "url": "https://dev.to/francistrdev/ask-a-dev-community-mod-50hk",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Coin Change | Dynamic Programming",
+          "description": "<h2>\n  \n  \n  Problem Statement\n</h2>\n\n\n<div class=\"crayons-card c-embed text-styles text-styles--secondary\">\n    <div class=\"c-embed__content\">\n      <div class=\"c-embed__body flex items-center justif",
+          "url": "https://dev.to/jaspreet_singh_86ae1740ac/coin-change-dynamic-programming-beg",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
+          "description": "<p>Hey everyone, Ben here.</p>\n\n<p>If you’ve been following the journey of DEV and our open source project <a href=\"https://github.com/forem/forem\" rel=\"noopener noreferrer\">Forem</a>, you know we’ve ",
+          "url": "https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "[Boost]",
+          "description": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a href=\"https://dev.to/fkiene/how-i-cut-my-claude-code-bill-67-with-a-local-proxy-2cj9\" class=\"crayons-story__hidden-navigation-lin",
+          "url": "https://dev.to/jean_leon_12/-242f",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Developer take on: Running local models is good now",
+          "description": "<h1>\n  \n  \n  Developer take on: Running local models is good now\n</h1>\n\n<p>Forget the days when running powerful AI models required specialized hardware, complex setups, or hefty cloud bills. Today, t",
+          "url": "https://dev.to/kelvin_kariuki_20f4bec616/developer-take-on-running-local-models-is-good-now-3a8o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Fair Value Sweep Strategy for Polymarket Trading Bot (5-Min Up/Down) – Taker Edge That Exploits CEX Lead",
+          "description": "<p>In my core article <strong><a href=\"https://dev.to/fatherson/building-a-polymarket-trading-bot-architecture-key-technical-decisions-5en3\">Building a Polymarket Trading Bot Architecture: Key Technic",
+          "url": "https://dev.to/fatherson/fair-value-sweep-strategy-for-polymarket-trading-bot-5-min-updown-taker-edge-that-exploits-cex-10mn",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "SpaceX Is Buying Cursor for $60B: What Developers Should Know Right Now",
+          "description": "<p>SpaceX has agreed to acquire Anysphere, the company behind Cursor, for $60 billion in stock. The deal was announced June 16, 2026, days after SpaceX's blockbuster IPO. It is the largest acquisition",
+          "url": "https://dev.to/tonyspiro/spacex-is-buying-cursor-for-60b-what-developers-should-know-right-now-4en2",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

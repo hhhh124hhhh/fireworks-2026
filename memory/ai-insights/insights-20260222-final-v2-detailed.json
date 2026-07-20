@@ -1,0 +1,246 @@
+{
+  "insights": {
+    "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+    "total_searches": 2,
+    "total_results": 18,
+    "average_results_per_search": 9.0,
+    "topics": [
+      "AI automation",
+      "AI video generation"
+    ],
+    "sources_used": [
+      "tavily",
+      "searxng",
+      "baidu"
+    ],
+    "source_distribution": {
+      "Tavily": 6,
+      "SearXNG": 6,
+      "Baidu": 6
+    },
+    "key_findings": [
+      "搜索了 2 个主题",
+      "总共获取了 18 条结果",
+      "平均每个主题 9 条结果",
+      "搜索源: tavily, searxng, baidu",
+      "Tavily: 6 条",
+      "SearXNG: 6 条",
+      "Twitter: 0 条",
+      "百度: 6 条",
+      "",
+      "AI 分析识别的核心热点:",
+      "  • AI 自动化工具",
+      "  • AI 视频生成",
+      "  • 企业 AI 应用",
+      "  • 多模态 AI",
+      "  • AI 代理系统",
+      "",
+      "热门关键词:",
+      "  • AI automation",
+      "  • video generation",
+      "  • enterprise AI",
+      "  • multimodal",
+      "  • AI agents",
+      "  • workflow automation",
+      "  • content creation",
+      "  • no-code AI"
+    ],
+    "action_items": [
+      "评估选题的上下文现状",
+      "分析不同来源的趋势",
+      "识别最佳选题方向",
+      "验证选题可行性"
+    ],
+    "timestamp": "2026-02-22T12:56:41.560926",
+    "date": "2026-02-22",
+    "time": "12:56:41",
+    "llm_analysis": {
+      "core_hotspots": [
+        "AI 自动化工具",
+        "AI 视频生成",
+        "企业 AI 应用",
+        "多模态 AI",
+        "AI 代理系统"
+      ],
+      "topic_recommendations": [
+        {
+          "title": "AI 自动化工作流工具开发教程",
+          "description": "教用户用 AI 自动化日常任务",
+          "trend_score": 88
+        },
+        {
+          "title": "AI 视频生成工具评测与对比",
+          "description": "对比主流 AI 视频生成工具",
+          "trend_score": 85
+        },
+        {
+          "title": "企业 AI 落地案例分析",
+          "description": "分析 AI 在企业中的应用场景",
+          "trend_score": 82
+        },
+        {
+          "title": "多模态 AI 内容创作指南",
+          "description": "教用户用 AI 生成图文音视频",
+          "trend_score": 80
+        },
+        {
+          "title": "AI 代理系统架构设计",
+          "description": "讲解如何构建 AI 代理系统",
+          "trend_score": 78
+        }
+      ],
+      "trend_keywords": [
+        "AI automation",
+        "video generation",
+        "enterprise AI",
+        "multimodal",
+        "AI agents",
+        "workflow automation",
+        "content creation",
+        "no-code AI"
+      ],
+      "target_audience": "AI 开发者、内容创作者、企业决策者、技术爱好者"
+    },
+    "topic_recommendations": [
+      "🔥 AI 自动化工作流工具开发教程 - 教用户用 AI 自动化日常任务 (热度: 88/100)",
+      "⚠️ AI 视频生成工具评测与对比 - 对比主流 AI 视频生成工具 (热度: 85/100)",
+      "⚠️ 企业 AI 落地案例分析 - 分析 AI 在企业中的应用场景 (热度: 82/100)",
+      "⚠️ 多模态 AI 内容创作指南 - 教用户用 AI 生成图文音视频 (热度: 80/100)",
+      "⚠️ AI 代理系统架构设计 - 讲解如何构建 AI 代理系统 (热度: 78/100)"
+    ],
+    "target_audience": "AI 开发者、内容创作者、企业决策者、技术爱好者",
+    "trend_analysis": "基于最近 5 条洞察的分析"
+  },
+  "search_results": {
+    "AI automation": [
+      {
+        "url": "https://www.salesforce.com/artificial-intelligence/ai-automation/",
+        "title": "What Is AI Automation? | Salesforce",
+        "content": "## Benefits of AI automation\n\nAI-based automation provides significant advantages over traditional automation. It streamlines repetitive tasks, reduces human error, and speeds up processes. The time saved with AI and automation allows employees to focus on strategic, high-impact work that drives growth. By working faster and smarter, intelligent automation helps businesses be more efficient, save money, and stay competitive. [...] ## AI automation defined\n\nAI automation uses advanced technology to manage tasks and processes by programming computer systems to review data, recognize patterns, and make logical choices. It can take over repetitive or time-consuming work that would otherwise require human effort — whether it’s simple data entry and customer invoicing or complex inventory management and dynamic pricing. Shifting these duties to AI agents gives people more time to focus on more highly valued work. [...] AI automation uses both machine learning and natural language processing (NLP), which is able to understand and respond to human language, analyze large swaths of datasets, and make intelligent decisions. Machine learning (ML) provides AI with the ability to analyze data and then recognize and predict patterns so it can make decisions based on historical data.\n\nThe introduction of large language models (LLMs) has brought significant improvements to these techniques. Adding generative AI to the mix represents infinite opportunities for using AI systems to create content and interact with humans rather than just predict or analyze.",
+        "score": 0.99996626,
+        "raw_content": null,
+        "source": "Tavily"
+      },
+      {
+        "url": "https://www.rpatech.ai/blogs/ai-automation/",
+        "title": "AI Automation: Challenges, Benefits, and Future - RPATech",
+        "content": "AI automation refers to the integration of advanced technologies such as Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) into automated systems to perform tasks with minimal human intervention. It goes beyond traditional automation, which is typically rule-based and dependent on pre-programmed instructions, by introducing the ability to simulate human-like intelligence. AI automation systems can understand and process data, adapt to changing conditions, and improve performance over time. They are capable of recognizing complex patterns, making data-driven decisions, and even forecasting future outcomes. This evolving capability leads to significantly enhanced operational efficiency and productivity across various industries, from manufacturing [...] ### 1. Hyperautomation\n\nHyperautomation represents the next level of automation by going beyond simple task automation. It involves the integration of multiple technologies—such as artificial intelligence (AI), machine learning (ML), robotic process automation (RPA), and other advanced tools—to automate entire end-to-end business processes.\n\nWhere traditional automation may focus on automating individual tasks, hyperautomation focuses on automating the entire workflow, encompassing processes from start to finish. This approach not only boosts efficiency but also enhances consistency, reduces human error, and accelerates decision-making by using data-driven insights. [...] productivity across various industries, from manufacturing and healthcare to finance and customer service.",
+        "score": 0.9999641,
+        "raw_content": null,
+        "source": "Tavily"
+      },
+      {
+        "url": "https://www.microsoft.com/en/microsoft-copilot/copilot-101/ai-automation",
+        "title": "AI Automation | Microsoft Copilot",
+        "content": "AI automation helps businesses increase efficiency, reduce manual errors, and scale operations more effectively. It supports faster decision-making through real-time insights and improves customer experiences with more responsive and personalized service. Organizations use AI to reduce costs and accelerate innovation across departments. [...] ## Why use AI automation?\n\nAI automation creates both immediate and lasting value across your organization. Some of the key benefits include: [...] AI automation refers to the use of artificial intelligence to perform tasks, act, or streamline processes that would otherwise require human effort. It combines automation technologies with AI capabilities like natural language processing, machine learning, and computer vision to help organizations operate more efficiently and effectively.  \n   \n At its core, AI helps people do more with less by reducing repetitive work, improving accuracy, and creating space for higher-value thinking. Instead of replacing human judgment, AI and automation both enhance it. As organizations face pressure to innovate and scale, AI automation provides a foundation for smarter, faster, and more consistent operations.",
+        "score": 0.999959,
+        "raw_content": null,
+        "source": "Tavily"
+      },
+      {
+        "title": "What is AI Automation? - AI Automation Explained - AWS",
+        "url": "https://aws.amazon.com/what-is/ai-automation/",
+        "content": "AI automation is the process of using artificial intelligence to automate business workflows. It uses tools, code, and configuration to replace manual steps and achieve a particular outcome. Software-based automation has been prevalent for decades—from robotic process automation (RPA) tools that automate back-office tasks like form-filling to SaaS integrations that get information flowing ...",
+        "source": "SearXNG"
+      },
+      {
+        "title": "What is AI Automation? - Salesforce",
+        "url": "https://www.salesforce.com/artificial-intelligence/ai-automation/",
+        "content": "AI automation uses machine learning, natural language processing, and other technologies to handle routine tasks and streamline workflows.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "AI for Business Automation - IBM Research",
+        "url": "https://research.ibm.com/topics/ai-for-business-automation",
+        "content": "Jul 2, 2025 · AI for Business Automation Modern computing architectures are revolutionizing the way business gets done. We’re working on tools to help businesses automate much of their daily …",
+        "source": "SearXNG"
+      },
+      {
+        "title": "智慧自動化 (IA)",
+        "url": "https://www.automationanywhere.com/tw/rpa/intelligent-automation",
+        "content": " 智慧自動化是人工智慧 (Artificial Intelligence,AI) 與自動化技術的結合。 智慧自動化也稱為智慧流程自動化 (Intelligent Process Automation,IPA),結合人工智慧 (AI) 與自動化技術 (例如機器人流程自動化 (Robotic Process Automation,RPA)),能實現快速的端對端業務流程自動化並加速數位轉型。 智慧自動化的效益 智慧自動化擴展了業務流程自動化的可能性,為重新構想業務運作方式創造了無限的機會。 提升生產力 將重複性的任務自動化,讓員工能專注於高價值的策略性工作。 節省金錢 全面提升組織效率,降低成本並快速實現 ROI (投資報酬率)。 做出更好的決策 連線並整合各個系統,以改善資料擷取和取回。 增強客戶體驗 提供更快速的回應時間、更高的準確性,以及更一致的結果。 改善適應能力 在擴充之時確保完全遵循安全性與合規性的要求。 智慧自動化的運作原理為何? 智慧自動化將 AI 的腦力與自動化的力量結合,以改變複雜的業務流程、適應和學習。它涵蓋了整個自動化旅程:探索、自動化、最佳化;與人類、系統和資料順暢連線和互動。 為實現端對端的自動化功能,智慧自動化技術運用了電腦視覺、自然語言處理 (Natural Language Processing,NLP)、機器學習 (Machine Learning,ML) 和生成式 AI 等人工智慧技術,因而能夠將仰賴非結構化資料或複雜資訊來源的流程,或是不遵循結構化的工作流程,加以自動化。 這些AI 工具與機器人流程自動化 (RPA)順暢整合,以採取行動並執行流程步驟。AI 技術可設定適當的動作,分析業務流程的輸出以提供洞察力,並引導 RPA 執行後續步驟。接著,它們會以持續的意見回饋和學習來完成循環,實現改善和最佳化。智慧自動化技術會持續推動意見回饋與學習的反覆循環,而其目的就是改善營運,最終實現轉型。 流程透明度 以AI 技術驅動的探索功能可針對業務流程區域提供清楚、精準的洞察力,以最佳化業務。 掌握資料 智慧自動化可剖析並瞭解複雜的資料環境,為正確的任務取得正確的資料。 流程整合 順暢的互通性與整合,可將企業各個不同系統連線,提供無障礙、高效率的程序工作流程。 策略決策 預測分析讓智慧自動化能預測並克服複雜性。 協調流程步驟 協調功能可確保業務流程自動化的所有可變動環節皆已完美計時並執行。 適應式學習 機器學習能夠不斷完善回應與行動,進而將流程和效能最佳化。 自動化助理 嵌入於應用程式的生成式 AI,能加速所有流程並提升員工生產力。",
+        "snippet": " 智慧自動化是人工智慧 (Artificial Intelligence,AI) 與自動化技術的結合。 智慧自動化也稱為智慧流程自動化 (Intelligent Process Automation,IPA),結合人工智慧 (AI) 與自動化技術 (例如機器人流程自動化 (Robotic Process Automation,RPA)),能實現快速的端對端業務流程自動化並加速數位轉型。 智慧自動化的效益 智慧自動化擴展了業務流程自動化的可能性,為重新構想業務運作方式創造了無限的機會。 提升生產力 將重複性的任務自動化,讓員工能專注於高價值的策略性工作。 節省金錢 全面提升組織效率,降低成本並快速實現 ROI (投資報酬率)。 做出更好的決策 連線並整合各個系統,以改善資料擷取和取回。 增強客戶體驗 提供更快速的回應時間、更高的準確性,以及更一致的結果。 改善適應能力 在擴充之時確保完全遵循安全性與合規性的要求。 智慧自動化的運作原理為何? 智慧自動化將 AI 的腦力與自動化的力量結合,以改變複雜的業務流程、適應和學習。它涵蓋了整個自動化旅程:探索、自動化、最佳化;與人類、系統和資料順暢連線和互動。 為實現端對端的自動化功能,智慧自動化技術運用了電腦視覺、自然語言處理 (Natural Language Processing,NLP)、機器學習 (Machine Learning,ML) 和生成式 AI 等人工智慧技術,因而能夠將仰賴非結構化資料或複雜資訊來源的流程,或是不遵循結構化的工作流程,加以自動化。 這些AI 工具與機器人流程自動化 (RPA)順暢整合,以採取行動並執行流程步驟。AI 技術可設定適當的動作,分析業務流程的輸出以提供洞察力,並引導 RPA 執行後續步驟。接著,它們會以持續的意見回饋和學習來完成循環,實現改善和最佳化。智慧自動化技術會持續推動意見回饋與學習的反覆循環,而其目的就是改善營運,最終實現轉型。 流程透明度 以AI 技術驅動的探索功能可針對業務流程區域提供清楚、精準的洞察力,以最佳化業務。 掌握資料 智慧自動化可剖析並瞭解複雜的資料環境,為正確的任務取得正確的資料。 流程整合 順暢的互通性與整合,可將企業各個不同系統連線,提供無障礙、高效率的程序工作流程。 策略決策 預測分析讓智慧自動化能預測並克服複雜性。 協調流程步驟 協調功能可確保業務流程自動化的所有可變動環節皆已完美計時並執行。 適應式學習 機器學習能夠不斷完善回應與行動,進而將流程和效能最佳化。 自動化助理 嵌入於應用程式的生成式 AI,能加速所有流程並提升員工生產力。",
+        "source": "Baidu"
+      },
+      {
+        "title": "10 AI Automation Platforms to Consider in 2025",
+        "url": "https://www.domo.com/es/learn/article/ai-automation-platforms",
+        "content": " Automation tools that don’t talk to each other Siloed data and fragmented workflows Reactive fixes instead of proactive orchestration",
+        "snippet": " Automation tools that don’t talk to each other Siloed data and fragmented workflows Reactive fixes instead of proactive orchestration",
+        "source": "Baidu"
+      },
+      {
+        "title": "What is AI automation? And how your business can use it",
+        "url": "https://zapier.com/blog/ai-automation/",
+        "content": " Automation used to be the best way to do that. And while AI has since come on the scene, it hasn't replaced automation—it's made it better. Now, I delegate toAI automation. Here, I'll explain what AI automation actually is, why it's useful, and how you can start using it to offload all the worst parts of your job, so you can focus on the human stuff. Table of contents: What is AI automation? Benefits of AI automation Key components and technologies that AI automation uses How to implement AI automation AI automation use cases Examples of AI automation processes What's the difference between AI automation and RPA? How to kickstart your AI automation strategy Automate intelligently with Zapier What is AI automation? AI automation (sometimes referred to as intelligent automation) combines automation technologies withartificial intelligence (AI)to create systems that tackle complex work by learning, adapting, and making smart decisions. These systems can practically think on their feet, analyzing information, learning from experience, and constantly getting better at what they do. For your business, this means tackling more complex projects with automation and making your workflows dramatically more efficient and largely self-sufficient. Benefits of AI automation You're probably already envisioning all the waysAI automationcould make your life easier. Here are some key reasons to implement it. Saves employee time and energy:Automation alone is e",
+        "snippet": " Automation used to be the best way to do that. And while AI has since come on the scene, it hasn't replaced automation—it's made it better. Now, I delegate toAI automation. Here, I'll explain what AI automation actually is, why it's useful, and how you can start using it to offload all the worst parts of your job, so you can focus on the human stuff. Table of contents: What is AI automation? Benefits of AI automation Key components and technologies that AI automation uses How to implement AI automation AI automation use cases Examples of AI automation processes What's the difference between AI automation and RPA? How to kickstart your AI automation strategy Automate intelligently with Zapier What is AI automation? AI automation (sometimes referred to as intelligent automation) combines automation technologies withartificial intelligence (AI)to create systems that tackle complex work by learning, adapting, and making smart decisions. These systems can practically think on their feet, analyzing information, learning from experience, and constantly getting better at what they do. For your business, this means tackling more complex projects with automation and making your workflows dramatically more efficient and largely self-sufficient. Benefits of AI automation You're probably already envisioning all the waysAI automationcould make your life easier. Here are some key reasons to implement it. Saves employee time and energy:Automation alone is e",
+        "source": "Baidu"
+      }
+    ],
+    "AI video generation": [
+      {
+        "url": "https://www.adobe.com/products/firefly/features/ai-video-generator.html",
+        "title": "Free AI Video Generator: Text to Video online - Adobe Firefly",
+        "content": "### How does Text to video AI work?\n\nText to video works via machine learning and natural language processing (NLP) to analyze the ideas from your text prompt and transform them into videos, images, or art.\n\n### Can AI turn an image into a video?\n\nYes, you can easily turn a static image into a video with the Firefly AI video generator. It’s the perfect way to create social media posts, add a quick clip in your video timeline, or create special effects for a scene.\n\n### Can AI generated video be used in commercial projects? [...] ### What is an AI video generator?\n\nAn AI video generator is a tool that uses artificial intelligence to turn text prompts, images, or reference clips into fully generated videos. Instead of filming or editing manually, creators can describe a scene and the AI produces motion, visuals, and effects automatically. The Adobe Firefly Video model is designed to be commercially safe and lets you create entirely new video clips to quickly communicate your creative intent, create B-roll to fill gaps, or add new elements to a shot. Note: Commercial usage eligibility depends on the model used. Partner models may have different usage terms.\n\n### What are the best AI video generators? [...] Open Firefly.  \n  Log in to Firefly, then choose the Text to Video or Image to Video option on the homepage to open the workspace.\n Write a text prompt or upload an image.  \n  Your prompt should include style, angle, shot distance, effects, color grading, subject(s), and any other elements or descriptors to generate a video that matches your vision. You can also upload an image you want Firefly to animate and use a text prompt to direct how the still image should move, transform, or come to life.\n Generate your video.  \n  When you’re satisfied with your prompt, click Generate. The AI generated video results will appear shortly. If you like the video, use the Download button in the top right to download as an mp4 file.\n Refine, revise, and regenerate.",
+        "score": 0.99984396,
+        "raw_content": null,
+        "source": "Tavily"
+      },
+      {
+        "url": "https://www.canva.com/features/ai-video-generator/",
+        "title": "AI Video Generator: Text to Video AI Tool",
+        "content": "Generate AI video\n\n## Frequently Asked Questions\n\n An AI video generator is a tool that generates videos from descriptions using artificial intelligence algorithms. These text-to-video generators use AI to create or enhance video content from text inputted by users. AI video generation helps craft high-quality videos without the need for expensive equipment, actors, or even video editing skills.\n\n Canva AI’s Create a Video Clip, powered by Google’s Veo-3, can effortlessly generate high-quality, cinematic footage with synchronized sound, making it one of the best text-to-video generators. Just type your script and instantly generate platform-ready videos with synchronized audio for a cinematic, lifelike effect. [...] Write your text prompt to generate a video clip for up to eight seconds. Include your preferred style, framing, and lighting — the more detailed your prompt is, the better.\n\nAdd stickers, graphics, and other elements from our library. Explore our editing tools and trim, rotate, or crop clips as needed. You can also apply video transitions or filters.\n\nOnce you’re satisfied with your work, download it as a high-resolution MP4 file. Share your AI video via social media or email. Or, present your video directly from the editor.\n\nGenerate AI video\n\n## Frequently Asked Questions [...] With Canva AI’s Create a Video Clip, powered by Google’s Veo-3, you can use your text prompt to generate a 16:9 video for up to eight seconds, with synchronized audio — that includes dialogue, sound design, and even music. One video is generated per prompt. After the generation, just add your video to a Canva design for further customization in the editor.\n\n Pro, Teams, Enterprise, and Nonprofit users can use Canva AI’s Create a Video Clip to create a limited number of cinematic video clips per month.",
+        "score": 0.99972194,
+        "raw_content": null,
+        "source": "Tavily"
+      },
+      {
+        "url": "https://massive.io/gear-guides/the-best-ai-video-generator-comparison/",
+        "title": "Best AI Video Generator: An Updated Comparison Of 10 ...",
+        "content": "## How We Tested These Tools\n\nTo determine the best AI video generator, we ran the same prompt through each tool in order to create professional-looking videos and easily compare the results based on the same input. This facilitated an apples-to-apples comparison of video quality and how each AI video maker handles the same video creation prompt. [...] For instance, most advanced AI tools now accept reference images as an input alongside the text prompt. This really helps the model enhance video content and improve video quality by delivering consistent, cohesive, and controllable results based on an image that already looks the way you want.\n\nI also shared my perspective on each tool’s output across the following categories as it pertains to creating visually appealing videos, although these are of course more subjective.\n\n Accuracy: How many errors are in the video?\n Realism: Does it look real?\n Consistency: How closely does it follow the prompt?\n Creativity: Does it look interesting?\n\nYou can also see which models deliver the following AI features best during the video creation process:",
+        "score": 0.9996259,
+        "raw_content": null,
+        "source": "Tavily"
+      },
+      {
+        "title": "Gemini AI video generator powered by Veo 3.1",
+        "url": "https://gemini.google/overview/video-generation/",
+        "content": "Turn text & images into videos with sound in Gemini with Veo 3.1 & Veo 3.1 Fast, our latest AI video generator from Google.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Synthesia: #1 AI Video Platform for Business",
+        "url": "https://www.synthesia.io/",
+        "content": "Create AI generated videos from text with the most advanced AI avatars and voiceovers in 160+ languages. Try our free AI video generator now!",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Free AI Video Generator | Invideo AI",
+        "url": "https://invideo.io/make/ai-video-generator/",
+        "content": "Invideo AI lets you create videos from text prompts using AI-generated scripts, visuals, voices, and music. You can edit, publish, and collaborate on your videos with this web-based tool.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "AI Video Generator: Image-to-Video & Text-to-Video | VEO 3, SORA 2",
+        "url": "https://viralance.com/",
+        "content": " Transform static images into dynamic videos with AI-powered animation and motion",
+        "snippet": " Transform static images into dynamic videos with AI-powered animation and motion",
+        "source": "Baidu"
+      },
+      {
+        "title": "AI Video Generator",
+        "url": "https://www.freepik.com/ai/video-generator",
+        "content": " Generate high-quality videos with a prompt or an image, choosing from multiple generation models. Type your scene or upload an image generated with our AI tools or from your gallery. Outstanding physics in 720p and 1080p, withstone and motion consistency in every frame.",
+        "snippet": " Generate high-quality videos with a prompt or an image, choosing from multiple generation models. Type your scene or upload an image generated with our AI tools or from your gallery. Outstanding physics in 720p and 1080p, withstone and motion consistency in every frame.",
+        "source": "Baidu"
+      },
+      {
+        "title": "NVIDIA Studio ",
+        "url": "https://www.nvidia.com/en-us/studio/",
+        "content": " NVIDIA GeForce RTX GPUs give creators the power to tackle every workflow faster and smarter. Video Editing Fast-forward your creativity. WithGeForce RTX 50 Series GPUs, work with 4:2:2 video seamlessly—no proxies needed. NVIDIA Decoders let you edit directly, Tensor Cores accelerate AI-powered effects, and up to three dedicated encoders export at warp speed. RTX-accelerated generative AI tools streamline tasks like extending clips, upscaling footage, and generating new content. Unlock the Power of Video Editing 3D Design and Animation Render, don’t surrender. Dedicated ray tracing cores render complex 3D scenes at lightning speed, while NVIDIA OptiX AI denoising gives real-time, photorealistic lighting previews. With NVIDIA DLSS, you navigate scenes fluidly, and RTX-accelerated generative AI lets you create 3D models, textures, and HDRi maps in a fraction of the time—bringing your visions to life faster. Experience the Future of 3D Design Image Credit: Sir Wade Neistadt",
+        "snippet": " NVIDIA GeForce RTX GPUs give creators the power to tackle every workflow faster and smarter. Video Editing Fast-forward your creativity. WithGeForce RTX 50 Series GPUs, work with 4:2:2 video seamlessly—no proxies needed. NVIDIA Decoders let you edit directly, Tensor Cores accelerate AI-powered effects, and up to three dedicated encoders export at warp speed. RTX-accelerated generative AI tools streamline tasks like extending clips, upscaling footage, and generating new content. Unlock the Power of Video Editing 3D Design and Animation Render, don’t surrender. Dedicated ray tracing cores render complex 3D scenes at lightning speed, while NVIDIA OptiX AI denoising gives real-time, photorealistic lighting previews. With NVIDIA DLSS, you navigate scenes fluidly, and RTX-accelerated generative AI lets you create 3D models, textures, and HDRi maps in a fraction of the time—bringing your visions to life faster. Experience the Future of 3D Design Image Credit: Sir Wade Neistadt",
+        "source": "Baidu"
+      }
+    ]
+  }
+}

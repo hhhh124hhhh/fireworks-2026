@@ -1,0 +1,38 @@
+
+## 深夜检查 (02:00)
+
+- 上下文使用率: 1% (正常)
+- 审查代理: 已检查
+- 子代理状态: 无活跃子代理
+- AI 研究: 昨日 04:00 已运行
+
+## 9:00 AM 定时任务执行记录
+
+### 1. 快速统计报告 (quick-report.py)
+- **状态**: 完成（发送失败）
+- **数据**: 686 条记录
+- **错误**: Slack 发送失败 - 插件配置问题
+  - 原因: `/root/.clawdbot/extensions/openclaw-lark/clawdbot.plugin.json` 不存在
+  - 解决: 需要运行 `clawdbot doctor --fix` 或检查 Lark 插件安装
+
+### 2. AI 提示词自动化流程 (full-prompt-workflow.sh)
+- **状态**: 完成
+- **数据收集**: 2 条推文, 0 个提示词
+- **Skill 转换**: 0 个（没有新数据）
+- **Git 推送**: 失败 (non-fast-forward error)
+  - 原因: 远程仓库有本地没有的提交
+  - 解决: 需要先 git pull 再 push
+- **通知发送**: Slack/Feishu 均失败（同上插件问题）
+
+### 待处理问题
+1. Lark 插件配置损坏 → 需要修复
+2. Git 远程同步问题 → 需要手动 git pull
+
+## 09:05 - 早间心跳
+
+- AI 研究搜索已完成（4 AM 触发）
+  - Claude AI: Anthropic Mythos 5 部署确认
+  - Multimodal: 2026 榜单更新
+  - ⚠️ OpenAI 搜索异常（披萨网站）
+- 上下文使用率: 1% (正常)
+- 通知发送失败 (Slack/Feishu 未授权)

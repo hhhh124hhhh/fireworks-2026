@@ -1,0 +1,281 @@
+success parse request body: {'query': 'AI agents 2026 autonomous workflow', 'resource_type_filter': [{'type': 'web', 'top_k': 10}]}
+{
+  "request_id": "7caafa36-0755-4e3f-a7f5-5aeac5a0fdf6",
+  "references": [
+    {
+      "id": 1,
+      "url": "https://learn.g2.com/enterprise-ai-agents-report",
+      "title": "G2's Enterprise AI Agents Report: Industry Outlook for 2026",
+      "date": "2025-12-17 15:05:20",
+      "content": " Enterprise AI agents have moved beyond experimentation. According toG2’s 2025 AI Agents Insightsreport, 57% of companies already have AI agents running in production, signaling a clear shift from exploration to operational use. Many organizations are now treatingenterprise AI agentsas a foundational layer of their operating models. The conversation has evolved. It’s no longer about whether AI agents will reshape work, but to how quickly organizations can scale them, where they should be embedded, and how much autonomy teams are prepared to grant. Methodology: How these insights were gathered Between October and November 2025, a structured questionnaire was sent to five enterprise software companies actively building or deploying AI agents. Participants were asked to share practical, experience-based input across several core themes: How mature their AI agent deployments are today, and where they sit on the adoption curve Which enterprise workflows currently rely on AI agents and which remain closely supervised The operational and business outcomes they are seeing from agent deployments How teams are preparing employees for agent-driven workflows. How they think autonomy, oversight, and scale will evolve over the next six months",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Enterprise AI agents have moved beyond experimentation. According toG2’s 2025 AI Agents Insightsreport, 57% of companies already have AI agents running in production, signaling a clear shift from exploration to operational use. Many organizations are now treatingenterprise AI agentsas a foundational layer of their operating models. The conversation has evolved. It’s no longer about whether AI agents will reshape work, but to how quickly organizations can scale them, where they should be embedded, and how much autonomy teams are prepared to grant. Methodology: How these insights were gathered Between October and November 2025, a structured questionnaire was sent to five enterprise software companies actively building or deploying AI agents. Participants were asked to share practical, experience-based input across several core themes: How mature their AI agent deployments are today, and where they sit on the adoption curve Which enterprise workflows currently rely on AI agents and which remain closely supervised The operational and business outcomes they are seeing from agent deployments How teams are preparing employees for agent-driven workflows. How they think autonomy, oversight, and scale will evolve over the next six months",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 2,
+      "url": "https://brightdata.com/blog/ai/best-ai-agent-frameworks",
+      "title": "Top 13 Frameworks for Building AI Agents in 2026",
+      "date": "2025-07-08 17:05:43",
+      "content": " AI agent frameworks are tools that simplify the creation, deployment, and management of autonomous AI agents. In this context, an AI agent is a software entity that perceives its environment, processes information, and takes actions to achieve specific goals. These frameworks offer pre-built components and abstractions to help developers build AI-powered agents—typically using LLMs. They support powerful systems capable of perceiving inputs, processing information, and making decisions. Key features provided by these tools include agent architecture, memory management, task orchestration, and tool integration. Aspects to Consider When Selecting the Best Frameworks for Building AI Agents When comparing the best AI agent frameworks available, here are the main elements to keep into consideration: Repository: A link to the tool’s codebase, where you can find all relevant information. Programming language: The language the library is developed in and distributed as a package. Developed by: The team or company behind the tool. GitHub stars: The number of stars the repository has received, indicating its popularity. Features: A list of capabilities offered by the framework. Supported models: A list of AI models or providers the tool integrates with. “AI frameworks are the new runtime for intelligent agents, defining how they think, act, and scale. Powering these frameworks with real-time web access and reliable data infrastructure enables developers to build smarter, faster, production-ready AI systems.”—Ariel Shulman, Chief Product Officer, Bright Data",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " AI agent frameworks are tools that simplify the creation, deployment, and management of autonomous AI agents. In this context, an AI agent is a software entity that perceives its environment, processes information, and takes actions to achieve specific goals. These frameworks offer pre-built components and abstractions to help developers build AI-powered agents—typically using LLMs. They support powerful systems capable of perceiving inputs, processing information, and making decisions. Key features provided by these tools include agent architecture, memory management, task orchestration, and tool integration. Aspects to Consider When Selecting the Best Frameworks for Building AI Agents When comparing the best AI agent frameworks available, here are the main elements to keep into consideration: Repository: A link to the tool’s codebase, where you can find all relevant information. Programming language: The language the library is developed in and distributed as a package. Developed by: The team or company behind the tool. GitHub stars: The number of stars the repository has received, indicating its popularity. Features: A list of capabilities offered by the framework. Supported models: A list of AI models or providers the tool integrates with. “AI frameworks are the new runtime for intelligent agents, defining how they think, act, and scale. Powering these frameworks with real-time web access and reliable data infrastructure enables developers to build smarter, faster, production-ready AI systems.”—Ariel Shulman, Chief Product Officer, Bright Data",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "media.brightdata.com/2025/04/LangChain-1-1.png",
+            "height": "813",
+            "width": "1814"
+          },
+          {
+            "url": "media.brightdata.com/2025/04/LlamaIndex.png",
+            "height": "1475",
+            "width": "3015"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 3,
+      "url": "https://www.ibm.com/think/ai-agents",
+      "title": "The 2026 Guide to AI Agents ",
+      "date": "2026-01-06 03:47:47",
+      "content": " Your one-stop resource for gaining in-depth knowledge and hands-on applications of AI agents. Editors  Anna Gutowska AI Engineer, Developer Advocate IBM Cole Stryker Staff Editor, AI Models IBM Think In this comprehensive guide, you will find a collection of AI agent-related content such as educational explainers, hands-on tutorials, podcast episodes and much more. An artificial intelligence (AI) agent refers to a system or program that is capable of autonomously performing tasks on behalf of a user or another system by designing its workflow and utilizing available tools. AI agents can encompass a wide range of functionalities beyond natural language processing including decision-making, problem-solving, interacting with external environments and executing actions. Industry newsletter The latest AI trends, brought to you by experts Get curated insights on the most important—and intriguing—AI news. Subscribe to our weekly Think newsletter. See the IBM Privacy Statement . Your subscription will be delivered in English. You will find an unsubscribe link in every newsletter. You can manage your subscriptions or unsubscribe here . Refer to our IBM Privacy Statement for more information. Get started  Overview  As the first step in your journey, explore introductory AI agent explainers to obtain a high-level understanding. Components AI agents rely on a set of interconnected components that enable them to perceive their environment, process information, decide, collaborate, take meaningful actions and learn from their experience. Architecture Agentic architecture refers to the structure and design of agentic AI frameworks. An agentic architecture shapes the workflow structure to automate AI models within an agentic AI system.  Multiagent systems A multiagent system consists of multiple AI agents working collectively to perform tasks on behalf of a user or another system. Frameworks Agentic frameworks are the building blocks for developing, deploying and managing AI agents. These software platforms have built-in features and functions that help streamline and speed up the process.",
+      "icon": "https://www.ibm.com/content/dam/adobe-cms/default-images/icon-512x512.png",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Your one-stop resource for gaining in-depth knowledge and hands-on applications of AI agents. Editors  Anna Gutowska AI Engineer, Developer Advocate IBM Cole Stryker Staff Editor, AI Models IBM Think In this comprehensive guide, you will find a collection of AI agent-related content such as educational explainers, hands-on tutorials, podcast episodes and much more. An artificial intelligence (AI) agent refers to a system or program that is capable of autonomously performing tasks on behalf of a user or another system by designing its workflow and utilizing available tools. AI agents can encompass a wide range of functionalities beyond natural language processing including decision-making, problem-solving, interacting with external environments and executing actions. Industry newsletter The latest AI trends, brought to you by experts Get curated insights on the most important—and intriguing—AI news. Subscribe to our weekly Think newsletter. See the IBM Privacy Statement . Your subscription will be delivered in English. You will find an unsubscribe link in every newsletter. You can manage your subscriptions or unsubscribe here . Refer to our IBM Privacy Statement for more information. Get started  Overview  As the first step in your journey, explore introductory AI agent explainers to obtain a high-level understanding. Components AI agents rely on a set of interconnected components that enable them to perceive their environment, process information, decide, collaborate, take meaningful actions and learn from their experience. Architecture Agentic architecture refers to the structure and design of agentic AI frameworks. An agentic architecture shapes the workflow structure to automate AI models within an agentic AI system.  Multiagent systems A multiagent system consists of multiple AI agents working collectively to perform tasks on behalf of a user or another system. Frameworks Agentic frameworks are the building blocks for developing, deploying and managing AI agents. These software platforms have built-in features and functions that help streamline and speed up the process.",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "www.ibm.com/adobe/dynamicmedia/deliver/dm-aid--0c27c617-6872-4569-a845-47d77fb085d8/ai4b-agents-iso.jpg?preferwebp=true&width=320",
+            "height": "320",
+            "width": "320"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 4,
+      "url": "https://slack.com/intl/zh-hk/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows",
+      "title": "11 Best AI Workflow Automation Tools for 2026",
+      "date": "2026-01-01 00:00:00",
+      "content": " 1. Agentforce in Slack Slackorganizes and unifies data in a single work operating system, connecting teams with the people and tools they use every day.Agentforceis Salesforce’s agentic AI platform, designed to empower organizations to build, customize, and deployAI agents. When deployed in Slack, users can engage with employee-facing agents directly in their flow of work. For example, teams can communicate with agents and assign them tasks directly in Slack, just as they would a human co-worker, making the agents collaborative virtual teammates that help increase productivity. Best for:Teams looking to enhance how they work and collaborate in a centralized work OS. 2. Trello Trellois a project management software tool that allows users to create a visual set of lists, or boards, to organize project tasks. Trello features AI tools, including an analyst agent that examines existing Trello boards for trends and insights that can help teams with workflow management.",
+      "icon": "https://slack.com/favicon.ico?unknown_domain=1",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 1. Agentforce in Slack Slackorganizes and unifies data in a single work operating system, connecting teams with the people and tools they use every day.Agentforceis Salesforce’s agentic AI platform, designed to empower organizations to build, customize, and deployAI agents. When deployed in Slack, users can engage with employee-facing agents directly in their flow of work. For example, teams can communicate with agents and assign them tasks directly in Slack, just as they would a human co-worker, making the agents collaborative virtual teammates that help increase productivity. Best for:Teams looking to enhance how they work and collaborate in a centralized work OS. 2. Trello Trellois a project management software tool that allows users to create a visual set of lists, or boards, to organize project tasks. Trello features AI tools, including an analyst agent that examines existing Trello boards for trends and insights that can help teams with workflow management.",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 5,
+      "url": "http://zhuanlan.zhihu.com/p/1991985667622840199",
+      "title": "AI Agent 入门指南(一):综述",
+      "date": "2026-01-09 00:00:00",
+      "content": " 一、什么是Agent? 1.1 Agent 是如何工作的? 1.2 Agent 编年史 1.3 Workflow vs Agent:别再混淆了! 二、Agent 的四大核心组件 推理引擎(Model)  规划(Planning)  记忆(Memory) 工具(Tools) 三、什么是Multi-Agent? 四、主流 Agent 框架 AutoGPT(Github :181k+) Dify(Github :125k+) LangChain(Github :124k+) AutoGen(Github :53k+) ChatDev (Github :42k+) AgentScope(Github :15k+) 五、Agent应用与落地 (创作与生成)AIGC (效率提升工具)办公Agent (2B+垂类)知识助手 思考:为何 Agent 落地做的比想象得难?我们离“全能助手”还有多远? 六、结语 更新日志:2026年01月09日更新ChatDev 2.0相关内容 ‍友情提示:本篇文章约1w+字,完整阅读需要17分钟左右。 如果你用过 ChatGPT 或通义千问,你大概体验过这样的对话: 这属于典型的 问答型交互——你问它答。AI 被动响应,不主动行动。 而Agent(智能体) 的目标是更进一步:不仅能理解你的意图,还能主动执行任务。 传统AI:只回答“你可以去 12306 查”Agent:直接帮你查车次、选座位、下单、发邮件,全程无需你动手这就是 Agent 的核心价值:让AI从“信息提供者”变成“任务执行者”。 1.1 Agent 是如何工作的? 假如你对一个 Agent 说:“帮我订一张明天去杭州的高铁票”,它会这样做 解析意图:需要订票 + 可能需通知(如发邮件) 规划行动步骤: 获取当前时间、用户所在城市(如上海) 查询12306 接口,筛选“上午出发、二等座”车次 选择最优选项(如 G7531,8:15 发车),并向你确认 确认后调用订票接口,生成行程摘要 3. 执行 & 反馈:“已为您预订 G7531 次列车(8:15 上海虹桥 → 9:20 杭州东),以下为行程详情:xxx” 4. 如果余票不足或时间不合适,它还会自动调整策略、重新查询。 这个“目标→ 观察 → 行动 → 环境变化 → 循环”的闭环,就是 Agent 的核心运行逻辑。 关键点:Agent 不是一次性输出答案,而是在动态环境中不断调整策略,直到任务完成。",
+      "icon": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=493147230,3096476255&fm=195&app=88&f=JPEG?w=200&h=200",
+      "web_anchor": "",
+      "type": "web",
+      "website": "知乎",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 一、什么是Agent? 1.1 Agent 是如何工作的? 1.2 Agent 编年史 1.3 Workflow vs Agent:别再混淆了! 二、Agent 的四大核心组件 推理引擎(Model)  规划(Planning)  记忆(Memory) 工具(Tools) 三、什么是Multi-Agent? 四、主流 Agent 框架 AutoGPT(Github :181k+) Dify(Github :125k+) LangChain(Github :124k+) AutoGen(Github :53k+) ChatDev (Github :42k+) AgentScope(Github :15k+) 五、Agent应用与落地 (创作与生成)AIGC (效率提升工具)办公Agent (2B+垂类)知识助手 思考:为何 Agent 落地做的比想象得难?我们离“全能助手”还有多远? 六、结语 更新日志:2026年01月09日更新ChatDev 2.0相关内容 ‍友情提示:本篇文章约1w+字,完整阅读需要17分钟左右。 如果你用过 ChatGPT 或通义千问,你大概体验过这样的对话: 这属于典型的 问答型交互——你问它答。AI 被动响应,不主动行动。 而Agent(智能体) 的目标是更进一步:不仅能理解你的意图,还能主动执行任务。 传统AI:只回答“你可以去 12306 查”Agent:直接帮你查车次、选座位、下单、发邮件,全程无需你动手这就是 Agent 的核心价值:让AI从“信息提供者”变成“任务执行者”。 1.1 Agent 是如何工作的? 假如你对一个 Agent 说:“帮我订一张明天去杭州的高铁票”,它会这样做 解析意图:需要订票 + 可能需通知(如发邮件) 规划行动步骤: 获取当前时间、用户所在城市(如上海) 查询12306 接口,筛选“上午出发、二等座”车次 选择最优选项(如 G7531,8:15 发车),并向你确认 确认后调用订票接口,生成行程摘要 3. 执行 & 反馈:“已为您预订 G7531 次列车(8:15 上海虹桥 → 9:20 杭州东),以下为行程详情:xxx” 4. 如果余票不足或时间不合适,它还会自动调整策略、重新查询。 这个“目标→ 观察 → 行动 → 环境变化 → 循环”的闭环,就是 Agent 的核心运行逻辑。 关键点:Agent 不是一次性输出答案,而是在动态环境中不断调整策略,直到任务完成。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "picx.zhimg.com/v2-51cbbc6b10ac8b9232691e328bb93906_720w.jpg?source=172ae18b",
+            "height": "402",
+            "width": "720"
+          },
+          {
+            "url": "pic1.zhimg.com/v2-8e14eca462944945947af2bbc42cfba0_r.jpg",
+            "height": "1306",
+            "width": "1540"
+          },
+          {
+            "url": "pic1.zhimg.com/v2-8fdea84d5e17835b063e51723df1fc56_r.jpg",
+            "height": "916",
+            "width": "1242"
+          },
+          {
+            "url": "picx.zhimg.com/v2-d5c9299104e444fe92a6516a5695b187_r.jpg",
+            "height": "520",
+            "width": "1074"
+          },
+          {
+            "url": "pic3.zhimg.com/v2-30aacee380c085361598378d47d3e396_r.jpg",
+            "height": "854",
+            "width": "1214"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 6,
+      "url": "https://www.bjnews.com.cn/detail/1770261394129960.html",
+      "title": "谷歌2026 AI Agent前瞻,九科信息企业级智能体bit-Agent精准适配发展路径",
+      "date": "2026-02-05 11:16:00",
+      "content": " 01 趋势一:人人拥有智能体 2026年最深刻的商业变革,并非单纯的效率提升,而是一场以员工为中心的根本性转型。员工只需明确期望结果,搭载大语言模型的智能体便能自主规划路径、跨系统执行任务。这意味着员工使用工具的方式,从过去的“下指令”简化为“表达意图”。 52%的生成式AI应用企业已投入AI Agent生产 报告数据显示,52%的生成式AI应用企业已将智能体投入生产,覆盖多元场景:49%用于客户服务、46%用于营销或安全运营、45%用于技术支持、43%用于产品创新或生产力提升。这种普及背后,是员工角色的本质转变:从亲自完成每一项繁琐任务,变为“智能体团队的协调者”,核心职责聚焦战略方向、目标设定、质量验证与复杂决策。 AI Agent赋能加拿大电信巨头TELUS团队成员 加拿大电信巨头TELUS的5.7万名团队成员定期使用AI智能体,每次互动平均节省40分钟,印证了智能体作为“全天候生产力工具”的核心价值。 谷歌云AI全球产品负责人Saurabh Tiwary表示:“到2026年,智能体将管理跨系统的复杂多步骤工作流。员工的关键职责将是制定战略,并监督负责发票开具、合同签订等任务的智能体系统。” 02 趋势二:每个工作流都有智能体 如果说“人人拥有智能体”是个体能力的增强,那么“每个工作流都有智能体”则是企业运营体系的重构。 88%的AI Agent采用者已获正投资回报率 88%的智能体早期采用者已在至少一个生成式AI场景中获得正投资回报率(ROI),这一数据印证了智能体对业务的实际价值。其核心突破在于解决了传统工作流的数据孤岛与效率瓶颈:通过Agent2Agent(A2A)开放协议,不同开发商、不同框架、不同组织的智能体可无缝协同;而模型语境协议(MCP)则打通了大语言模型与实时数据、外部工具的连接,弥补了LLM“知识冻结”与“无法交互”的短板。 谷歌云安全产品总裁Francisde Souza强调:“AI正在推动企业的代际重构——核心工作流与整个技术栈都在被重塑。AI智能体将变革采购、安全运营、客户支持等复杂流程,让人类角色聚焦于全业务的高价值战略协调。” 03 趋势三:面向客户的智能体 过去十年,客户服务自动化的核心是预编程聊天机器人。它们高效但僵化,无法应对复杂、细微的客户需求。",
+      "icon": "http://www.bjnews.com.cn/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "新京报网",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 01 趋势一:人人拥有智能体 2026年最深刻的商业变革,并非单纯的效率提升,而是一场以员工为中心的根本性转型。员工只需明确期望结果,搭载大语言模型的智能体便能自主规划路径、跨系统执行任务。这意味着员工使用工具的方式,从过去的“下指令”简化为“表达意图”。 52%的生成式AI应用企业已投入AI Agent生产 报告数据显示,52%的生成式AI应用企业已将智能体投入生产,覆盖多元场景:49%用于客户服务、46%用于营销或安全运营、45%用于技术支持、43%用于产品创新或生产力提升。这种普及背后,是员工角色的本质转变:从亲自完成每一项繁琐任务,变为“智能体团队的协调者”,核心职责聚焦战略方向、目标设定、质量验证与复杂决策。 AI Agent赋能加拿大电信巨头TELUS团队成员 加拿大电信巨头TELUS的5.7万名团队成员定期使用AI智能体,每次互动平均节省40分钟,印证了智能体作为“全天候生产力工具”的核心价值。 谷歌云AI全球产品负责人Saurabh Tiwary表示:“到2026年,智能体将管理跨系统的复杂多步骤工作流。员工的关键职责将是制定战略,并监督负责发票开具、合同签订等任务的智能体系统。” 02 趋势二:每个工作流都有智能体 如果说“人人拥有智能体”是个体能力的增强,那么“每个工作流都有智能体”则是企业运营体系的重构。 88%的AI Agent采用者已获正投资回报率 88%的智能体早期采用者已在至少一个生成式AI场景中获得正投资回报率(ROI),这一数据印证了智能体对业务的实际价值。其核心突破在于解决了传统工作流的数据孤岛与效率瓶颈:通过Agent2Agent(A2A)开放协议,不同开发商、不同框架、不同组织的智能体可无缝协同;而模型语境协议(MCP)则打通了大语言模型与实时数据、外部工具的连接,弥补了LLM“知识冻结”与“无法交互”的短板。 谷歌云安全产品总裁Francisde Souza强调:“AI正在推动企业的代际重构——核心工作流与整个技术栈都在被重塑。AI智能体将变革采购、安全运营、客户支持等复杂流程,让人类角色聚焦于全业务的高价值战略协调。” 03 趋势三:面向客户的智能体 过去十年,客户服务自动化的核心是预编程聊天机器人。它们高效但僵化,无法应对复杂、细微的客户需求。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "media.bjnews.com.cn/xn/2026/02/05/6983fe632d42d1020196983fe632d42a.png?x-oss-process=image/resize,m_lfit,w_800",
+            "height": "407",
+            "width": "800"
+          },
+          {
+            "url": "media.bjnews.com.cn/xn/2026/02/05/6983fe63b2af41020196983fe63b2af0.png?x-oss-process=image/resize,m_lfit,w_800",
+            "height": "418",
+            "width": "800"
+          },
+          {
+            "url": "media.bjnews.com.cn/xn/2026/02/05/6983fe64073e21020206983fe64073df.png?x-oss-process=image/resize,m_lfit,w_800",
+            "height": "467",
+            "width": "800"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 7,
+      "url": "https://www.salesforce.com/uk/news/?p=71756",
+      "title": "The Future of AI Agents: Top Predictions and Trends to Watch in 2026",
+      "date": "2025-11-26 22:54:45",
+      "content": " The future of agentic AI: Proactive, multi-agent systems Trusted agentic AI as a differentiator Unexpected use cases of agentic AI Agentic AI’s broader impacts What it will take to make agentic AI successful",
+      "icon": "https://www.salesforce.com/c2/public/app/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " The future of agentic AI: Proactive, multi-agent systems Trusted agentic AI as a differentiator Unexpected use cases of agentic AI Agentic AI’s broader impacts What it will take to make agentic AI successful",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2025/11/1.png?w=1024",
+            "height": "576",
+            "width": "1024"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 8,
+      "url": "https://www.salesforce.com/uk/news/stories/the-future-of-ai-agents-top-predictions-trends-to-watch-in-2025/?bc=OTH",
+      "title": "The Future of AI Agents: Top Predictions and Trends to Watch in 2026",
+      "date": "2025-11-26 22:54:45",
+      "content": " The future of agentic AI: Proactive, multi-agent systems Trusted agentic AI as a differentiator Unexpected use cases of agentic AI Agentic AI’s broader impacts What it will take to make agentic AI successful",
+      "icon": "https://www.salesforce.com/c2/public/app/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " The future of agentic AI: Proactive, multi-agent systems Trusted agentic AI as a differentiator Unexpected use cases of agentic AI Agentic AI’s broader impacts What it will take to make agentic AI successful",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2025/11/1.png?w=1024",
+            "height": "576",
+            "width": "1024"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 9,
+      "url": "https://www.salesforce.com/uk/news/stories/the-future-of-ai-agents-top-predictions-trends-to-watch-in-2025/",
+      "title": "The Future of AI Agents: Top Predictions and Trends to Watch in 2026",
+      "date": "2025-11-26 00:00:00",
+      "content": " The future of agentic AI: Proactive, multi-agent systems Trusted agentic AI as a differentiator Unexpected use cases of agentic AI Agentic AI’s broader impacts What it will take to make agentic AI successful",
+      "icon": "https://www.salesforce.com/c2/public/app/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " The future of agentic AI: Proactive, multi-agent systems Trusted agentic AI as a differentiator Unexpected use cases of agentic AI Agentic AI’s broader impacts What it will take to make agentic AI successful",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "www.salesforce.com/news/wp-content/uploads/sites/3/2025/11/1.png?w=1024",
+            "height": "576",
+            "width": "1024"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    }
+  ]
+}

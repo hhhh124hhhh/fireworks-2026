@@ -1,0 +1,63 @@
+2026-01-31 14:33:04,074 - search_x_prompts - INFO - ================================================================================
+2026-01-31 14:33:04,075 - search_x_prompts - INFO - 🔍 开始搜索 X (Twitter) 获取 AI 提示词（优化版）
+2026-01-31 14:33:04,075 - search_x_prompts - INFO - ================================================================================
+2026-01-31 14:33:04,092 - search_x_prompts - ERROR - 环境变量 TWITTER_API_KEY 未设置
+2026-01-31 14:33:04,092 - search_x_prompts - ERROR - ❌ TWITTER_API_KEY 环境变量未设置
+2026-02-02 13:41:00,255 - search_x_prompts - INFO - ================================================================================
+2026-02-02 13:41:00,255 - search_x_prompts - INFO - 🔍 开始搜索 X (Twitter) 获取 AI 提示词（优化版）
+2026-02-02 13:41:00,255 - search_x_prompts - INFO - ================================================================================
+2026-02-02 13:41:00,275 - search_x_prompts - INFO - 搜索查询数: 5
+2026-02-02 13:41:00,275 - search_x_prompts - INFO - [1/5] 搜索: AI prompts (#AIPrompts OR #promptengineering) -is:retweet lang:en
+2026-02-02 13:41:00,586 - search_x_prompts - ERROR - 搜索失败 'AI prompts (#AIPrompts OR #promptengineering) -is:retweet lang:en': 402 Client Error: Payment Required for url: https://api.twitterapi.io/v2/tweets/search/recent?query=AI+prompts+%28%23AIPrompts+OR+%23promptengineering%29+-is%3Aretweet+lang%3Aen&max_results=100&tweet.fields=created_at%2Cauthor_id%2Cpublic_metrics%2Centities
+2026-02-02 13:41:00,588 - search_x_prompts - INFO - [2/5] 搜索: ChatGPT prompts (#ChatGPT OR #GPT4) -is:retweet lang:en
+2026-02-02 13:41:00,872 - search_x_prompts - ERROR - 搜索失败 'ChatGPT prompts (#ChatGPT OR #GPT4) -is:retweet lang:en': 402 Client Error: Payment Required for url: https://api.twitterapi.io/v2/tweets/search/recent?query=ChatGPT+prompts+%28%23ChatGPT+OR+%23GPT4%29+-is%3Aretweet+lang%3Aen&max_results=100&tweet.fields=created_at%2Cauthor_id%2Cpublic_metrics%2Centities
+2026-02-02 13:41:00,874 - search_x_prompts - INFO - [3/5] 搜索: Midjourney prompts (#Midjourney OR #AIArt) -is:retweet lang:en
+2026-02-02 13:41:01,202 - search_x_prompts - ERROR - 搜索失败 'Midjourney prompts (#Midjourney OR #AIArt) -is:retweet lang:en': 402 Client Error: Payment Required for url: https://api.twitterapi.io/v2/tweets/search/recent?query=Midjourney+prompts+%28%23Midjourney+OR+%23AIArt%29+-is%3Aretweet+lang%3Aen&max_results=100&tweet.fields=created_at%2Cauthor_id%2Cpublic_metrics%2Centities
+2026-02-02 13:41:01,204 - search_x_prompts - INFO - [4/5] 搜索: Claude prompts (#ClaudeAI) -is:retweet lang:en
+2026-02-02 13:41:01,515 - search_x_prompts - ERROR - 搜索失败 'Claude prompts (#ClaudeAI) -is:retweet lang:en': 402 Client Error: Payment Required for url: https://api.twitterapi.io/v2/tweets/search/recent?query=Claude+prompts+%28%23ClaudeAI%29+-is%3Aretweet+lang%3Aen&max_results=100&tweet.fields=created_at%2Cauthor_id%2Cpublic_metrics%2Centities
+2026-02-02 13:41:01,517 - search_x_prompts - INFO - [5/5] 搜索: AI writing prompts (#AIWriting) -is:retweet lang:en
+2026-02-02 13:41:01,810 - search_x_prompts - ERROR - 搜索失败 'AI writing prompts (#AIWriting) -is:retweet lang:en': 402 Client Error: Payment Required for url: https://api.twitterapi.io/v2/tweets/search/recent?query=AI+writing+prompts+%28%23AIWriting%29+-is%3Aretweet+lang%3Aen&max_results=100&tweet.fields=created_at%2Cauthor_id%2Cpublic_metrics%2Centities
+2026-02-02 13:41:01,812 - search_x_prompts - INFO - 保存 0 条数据到: /root/clawd/data/prompts/x-search-results.jsonl
+2026-02-02 13:41:01,813 - search_x_prompts - INFO - 从 0 条推文中提取 0 个提示词
+2026-02-02 13:41:01,813 - search_x_prompts - INFO - 保存 0 条数据到: /root/clawd/data/prompts/extracted-prompts.jsonl
+2026-02-02 13:41:01,813 - search_x_prompts - INFO - ================================================================================
+2026-02-02 13:41:01,813 - search_x_prompts - INFO - ✅ 搜索完成！
+2026-02-02 13:41:01,813 - search_x_prompts - INFO - ================================================================================
+2026-02-02 13:41:01,814 - search_x_prompts - INFO - 📊 统计:
+2026-02-02 13:41:01,814 - search_x_prompts - INFO -   搜索查询: 5 个
+2026-02-02 13:41:01,814 - search_x_prompts - INFO -   找到推文: 0 条
+2026-02-02 13:41:01,814 - search_x_prompts - INFO -   提取提示词: 0 个
+2026-02-02 13:41:01,814 - search_x_prompts - INFO - 📁 输出文件:
+2026-02-02 13:41:01,814 - search_x_prompts - INFO -   推文: /root/clawd/data/prompts/x-search-results.jsonl
+2026-02-02 13:41:01,814 - search_x_prompts - INFO -   提示词: /root/clawd/data/prompts/extracted-prompts.jsonl
+2026-02-02 13:41:01,814 - search_x_prompts - INFO -   报告: /root/clawd/data/prompts/x-search-report-20260202-134101.json
+2026-03-04 09:06:34,532 - search_x_prompts - INFO - ================================================================================
+2026-03-04 09:06:34,532 - search_x_prompts - INFO - 🔍 开始搜索 X (Twitter) 获取 AI 提示词（优化版）
+2026-03-04 09:06:34,532 - search_x_prompts - INFO - ================================================================================
+2026-03-04 09:06:34,551 - search_x_prompts - ERROR - 环境变量 TWITTER_API_KEY 未设置
+2026-03-04 09:06:34,551 - search_x_prompts - ERROR - ❌ TWITTER_API_KEY 环境变量未设置
+2026-03-04 09:10:49,826 - search_x_prompts - INFO - ================================================================================
+2026-03-04 09:10:49,826 - search_x_prompts - INFO - 🔍 开始搜索 X (Twitter) 获取 AI 提示词（优化版）
+2026-03-04 09:10:49,826 - search_x_prompts - INFO - ================================================================================
+2026-03-04 09:10:49,849 - search_x_prompts - ERROR - 环境变量 TWITTER_API_KEY 未设置
+2026-03-04 09:10:49,850 - search_x_prompts - ERROR - ❌ TWITTER_API_KEY 环境变量未设置
+2026-03-06 09:01:03,359 - search_x_prompts - INFO - ================================================================================
+2026-03-06 09:01:03,359 - search_x_prompts - INFO - 🔍 开始搜索 X (Twitter) 获取 AI 提示词（优化版）
+2026-03-06 09:01:03,359 - search_x_prompts - INFO - ================================================================================
+2026-03-06 09:01:03,379 - search_x_prompts - ERROR - 环境变量 TWITTER_API_KEY 未设置
+2026-03-06 09:01:03,380 - search_x_prompts - ERROR - ❌ TWITTER_API_KEY 环境变量未设置
+2026-03-08 09:11:31,984 - search_x_prompts - INFO - ================================================================================
+2026-03-08 09:11:31,984 - search_x_prompts - INFO - 🔍 开始搜索 X (Twitter) 获取 AI 提示词（优化版）
+2026-03-08 09:11:31,985 - search_x_prompts - INFO - ================================================================================
+2026-03-08 09:11:32,003 - search_x_prompts - ERROR - 环境变量 TWITTER_API_KEY 未设置
+2026-03-08 09:11:32,004 - search_x_prompts - ERROR - ❌ TWITTER_API_KEY 环境变量未设置
+2026-06-07 09:00:34,615 - search_x_prompts - INFO - ================================================================================
+2026-06-07 09:00:34,616 - search_x_prompts - INFO - 🔍 开始搜索 X (Twitter) 获取 AI 提示词（优化版）
+2026-06-07 09:00:34,616 - search_x_prompts - INFO - ================================================================================
+2026-06-07 09:00:34,636 - search_x_prompts - ERROR - 环境变量 TWITTER_API_KEY 未设置
+2026-06-07 09:00:34,636 - search_x_prompts - ERROR - ❌ TWITTER_API_KEY 环境变量未设置
+2026-06-08 09:00:27,323 - search_x_prompts - INFO - ================================================================================
+2026-06-08 09:00:27,323 - search_x_prompts - INFO - 🔍 开始搜索 X (Twitter) 获取 AI 提示词（优化版）
+2026-06-08 09:00:27,324 - search_x_prompts - INFO - ================================================================================
+2026-06-08 09:00:27,343 - search_x_prompts - ERROR - 环境变量 TWITTER_API_KEY 未设置
+2026-06-08 09:00:27,343 - search_x_prompts - ERROR - ❌ TWITTER_API_KEY 环境变量未设置

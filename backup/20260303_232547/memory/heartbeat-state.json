@@ -1,0 +1,11 @@
+{
+  "lastHeartbeat": "2026-03-03T10:08:00+08:00",
+  "checks": {
+    "contextUsage": {"status": "ok", "usage": "1%", "lastCheck": "2026-03-03T10:07:19+08:00"},
+    "quickReport": {"status": "completed", "time": "2026-03-03T09:00:00+08:00"},
+    "twitterSearch": {"status": "completed", "result": "empty", "time": "2026-03-03T10:06:08+08:00"},
+    "promptWorkflow": {"status": "interrupted", "reason": "SIGTERM", "time": "2026-03-03T10:00:55+08:00"},
+    "achievementCheck": {"status": "completed", "time": "2026-03-03T10:08:23+08:00"}
+  },
+  "notes": "上午心跳检查 - 10:08 | 所有定时任务已处理"
+}

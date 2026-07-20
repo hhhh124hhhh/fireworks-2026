@@ -1,0 +1,964 @@
+{
+  "timestamp": "2026-05-05 08:15:18",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "How OpenAI delivers low-latency voice AI at scale",
+          "score": 231,
+          "author": "Sean-Der",
+          "comments": 89,
+          "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
+        },
+        {
+          "rank": 2,
+          "title": "I am worried about Bun",
+          "score": 378,
+          "author": "remote-dev",
+          "comments": 255,
+          "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://wwj.dev/posts/i-am-worried-about-bun/"
+        },
+        {
+          "rank": 3,
+          "title": "Talking to strangers at the gym",
+          "score": 1083,
+          "author": "thitran",
+          "comments": 515,
+          "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/"
+        },
+        {
+          "rank": 4,
+          "title": "Pulitzer Prize Winners 2026",
+          "score": 61,
+          "author": "brightbeige",
+          "comments": 21,
+          "url": "https://www.pulitzer.org/prize-winners-by-year/2026",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://www.pulitzer.org/prize-winners-by-year/2026"
+        },
+        {
+          "rank": 5,
+          "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+          "score": 158,
+          "author": "bearsyankees",
+          "comments": 70,
+          "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
+        },
+        {
+          "rank": 6,
+          "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
+          "score": 41,
+          "author": "zdw",
+          "comments": 8,
+          "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html"
+        },
+        {
+          "rank": 7,
+          "title": "GameStop makes $55.5B takeover offer for eBay",
+          "score": 629,
+          "author": "n1b0m",
+          "comments": 588,
+          "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do"
+        },
+        {
+          "rank": 8,
+          "title": "Agent Skills",
+          "score": 58,
+          "author": "BOOSTERHIDROGEN",
+          "comments": 11,
+          "url": "https://addyosmani.com/blog/agent-skills/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://addyosmani.com/blog/agent-skills/"
+        },
+        {
+          "rank": 9,
+          "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+          "score": 188,
+          "author": "littlexsparkee",
+          "comments": 182,
+          "url": "https://www.nber.org/papers/w35117",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://www.nber.org/papers/w35117"
+        },
+        {
+          "rank": 10,
+          "title": "Formatting a 25M-line codebase overnight",
+          "score": 105,
+          "author": "r00k",
+          "comments": 56,
+          "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"
+        },
+        {
+          "rank": 11,
+          "title": "Redis array: short story of a long development process",
+          "score": 215,
+          "author": "antirez",
+          "comments": 77,
+          "url": "https://antirez.com/news/164",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://antirez.com/news/164"
+        },
+        {
+          "rank": 12,
+          "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+          "score": 370,
+          "author": "cft",
+          "comments": 140,
+          "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730"
+        },
+        {
+          "rank": 13,
+          "title": "Jonathan Swift's Last Joke",
+          "score": 14,
+          "author": "samizdis",
+          "comments": 1,
+          "url": "https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke"
+        },
+        {
+          "rank": 14,
+          "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
+          "score": 108,
+          "author": "Brajeshwar",
+          "comments": 84,
+          "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/"
+        },
+        {
+          "rank": 15,
+          "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
+          "score": 155,
+          "author": "theazureguy",
+          "comments": 72,
+          "url": "https://www.fuelinsight.co.uk",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://www.fuelinsight.co.uk"
+        },
+        {
+          "rank": 16,
+          "title": "How Monero’s proof of work works",
+          "score": 227,
+          "author": "alcazar",
+          "comments": 175,
+          "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works"
+        },
+        {
+          "rank": 17,
+          "title": "Let's talk about LLMs",
+          "score": 126,
+          "author": "cdrnsf",
+          "comments": 86,
+          "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.b-list.org/weblog/2026/apr/09/llms/"
+        },
+        {
+          "rank": 18,
+          "title": "Pomiferous: The most extensive apples (pommes) database",
+          "score": 95,
+          "author": "Ariarule",
+          "comments": 42,
+          "url": "https://pomiferous.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://pomiferous.com/"
+        },
+        {
+          "rank": 19,
+          "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+          "score": 393,
+          "author": "ZeidJ",
+          "comments": 134,
+          "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/"
+        },
+        {
+          "rank": 20,
+          "title": "Transformers Are Inherently Succinct",
+          "score": 23,
+          "author": "bearseascape",
+          "comments": 5,
+          "url": "https://arxiv.org/abs/2510.19315",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://arxiv.org/abs/2510.19315"
+        },
+        {
+          "rank": 21,
+          "title": "Sierra Raises $950M at $15B Valuation",
+          "score": 82,
+          "author": "doppp",
+          "comments": 107,
+          "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra"
+        },
+        {
+          "rank": 22,
+          "title": "Show HN: I Built a Museum Exhibit",
+          "score": 4,
+          "author": "kn81198",
+          "comments": 0,
+          "url": "https://knhash.in/built-an-exhibit/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://knhash.in/built-an-exhibit/"
+        },
+        {
+          "rank": 23,
+          "title": "Stop big tech from making users behave in ways they don't want to",
+          "score": 204,
+          "author": "andsoitis",
+          "comments": 140,
+          "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to"
+        },
+        {
+          "rank": 24,
+          "title": "Show HN: nfsdiag – A NFS diagnostic application",
+          "score": 36,
+          "author": "lsferreira42",
+          "comments": 3,
+          "url": "https://github.com/lsferreira42/nfsdiag",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://github.com/lsferreira42/nfsdiag"
+        },
+        {
+          "rank": 25,
+          "title": "'Point of no return': New Orleans relocation must start now due to sea level",
+          "score": 64,
+          "author": "dmm",
+          "comments": 37,
+          "url": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis"
+        },
+        {
+          "rank": 26,
+          "title": "Heat pump sales rise across Europe",
+          "score": 198,
+          "author": "doener",
+          "comments": 115,
+          "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/"
+        },
+        {
+          "rank": 27,
+          "title": "The Visible Zorker: Zork 3",
+          "score": 42,
+          "author": "zarlez",
+          "comments": 2,
+          "url": "https://eblong.com/infocom/visi/zork3/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://eblong.com/infocom/visi/zork3/"
+        },
+        {
+          "rank": 28,
+          "title": "Newton's law of gravity passes its biggest test",
+          "score": 133,
+          "author": "pseudolus",
+          "comments": 117,
+          "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever"
+        },
+        {
+          "rank": 29,
+          "title": "A little comparison between R and Kap",
+          "score": 17,
+          "author": "tosh",
+          "comments": 2,
+          "url": "https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap"
+        },
+        {
+          "rank": 30,
+          "title": "“Kitten Space Agency”, a Spiritual Successor to “Kerbal Space Program” (2025)",
+          "score": 139,
+          "author": "Tomte",
+          "comments": 46,
+          "url": "https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview"
+        }
+      ]
+    },
+    "github": {
+      "count": 15,
+      "items": [
+        {
+          "rank": 1,
+          "title": "ruvnet /ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
+          "url": "https://github.com/ruvnet/ruflo",
+          "language": "TypeScript",
+          "stars": 41370,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "TauricResearch /TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "language": "Python",
+          "stars": 67443,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "browserbase /skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "url": "https://github.com/browserbase/skills",
+          "language": "JavaScript",
+          "stars": 2110,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "Hmbown /DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "language": "Rust",
+          "stars": 3912,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "soxoj /maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "url": "https://github.com/soxoj/maigret",
+          "language": "Python",
+          "stars": 24813,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "qbittorrent /qBittorrent",
+          "description": "qBittorrent BitTorrent client",
+          "url": "https://github.com/qbittorrent/qBittorrent",
+          "language": "C++",
+          "stars": 37042,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "czlonkowski /n8n-mcp",
+          "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+          "url": "https://github.com/czlonkowski/n8n-mcp",
+          "language": "TypeScript",
+          "stars": 19904,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "1jehuang /jcode",
+          "description": "Coding Agent Harness",
+          "url": "https://github.com/1jehuang/jcode",
+          "language": "Rust",
+          "stars": 3902,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "msitarzewski /agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "language": "Shell",
+          "stars": 92621,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "virattt /dexter",
+          "description": "An autonomous agent for deep financial research",
+          "url": "https://github.com/virattt/dexter",
+          "language": "TypeScript",
+          "stars": 23192,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "Flowseal /zapret-discord-youtube",
+          "description": "",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "language": "Batchfile",
+          "stars": 27310,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "fspecii /ace-step-ui",
+          "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+          "url": "https://github.com/fspecii/ace-step-ui",
+          "language": "JavaScript",
+          "stars": 2834,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "jellyfin /jellyfin",
+          "description": "The Free Software Media System - Server Backend & API",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "language": "C#",
+          "stars": 51154,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 14,
+          "title": "cocoindex-io /cocoindex",
+          "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+          "url": "https://github.com/cocoindex-io/cocoindex",
+          "language": "Python",
+          "stars": 7997,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 15,
+          "title": "docusealco /docuseal",
+          "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+          "url": "https://github.com/docusealco/docuseal",
+          "language": "Ruby",
+          "stars": 13242,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "v2ex": {
+      "count": 10,
+      "items": [
+        {
+          "rank": 1,
+          "title": "城巴佬——城市中产在消费劳动表演",
+          "replies": 77,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "吐槽一下外卖不送货上门，怎么就成众矢之的了？",
+          "replies": 72,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "做了一个把新闻翻译成股票信号的工具",
+          "replies": 34,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "26 年是 llm 泡沫崩破之年还是又冲高之年？",
+          "replies": 32,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "现在这个形势，推荐备一个 CMHK 的流量卡",
+          "replies": 31,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "大疆 Pocket 4 好难抢，是饥饿营销还是真缺货？",
+          "replies": 30,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "正确使用 claude 的姿势是什么？怎么能降低 Token 消耗",
+          "replies": 29,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "因为炒币合约亏太多了，用 ai 做了一个裸 K 实盘训练的网页，不用登陆欢迎大家来玩",
+          "replies": 28,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "微信输入法这么扯淡都没有切换输入法的选项的吗？",
+          "replies": 25,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "关于失业 关于创业",
+          "replies": 22,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "devto": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Async Rust never left the MVP state",
+          "description": "",
+          "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+          "score": 57,
+          "comments": 7,
+          "tags": [
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions",
+          "description": "",
+          "url": "https://blog.jim-nielsen.com/2026/small-html-pages/",
+          "score": 92,
+          "comments": 34,
+          "tags": [
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Security Advisory: Local privilege escalation in Lix and Nix",
+          "description": "",
+          "url": "https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407",
+          "score": 21,
+          "comments": 0,
+          "tags": [
+            "nix",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Release v0.9.0 · Foxboron/ssh-tpm-agent",
+          "description": "",
+          "url": "https://github.com/Foxboron/ssh-tpm-agent/releases/tag/v0.9.0",
+          "score": 17,
+          "comments": 0,
+          "tags": [
+            "release",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "How LLMs Distort Our Written Language",
+          "description": "",
+          "url": "https://sites.google.com/view/llmwritingdistortion/home",
+          "score": 35,
+          "comments": 7,
+          "tags": [
+            "ai"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Native macOS app to track YouTube channels, no Google login required",
+          "description": "",
+          "url": "https://github.com/agentcooper/Telik",
+          "score": 26,
+          "comments": 18,
+          "tags": [
+            "mac"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Oasis Linux",
+          "description": "",
+          "url": "https://git.sr.ht/~mcf/oasis",
+          "score": 17,
+          "comments": 4,
+          "tags": [
+            "c",
+            "linux",
+            "osdev"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "oops, cubic macro",
+          "description": "",
+          "url": "https://bal-e.org/blog/2026/oops-cubic-macro/",
+          "score": 27,
+          "comments": 3,
+          "tags": [
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Broadcasting GPS on the local network",
+          "description": "",
+          "url": "https://evertpot.com/broadcasting-gps-on-local-network/",
+          "score": 45,
+          "comments": 19,
+          "tags": [
+            "linux"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "I accidentally made law enforcement shut down their stresser honeypot",
+          "description": "",
+          "url": "https://lina.sh/blog/ddos-honeypot",
+          "score": 56,
+          "comments": 3,
+          "tags": [
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Podman rootless containers and the Copy Fail exploit",
+          "description": "",
+          "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+          "score": 4,
+          "comments": 1,
+          "tags": [
+            "linux",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "What are you doing this week?",
+          "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
+          "url": "",
+          "score": 21,
+          "comments": 49,
+          "tags": [
+            "ask",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "Losing Skills",
+          "description": "",
+          "url": "https://noahbogart.com/posts/2026-05-03-losing-skills/",
+          "score": 13,
+          "comments": 2,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "Agentic Coding is a Trap",
+          "description": "",
+          "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+          "score": 59,
+          "comments": 6,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "THEC64 Handheld",
+          "description": "",
+          "url": "https://www.c64os.com/post/thec64handheld",
+          "score": 10,
+          "comments": 2,
+          "tags": [
+            "retrocomputing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Designing microkernel IPC",
+          "description": "",
+          "url": "https://seiya.me/blog/microkernel-ipc-design",
+          "score": 24,
+          "comments": 8,
+          "tags": [
+            "osdev"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Fake Notepad++ for Mac",
+          "description": "",
+          "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+          "score": 67,
+          "comments": 14,
+          "tags": [
+            "editors",
+            "mac",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "the tragedy of gethostbyname (2022)",
+          "description": "",
+          "url": "https://ariadne.space/2022/03/26/the-tragedy-of-gethostbyname.html",
+          "score": 9,
+          "comments": 11,
+          "tags": [
+            "linux",
+            "networking"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Nondeterminism's not the problem",
+          "description": "",
+          "url": "https://isaacvando.com/nondeterminisms-not-the-problem",
+          "score": 5,
+          "comments": 1,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "uutils coreutils CVEs",
+          "description": "",
+          "url": "https://seclists.org/oss-sec/2026/q2/332",
+          "score": 5,
+          "comments": 1,
+          "tags": [
+            "rust",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "devto: failed to grab"
+  ],
+  "summary": {
+    "total": 75,
+    "hackernews": 30,
+    "github": 15,
+    "v2ex": 10,
+    "lobsters": 20
+  }
+}

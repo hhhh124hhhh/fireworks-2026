@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-07 01:03:55",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Cookify: Turning a Broken Prototype into a Real AI Recipe App",
+          "description": "<p><em>This is a submission for the <a href=\"https://dev.to/challenges/github-2026-05-21\">GitHub Finish-Up-A-Thon Challenge</a></em></p>\n\n<h2>\n  \n  \n  What I Built\n</h2>\n\n<p>I rebuilt Cookify from an ",
+          "url": "https://dev.to/codewithmanohar/cookify-turning-a-broken-prototype-into-a-real-ai-recipe-app-1ak6",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Search Configuration Management in OpenSearch: Tuning Search Without Deploying Code",
+          "description": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Every engineering team has been there. A product manager says the search results are \"off.\" Users are complaining. Someone suggests tweaking the field boost or addi",
+          "url": "https://dev.to/iprithv/search-configuration-management-in-opensearch-tuning-search-without-deploying-code-2dni",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "AI Agents: The Future of Autonomous Intelligence",
+          "description": "<h1>\n  \n  \n  AI Agents: The Future of Autonomous Intelligence\n</h1>\n\n<h2>\n  \n  \n  What is an AI Agent?\n</h2>\n\n<p>An AI Agent is a system that perceives its environment, makes decisions, and takes acti",
+          "url": "https://dev.to/kielltampubolon/ai-agents-the-future-of-autonomous-intelligence-onp",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "CloakBrowser MCP: Playwright MCP tools with a CloakBrowser Chromium runtime",
+          "description": "<p>Browser automation is becoming one of the most useful tool categories for AI agents.</p>\n\n<p>If an agent can open a page, inspect the accessibility tree, click buttons, fill forms, read console out",
+          "url": "https://dev.to/swimmwatch/cloakbrowser-mcp-playwright-mcp-tools-with-a-cloakbrowser-chromium-runtime-3ec8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "7 CLAUDE.md Anti-Patterns That Are Killing Your Claude Code Output",
+          "description": "<p>If you use Claude Code, you probably have a CLAUDE.md. But most CLAUDE.md files I've seen actually hurt output quality more than they help.</p>\n\n<p>Here are the 7 most common anti-patterns — and wh",
+          "url": "https://dev.to/alfredolab/7-claudemd-anti-patterns-that-are-killing-your-claude-code-output-2imd",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "84% of crypto traders lost money last year. Their analysis wasn't the problem.",
+          "description": "<p>Start with the number, because the number is the whole argument. An August 2025 survey of more than 1,000 retail crypto traders found that <a href=\"https://coinbureau.com/education/crypto-trading-p",
+          "url": "https://dev.to/jerry_chen_dbaa6838e17336/84-of-crypto-traders-lost-money-last-year-their-analysis-wasnt-the-problem-4o3l",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Your trading bot automated the wrong thing",
+          "description": "<p>Ask someone why their trading bot lost money and you'll get a story about the signal. The RSI threshold was off. The moving-average crossover was too slow. So they tune the entry again, like the en",
+          "url": "https://dev.to/jerry_chen_dbaa6838e17336/your-trading-bot-automated-the-wrong-thing-13m7",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "I watched 351,000 traders get liquidated in a day. Here's the part that actually matters.",
+          "description": "<p>On June 5, 2026, Bitcoin printed a $59,100 low and a single 24-hour window erased more than 351,000 leveraged accounts. Most people called it a crash. I don't think that word explains anything.</p>",
+          "url": "https://dev.to/jerry_chen_dbaa6838e17336/i-watched-351000-traders-get-liquidated-in-a-day-heres-the-part-that-actually-matters-c17",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Even BlackRock stopped trusting a single AI model. Retail traders should take the hint.",
+          "description": "<p>Open any crypto channel and you'll hear the same argument on repeat. Which model is smartest. Which indicator actually works. Who's got the one signal that prints. The whole conversation assumes a ",
+          "url": "https://dev.to/jerry_chen_dbaa6838e17336/even-blackrock-stopped-trusting-a-single-ai-model-retail-traders-should-take-the-hint-55c0",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "We automated the easy half of trading and called it a trader",
+          "description": "<p>Here's the part everyone keeps skipping. The AI-agent trading boom is not a scam, and it is not vaporware. There are agents in production right now signing transactions, paying for compute, and mov",
+          "url": "https://dev.to/jerry_chen_dbaa6838e17336/we-automated-the-easy-half-of-trading-and-called-it-a-trader-36bh",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Multicloud Execution Portability: Abstracting AWS DynamoDB and Azure Cosmos DB via Hexagonal Architecture",
+          "description": "<p>Monolithic data access layers inherently bind compute execution to a specific cloud provider's proprietary database SDK. When an enterprise application tightly couples its business logic to Amazon ",
+          "url": "https://dev.to/sertaoseracloud/multicloud-execution-portability-abstracting-aws-dynamodb-and-azure-cosmos-db-via-hexagonal-3h33",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Excel and Real-World Data Analysis - What I Learned in Week 1",
+          "description": "<p>To be honest, when I signed up for a Data Science and Analytics course, it hadn't crossed my mind that Excel was the very first tool I would start with. I figured we'd jump straight into dashboards",
+          "url": "https://dev.to/sndili/excel-and-real-world-data-analysis-what-i-learned-in-week-1-4h0",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

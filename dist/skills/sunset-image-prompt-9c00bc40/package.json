@@ -1,0 +1,28 @@
+{
+  "name": "Sunset Image Prompt",
+  "version": "1.0.0",
+  "description": "Generate a high-quality image of a sunset over mountains",
+  "main": "SKILL.md",
+  "keywords": [
+    "ai",
+    "prompt",
+    "image-generation"
+  ],
+  "author": "Clawdbot",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "SKILL.md",
+    "assets",
+    "references",
+    "scripts"
+  ],
+  "type": "Image Generation",
+  "source": "test",
+  "url": "http://test.com/1",
+  "quality_score": 65,
+  "content_hash": "9c00bc4050455a496781530ba9ba6cfb",
+  "created_at": "2026-02-05T09:43:10.513204"
+}

@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-03-26T08:36:10.089608",
+  "source": "../workspace-shared/topics/topics-pool-20260326-0830.md",
+  "summary": {
+    "P0": 2,
+    "P1": 7,
+    "P2": 3,
+    "SKIP": 0
+  },
+  "topics": {
+    "P0": [
+      {
+        "title": "AI 替代高考志愿填报咨询",
+        "heat": null,
+        "tags": [
+          "职场焦虑 (替代)",
+          "知乎 TOP9"
+        ],
+        "priority_score": 40
+      },
+      {
+        "title": "90% 的 Claude 代码输出流向低星 GitHub 仓库",
+        "heat": null,
+        "tags": [
+          "具体数字 (90%)",
+          "知乎 TOP1"
+        ],
+        "priority_score": 35
+      }
+    ],
+    "P1": [
+      {
+        "title": "Sora 即将停止服务，AI 视频生成赛道洗牌",
+        "heat": null,
+        "tags": [
+          "知乎 TOP1"
+        ],
+        "priority_score": 20
+      },
+      {
+        "title": "ARC-AGI-3 发布：通用人工智能新基准",
+        "heat": null,
+        "tags": [
+          "知乎 TOP2"
+        ],
+        "priority_score": 20
+      },
+      {
+        "title": "AI 编码助手数据使用政策更新 (GitHub Copilot)",
+        "heat": null,
+        "tags": [
+          "知乎 TOP3"
+        ],
+        "priority_score": 20
+      },
+      {
+        "title": "TurboQuant：Google 推出极端 AI 压缩技术",
+        "heat": null,
+        "tags": [
+          "知乎 TOP4"
+        ],
+        "priority_score": 20
+      },
+      {
+        "title": "本地 LLM 应用 Ensu 发布",
+        "heat": null,
+        "tags": [
+          "知乎 TOP5"
+        ],
+        "priority_score": 20
+      },
+      {
+        "title": "美军 AI 决策失误导致导弹误击",
+        "heat": null,
+        "tags": [
+          "知乎 TOP1"
+        ],
+        "priority_score": 20
+      },
+      {
+        "title": "量子化技术从基础讲起",
+        "heat": null,
+        "tags": [
+          "知乎 TOP1"
+        ],
+        "priority_score": 20
+      }
+    ],
+    "P2": [
+      {
+        "title": "AI 编码 Agent 编排工具 Optio",
+        "heat": null,
+        "tags": [
+          "知乎 TOP6"
+        ],
+        "priority_score": 15
+      },
+      {
+        "title": "Claude Code 纯文本认知架构",
+        "heat": null,
+        "tags": [
+          "知乎 TOP7"
+        ],
+        "priority_score": 15
+      },
+      {
+        "title": "新西兰卫生部禁止用 ChatGPT 写临床笔记",
+        "heat": null,
+        "tags": [
+          "知乎 TOP8"
+        ],
+        "priority_score": 15
+      }
+    ]
+  }
+}

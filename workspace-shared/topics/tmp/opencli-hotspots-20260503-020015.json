@@ -1,0 +1,799 @@
+{
+  "timestamp": "2026-05-03 02:00:15",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
+          "score": 45,
+          "author": "nickvec",
+          "comments": 57,
+          "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/"
+        },
+        {
+          "rank": 2,
+          "title": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
+          "score": 28,
+          "author": "JeanKage",
+          "comments": 2,
+          "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade"
+        },
+        {
+          "rank": 3,
+          "title": "Barman – Backup and Recovery Manager for PostgreSQL",
+          "score": 82,
+          "author": "nateb2022",
+          "comments": 14,
+          "url": "https://github.com/EnterpriseDB/barman",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://github.com/EnterpriseDB/barman"
+        },
+        {
+          "rank": 4,
+          "title": "How fast is a macOS VM, and how small could it be?",
+          "score": 177,
+          "author": "moosia",
+          "comments": 66,
+          "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/"
+        },
+        {
+          "rank": 5,
+          "title": "Why does it take so long to release black fan versions?",
+          "score": 579,
+          "author": "buildbot",
+          "comments": 247,
+          "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions"
+        },
+        {
+          "rank": 6,
+          "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+          "score": 292,
+          "author": "laurex",
+          "comments": 137,
+          "url": "https://arxiv.org/abs/2509.00462",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://arxiv.org/abs/2509.00462"
+        },
+        {
+          "rank": 7,
+          "title": "Refusal in Language Models Is Mediated by a Single Direction",
+          "score": 40,
+          "author": "fagnerbrack",
+          "comments": 14,
+          "url": "https://arxiv.org/abs/2406.11717",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://arxiv.org/abs/2406.11717"
+        },
+        {
+          "rank": 8,
+          "title": "Why are there both TMP and TEMP environment variables? (2015)",
+          "score": 154,
+          "author": "ankitg12",
+          "comments": 74,
+          "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213"
+        },
+        {
+          "rank": 9,
+          "title": "Ask HN: Is the Job Market Actually Bad?",
+          "score": 17,
+          "author": "idontwantthis",
+          "comments": 20,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008"
+        },
+        {
+          "rank": 10,
+          "title": "America's Expanding Domestic Surveillance",
+          "score": 90,
+          "author": "Brajeshwar",
+          "comments": 43,
+          "url": "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187"
+        },
+        {
+          "rank": 11,
+          "title": "Open Design: Use Your Coding Agent as a Design Engine",
+          "score": 117,
+          "author": "steveharing1",
+          "comments": 71,
+          "url": "https://github.com/nexu-io/open-design",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://github.com/nexu-io/open-design"
+        },
+        {
+          "rank": 12,
+          "title": "Dotcl: Common Lisp Implementation on .NET",
+          "score": 118,
+          "author": "reikonomusha",
+          "comments": 21,
+          "url": "https://github.com/dotcl/dotcl",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://github.com/dotcl/dotcl"
+        },
+        {
+          "rank": 13,
+          "title": "Zugzwang",
+          "score": 60,
+          "author": "Qem",
+          "comments": 29,
+          "url": "https://en.wikipedia.org/wiki/Zugzwang",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://en.wikipedia.org/wiki/Zugzwang"
+        },
+        {
+          "rank": 14,
+          "title": "Ti-84 Evo",
+          "score": 538,
+          "author": "thatxliner",
+          "comments": 440,
+          "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo"
+        },
+        {
+          "rank": 15,
+          "title": "Show HN: Pollen – distributed WASM runtime, no control plane, single binary",
+          "score": 71,
+          "author": "sambigeara",
+          "comments": 36,
+          "url": "https://github.com/sambigeara/pollen",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://github.com/sambigeara/pollen"
+        },
+        {
+          "rank": 16,
+          "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+          "score": 76,
+          "author": "karakanb",
+          "comments": 22,
+          "url": "https://github.com/bruin-data/dac",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://github.com/bruin-data/dac"
+        },
+        {
+          "rank": 17,
+          "title": "Artemis II Photo Timeline",
+          "score": 305,
+          "author": "geerlingguy",
+          "comments": 25,
+          "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003"
+        },
+        {
+          "rank": 18,
+          "title": "New research suggests people can communicate and practice skills while dreaming",
+          "score": 416,
+          "author": "XzetaU8",
+          "comments": 244,
+          "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we"
+        },
+        {
+          "rank": 19,
+          "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+          "score": 53,
+          "author": "pplonski86",
+          "comments": 11,
+          "url": "https://mljar.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://mljar.com/"
+        },
+        {
+          "rank": 20,
+          "title": "DeepSeek V4–almost on the frontier, a fraction of the price",
+          "score": 373,
+          "author": "indigodaddy",
+          "comments": 239,
+          "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/"
+        },
+        {
+          "rank": 21,
+          "title": "Craig Venter of Human Genome Project Dies at 79",
+          "score": 46,
+          "author": "bookofjoe",
+          "comments": 10,
+          "url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome"
+        },
+        {
+          "rank": 22,
+          "title": "To Restore an Island Paradise, Add Fungi",
+          "score": 117,
+          "author": "Brajeshwar",
+          "comments": 32,
+          "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi"
+        },
+        {
+          "rank": 23,
+          "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+          "score": 7,
+          "author": "1vuio0pswjnm7",
+          "comments": 0,
+          "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html"
+        },
+        {
+          "rank": 24,
+          "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+          "score": 34,
+          "author": "holg",
+          "comments": 11,
+          "url": "https://iesna.eu/?wasm=skyglow_demo",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://iesna.eu/?wasm=skyglow_demo"
+        },
+        {
+          "rank": 25,
+          "title": "SFO Gate Explorer",
+          "score": 30,
+          "author": "CaliforniaKarl",
+          "comments": 31,
+          "url": "https://www.flysfo.com/passengers/services/gate-explorer",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://www.flysfo.com/passengers/services/gate-explorer"
+        },
+        {
+          "rank": 26,
+          "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+          "score": 42,
+          "author": "nip",
+          "comments": 21,
+          "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en"
+        },
+        {
+          "rank": 27,
+          "title": "An unknown Sega Saturn project has come to light after 29 years",
+          "score": 82,
+          "author": "bbayles",
+          "comments": 2,
+          "url": "https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://32bits.substack.com/p/under-the-microscope-pyramid-unreleased"
+        },
+        {
+          "rank": 28,
+          "title": "CollectWise (YC F24) Is Hiring",
+          "score": 1,
+          "author": "OBrien_1107",
+          "url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer"
+        },
+        {
+          "rank": 29,
+          "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+          "score": 186,
+          "author": "proberts",
+          "comments": 233,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028"
+        },
+        {
+          "rank": 30,
+          "title": "Ask.com has closed",
+          "score": 404,
+          "author": "supermdguy",
+          "comments": 206,
+          "url": "https://www.ask.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://www.ask.com/"
+        }
+      ]
+    },
+    "github": {
+      "count": 8,
+      "items": [
+        {
+          "rank": 1,
+          "title": "TauricResearch /TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "language": "Python",
+          "stars": 61784,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "ruvnet /ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
+          "url": "https://github.com/ruvnet/ruflo",
+          "language": "TypeScript",
+          "stars": 36293,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "browserbase /skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "url": "https://github.com/browserbase/skills",
+          "language": "JavaScript",
+          "stars": 1421,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "soxoj /maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "url": "https://github.com/soxoj/maigret",
+          "language": "Python",
+          "stars": 22404,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "Flowseal /zapret-discord-youtube",
+          "description": "",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "language": "Batchfile",
+          "stars": 27077,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "1jehuang /jcode",
+          "description": "Coding Agent Harness",
+          "url": "https://github.com/1jehuang/jcode",
+          "language": "Rust",
+          "stars": 2702,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "ShareX /ShareX",
+          "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t",
+          "url": "https://github.com/ShareX/ShareX",
+          "language": "C#",
+          "stars": 36676,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "jwasham /coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "language": "",
+          "stars": 344394,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "I Do Not Recommend Bitwarden",
+          "description": "",
+          "url": "https://マリウス.com/i-do-not-recommend-bitwarden/",
+          "score": 46,
+          "comments": 38,
+          "tags": [
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Why TUIs are back",
+          "description": "",
+          "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
+          "score": 13,
+          "comments": 44,
+          "tags": [
+            "design"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Screw you Realtek",
+          "description": "",
+          "url": "https://www.growse.com/2026/05/02/screw-you-realtek.html",
+          "score": 20,
+          "comments": 3,
+          "tags": [
+            "linux",
+            "networking"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Inverse Sapir-Whorf and programming languages",
+          "description": "",
+          "url": "https://lukeplant.me.uk/blog/posts/inverse-sapir-whorf-and-programming-languages/",
+          "score": 48,
+          "comments": 14,
+          "tags": [
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "combat LLM spam by building a web of trust",
+          "description": "",
+          "url": "https://blog.tangled.org/vouching/",
+          "score": 40,
+          "comments": 32,
+          "tags": [
+            "vcs"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "What Conferences are You Excited to Attend in the Next 12 Months?",
+          "description": "<p>I've let conference attendance slide in the last few years (last was ElixirConf 2023), and would like to get back in the habit. I value them from a professional development/community POV. I've even got a trip to Europe planned in the next year and could dovetail that--since I'm suspecting that the \"good conferences\" are happening more and more outside of the states.</p>\n",
+          "url": "",
+          "score": 30,
+          "comments": 28,
+          "tags": [
+            "event"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "What fun websites do you know?",
+          "description": "<p>Many of us know the classics, such as:</p>\n<ul>\n<li>zombo.com (RIP <a href=\"https://en.wikipedia.org/wiki/Zombo.com\" rel=\"ugc\">https://en.wikipedia.org/wiki/Zombo.com</a>)</li>\n<li>\n<a href=\"https://www.penisland.net/\" rel=\"ugc\">https://www.penisland.net/</a> (its SFW, I promise!)</li>\n<li>crouton.net (this seems to be down? :( Heres how it looks like though <a href=\"https://protoweb.org/2024/01/28/crouton-net/\" rel=\"ugc\">https://protoweb.org/2024/01/28/crouton-net/</a> )</li>\n</ul>\n<p>But what else is there? What are some of the silly fun sites you know about? It doesn't need to make sense. Just.. Fun. Whimsy.</p>\n",
+          "url": "",
+          "score": 4,
+          "comments": 2,
+          "tags": [
+            "ask",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Why I Don’t Vibe Code",
+          "description": "",
+          "url": "https://jacobharr.is/personal/i-dont-vibe-code",
+          "score": 70,
+          "comments": 16,
+          "tags": [
+            "practices",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "stackless coroutines for gamedev in ~200 lines of C++",
+          "description": "",
+          "url": "https://vittorioromeo.com/index/blog/sfex_coroutine.html",
+          "score": 14,
+          "comments": 2,
+          "tags": [
+            "c++",
+            "games"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Reducing ML-KEM-768 encapsulation key sizes by 24 octets",
+          "description": "",
+          "url": "https://runxiyu.org/comp/mlkem768pack/",
+          "score": 7,
+          "comments": 3,
+          "tags": [
+            "cryptography"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "A Letter from Dijkstra on APL(1982)",
+          "description": "",
+          "url": "https://www.jsoftware.com/papers/Dijkstra_Letter.htm",
+          "score": 7,
+          "comments": 0,
+          "tags": [
+            "apl",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Kirigami forms and configurations",
+          "description": "",
+          "url": "https://notmart.org/blog/2026/04/kirigami-forms-and-configurations/",
+          "score": 6,
+          "comments": 1,
+          "tags": [
+            "design",
+            "graphics"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "A Programmer's Guide to COMMON LISP (1987)",
+          "description": "",
+          "url": "https://archive.org/details/a-programmers-guide-to-common-lisp",
+          "score": 8,
+          "comments": 1,
+          "tags": [
+            "book",
+            "lisp"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "Protect Your Shed",
+          "description": "",
+          "url": "https://dylanbutler.dev/blog/protect-your-shed/",
+          "score": 8,
+          "comments": 0,
+          "tags": [
+            "practices",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Servers with Personality",
+          "description": "",
+          "url": "https://caolan.uk/links/servers/",
+          "score": 5,
+          "comments": 1,
+          "tags": [
+            "hardware",
+            "networking"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "A life update from Zach Oakes: Zig, AI, unemployment, and more",
+          "description": "<p>Zach Oakes, who some of you might know from his many Clojure projects, disappeared for a while.  He recently posted this and a couple of videos about what he's been up to and his VCS system.</p>\n",
+          "url": "https://www.youtube.com/watch?v=DhhPUrizZcw",
+          "score": 52,
+          "comments": 7,
+          "tags": [
+            "person",
+            "video"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Agentic Coding is Burning Me Out",
+          "description": "",
+          "url": "https://0xsid.com/blog/agentic-coding-fatigue",
+          "score": 2,
+          "comments": 1,
+          "tags": [
+            "programming",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "PEP 661 – Sentinel Values, accepted 5 years later",
+          "description": "",
+          "url": "https://peps.python.org/pep-0661/",
+          "score": 1,
+          "comments": 0,
+          "tags": [
+            "python"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Libera Bot/LLM policy update",
+          "description": "",
+          "url": "https://libera.chat/news/bot-policy-update",
+          "score": 9,
+          "comments": 0,
+          "tags": [
+            "culture",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "fast16 | High-Precision Software Sabotage 5 Years Before Stuxnet",
+          "description": "",
+          "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+          "score": 6,
+          "comments": 0,
+          "tags": [
+            "historical",
+            "reversing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 58,
+    "hackernews": 30,
+    "github": 8,
+    "lobsters": 20
+  }
+}

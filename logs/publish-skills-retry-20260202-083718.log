@@ -1,0 +1,99 @@
+[2026-02-02 08:37:18] ==========================================
+[2026-02-02 08:37:18] 📦 逐个发布 Skills 到 ClawdHub（带重试）
+[2026-02-02 08:37:18] ==========================================
+[2026-02-02 08:37:18] 
+[0;32m[INFO][0m 配置信息:
+[2026-02-02 08:37:18]   Dist 目录: /root/clawd/dist
+[2026-02-02 08:37:18]   Registry: https://www.clawhub.ai/api
+[2026-02-02 08:37:18]   最大重试次数: 3（指数退避，最大 60 秒）
+[2026-02-02 08:37:18]   发布间隔: 5 秒
+[2026-02-02 08:37:18] 
+[0;32m[INFO][0m 找到 20 个 .skill 文件
+[2026-02-02 08:37:18] 
+[0;32m[INFO][0m 📦 处理: ai-from-trueslazac
+[0;32m[INFO][0m 尝试 1/3: 发布 ai-from-trueslazac
+[0;32m[INFO][0m ✓ 成功发布: ai-from-trueslazac
+[0;32m[INFO][0m 📦 处理: ai-genie-3-game-prompts
+[0;32m[INFO][0m 尝试 1/3: 发布 ai-genie-3-game-prompts
+[0;32m[INFO][0m ✓ 成功发布: ai-genie-3-game-prompts
+[0;32m[INFO][0m 📦 处理: ai-music-prompts
+[0;32m[INFO][0m 尝试 1/3: 发布 ai-music-prompts
+[0;34m[SKIP][0m ⏭️  已存在，跳过: ai-music-prompts
+[0;32m[INFO][0m 📦 处理: ai-portrait-generator
+[0;32m[INFO][0m 尝试 1/3: 发布 ai-portrait-generator
+[0;34m[SKIP][0m ⏭️  已存在，跳过: ai-portrait-generator
+[0;32m[INFO][0m 📦 处理: akkadian-noun-analyzer
+[0;32m[INFO][0m 尝试 1/3: 发布 akkadian-noun-analyzer
+[0;32m[INFO][0m ✓ 成功发布: akkadian-noun-analyzer
+[0;32m[INFO][0m 📦 处理: gaussian-process-mlp-hybrid
+[0;32m[INFO][0m 尝试 1/3: 发布 gaussian-process-mlp-hybrid
+[0;32m[INFO][0m ✓ 成功发布: gaussian-process-mlp-hybrid
+[0;32m[INFO][0m 📦 处理: gemini-nano-banana-pro-portraits
+[0;32m[INFO][0m 尝试 1/3: 发布 gemini-nano-banana-pro-portraits
+[0;32m[INFO][0m ✓ 成功发布: gemini-nano-banana-pro-portraits
+[0;32m[INFO][0m 📦 处理: google-imagen-3-hyperrealistic-landscape
+[0;32m[INFO][0m 尝试 1/3: 发布 google-imagen-3-hyperrealistic-landscape
+[0;32m[INFO][0m ✓ 成功发布: google-imagen-3-hyperrealistic-landscape
+[0;32m[INFO][0m 📦 处理: google-imagen-3-portrait-photography
+[0;32m[INFO][0m 尝试 1/3: 发布 google-imagen-3-portrait-photography
+[0;32m[INFO][0m ✓ 成功发布: google-imagen-3-portrait-photography
+[0;32m[INFO][0m 📦 处理: google-veo-dynamic-city-nightview
+[0;32m[INFO][0m 尝试 1/3: 发布 google-veo-dynamic-city-nightview
+[0;32m[INFO][0m ✓ 成功发布: google-veo-dynamic-city-nightview
+[0;32m[INFO][0m 📦 处理: langchain-chat-prompt-template
+[0;32m[INFO][0m 尝试 1/3: 发布 langchain-chat-prompt-template
+[0;32m[INFO][0m ✓ 成功发布: langchain-chat-prompt-template
+[0;32m[INFO][0m 📦 处理: merc-income-guide
+[0;32m[INFO][0m 尝试 1/3: 发布 merc-income-guide
+[0;34m[SKIP][0m ⏭️  已存在，跳过: merc-income-guide
+[0;32m[INFO][0m 📦 处理: prompt-from-lexx-aura
+[0;32m[INFO][0m 尝试 1/3: 发布 prompt-from-lexx-aura
+[0;32m[INFO][0m ✓ 成功发布: prompt-from-lexx-aura
+[0;32m[INFO][0m 📦 处理: reddit-job-posting-templates
+[0;32m[INFO][0m 尝试 1/3: 发布 reddit-job-posting-templates
+[0;32m[INFO][0m ✓ 成功发布: reddit-job-posting-templates
+[0;32m[INFO][0m 📦 处理: reddit-nlp-research-problems
+[0;32m[INFO][0m 尝试 1/3: 发布 reddit-nlp-research-problems
+[0;32m[INFO][0m ✓ 成功发布: reddit-nlp-research-problems
+[0;32m[INFO][0m 📦 处理: self-taught-ml-career-path
+[0;32m[INFO][0m 尝试 1/3: 发布 self-taught-ml-career-path
+[0;32m[INFO][0m ✓ 成功发布: self-taught-ml-career-path
+[0;32m[INFO][0m 📦 处理: sora-2-futuristic-tech-showcase
+[0;32m[INFO][0m 尝试 1/3: 发布 sora-2-futuristic-tech-showcase
+[0;32m[INFO][0m ✓ 成功发布: sora-2-futuristic-tech-showcase
+[0;32m[INFO][0m 📦 处理: sora-2-nature-documentary
+[0;32m[INFO][0m 尝试 1/3: 发布 sora-2-nature-documentary
+[0;32m[INFO][0m ✓ 成功发布: sora-2-nature-documentary
+[0;32m[INFO][0m 📦 处理: sora-2-superhero-movie
+[0;32m[INFO][0m 尝试 1/3: 发布 sora-2-superhero-movie
+[0;32m[INFO][0m ✓ 成功发布: sora-2-superhero-movie
+[0;32m[INFO][0m 📦 处理: style-transfer
+[0;32m[INFO][0m 尝试 1/3: 发布 style-transfer
+[0;34m[SKIP][0m ⏭️  已存在，跳过: style-transfer
+[2026-02-02 08:39:59] 
+[2026-02-02 08:39:59] ==========================================
+[2026-02-02 08:39:59] 📊 发布统计
+[2026-02-02 08:39:59] ==========================================
+[0;32m[INFO][0m ✅ 成功: 16
+[0;34m[SKIP][0m ⏭️  跳过（已存在）: 4
+[0;31m[ERROR][0m ❌ 失败: 0
+[0;36m[RETRY][0m 🔄 重试次数: 0
+[2026-02-02 08:39:59] 
+[0;34m[SKIP][0m 跳过的 Skills（已存在）:
+[2026-02-02 08:39:59]   - ai-music-prompts
+[2026-02-02 08:39:59]   - ai-portrait-generator
+[2026-02-02 08:39:59]   - merc-income-guide
+[2026-02-02 08:39:59]   - style-transfer
+[2026-02-02 08:39:59] 
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+[info]: [ 'client ready' ]
+✅ Sent via Feishu. Message ID: om_x100b58cb687e34b4b4bf58011c7a6bc (chat ou_3bc5290afc1a94f38e23dc17c35f26d6)
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+✅ Sent via Slack. Message ID: 1769992822.183899
+[2026-02-02 08:40:22] 
+[2026-02-02 08:40:22] ==========================================
+[2026-02-02 08:40:22] ✅ 完成
+[2026-02-02 08:40:22] ==========================================
+[2026-02-02 08:40:22] 
+[2026-02-02 08:40:22] 日志文件: /root/clawd/logs/publish-skills-retry-20260202-083718.log
+[2026-02-02 08:40:22] 

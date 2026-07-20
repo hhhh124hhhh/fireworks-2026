@@ -1,0 +1,23 @@
+# Daily Memory - 2026-06-12
+
+## 深夜检查 (02:00)
+- 时间: Fri Jun 12 02:01:22 CST 2026
+- 上下文使用率: 1% (正常)
+- 子代理状态: 无活动子代理
+- 审查代理: 未运行
+- AI 研究搜索: 已于昨日 04:00 执行，因搜索引擎不可用返回 0 结果
+
+## 9:00 AM 定时任务
+
+### 1. 快速统计报告
+- 状态: ❌ 失败
+- 原因: Slack 配置错误 - Lark plugin manifest not found
+- 错误: `/root/.clawdbot/extensions/openclaw-lark/clawdbot.plugin.json` 不存在
+- 影响: 无法发送 Slack 报告
+
+### 2. AI 提示词自动化流程
+- 状态: ⚠️ 完成（有错误）
+- 数据收集: 2 条（无有效提示词）
+- Git push: 失败（non-fast-forward，远程有本地没有的提交）
+- 通知: Slack/Feishu 均失败（同一插件配置问题）
+- 生成报告: `/root/clawd/reports/workflow-report-2026-06-12-0900.md`

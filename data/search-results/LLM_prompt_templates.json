@@ -1,0 +1,525 @@
+{
+  "query": "LLM prompt templates",
+  "results": [
+    {
+      "template": "default.html",
+      "url": "https://www.reddit.com/r/PromptEngineering/comments/1lnsu1q/a_universal_prompt_template_to_improve_llm/",
+      "title": "r/PromptEngineering on Reddit: A universal prompt template to improve LLM responses: just fill it out and get clearer answers",
+      "content": "",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.reddit.com",
+        "/r/PromptEngineering/comments/1lnsu1q/a_universal_prompt_template_to_improve_llm/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        1
+      ],
+      "score": 1,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.promptingguide.ai/introduction/examples",
+      "title": "Examples of Prompts | Prompt Engineering Guide",
+      "content": "Here is an example of a prompt that extracts information from a given paragraph. ... Author-contribution statements and acknowledgements in research papers should state clearly and specifically whether, and to what extent, the authors used AI technologies such as ChatGPT in the preparation of their manuscript and analysis. They should also indicate which LLMs ...",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.promptingguide.ai",
+        "/introduction/examples",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        4
+      ],
+      "score": 0.25,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://llm.datasette.io/en/stable/templates.html",
+      "title": "Templates - LLM",
+      "content": "--save name-of-template command ... (content that is either piped to the tool via standard input or passed as a command-line argument) can use the $input variable....",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "llm.datasette.io",
+        "/en/stable/templates.html",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        5
+      ],
+      "score": 0.2,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://docs.langchain.com/langsmith/prompt-engineering-concepts",
+      "title": "Prompt engineering concepts - Docs by LangChain",
+      "content": "Prompt templates allow you to create reusable prompts with dynamic placeholders that get filled in at runtime. Instead of hardcoding values, you define variables that LangSmith replaces with different inputs each time you run your prompt.",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "docs.langchain.com",
+        "/langsmith/prompt-engineering-concepts",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        8
+      ],
+      "score": 0.125,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.codecademy.com/article/getting-started-with-lang-chain-prompt-templates",
+      "title": "Getting Started with LangChain Prompt Templates | Codecademy",
+      "content": "For example, we can use the same ... the model. The LangChain framework provides the PromptTemplate module to help us create prompts dynamically and achieve flexibility in giving instructions to the LLM models....",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.codecademy.com",
+        "/article/getting-started-with-lang-chain-prompt-templates",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        13
+      ],
+      "score": 0.07692307692307693,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://arxiv.org/html/2504.02052v2",
+      "title": "From Prompts to Templates: A Systematic Prompt Template Analysis for Real-world LLMapps",
+      "content": "Unlike traditional software development ... facilitating user-LLM interaction by designing lightweight prompt templates which is a predefined structure that combines static text with dynamic placeholders, allowing developers to create adaptable prompts for LLMapps (Google Cloud, ...",
+      "publishedDate": "2025-09-27T00:00:00",
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "arxiv.org",
+        "/html/2504.02052v2",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        19
+      ],
+      "score": 0.05263157894736842,
+      "category": "general",
+      "pubdate": "2025-09-27 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.pinecone.io/learn/series/langchain/langchain-prompt-templates/",
+      "title": "Prompt Engineering and LLMs with Langchain | Pinecone",
+      "content": "from langchain import PromptTemplate ... the information provided answer with \"I don't know\". Context: Large Language Models (LLMs) are the latest models used in NLP....",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/gW7CH0MuxcmTT6kaoh6ZE33LbLQIiHR_mdytxS53LCE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cGluZWNvbmUuaW8v/YXBpL29nLz90aXRs/ZT1Qcm9tcHQlMjBF/bmdpbmVlcmluZyUy/MGFuZCUyMExMTXMl/MjB3aXRoJTIwTGFu/Z2NoYWluJmFtcDtj/YXRlZ29yeT1MZWFy/bg",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.pinecone.io",
+        "/learn/series/langchain/langchain-prompt-templates/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        2
+      ],
+      "score": 0.5,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompt-templates-and-variables",
+      "title": "Use prompt templates and variables - Claude API Docs",
+      "content": "Prompt generator: Decides what variables your prompt needs and includes them in the template it outputs",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/1tzgdGggp_bbpSn04JW__5K9QenYqXITkKYYsWAFkzc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wbGF0/Zm9ybS5jbGF1ZGUu/Y29tL2RvY3Mvb2c_/bG9jYWxlPWVuJmFt/cDtwYXRoPWJ1aWxk/LXdpdGgtY2xhdWRl/L3Byb21wdC1lbmdp/bmVlcmluZy9wcm9t/cHQtdGVtcGxhdGVz/LWFuZC12YXJpYWJs/ZXM",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "platform.claude.com",
+        "/docs/en/build-with-claude/prompt-engineering/prompt-templates-and-variables",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        3
+      ],
+      "score": 0.3333333333333333,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://lmstudio.ai/docs/app/advanced/prompt-template",
+      "title": "Prompt Template | LM Studio Docs",
+      "content": "By default, LM Studio will automatically configure the prompt template based on the model file's metadata.",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/spVAhTn6zh5tO1q_53mAnfO6ENsDqNOmXV2T8EB7CHA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9sbXN0/dWRpby5haS9hcGkv/b2c_dGl0bGU9UHJv/bXB0JTIwVGVtcGxh/dGUmZGVzY3JpcHRp/b249T3B0aW9uYWxs/eSUyMHNldCUyMG9y/JTIwbW9kaWZ5JTIw/dGhlJTIwbW9kZWwn/cyUyMHByb21wdCUy/MHRlbXBsYXRlJmZy/b209ZG9jcy9hcHAv/YWR2YW5jZWQvcHJv/bXB0LXRlbXBsYXRl",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "lmstudio.ai",
+        "/docs/app/advanced/prompt-template",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        6
+      ],
+      "score": 0.16666666666666666,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://medium.com/@ssmaameri/prompt-templates-in-langchain-efb4da260bd3",
+      "title": "Prompt Templates in LangChain. Do you ever get confused by Prompt… | by Sami Maameri | Medium",
+      "content": "t its core, a PromptTemplate is just a string template we can pass variables to in order to generate our final string. And we can then pass these PromptTemplate’s to LLM’s in order to create consistently formatted prompts for the LLM.",
+      "publishedDate": "2024-04-14T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/-oUTv9yRaQX6ayzb9t63vjeSQs7VFkTowl-gkpkB7RA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/MCppWElYVlgzcUlJ/b19nWDB3",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "medium.com",
+        "/@ssmaameri/prompt-templates-in-langchain-efb4da260bd3",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        7
+      ],
+      "score": 0.14285714285714285,
+      "category": "general",
+      "pubdate": "2024-04-14 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://github.com/rpidanny/llm-prompt-templates",
+      "title": "GitHub - rpidanny/llm-prompt-templates: Empower your LLM to do more than you ever thought possible with these state-of-the-art prompt templates.",
+      "content": "Welcome to LLM Prompt Templates, a project aimed at leveraging the latest advancements in prompt engineering and making them available as reusable templates.",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/gFNmhU8L4ZhrtYa_EMIWX9ysuOO2p-jRlCa1Bz1n6ds/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9l/MDViNmFmODY0NWYx/NTk0NjYzZGI0NzZk/MzU1ZjgyNzg0MTEy/ODdiYzZlZjUwNzZm/NTY4MGQ4OTUxMDgx/OWY5L3JwaWRhbm55/L2xsbS1wcm9tcHQt/dGVtcGxhdGVz",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "github.com",
+        "/rpidanny/llm-prompt-templates",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        9
+      ],
+      "score": 0.1111111111111111,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://mirascope.com/blog/langchain-prompt-template",
+      "title": "A Guide to Prompt Templates in LangChain | Mirascope",
+      "content": "This approach ensures compatibility across providers and unlocks tool use, prompt chaining, and dynamic configuration for LLM integration. At its simplest, you can add a Mirascope @prompt_template decorator to any Python function to turn it into a structured prompt that returns a list of role-tagged messages ready for an LLM:",
+      "publishedDate": "2025-06-30T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/dZwwViXnuWsZ7ZFR8vrG3vGhl40eT0zuadddbHFP8lc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJh/c2NvcGUuY29tL3Nv/Y2lhbC1jYXJkcy9i/bG9nLWxhbmdjaGFp/bi1wcm9tcHQtdGVt/cGxhdGUud2VicA",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "mirascope.com",
+        "/blog/langchain-prompt-template",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        10
+      ],
+      "score": 0.1,
+      "category": "general",
+      "pubdate": "2025-06-30 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://github.com/IBM/responsible-prompting-course/blob/master/LLM%20Prompt%20Templates.ipynb",
+      "title": "responsible-prompting-course/LLM Prompt Templates.ipynb at master · IBM/responsible-prompting-course",
+      "content": "\" prompt = ' '.join( [role, do, context, content, dont, output, assessment, iteration ] )\\n\",",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/pv131wqe1sbLCftSJ6cx4ZKmhbeDiFEyVbLPZ1c7mYs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS8z/N2RmNTliMDZjOTAw/NzNkNjI4NGIxMzQ5/ZDU1YzMyNmNmZGY2/MmM4NmI3NGU2NGU3/OGU4YzJlOTM4YWJl/YzM0L0lCTS9yZXNw/b25zaWJsZS1wcm9t/cHRpbmctY291cnNl",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "github.com",
+        "/IBM/responsible-prompting-course/blob/master/LLM%20Prompt%20Templates.ipynb",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        11
+      ],
+      "score": 0.09090909090909091,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://github.com/abilzerian/LLM-Prompt-Library",
+      "title": "GitHub - abilzerian/LLM-Prompt-Library: A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025).",
+      "content": "Experimental prompt templates for every major LLM.",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/OeMoPQY5AnvV5F5ZaZyBMMfLrsb08nkpim6Y9c13cuM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/NTg0OTMzMTYzL2Ew/NWYyOGYyLWJhNzAt/NDFlOS1hMzAxLTA1/Zjc5MmU5ODdiNg",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "github.com",
+        "/abilzerian/LLM-Prompt-Library",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        12
+      ],
+      "score": 0.08333333333333333,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://mirascope.com/blog/llm-prompt",
+      "title": "LLM Prompt - Examples and Best Practices | Mirascope",
+      "content": "Everything you want to know about LLM prompts, including examples, tips, and coding examples for creating well-structured and effective prompts.",
+      "publishedDate": "2024-09-20T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/YPFZlnPxS9msFs8HLftOADMe5bWh331vGaSMqNb69LA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJh/c2NvcGUuY29tL3Nv/Y2lhbC1jYXJkcy9i/bG9nLWxsbS1wcm9t/cHQud2VicA",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "mirascope.com",
+        "/blog/llm-prompt",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        14
+      ],
+      "score": 0.07142857142857142,
+      "category": "general",
+      "pubdate": "2024-09-20 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://github.com/dimfeld/promptbox",
+      "title": "GitHub - dimfeld/promptbox: LLM Prompt Library and Templating",
+      "content": "PromptBox allows maintaining libraries of LLM prompt templates which can be filled in and submitted from the command line.",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/PbORI6HXrYP56Kfpe7cqZw1K3Oswb3OCCj0U_fzG0i0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vcGVu/Z3JhcGguZ2l0aHVi/YXNzZXRzLmNvbS9k/NTZkNmYyNDM1N2Vi/ZDhlZTQwZjFkMDVk/N2MxNTUyNzUyNzFl/YzJlZDRjZjU1ODQ5/Y2JhZjY0MGQ2NmI1/NzUzL2RpbWZlbGQv/cHJvbXB0Ym94",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "github.com",
+        "/dimfeld/promptbox",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        15
+      ],
+      "score": 0.06666666666666667,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.comet.com/site/blog/introduction-to-prompt-templates-in-langchain/",
+      "title": "Introduction to Prompt Templates in LangChain - Comet",
+      "content": "Prompt templates allow you to define a template once and reuse it in multiple places. This avoids duplicating the same prompt logic over and over. For example, you could create a “summarize article” template and reuse it anytime you want ...",
+      "publishedDate": "2025-04-24T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/iCKpMOPT7wY6CWaPc6Kqeg7LBAmcBnDtNOjYbxSCzNc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y29tZXQuY29tL3Np/dGUvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMTEvU2NyZWVu/c2hvdC0yMDI0LTAz/LTE1LWF0LTQuNDgu/NDLigK9QTS0xMDI0/eDY3NS5wbmc",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.comet.com",
+        "/site/blog/introduction-to-prompt-templates-in-langchain/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        16
+      ],
+      "score": 0.0625,
+      "category": "general",
+      "pubdate": "2025-04-24 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://notes.kodekloud.com/docs/LangChain/Interacting-with-LLMs/Prompt-Templates",
+      "title": "Prompt Templates - KodeKloud Notes",
+      "content": "This article explains prompt templates for flexible, consistent, and reusable interactions with LangChain, allowing dynamic message generation through parameterized placeholders.",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/mLrBSEMvzM8zxCJcoiuvU1xJ2v25Ayy0_rTEsYUmeOc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ub3Rl/cy5rb2Rla2xvdWQu/Y29tL2ltYWdlcy9z/b2NpYWwvb2ctaW1h/Z2Utc3F1YXJlLnBu/Zw",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "notes.kodekloud.com",
+        "/docs/LangChain/Interacting-with-LLMs/Prompt-Templates",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        17
+      ],
+      "score": 0.058823529411764705,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/prompt-engineering-so-2024-try-these-prompt-templates-instead",
+      "title": "Prompt engineering is so 2024. Try these prompt templates instead | MIT Sloan",
+      "content": "I also offer several templates that should be used only in a secure environment, lest your company’s proprietary information wind up training a public LLM. These templates include prompts for marketing messages, innovation pitches, business model canvas generation, innovation risk assessment, ...",
+      "publishedDate": "2025-08-20T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/KpPDJ4SKmBbzhID2GJAJ2Hc3QaTar1qKCFygHGLuawE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXRz/bG9hbi5taXQuZWR1/L3NpdGVzL2RlZmF1/bHQvZmlsZXMvc3R5/bGVzL29nX2ltYWdl/L3B1YmxpYy8yMDI1/LTA4L3Byb21wdC10/ZW1wbGF0ZXNfMC5q/cGcud2VicD9oPTc2/OTFmOTE4JmFtcDtp/dG9rPUxEMDdscTZG",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "mitsloan.mit.edu",
+        "/ideas-made-to-matter/prompt-engineering-so-2024-try-these-prompt-templates-instead",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        18
+      ],
+      "score": 0.05555555555555555,
+      "category": "general",
+      "pubdate": "2025-08-20 00:00:00"
+    }
+  ],
+  "totalResults": 19
+}

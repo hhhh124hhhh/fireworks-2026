@@ -1,0 +1,52 @@
+[2026-02-02 07:06:54] ========================================
+[2026-02-02 07:06:54] Starting auto-publish skills script
+[2026-02-02 07:06:54] ========================================
+[2026-02-02 07:06:54] Checking authentication status...
+[2026-02-02 07:06:56] Authenticated successfully
+[2026-02-02 07:06:56] Found 54 skill(s) in /root/clawd/dist
+[2026-02-02 07:06:56] Processing skill: ai-from-trueslazac
+[2026-02-02 07:06:56] Skill display name: ai-from-trueslazac
+[2026-02-02 07:06:56] Skill description: AI content from TrueSlazac Twitter account. Use when accessing AI-related prompts, templates, or discussions from social media sources.
+[2026-02-02 07:06:56] Checking if 'ai-from-trueslazac' is already published...
+[2026-02-02 07:06:58] Skill 'ai-from-trueslazac' is not published yet
+[2026-02-02 07:06:58] Publishing ai-from-trueslazac to ClawdHub...
+[2026-02-02 07:07:00] Failed to publish ai-from-trueslazac
+[2026-02-02 07:07:00] Processing skill: ai-genie-3-game-prompts
+[2026-02-02 07:07:00] Skill display name: ai-genie-3-game-prompts
+[2026-02-02 07:07:00] Skill description: Generate AI video games using Google's Genie 3 with specialized prompts. Use when creating game concepts, level designs, or interactive experiences through text prompts for AI game generation. Includes effective prompt patterns and examples from successful Genie 3 games.
+[2026-02-02 07:07:00] Checking if 'ai-genie-3-game-prompts' is already published...
+[2026-02-02 07:07:02] Skill 'ai-genie-3-game-prompts' is not published yet
+[2026-02-02 07:07:02] Publishing ai-genie-3-game-prompts to ClawdHub...
+[2026-02-02 07:07:04] Failed to publish ai-genie-3-game-prompts
+[2026-02-02 07:07:04] Processing skill: ai-music-prompts
+[2026-02-02 07:07:04] Skill display name: ai-music-prompts
+[2026-02-02 07:07:04] Skill description: AI music prompt templates and best practices for generating music with AI tools like Suno, Udio, Mureka, and others. Use when user needs to create music prompts, song ideas, or wants guidance on writing effective prompts for AI music generation. Includes bilingual prompt templates for various genres, mood descriptors, instrumentation guidance, and lyric writing tips. Also provides techniques for crafting specific musical outcomes and examples of well-structured prompts in Chinese and English.
+[2026-02-02 07:07:04] Checking if 'ai-music-prompts' is already published...
+[2026-02-02 07:07:06] Skill 'ai-music-prompts' is not published yet
+[2026-02-02 07:07:06] Publishing ai-music-prompts to ClawdHub...
+[2026-02-02 07:07:08] Failed to publish ai-music-prompts
+[2026-02-02 07:07:08] Processing skill: ai-portrait-generator
+[2026-02-02 07:07:08] Skill display name: ai-portrait-generator
+[2026-02-02 07:07:08] Skill description: Generate AI-powered portrait images using various models and techniques. Use when creating character portraits, avatars, or stylized portrait images.
+[2026-02-02 07:07:08] Checking if 'ai-portrait-generator' is already published...
+[2026-02-02 07:07:10] Skill 'ai-portrait-generator' is already published
+[2026-02-02 07:07:10] Processing skill: akkadian-noun-analyzer
+[2026-02-02 07:07:10] Skill display name: akkadian-noun-analyzer
+[2026-02-02 07:07:10] Skill description: Akkadian noun analyzer using regex-based feature extraction. Use when working with ancient languages, linguistic analysis, or building morphological analyzers for historical languages.
+[2026-02-02 07:07:10] Checking if 'akkadian-noun-analyzer' is already published...
+[2026-02-02 07:07:13] Skill 'akkadian-noun-analyzer' is not published yet
+[2026-02-02 07:07:13] Publishing akkadian-noun-analyzer to ClawdHub...
+[2026-02-02 07:07:15] Failed to publish akkadian-noun-analyzer
+[2026-02-02 07:07:15] Processing skill: gaussian-process-mlp-hybrid
+[2026-02-02 07:07:15] Skill display name: gaussian-process-mlp-hybrid
+[2026-02-02 07:07:15] Skill description: Discussion on Gaussian Process and MLP hybrid models for uncertainty estimation. Use when exploring machine learning model architectures, uncertainty quantification, or ensemble methods for drug discovery and similar applications.
+[2026-02-02 07:07:15] Checking if 'gaussian-process-mlp-hybrid' is already published...
+[2026-02-02 07:07:18] Skill 'gaussian-process-mlp-hybrid' is not published yet
+[2026-02-02 07:07:18] Publishing gaussian-process-mlp-hybrid to ClawdHub...
+[2026-02-02 07:07:20] Failed to publish gaussian-process-mlp-hybrid
+[2026-02-02 07:07:20] Processing skill: gemini-nano-banana-pro-portraits
+[2026-02-02 07:07:20] Skill display name: gemini-nano-banana-pro-portraits
+[2026-02-02 07:07:20] Skill description: Generate ultra-photorealistic portraits using Gemini Nano Banana Pro with comprehensive JSON configuration templates. Use when creating cinematic quality portraits, fitness photography, or realistic character images. Includes complete JSON structure for prompt configuration, subject details, apparel, pose, environment, lighting, and technical specifications.
+[2026-02-02 07:07:20] Checking if 'gemini-nano-banana-pro-portraits' is already published...
+[2026-02-02 07:07:22] Skill 'gemini-nano-banana-pro-portraits' is not published yet
+[2026-02-02 07:07:22] Publishing gemini-nano-banana-pro-portraits to ClawdHub...

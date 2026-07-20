@@ -1,0 +1,30 @@
+{
+  "lastChecks": {
+    "context_usage": "2026-06-11T14:31:56.000000+08:00",
+    "memory_cleanup": "2026-06-10T14:04:01.000000+08:00",
+    "ai_research": "2026-06-11T04:00:00.000000+08:00",
+    "achievement_progress": "2026-06-11T18:00:51.988147+08:00",
+    "clawdhub_token": "2026-06-11T14:32:35.000000+08:00",
+    "review_agent": "2026-06-11T06:02:17.000000+08:00",
+    "heartbeat": "2026-06-11T19:33:10+08:00",
+    "clawdhub_tracking": "2026-06-08T08:34:20.000000+08:00"
+  },
+  "status": {
+    "searxng": "running",
+    "ai_research_collected": "success",
+    "ai_research_time": "2026-06-11T04:00",
+    "ai_research_issue": "search engines unavailable - all returned 0 results",
+    "prompts_collected_today": 0,
+    "skills_published_today": 0,
+    "achievement_system_status": "idle",
+    "achievement_system_note": "no active session, directories empty",
+    "twitter_api_status": "credits_exhausted",
+    "clawdhub_token_status": "valid",
+    "topics_sync": "idle",
+    "review_agent_status": "idle",
+    "review_agent_issue": "sessions_history command not found in script",
+    "skills_tracked": 4,
+    "skills_on_clawdhub": 0,
+    "message": "All 4 tracked skills not found in current list"
+  }
+}

@@ -1,0 +1,787 @@
+{
+  "timestamp": "2026-04-02 02:01:41",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
+          "score": 185,
+          "author": "elithrar",
+          "comments": 102,
+          "url": "https://blog.cloudflare.com/emdash-wordpress/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://blog.cloudflare.com/emdash-wordpress/"
+        },
+        {
+          "rank": 2,
+          "title": "AI for American-Produced Cement and Concrete",
+          "score": 32,
+          "author": "latchkey",
+          "comments": 19,
+          "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
+        },
+        {
+          "rank": 3,
+          "title": "Ask HN: Who is hiring? (April 2026)",
+          "score": 82,
+          "author": "whoishiring",
+          "comments": 71,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002"
+        },
+        {
+          "rank": 4,
+          "title": "Show HN: Real-time dashboard for Claude Code agent teams",
+          "score": 35,
+          "author": "simple10",
+          "comments": 11,
+          "url": "https://github.com/simple10/agents-observe",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://github.com/simple10/agents-observe"
+        },
+        {
+          "rank": 5,
+          "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+          "score": 60,
+          "author": "skysniper",
+          "comments": 21,
+          "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn"
+        },
+        {
+          "rank": 6,
+          "title": "CERN levels up with new superconducting karts",
+          "score": 337,
+          "author": "fnands",
+          "comments": 77,
+          "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts"
+        },
+        {
+          "rank": 7,
+          "title": "NASA Artemis II moon mission live launch broadcast",
+          "score": 73,
+          "author": "apitman",
+          "comments": 17,
+          "url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/"
+        },
+        {
+          "rank": 8,
+          "title": "The OpenAI Graveyard: All the Deals and Products That Haven't Happened",
+          "score": 94,
+          "author": "dherls",
+          "comments": 57,
+          "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/"
+        },
+        {
+          "rank": 9,
+          "title": "Is BGP safe yet?",
+          "score": 187,
+          "author": "janandonly",
+          "comments": 60,
+          "url": "https://isbgpsafeyet.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://isbgpsafeyet.com/"
+        },
+        {
+          "rank": 10,
+          "title": "Playing Wolfenstein 3D with one hand in 2026",
+          "score": 17,
+          "author": "Brajeshwar",
+          "comments": 3,
+          "url": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/"
+        },
+        {
+          "rank": 11,
+          "title": "Random numbers, Persian code: A mysterious signal transfixes radio sleuths",
+          "score": 65,
+          "author": "thinkingemote",
+          "comments": 67,
+          "url": "https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html"
+        },
+        {
+          "rank": 12,
+          "title": "Consider the Greenland Shark (2020)",
+          "score": 64,
+          "author": "mooreds",
+          "comments": 24,
+          "url": "https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark"
+        },
+        {
+          "rank": 13,
+          "title": "Randomness on Apple Platforms (2024)",
+          "score": 25,
+          "author": "surprisetalk",
+          "comments": 1,
+          "url": "https://blog.xoria.org/randomness-on-apple-platforms/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://blog.xoria.org/randomness-on-apple-platforms/"
+        },
+        {
+          "rank": 14,
+          "title": "Intuiting Pratt Parsing",
+          "score": 118,
+          "author": "signa11",
+          "comments": 34,
+          "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://louis.co.nz/2026/03/26/pratt-parsing.html"
+        },
+        {
+          "rank": 15,
+          "title": "What Is Copilot Exactly?",
+          "score": 37,
+          "author": "WhyNotHugo",
+          "comments": 17,
+          "url": "https://idiallo.com/blog/what-is-copilot-exactly",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://idiallo.com/blog/what-is-copilot-exactly"
+        },
+        {
+          "rank": 16,
+          "title": "Ada and Spark on ARM Cortex-M – A Tutorial with Arduino and Nucleo Examples",
+          "score": 29,
+          "author": "swq115",
+          "comments": 4,
+          "url": "http://inspirel.com/articles/Ada_On_Cortex.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "http://inspirel.com/articles/Ada_On_Cortex.html"
+        },
+        {
+          "rank": 17,
+          "title": "Show HN: Zerobox – Sandbox any command with file and network restrictions",
+          "score": 13,
+          "author": "afshinmeh",
+          "comments": 6,
+          "url": "https://github.com/afshinm/zerobox",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://github.com/afshinm/zerobox"
+        },
+        {
+          "rank": 18,
+          "title": "Wasmer (YC S19) Is Hiring – Rust and DevRel Positions",
+          "score": 1,
+          "author": "syrusakbary",
+          "url": "https://www.workatastartup.com/companies/wasmer",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://www.workatastartup.com/companies/wasmer"
+        },
+        {
+          "rank": 19,
+          "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+          "score": 192,
+          "author": "ishqdehlvi",
+          "comments": 82,
+          "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md"
+        },
+        {
+          "rank": 20,
+          "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
+          "score": 83,
+          "author": "lukechu10",
+          "comments": 54,
+          "url": "https://sycamore.dev",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://sycamore.dev"
+        },
+        {
+          "rank": 21,
+          "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+          "score": 173,
+          "author": "wazHFsRy",
+          "comments": 72,
+          "url": "https://github.com/yannick-cw/korb",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://github.com/yannick-cw/korb"
+        },
+        {
+          "rank": 22,
+          "title": "A new way to measure poverty shows the US falling behind Europe",
+          "score": 43,
+          "author": "_DeadFred_",
+          "comments": 6,
+          "url": "https://www.euronews.com/business/2026/03/29/a-new-way-to-measure-poverty-shows-the-us-falling-behind-europe",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://www.euronews.com/business/2026/03/29/a-new-way-to-measure-poverty-shows-the-us-falling-behind-europe"
+        },
+        {
+          "rank": 23,
+          "title": "Claude Code Unpacked : A visual guide",
+          "score": 924,
+          "author": "autocracy101",
+          "comments": 336,
+          "url": "https://ccunpacked.dev/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://ccunpacked.dev/"
+        },
+        {
+          "rank": 24,
+          "title": "The Document Foundation ejects its core developers",
+          "score": 55,
+          "author": "hackernewsblues",
+          "comments": 20,
+          "url": "https://www.collaboraonline.com/blog/tdf-ejects-its-core-developers/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://www.collaboraonline.com/blog/tdf-ejects-its-core-developers/"
+        },
+        {
+          "rank": 25,
+          "title": "A dot a day keeps the clutter away",
+          "score": 487,
+          "author": "scottlawson",
+          "comments": 144,
+          "url": "https://scottlawsonbc.com/post/dot-system",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://scottlawsonbc.com/post/dot-system"
+        },
+        {
+          "rank": 26,
+          "title": "Chess in SQL",
+          "score": 153,
+          "author": "upmostly",
+          "comments": 36,
+          "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://www.dbpro.app/blog/chess-in-pure-sql"
+        },
+        {
+          "rank": 27,
+          "title": "New patches allow building Linux IPv6-only",
+          "score": 95,
+          "author": "Bender",
+          "comments": 103,
+          "url": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs"
+        },
+        {
+          "rank": 28,
+          "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+          "score": 367,
+          "author": "PrismML",
+          "comments": 140,
+          "url": "https://prismml.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://prismml.com/"
+        },
+        {
+          "rank": 29,
+          "title": "TruffleRuby",
+          "score": 188,
+          "author": "tosh",
+          "comments": 25,
+          "url": "https://chrisseaton.com/truffleruby/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://chrisseaton.com/truffleruby/"
+        },
+        {
+          "rank": 30,
+          "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+          "score": 227,
+          "author": "sorenjan",
+          "comments": 42,
+          "url": "https://arxiv.org/abs/2602.04118",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://arxiv.org/abs/2602.04118"
+        }
+      ]
+    },
+    "github": {
+      "count": 7,
+      "items": [
+        {
+          "rank": 1,
+          "title": "anthropics /claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+          "url": "https://github.com/anthropics/claude-code",
+          "language": "Shell",
+          "stars": 99056,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "microsoft /VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "language": "Python",
+          "stars": 34222,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "google-research /timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "url": "https://github.com/google-research/timesfm",
+          "language": "Python",
+          "stars": 11834,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "luongnv89 /claude-howto",
+          "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "language": "Python",
+          "stars": 15212,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "axios /axios",
+          "description": "Promise based HTTP client for the browser and node.js",
+          "url": "https://github.com/axios/axios",
+          "language": "JavaScript",
+          "stars": 108822,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "openai /codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "url": "https://github.com/openai/codex",
+          "language": "Rust",
+          "stars": 71460,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "f /prompts.chat",
+          "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+          "url": "https://github.com/f/prompts.chat",
+          "language": "HTML",
+          "stars": 155812,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Reading leaked Claude Code source code",
+          "description": "",
+          "url": "https://lr0.org/blog/p/claude-code-source/",
+          "score": 58,
+          "comments": 28,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "CSS or BS?",
+          "description": "",
+          "url": "https://www.keithcirkel.co.uk/css-or-bs",
+          "score": 41,
+          "comments": 1,
+          "tags": [
+            "css"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "The Self-Cancelling Subscription",
+          "description": "",
+          "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+          "score": 33,
+          "comments": 0,
+          "tags": [
+            "debugging"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Linear types proposal for Hare",
+          "description": "",
+          "url": "https://yerinalexey.srht.site/borrow/notes.html",
+          "score": 22,
+          "comments": 3,
+          "tags": [
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Gaim 3 Exists",
+          "description": "",
+          "url": "https://gaim.imfreedom.org/",
+          "score": 37,
+          "comments": 17,
+          "tags": [
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Historical GitHub Uptime Charts",
+          "description": "",
+          "url": "https://damrnelson.github.io/github-historical-uptime/",
+          "score": 73,
+          "comments": 14,
+          "tags": [
+            "vcs",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "your hex editor should color-code bytes",
+          "description": "",
+          "url": "https://simonomi.dev/blog/color-code-your-bytes/",
+          "score": 71,
+          "comments": 16,
+          "tags": [
+            "design",
+            "editors",
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Timesliced reservoir sampling: a new(?) algorithm for profilers",
+          "description": "",
+          "url": "https://pythonspeed.com/articles/reservoir-sampling-profilers/",
+          "score": 5,
+          "comments": 0,
+          "tags": [
+            "compsci",
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Pidgin 3.0 Alpha 1 2.95.0 has been released",
+          "description": "",
+          "url": "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-1-2-95-0-has-been-released/378",
+          "score": 35,
+          "comments": 5,
+          "tags": [
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "SQLite DB: simple, in-process, reliable, fast (2024)",
+          "description": "",
+          "url": "https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html",
+          "score": 8,
+          "comments": 0,
+          "tags": [
+            "databases"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "The Subprime Technical Debt Crisis",
+          "description": "",
+          "url": "https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/",
+          "score": 32,
+          "comments": 13,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "plakar + openbsd",
+          "description": "",
+          "url": "https://x61.sh/log/2026/03/25032026151800-plakar.html",
+          "score": 16,
+          "comments": 11,
+          "tags": [
+            "openbsd"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "Don't Let AI Write For You",
+          "description": "",
+          "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+          "score": 9,
+          "comments": 3,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "I Made a Keyboard Nobody Asked For: My Experience Making TapType",
+          "description": "",
+          "url": "https://fireborn.mataroa.blog/blog/i-made-a-keyboard-nobody-asked-for-my-experience-making-taptype/",
+          "score": 21,
+          "comments": 3,
+          "tags": [
+            "a11y",
+            "android",
+            "mobile"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Early observations from Interviews with Engineering Teams Adopting AI",
+          "description": "",
+          "url": "https://jonathannen.com/observations-from-interviews/",
+          "score": 8,
+          "comments": 9,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "RubyGems Fracture Incident Report",
+          "description": "",
+          "url": "https://rubycentral.org/news/rubygems-fracture-incident-report/",
+          "score": 26,
+          "comments": 19,
+          "tags": [
+            "ruby"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Red-black tree in Lean 4 prover with everything proved",
+          "description": "",
+          "url": "https://rentry.co/8sfon8ez",
+          "score": 6,
+          "comments": 0,
+          "tags": [
+            "formalmethods",
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "coreutils: a comprehensive review (2023)",
+          "description": "",
+          "url": "https://ratfactor.com/slackware/pkgblog/coreutils",
+          "score": 4,
+          "comments": 3,
+          "tags": [
+            "c",
+            "linux",
+            "unix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "After 40 years, arbitrary code execution has been achieved in Super Mario Bros",
+          "description": "",
+          "url": "https://youtu.be/bNulp6cDqUU",
+          "score": 20,
+          "comments": 0,
+          "tags": [
+            "reversing",
+            "video"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "Why Don’t You Use String Views Instead of Passing strings by const&?",
+          "description": "",
+          "url": "https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/",
+          "score": 5,
+          "comments": 8,
+          "tags": [
+            "c++"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 57,
+    "hackernews": 30,
+    "github": 7,
+    "lobsters": 20
+  }
+}

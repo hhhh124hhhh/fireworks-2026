@@ -1,0 +1,31 @@
+{
+  "name": "prompt-optimizer",
+  "version": "1.0.0",
+  "description": "Evaluate, optimize, and enhance prompts using 58 proven prompting techniques",
+  "main": "SKILL.md",
+  "keywords": [
+    "prompt",
+    "prompt-engineering",
+    "ai",
+    "optimization",
+    "llm",
+    "prompt-optimization",
+    "prompt-techniques",
+    "ai-prompts"
+  ],
+  "author": "jack",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "SKILL.md",
+    "references/"
+  ],
+  "clawdbot": {
+    "skill": {
+      "entry": "SKILL.md",
+      "description": "Evaluate prompt quality, provide targeted improvements, and generate optimized versions using 58 proven prompting techniques"
+    }
+  }
+}

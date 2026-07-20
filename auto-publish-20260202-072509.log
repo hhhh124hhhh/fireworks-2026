@@ -1,0 +1,61 @@
+[2026-02-02 07:25:09] ========================================
+[2026-02-02 07:25:09] Starting auto-publish skills script
+[2026-02-02 07:25:09] ========================================
+[2026-02-02 07:25:09] Checking authentication status...
+[2026-02-02 07:25:10] Authenticated successfully
+[2026-02-02 07:25:10] Found 54 skill(s) in /root/clawd/dist
+[2026-02-02 07:25:10] Processing skill: ai-from-trueslazac
+[2026-02-02 07:25:10] Skill display name: ai-from-trueslazac
+[2026-02-02 07:25:10] Skill description: AI content from TrueSlazac Twitter account. Use when accessing AI-related prompts, templates, or discussions from social media sources.
+[2026-02-02 07:25:10] Checking if 'ai-from-trueslazac' is already published...
+[2026-02-02 07:25:12] Skill 'ai-from-trueslazac' is not published yet
+[2026-02-02 07:25:12] Publishing ai-from-trueslazac to ClawdHub...
+[2026-02-02 07:25:14] Failed to publish ai-from-trueslazac
+[2026-02-02 07:25:14] Processing skill: ai-genie-3-game-prompts
+[2026-02-02 07:25:14] Skill display name: ai-genie-3-game-prompts
+[2026-02-02 07:25:14] Skill description: Generate AI video games using Google's Genie 3 with specialized prompts. Use when creating game concepts, level designs, or interactive experiences through text prompts for AI game generation. Includes effective prompt patterns and examples from successful Genie 3 games.
+[2026-02-02 07:25:14] Checking if 'ai-genie-3-game-prompts' is already published...
+[2026-02-02 07:25:16] Skill 'ai-genie-3-game-prompts' is not published yet
+[2026-02-02 07:25:16] Publishing ai-genie-3-game-prompts to ClawdHub...
+[2026-02-02 07:25:18] Failed to publish ai-genie-3-game-prompts
+[2026-02-02 07:25:18] Processing skill: ai-music-prompts
+[2026-02-02 07:25:18] Skill display name: ai-music-prompts
+[2026-02-02 07:25:18] Skill description: AI music prompt templates and best practices for generating music with AI tools like Suno, Udio, Mureka, and others. Use when user needs to create music prompts, song ideas, or wants guidance on writing effective prompts for AI music generation. Includes bilingual prompt templates for various genres, mood descriptors, instrumentation guidance, and lyric writing tips. Also provides techniques for crafting specific musical outcomes and examples of well-structured prompts in Chinese and English.
+[2026-02-02 07:25:18] Checking if 'ai-music-prompts' is already published...
+[2026-02-02 07:25:20] Skill 'ai-music-prompts' is not published yet
+[2026-02-02 07:25:20] Publishing ai-music-prompts to ClawdHub...
+[2026-02-02 07:25:21] Failed to publish ai-music-prompts
+[2026-02-02 07:25:21] Processing skill: ai-portrait-generator
+[2026-02-02 07:25:22] Skill display name: ai-portrait-generator
+[2026-02-02 07:25:22] Skill description: Generate AI-powered portrait images using various models and techniques. Use when creating character portraits, avatars, or stylized portrait images.
+[2026-02-02 07:25:22] Checking if 'ai-portrait-generator' is already published...
+[2026-02-02 07:25:23] Skill 'ai-portrait-generator' is already published
+[2026-02-02 07:25:24] Processing skill: akkadian-noun-analyzer
+[2026-02-02 07:25:24] Skill display name: akkadian-noun-analyzer
+[2026-02-02 07:25:24] Skill description: Akkadian noun analyzer using regex-based feature extraction. Use when working with ancient languages, linguistic analysis, or building morphological analyzers for historical languages.
+[2026-02-02 07:25:24] Checking if 'akkadian-noun-analyzer' is already published...
+[2026-02-02 07:25:26] Skill 'akkadian-noun-analyzer' is not published yet
+[2026-02-02 07:25:26] Publishing akkadian-noun-analyzer to ClawdHub...
+[2026-02-02 07:25:28] Failed to publish akkadian-noun-analyzer
+[2026-02-02 07:25:28] Processing skill: gaussian-process-mlp-hybrid
+[2026-02-02 07:25:28] Skill display name: gaussian-process-mlp-hybrid
+[2026-02-02 07:25:28] Skill description: Discussion on Gaussian Process and MLP hybrid models for uncertainty estimation. Use when exploring machine learning model architectures, uncertainty quantification, or ensemble methods for drug discovery and similar applications.
+[2026-02-02 07:25:28] Checking if 'gaussian-process-mlp-hybrid' is already published...
+[2026-02-02 07:25:30] Skill 'gaussian-process-mlp-hybrid' is not published yet
+[2026-02-02 07:25:30] Publishing gaussian-process-mlp-hybrid to ClawdHub...
+[2026-02-02 07:25:32] Failed to publish gaussian-process-mlp-hybrid
+[2026-02-02 07:25:32] Processing skill: gemini-nano-banana-pro-portraits
+[2026-02-02 07:25:32] Skill display name: gemini-nano-banana-pro-portraits
+[2026-02-02 07:25:32] Skill description: Generate ultra-photorealistic portraits using Gemini Nano Banana Pro with comprehensive JSON configuration templates. Use when creating cinematic quality portraits, fitness photography, or realistic character images. Includes complete JSON structure for prompt configuration, subject details, apparel, pose, environment, lighting, and technical specifications.
+[2026-02-02 07:25:32] Checking if 'gemini-nano-banana-pro-portraits' is already published...
+[2026-02-02 07:25:34] Skill 'gemini-nano-banana-pro-portraits' is not published yet
+[2026-02-02 07:25:34] Publishing gemini-nano-banana-pro-portraits to ClawdHub...
+[2026-02-02 07:25:36] Failed to publish gemini-nano-banana-pro-portraits
+[2026-02-02 07:25:36] Processing skill: google-imagen-3-hyperrealistic-landscape
+[2026-02-02 07:25:36] Skill display name: google-imagen-3-hyperrealistic-landscape
+[2026-02-02 07:25:36] Skill description: Generate hyperrealistic landscape photography using Google Imagen 3. Use when creating breathtaking natural scenes, landscapes, and nature photography with exceptional detail and realism.
+[2026-02-02 07:25:36] Checking if 'google-imagen-3-hyperrealistic-landscape' is already published...
+[2026-02-02 07:25:38] Skill 'google-imagen-3-hyperrealistic-landscape' is not published yet
+[2026-02-02 07:25:38] Publishing google-imagen-3-hyperrealistic-landscape to ClawdHub...
+[2026-02-02 07:25:40] Failed to publish google-imagen-3-hyperrealistic-landscape
+[2026-02-02 07:25:40] Processing skill: google-imagen-3-portrait-photography

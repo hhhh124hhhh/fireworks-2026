@@ -1,0 +1,11 @@
+{
+  "file": "/root/clawd/dist/akkadian-noun-analyzer.skill",
+  "name": "akkadian-noun-analyzer",
+  "skill_name": "akkadian-noun-analyzer",
+  "description": "Akkadian noun analyzer using regex-based feature extraction. Use when working with ancient languages, linguistic analysis, or building morphological analyzers for historical languages.",
+  "category": "uncategorized",
+  "tags": "",
+  "size_bytes": 3400,
+  "modified": 1769987257,
+  "md5": 49734db5bf2ae44ccf967f0932c3d5af
+}

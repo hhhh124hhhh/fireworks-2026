@@ -1,0 +1,82 @@
+# MEMORY.md - 核心记忆
+
+*记忆已备份，可以通过 memory-manager 查询历史记忆*
+*备份目录：/root/clawd/memory/backups*
+
+## 重要记忆
+
+*此部分保留最重要的长期记忆，不会被清理*
+
+
+## 2026-02-09 - 每日成长教程系统
+
+### 完成项目
+
+使用 **tutorial-engineer 技能**实现了每日成长教程系统。
+
+### 关键组件
+
+1. **tutorial-engineer 技能** ✅
+   - 位置：`~/.agents/skills/tutorial-engineer/`
+   - 功能：创建分步教程和教育内容
+   - 特点：渐进式披露、动手学习、错误预测、多种学习风格支持
+
+2. **Python 教程生成脚本** ✅
+   - 文件：`/root/clawd/scripts/daily-growth-tutorial-engineer.py`
+   - 功能：读取 memory、提取成长点、生成教程、更新索引
+   - 结构：遵循 tutorial-engineer 规范
+
+3. **定时任务** ✅
+   - 时间：每天 02:00
+   - 目的：在用户睡觉时自动生成教程
+
+### 分类系统
+
+教程自动分类到以下类别：
+- 技术成长
+- 项目管理
+- 最佳实践
+- 开发经验
+- 系统运维
+- 其他
+
+### 文件结构
+
+```
+/root/clawd/tutorials/
+├── daily-growth/
+│   ├── 2026-02-09-技术成长.md
+│   ├── 2026-02-09-项目管理.md
+│   └── ...
+└── daily-growth-index.md
+```
+
+### 学到的经验
+
+1. **tutorial-engineer 最佳实践**
+   - 渐进式披露（Progressive Disclosure）
+   - 动手学习（Hands-On Learning）
+   - 错误预测（Error Anticipation）
+   - 清晰的学习目标和前置条件
+
+2. **Python 正则表达式**
+   - 提取结构化数据
+   - 过滤无关内容
+   - 智能分类
+
+3. **自动化流程**
+   - 定时任务配置
+   - 日志记录
+   - 错误处理
+
+### 未来方向
+
+1. 优化教程生成质量
+2. 创建教程精选合集
+3. 根据用户反馈改进
+4. 扩展到其他领域
+
+---
+
+**记录时间**: 2026-02-09
+**状态**: ✅ 完成

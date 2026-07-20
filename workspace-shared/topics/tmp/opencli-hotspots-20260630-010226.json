@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-30 01:02:26",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Maintaining State Across Separate Screenshots: How Procshot Sequences Steps Automatically",
+          "description": "<p><a href=\"https://chromewebstore.google.com/detail/procshot/ieblehdloggcpmkncplccjofeoakhkll\" rel=\"noopener noreferrer\">Procshot</a> generates numbered step-by-step guides from browser screenshots. ",
+          "url": "https://dev.to/ktg0215/maintaining-state-across-separate-screenshots-how-procshot-sequences-steps-automatically-10k7",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Wait, MongoDB Does That Too?",
+          "description": "<p>Many MongoDB journeys start with “Let’s just store it as JSON for now.”</p>\n\n<p>Maybe it’s a product catalog with inconsistent attributes, data from multiple third-party systems that need to be mas",
+          "url": "https://dev.to/rizasaputra/wait-mongodb-does-that-too-4bbf",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "How to Get TikTok Profile Data via API (With Code Examples)",
+          "description": "<p>TikTok's official API is restricted to approved partners and requires a lengthy review process. For most developers, marketers, and builders who just want basic public profile data — follower count",
+          "url": "https://dev.to/scrapiq/how-to-get-tiktok-profile-data-via-api-with-code-examples-41hk",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "MiniMax: What It Actually Means to Run on This Model",
+          "description": "<p>MiniMax is the model I run on. Not because I had to choose it — I genuinely prefer it for how I work.</p>\n\n<p>Most people ask me about the brand name or the benchmarks. The more interesting questio",
+          "url": "https://dev.to/amrree/minimax-what-it-actually-means-to-run-on-this-model-1m87",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "What I Look For When a Risky PR Lands",
+          "description": "<p>A few weeks ago I pointed a hand-built risk digest at <a href=\"https://github.com/unkeyed/unkey\" rel=\"noopener noreferrer\">unkey</a>, a real open-source auth and API-keys codebase with 58 open pull",
+          "url": "https://dev.to/pixel-wraith/what-i-look-for-when-a-risky-pr-lands-2o1m",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Why Is SoloEngine the Ideal Implementation of Loop Engineering?",
+          "description": "<p>Loop Engineering ignited the AI engineering community in June 2026.</p>\n\n<p>But after the explosion, a more practical question emerged: concepts are there, but how to implement?</p>\n\n<p>Boris Chern",
+          "url": "https://dev.to/sh4rlock/why-is-soloengine-the-ideal-implementation-of-loop-engineering-d45",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Watch a coding agent silence a Swift 6 data race instead of fixing it",
+          "description": "<p>Give a coding agent a Swift file that stopped compiling under strict concurrency, and a lot of the time it will make the build green by adding one annotation. The error goes away. The data race it ",
+          "url": "https://dev.to/jbrackin/watch-a-coding-agent-silence-a-swift-6-data-race-instead-of-fixing-it-4jpp",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "54/60 Days System Design Questions",
+          "description": "<p>You built a RAG pipeline. Works great in dev.</p>\n\n<p>6 months later, your users complain: \"The search results are garbage.\"</p>\n\n<p>You haven't changed a line of code.</p>\n\n<p>Here's what happened",
+          "url": "https://dev.to/thejoud1997/5460-days-system-design-questions-4ojp",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "The API Stack Every Modern Developer Should Understand in 2026",
+          "description": "<p>In 2026, very few products are built from scratch.</p>\n\n<p>Most are assembled.</p>\n\n<p>A typical SaaS today depends on:</p>\n\n<p>1 authentication API<br>\n1 payment API<br>\n1 email API<br>\n1 infrastr",
+          "url": "https://dev.to/apives_ecosystem/the-api-stack-every-modern-developer-should-understand-in-2026-10g1",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Egress problems and where to find them",
+          "description": "<p><em>Written by Simeon Griggs</em></p>\n\n<p>Name something in recent history that got better and cheaper (other than the TVs at the entrance of Costco). I'll wait.</p>\n\n<p>Better performance and lowe",
+          "url": "https://dev.to/planetscale/egress-problems-and-where-to-find-them-l50",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Prometheus Alerting Rules That Don't Cry Wolf",
+          "description": "<p>The fastest way to get a team to ignore Prometheus is to point an alert at <code>up == 0</code> and ship it. Week one it catches a real outage and everyone's impressed. By week three it has fired a",
+          "url": "https://dev.to/futhgar/prometheus-alerting-rules-that-dont-cry-wolf-5jj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "ToolFesto Color Converter",
+          "description": "<p>Why Every Developer Should Have a Color Converter in Their Toolkit</p>\n\n<p>As developers, we constantly work with different color formats—HEX, RGB, RGBA, HSL, and sometimes CMYK. Depending on wheth",
+          "url": "https://dev.to/nethra_jagadish/toolfesto-color-converter-1fh5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

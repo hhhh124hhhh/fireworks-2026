@@ -1,0 +1,175 @@
+# MEMORY.md - 核心记忆
+
+*记忆已备份，可以通过 memory-manager 查询历史记忆*
+*备份目录：/root/clawd/memory/backups*
+
+## 重要记忆
+
+*此部分保留最重要的长期记忆，不会被清理*
+
+---
+
+## Seedance 2.0 适用范围（2026-02-16）
+
+### ✅ 最佳适用场景（⭐⭐⭐⭐⭐ - ⭐⭐⭐）
+1. **电影（⭐⭐⭐⭐⭐）**：电影级质量、专业制作、独立电影预告片、短片
+2. **微短剧（⭐⭐⭐⭐⭐）**：10-15s 分段、连续生成、角色一致性、场景过渡自然
+3. **漫剧（⭐⭐⭐⭐⭐）**：动漫风格、高质量动漫、漫剧改编、快速生成
+4. **短视频（⭐⭐⭐⭐）**：5-15s、内置音效和音乐、完全可控、多模态输入
+5. **企业营销（⭐⭐⭐⭐）**：降低生成成本、批量生成、风格统一、企业推广
+6. **教育培训（⭐⭐⭐）**：在线教育平台、课程推广、知识点可视化、提升学习兴趣
+
+### ❌ 不适用场景（⭐ - ⭐⭐）
+1. **沙雕动画（⭐）**：质量太高（4K 超清、电影级）、无低像素模式、设计目标相反
+   - 替代方案：Runway Gen-2、Pika Labs、Stable Video Diffusion、AnimateDiff
+2. **Emoji 动画（⭐）**：设计目标相反、用户群体不同（独立电影制作人 vs Emoji 贴图爱好者）
+3. **搞笑短视频（⭐⭐）**：质量太高、需要低像素效果
+
+### 🎯 设计目标
+- 电影级视频质量（4K、超清）
+- 专业制作质量
+- 独立电影制作人
+- 降低制作成本
+
+---
+
+## Seedance 2.0 Prompt Skill（2026-02-16）
+
+### 技能位置
+- 本地：`/root/clawd/skills/seedance-2-prompt/`
+- GitHub：`https://github.com/hhhh124hhhh/seedance-2-prompt`（私有仓库）
+
+### 核心功能
+- 时间分段生成（0-3s、3-7s、7-12s、12-15s）
+- 9 格图片模式支持（image_9grid）
+- 参考模板（5 种：movie_trailer、commercial、social_media、documentary、anime）
+- 场景模板（6 种：e_commerce、hollywood、hollywood_short、game_trailer、anime_short、music_video）
+- 温和模式（mild_mode）用于战斗场景
+
+### 状态
+- ✅ 核心功能完成
+- ✅ 温和模式实现完成
+- ✅ 9 格图片模式支持添加
+- ✅ 连续提示词生成确认
+- ✅ 高级玩法探索并集成（玩法 10-16）
+- ✅ 推送到 GitHub（私有仓库）
+- ✅ 适用范围分析完成
+
+---
+
+## GitHub 仓库统计（2026-02-16）
+
+### 总体统计
+- **总仓库数**：68 个
+- **公开仓库**：51 个
+- **私有仓库**：17 个
+
+### Top 5 项目（按 Stars）
+1. **godot-mcp**：18 ⭐, 261 👁️
+2. **Nexus-caiwu-agent**：13 ⭐, 20 👁️
+3. **LangGraph-Partner**：5 ⭐, 59 👁️
+4. **SkillMate**：4 ⭐, 116 👁️
+5. **ai-content-hub**：2 ⭐, 6 👁️
+
+### 项目类别
+- AI 开发：10+ 个
+- 游戏/3D：8+ 个
+- 工具/应用：10+ 个
+- 自动化/工作流：5+ 个
+- 金融分析：3 个
+- 社交媒体：3 个
+- 数据处理：5+ 个
+- 社区/教育：6+ 个
+- 内容生成：4+ 个
+
+---
+
+## jack-portfolio 个人主页（2026-02-16）
+
+### 项目位置
+- **本地**：`/root/clawd/jack-portfolio/index.html`
+- **GitHub**：`https://github.com/hhhh124hhhh/jack-portfolio.git`
+- **GitHub Pages**：`https://hhhh124hhhh.github.io/jack-portfolio/`
+- **Cloudflare Pages**：`https://jack-portfolio-5un.pages.dev/`
+
+### 新增功能（2026-02-16）
+**GitHub Projects Showcase**：
+- 显示 Top 10 GitHub 项目（按 Stars 和访问数排序）
+- 项目排名徽章（🥇、🥈、🥉 等）
+- Stars 和 Views 统计数据
+- 技术栈标签
+- "查看全部 68 个项目" CTA 按钮
+- 响应式设计，移动端友好
+- 保持品牌风格一致
+
+### 实现方式
+- 使用子代理（Session ID: e1e8ab0e-e5ee-41cf-8353-0428ac7c67b2）
+- 运行时间：2 分 57 秒
+- 模型：zai/glm-4.7
+- Token 使用：204.8k (in 21.2k / out 10.3k)
+
+---
+
+## 烟花网页（2026-02-16）
+
+### 项目位置
+- **本地文件**：`/root/clawd/fireworks.html`
+- **GitHub 仓库**：`https://github.com/hhhh124hhhh/fireworks-2026.git`
+- **GitHub Pages**：`https://hhhh124hhhh.github.io/fireworks-2026/fireworks.html`
+
+### 核心功能
+- 全屏烟花效果（Canvas 2D）
+- 点击屏幕触发烟花（一次 5 个）
+- 自动播放烟花（随机间隔 1-3 秒）
+- 粒子爆炸效果（100 个粒子/烟花）
+- 多彩颜色（9 种颜色）
+- 流畅动画（60fps）
+- 响应式设计（支持手机和电脑）
+
+### 网页设计
+- 全屏黑色背景
+- 居中标题："新年快乐 🎆"
+- 文字说明："点击屏幕或等待自动播放烟花"
+- 标题发光动画（彩虹渐变）
+
+### 技术实现
+- 原生 JavaScript（不依赖外部库）
+- Canvas 2D API
+- ES6 类语法
+- Firework 类：烟花发射、轨迹、爆炸
+- Particle 类：粒子运动、重力、摩擦力、透明度衰减
+- 动画循环：requestAnimationFrame
+- 性能优化：限制粒子数量
+
+### 部署信息
+- **仓库名称**：`fireworks-2026`
+- **分支**：`master`
+- **GitHub Pages 状态**：✅ built
+- **访问测试**：✅ HTTP 200
+- **国内访问**：✅ GitHub Pages 国内可以访问（虽然较慢）
+
+### 代码特点
+- 单文件 HTML（包含 CSS 和 JS）
+- 文件大小：8919 bytes（298 行）
+- 清晰注释
+- 无外部依赖
+- 可直接部署到任何静态托管服务
+
+### 马年主题（2026-02-16）
+- 马年图标：🐎（弹跳动画）
+- 马年标题：马年大吉 🐎
+- 马年颜色：金色、红色、橙色、黄色（10种颜色）
+- 喜庆配色方案
+- 大标题（3.5rem）加粗
+- 增强发光效果（金色、橙色渐变）
+
+### 音乐和音效（2026-02-16）
+- 背景音乐：C 大调喜庆新年旋律（Web Audio API 合成）
+- 爆炸音效：三层声音合成（低频爆炸 + 高频嘶嘶 + 低音轰鸣）
+- 音乐控制按钮：🎵 播放/静音切换
+- 音效控制按钮：🔊 开启/关闭切换
+- 默认状态：音乐和音效都开启
+- 音频初始化：首次用户交互后启动（符合浏览器音频政策）
+- 音频初始化标志：`audioInitialized` 防止重复初始化
+- 调试日志：控制台输出音频系统状态
+

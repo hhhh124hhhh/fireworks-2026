@@ -1,0 +1,354 @@
+success parse request body: {'query': 'AI coding 2026 programming assistants', 'resource_type_filter': [{'type': 'web', 'top_k': 10}]}
+{
+  "request_id": "9ec6ac84-274f-4aea-ba6d-7e6c00e76b8b",
+  "references": [
+    {
+      "id": 1,
+      "url": "https://baijiahao.baidu.com/s?id=1852821540972742234&wfr=spider&for=pc",
+      "title": "2026 AI Coding 下半场:不拼参数,拼谁能让开发者“戒不掉”",
+      "date": "2025-12-29 14:04:56",
+      "content": " 1. 频率质变:从“外挂”变成“输入法” “全年使用超过 200 天”、“付费用户周活跃 6 天”。这些数字意味着什么? 如果 AI 只是一个遇到难题才去查一下的搜索引擎,用户不可能接近全勤。周活 6 天,意味着它已经像输入法一样,嵌进了开发的每一次敲击中。不是想起来才用,而是不开就觉得别扭。 这种质变来自体验的无感化。GitHub Copilot 早期靠插件形态做到了“润物细无声”,TRAE 的 Cue (代码补全)也落在同一个点上:超过 50% 的用户每天主动使用,推荐采纳率提升超过 80%。当 AI 的介入从“演示功能”变成了“肌肉记忆”,它就不再是外挂,而是开发者身体的一部分。 2. 任务质变:AI 开始干“脏活累活”了 Token 消耗量半年增长 700% 的背后,是开发者投喂给 AI 的上下文变重了。以前只敢丢几行代码让它补全,现在则是把文档、模块、项目片段交给它一起推理。",
+      "icon": "https://baijiahao.baidu.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "百家号",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 1. 频率质变:从“外挂”变成“输入法” “全年使用超过 200 天”、“付费用户周活跃 6 天”。这些数字意味着什么? 如果 AI 只是一个遇到难题才去查一下的搜索引擎,用户不可能接近全勤。周活 6 天,意味着它已经像输入法一样,嵌进了开发的每一次敲击中。不是想起来才用,而是不开就觉得别扭。 这种质变来自体验的无感化。GitHub Copilot 早期靠插件形态做到了“润物细无声”,TRAE 的 Cue (代码补全)也落在同一个点上:超过 50% 的用户每天主动使用,推荐采纳率提升超过 80%。当 AI 的介入从“演示功能”变成了“肌肉记忆”,它就不再是外挂,而是开发者身体的一部分。 2. 任务质变:AI 开始干“脏活累活”了 Token 消耗量半年增长 700% 的背后,是开发者投喂给 AI 的上下文变重了。以前只敢丢几行代码让它补全,现在则是把文档、模块、项目片段交给它一起推理。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/news/6716bb366857f743ccc026757830e32e.png",
+            "height": "642",
+            "width": "750"
+          },
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/news/a249a2855faa24dc53cc7df405790554.png",
+            "height": "611",
+            "width": "750"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 2,
+      "url": "https://www.thepaper.cn/newsDetail_forward_32461664",
+      "title": "氛围编程将死!谷歌总监警告:只会写Prompt的程序员,2026年将被淘汰",
+      "date": "2026-01-26 14:03:00",
+      "content": "Chrome工程大佬Addy Osmani宣言:AI加速开发,但人类专家仍是质量守护神! 如果你还在怀疑AI会不会取代编程,答案可能已经悄悄写进代码库了。 这就是正在发生的现实。 谷歌云AI总监、Chrome前工程负责人Addy Osmani断言,Vibe Coding已撞南墙,而AI辅助编程即将崛起。 AI编程,已经进入下半场。 Osmani并不反AI。更没人知道,它什么时候会出事。 vibe coding可以玩玩,但没有测试和明确规范就容易变成一团糟。 作为长期活跃在Web技术与开发工具交汇点的大牛,Osmani在接受专访时,结合亲身经历,谈到像GitHub Copilot或谷歌Gemini这样的AI助手,正彻底改变所谓「vibe coding」(氛围编程)。 AI正在重塑编程方式,但「氛围编程」(vibe coding)正在成为一种风险,而不是优势。 AI永远没有质量保证。 质量,只能来自人类的专业判断。 这些问题,AI看不出来,但专家一眼就能看穿。 非工程师使用AI进行编程时,往往会遇到一堵令人沮丧的墙",
+      "icon": "https://search-operate.cdn.bcebos.com/82d7f2f769603dc7afad4859b36fef81.jpeg",
+      "web_anchor": "",
+      "type": "web",
+      "website": "澎湃新闻网",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": "Chrome工程大佬Addy Osmani宣言:AI加速开发,但人类专家仍是质量守护神! 如果你还在怀疑AI会不会取代编程,答案可能已经悄悄写进代码库了。 这就是正在发生的现实。 谷歌云AI总监、Chrome前工程负责人Addy Osmani断言,Vibe Coding已撞南墙,而AI辅助编程即将崛起。 AI编程,已经进入下半场。 Osmani并不反AI。更没人知道,它什么时候会出事。 vibe coding可以玩玩,但没有测试和明确规范就容易变成一团糟。 作为长期活跃在Web技术与开发工具交汇点的大牛,Osmani在接受专访时,结合亲身经历,谈到像GitHub Copilot或谷歌Gemini这样的AI助手,正彻底改变所谓「vibe coding」(氛围编程)。 AI正在重塑编程方式,但「氛围编程」(vibe coding)正在成为一种风险,而不是优势。 AI永远没有质量保证。 质量,只能来自人类的专业判断。 这些问题,AI看不出来,但专家一眼就能看穿。 非工程师使用AI进行编程时,往往会遇到一堵令人沮丧的墙",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "imgpai.thepaper.cn/pphimage/20260125/7a6912a0-c562-47b3-9fef-90ca0ef4cb6e.jpg",
+            "height": "895",
+            "width": "820"
+          },
+          {
+            "url": "imgpai.thepaper.cn/pphimage/20260125/5f20db0f-84cd-4a94-ae0e-060ba550b36c.jpg",
+            "height": "687",
+            "width": "1080"
+          },
+          {
+            "url": "imgpai.thepaper.cn/pphimage/20260125/b47c30b6-3471-4e7f-b790-cec0984e791e.jpg",
+            "height": "756",
+            "width": "1080"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 3,
+      "url": "https://baijiahao.baidu.com/s?id=1855602542994030337&wfr=spider&for=pc",
+      "title": "AI Coding 真的缩短开发周期了吗?深度拆解:Debug 时间变长了",
+      "date": "2026-01-28 11:26:51",
+      "content": "我们拆解了多项深度调研与实验数据,发现了一个事实:AI Coding并没有真正缩短开发周期,它只是把“坑”换了个地方。 传统开发的“黄金比例” 传统软件开发中,调试和测试阶段通常占据了很大比例的时间。 根据经典的软件工程研究,集成、测试和调试阶段通常占据项目总工时的 30% 到 40% [1]。也有估算指出,开发者在验证和调试上花费的时间甚至高达 35% 到 50% [2]。 这意味着,在传统的手工编程时代,编码阶段和调试阶段时间比例大约是 6:4。虽然编码看似占主要部分,但开发者依然需要花费近乎一半的时间去调试和修复问题。 AI介入的“效率悖论” 当AI Coding Agent 介入后,开发者本以为写代码的时间会大幅缩减,从而带动整体效率起飞。但实际情况远比想象中复杂。 几项近期的对比实验揭示了 AI Coding Agent 的“双面性”: 简单任务的“神速”: 在 GitHub Copilot 的一项随机对照试验(受试者实现简易HTTP服务器任务)中发现,使用AI工具时任务完成时间加速55.8% [3]。复杂场景的“翻车”: 然而,在更接近真实开发环境的 METR 组织实验中,对16位经验丰富的开源项目开发者进行RCT试验(允许一组开发者使用Cursor+Claude AI辅助,另一组不使用)时,结果却是使用AI组完成任务时间反而增加了19%[4],即AI并未加速这些老手的开发进度。开发者在实验开始前普遍预计AI会提高约24%的效率,但实验结束后使用AI的那组反而比未用AI慢了19%。 为什么资深开发者的效率反而下降了? 2025 年 Stack Overflow 的开发者调查给出了答案:66% 的开发者发现 AI 生成的代码“几乎正确,但又不完全正确”。这种“似是而非”的状态极大地增加了校对负担。更有 45.2% 的受访者直言:调试 AI 生成的代码比调试人类写的代码更耗时 [5]。这些数据表明,虽然AI可以快速生成代码片段,但开发者往往需要花更多时间检查、修改和调试AI输出。",
+      "icon": "https://baijiahao.baidu.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "百家号",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": "我们拆解了多项深度调研与实验数据,发现了一个事实:AI Coding并没有真正缩短开发周期,它只是把“坑”换了个地方。 传统开发的“黄金比例” 传统软件开发中,调试和测试阶段通常占据了很大比例的时间。 根据经典的软件工程研究,集成、测试和调试阶段通常占据项目总工时的 30% 到 40% [1]。也有估算指出,开发者在验证和调试上花费的时间甚至高达 35% 到 50% [2]。 这意味着,在传统的手工编程时代,编码阶段和调试阶段时间比例大约是 6:4。虽然编码看似占主要部分,但开发者依然需要花费近乎一半的时间去调试和修复问题。 AI介入的“效率悖论” 当AI Coding Agent 介入后,开发者本以为写代码的时间会大幅缩减,从而带动整体效率起飞。但实际情况远比想象中复杂。 几项近期的对比实验揭示了 AI Coding Agent 的“双面性”: 简单任务的“神速”: 在 GitHub Copilot 的一项随机对照试验(受试者实现简易HTTP服务器任务)中发现,使用AI工具时任务完成时间加速55.8% [3]。复杂场景的“翻车”: 然而,在更接近真实开发环境的 METR 组织实验中,对16位经验丰富的开源项目开发者进行RCT试验(允许一组开发者使用Cursor+Claude AI辅助,另一组不使用)时,结果却是使用AI组完成任务时间反而增加了19%[4],即AI并未加速这些老手的开发进度。开发者在实验开始前普遍预计AI会提高约24%的效率,但实验结束后使用AI的那组反而比未用AI慢了19%。 为什么资深开发者的效率反而下降了? 2025 年 Stack Overflow 的开发者调查给出了答案:66% 的开发者发现 AI 生成的代码“几乎正确,但又不完全正确”。这种“似是而非”的状态极大地增加了校对负担。更有 45.2% 的受访者直言:调试 AI 生成的代码比调试人类写的代码更耗时 [5]。这些数据表明,虽然AI可以快速生成代码片段,但开发者往往需要花更多时间检查、修改和调试AI输出。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://pic.rmb.bdstatic.com/bjh/news/b4f4438d26e91cc978e93ca1010bfcd3.jpeg",
+            "height": "427",
+            "width": "640"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 4,
+      "url": "https://blog.csdn.net/2401_84120325/article/details/157502775",
+      "title": "AI Coding大趋势:从辅助工具到智能体革命的三年演进",
+      "date": "2026-01-29 09:12:21",
+      "content": " 一、数据说话:AI编程的爆发式增长 市场规模与渗透率 IDC预测,2027年全球AI编程市场规模将达280亿美元,年复合增长率高达32%。Stack Overflow 2024年调查显示,78%的开发者日常使用AI工具辅助编码,较2022年增长230%。而到了2025年,GitHub的官方数据显示,80%的新开发者在加入平台的第一周就会使用Copilot——AI工具已从\"可选功能\"变为\"默认需求\"。 效率提升的量化证据 GitHub和埃森哲的大规模研究显示,使用Copilot的开发者编码速度提升55%。更令人震惊的是,PR(Pull Request)的合并时间从9.6天缩短到了2.4天,成功构建率提升了84%。这意味着对于一个开发团队来说,代码从写完到上线的关键瓶颈被彻底打破。 用户规模的火箭式增长 GitHub Copilot在2025年7月用户数突破2000万,比三个月前多了500万。90%的财富100强企业都在使用。而作为\"颠覆者\"的Cursor,从MIT宿舍项目起步,仅用不到三年时间就估值达293亿美元,年化收入突破10亿美元,成为史上增长最快的SaaS公司之一。 二、技术底座:两大引擎推动范式转移 1. 推理模型的质变 2025年的AI编程产品之所以能呈现出井喷之势,首先归功于底层大模型在推理能力上的质变。 以OpenAI的GPT-5系列、Anthropic的Claude 3.7/4.5系列以及Google的Gemini 3为代表的新一代模型,正在从\"生成文本的概率机器\"演进为具备长时推理与多步规划能力的智能系统。 这些推理型模型能够理解复杂的代码库依赖关系,进行跨文件的逻辑推演。更重要的是,百万级Token上下文与RAG(检索增强生成)的结合,让AI能够一次性阅读整个中大型代码库,在重构、迁移等复杂任务中表现出前所未有的稳定性。 2. MCP协议的标准化 另一个不可忽视的推动力是模型上下文协议(Model Context Protocol,MCP)的普及。 在2025年之前,AI工具往往是封闭的孤岛,无法直接访问本地数据库、私有API或第三方SaaS服务。由Anthropic公司大力推动的MCP协议,为AI代理提供了一套标准化的\"感官接口\"",
+      "icon": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2005731947,4139443793&fm=195&app=88&f=JPEG?w=200&h=200",
+      "web_anchor": "",
+      "type": "web",
+      "website": "CSDN软件开发网",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 一、数据说话:AI编程的爆发式增长 市场规模与渗透率 IDC预测,2027年全球AI编程市场规模将达280亿美元,年复合增长率高达32%。Stack Overflow 2024年调查显示,78%的开发者日常使用AI工具辅助编码,较2022年增长230%。而到了2025年,GitHub的官方数据显示,80%的新开发者在加入平台的第一周就会使用Copilot——AI工具已从\"可选功能\"变为\"默认需求\"。 效率提升的量化证据 GitHub和埃森哲的大规模研究显示,使用Copilot的开发者编码速度提升55%。更令人震惊的是,PR(Pull Request)的合并时间从9.6天缩短到了2.4天,成功构建率提升了84%。这意味着对于一个开发团队来说,代码从写完到上线的关键瓶颈被彻底打破。 用户规模的火箭式增长 GitHub Copilot在2025年7月用户数突破2000万,比三个月前多了500万。90%的财富100强企业都在使用。而作为\"颠覆者\"的Cursor,从MIT宿舍项目起步,仅用不到三年时间就估值达293亿美元,年化收入突破10亿美元,成为史上增长最快的SaaS公司之一。 二、技术底座:两大引擎推动范式转移 1. 推理模型的质变 2025年的AI编程产品之所以能呈现出井喷之势,首先归功于底层大模型在推理能力上的质变。 以OpenAI的GPT-5系列、Anthropic的Claude 3.7/4.5系列以及Google的Gemini 3为代表的新一代模型,正在从\"生成文本的概率机器\"演进为具备长时推理与多步规划能力的智能系统。 这些推理型模型能够理解复杂的代码库依赖关系,进行跨文件的逻辑推演。更重要的是,百万级Token上下文与RAG(检索增强生成)的结合,让AI能够一次性阅读整个中大型代码库,在重构、迁移等复杂任务中表现出前所未有的稳定性。 2. MCP协议的标准化 另一个不可忽视的推动力是模型上下文协议(Model Context Protocol,MCP)的普及。 在2025年之前,AI工具往往是封闭的孤岛,无法直接访问本地数据库、私有API或第三方SaaS服务。由Anthropic公司大力推动的MCP协议,为AI代理提供了一套标准化的\"感官接口\"",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "i-blog.csdnimg.cn/img_convert/644836392f8d3a2e2d244307584cd451.jpeg",
+            "height": "2048",
+            "width": "2048"
+          },
+          {
+            "url": "i-blog.csdnimg.cn/img_convert/f37988886fff52f52df00f79a95844e2.jpeg",
+            "height": "1600",
+            "width": "2848"
+          },
+          {
+            "url": "i-blog.csdnimg.cn/img_convert/0003bc2d8345e2f628a6deb8825c23d2.jpeg",
+            "height": "1344",
+            "width": "3136"
+          },
+          {
+            "url": "i-blog.csdnimg.cn/img_convert/b0a7889ef1ab470d42dd636ed33f1554.jpeg",
+            "height": "2304",
+            "width": "1728"
+          },
+          {
+            "url": "i-blog.csdnimg.cn/img_convert/6e27e8c2e56418d0963e902a89d40067.jpeg",
+            "height": "2048",
+            "width": "2048"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 5,
+      "url": "http://mt.sohu.com/a/984416536_115785",
+      "title": "别让Al 淘汰你:2026 年程序员必须掌握的 Agent 模式生存指南 ",
+      "date": "2026-02-06 12:12:00",
+      "content": " L1:古典的 ChatGPT 交互问答。 有问题直接问 ChatGPT、Gemini、Claude 等 AI 助手,借助 AI 助手给出的信息,自行 Debug 和修改代码。 L2:IDE / 插件中提供的补全功能。 直接写函数名,然后 AI 会帮你补全函数的细节,你再自己微调或者不微调。这种能力其实过去也有,只是没有这么强悍。大家使用 IDE 来开发,很大程度上就是在利用 IDE 极佳的补全能力。 L3:本地 AI Coding 工具的 Agent 模式,全托管或半托管式编程。 你只描述需要做什么,具体做动作由 AI 来完成;这里还有几个细分的方式,包括完全托管(比如 Claude Code 开–dangerously-skip-permissions、Codex 开–dangerously-bypass-approvals-and-sandbox)和半托管(用户手动确认行为,只是由 AI 来完成具体修改的动作)。L3 操作的是你的本地环境,有破坏的风险,但也有无限的可能。 L4:使用网页端的 AI Coding 工具直接出 Demo。 不需要在本地配置任何开发环境,直接在网页端完成 Coding,你只需要描述你想要的东西,剩下的完全交给 AI(虽然这往往意味着难以与复杂的本地业务流集成)。",
+      "icon": "http://zmt.itc.cn/static/images/pic/sohu-logo/logo-144.png",
+      "web_anchor": "",
+      "type": "web",
+      "website": "搜狐网",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " L1:古典的 ChatGPT 交互问答。 有问题直接问 ChatGPT、Gemini、Claude 等 AI 助手,借助 AI 助手给出的信息,自行 Debug 和修改代码。 L2:IDE / 插件中提供的补全功能。 直接写函数名,然后 AI 会帮你补全函数的细节,你再自己微调或者不微调。这种能力其实过去也有,只是没有这么强悍。大家使用 IDE 来开发,很大程度上就是在利用 IDE 极佳的补全能力。 L3:本地 AI Coding 工具的 Agent 模式,全托管或半托管式编程。 你只描述需要做什么,具体做动作由 AI 来完成;这里还有几个细分的方式,包括完全托管(比如 Claude Code 开–dangerously-skip-permissions、Codex 开–dangerously-bypass-approvals-and-sandbox)和半托管(用户手动确认行为,只是由 AI 来完成具体修改的动作)。L3 操作的是你的本地环境,有破坏的风险,但也有无限的可能。 L4:使用网页端的 AI Coding 工具直接出 Demo。 不需要在本地配置任何开发环境,直接在网页端完成 Coding,你只需要描述你想要的东西,剩下的完全交给 AI(虽然这往往意味着难以与复杂的本地业务流集成)。",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 6,
+      "url": "https://zhuanlan.zhihu.com/p/1990014688579297285",
+      "title": "以AI Coding 之管窥探世界之变",
+      "date": "2026-01-01 11:03:00",
+      "content": " 在零碎时间完成了 7 个真实项目,其中多个已开源并投入实际使用。 AI 已经不再只是“辅助写代码”,而是在架构清晰、决策明确的前提下,实质性替代了大量中级开发工作。 超级个体 ”时代,个人能力被放大,但分化会更剧烈。 算法层面,基础模型、RL、多模态会继续变得更强大、更智能。 具身智能 不再遥远, 将攻占互联网。 面对不可逆的技术浪潮,我选择“批判地接受”:积极参与,同时保留理性与属于自己的私有空间。常见的任务包括:完成某个功能的脚本、对已有代码进行改造(比如改多线程、异步等)、写单元测试等。 发布了 Solo 模式,想着试一试,于是在 2025 年 12 月初一下子开启了全面的 AI Coding。 算法类的就不展示了,这里先放工具类的。他写的还不错,当时用的是 Trae 中文版,这给了我很大的信心。 此时,恰好 antigravity 发布,于是后面两个项目都用他来完成。",
+      "icon": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=493147230,3096476255&fm=195&app=88&f=JPEG?w=200&h=200",
+      "web_anchor": "",
+      "type": "web",
+      "website": "知乎",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 在零碎时间完成了 7 个真实项目,其中多个已开源并投入实际使用。 AI 已经不再只是“辅助写代码”,而是在架构清晰、决策明确的前提下,实质性替代了大量中级开发工作。 超级个体 ”时代,个人能力被放大,但分化会更剧烈。 算法层面,基础模型、RL、多模态会继续变得更强大、更智能。 具身智能 不再遥远, 将攻占互联网。 面对不可逆的技术浪潮,我选择“批判地接受”:积极参与,同时保留理性与属于自己的私有空间。常见的任务包括:完成某个功能的脚本、对已有代码进行改造(比如改多线程、异步等)、写单元测试等。 发布了 Solo 模式,想着试一试,于是在 2025 年 12 月初一下子开启了全面的 AI Coding。 算法类的就不展示了,这里先放工具类的。他写的还不错,当时用的是 Trae 中文版,这给了我很大的信心。 此时,恰好 antigravity 发布,于是后面两个项目都用他来完成。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "pic1.zhimg.com/v2-48e79c2ffa7c65ca5e9aef3dfcfe1d2d_720w.jpg?source=172ae18b",
+            "height": "540",
+            "width": "720"
+          },
+          {
+            "url": "pic1.zhimg.com/v2-ce4ab9bb90b2440a917c3e4fdcbcda76_r.jpg",
+            "height": "1602",
+            "width": "1032"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 7,
+      "url": "https://www.itsolotime.com/archives/14822",
+      "title": "AI取代不了程序员,明年全流程上AI!谷歌工程负责人自曝:2026年AI编程完整工作流!经典软件工程纪律没过时,在AI时代更重要",
+      "date": "2025-12-23 10:30:44",
+      "content": " 进入2026 年,他对LLM辅助编程的理解已经非常清晰:它不是“自动驾驶”,而是一位能力极强、但需要被正确引导的结对程序员。 Osmani系统性复盘了自己在走向 2026 的过程中,如何把 AI 真正纳入日常工程体系——从前期规划,到代码生成,再到团队协作,几乎覆盖了一整套可复用的实战方法论。在他的实践中,AI 并不是“写代码的黑箱”,而是被当作工程流程中的一环来精细管理。具体来说,这套方法包括: 在任何代码生成之前,先与 AI 一起打磨一份足够具体、可执行的项目方案,把需求、边界和目标一次性说清楚; 在prompt 中大量使用明确的注释、约束和规则,主动限定 AI 的行为,而不是被动接收结果; 针对不同任务选择不同模型,而不是迷信“一个模型包打天下”; 保持高频、小步的代码提交,避免一次性生成或修改过多代码,导致项目状态失控; 为每一个新功能单独创建 worktree,将实验性改动与主线代码严格隔离; 通过规则文件约束 AI 的代码风格、目录结构和工程习惯,让生成代码更像“团队成员”而不是“临时外包”。 他的核心结论是:经典的软件工程纪律,不但没有过时,在 AI 时代反而更重要! 先设计、再编码;写测试;用版本控制;守住标准。当 AI 参与写一半代码时,这些原则的价值被进一步放大。",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "鲸林向海工作室",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 进入2026 年,他对LLM辅助编程的理解已经非常清晰:它不是“自动驾驶”,而是一位能力极强、但需要被正确引导的结对程序员。 Osmani系统性复盘了自己在走向 2026 的过程中,如何把 AI 真正纳入日常工程体系——从前期规划,到代码生成,再到团队协作,几乎覆盖了一整套可复用的实战方法论。在他的实践中,AI 并不是“写代码的黑箱”,而是被当作工程流程中的一环来精细管理。具体来说,这套方法包括: 在任何代码生成之前,先与 AI 一起打磨一份足够具体、可执行的项目方案,把需求、边界和目标一次性说清楚; 在prompt 中大量使用明确的注释、约束和规则,主动限定 AI 的行为,而不是被动接收结果; 针对不同任务选择不同模型,而不是迷信“一个模型包打天下”; 保持高频、小步的代码提交,避免一次性生成或修改过多代码,导致项目状态失控; 为每一个新功能单独创建 worktree,将实验性改动与主线代码严格隔离; 通过规则文件约束 AI 的代码风格、目录结构和工程习惯,让生成代码更像“团队成员”而不是“临时外包”。 他的核心结论是:经典的软件工程纪律,不但没有过时,在 AI 时代反而更重要! 先设计、再编码;写测试;用版本控制;守住标准。当 AI 参与写一半代码时,这些原则的价值被进一步放大。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "www.itsolotime.com/wp-content/uploads/2025/12/image-9235.jpg",
+            "height": "338",
+            "width": "1024"
+          },
+          {
+            "url": "www.itsolotime.com/wp-content/uploads/2025/12/image-9236.jpg",
+            "height": "1024",
+            "width": "1024"
+          },
+          {
+            "url": "www.itsolotime.com/wp-content/uploads/2025/12/image-9237.jpg",
+            "height": "570",
+            "width": "1024"
+          },
+          {
+            "url": "www.itsolotime.com/wp-content/uploads/2025/12/image-9238.jpg",
+            "height": "571",
+            "width": "1024"
+          },
+          {
+            "url": "www.itsolotime.com/wp-content/uploads/2025/12/image-9239.jpg",
+            "height": "536",
+            "width": "1024"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 8,
+      "url": "https://www.163.com/dy/article/KJO36EBM05119734.html",
+      "title": "人人都能编程的时代来了吗?专家深度解读“AI 编程”",
+      "date": "2026-01-20 18:23:02",
+      "content": " 这是《麻省理工科技评论》2026 年“十大突破性技术”深度解读系列的第七篇内容,关注 DeepTech,关注新兴科技趋势。 2026 年开年以来,生成式编程领域新闻动态不断,预示着编程范式变革的发生。初创企业 Replit 正在洽谈一笔 4 亿美元的融资,估值有望达到惊人的 90 亿美元,其新推出的移动端 Vibe-coding 功能允许用户通过自然语言在手机上构建 APP,极大降低了编程门槛,即使非计算机专业的文科生也有可能打造出一款应用。 另一AI 巨头 Anthropic 也在其 Claude Code 模型上取得重大突破,新版本不仅能编写代码,还能自主完成复杂的逻辑设计和 Bug 修复,大幅提高了开发效率,成为开发者适应 AI 时代的关键工具。 生成式编程不止让卡帕西这样的大牛感到惊叹,它也正在切实改变普通人的生活。后来,他通过生成式编程开发了更多类似的轻量级应用 [1]。 在一次针对移动端新功能开发的任务中,伯克特发现了一个惊人变化:对于熟悉代码库的工程师同事来说,他们的开发速度提升了大约 10%;而对于初次接触新模块的工程师同事来说,速度提升竟然达到了 25%。原本需要手动编写数小时的基础逻辑,现在只需写下注释,AI 就会瞬间补全代码。",
+      "icon": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1534926245,1016405979&fm=195&app=88&f=JPEG?w=200&h=200",
+      "web_anchor": "",
+      "type": "web",
+      "website": "网易",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 这是《麻省理工科技评论》2026 年“十大突破性技术”深度解读系列的第七篇内容,关注 DeepTech,关注新兴科技趋势。 2026 年开年以来,生成式编程领域新闻动态不断,预示着编程范式变革的发生。初创企业 Replit 正在洽谈一笔 4 亿美元的融资,估值有望达到惊人的 90 亿美元,其新推出的移动端 Vibe-coding 功能允许用户通过自然语言在手机上构建 APP,极大降低了编程门槛,即使非计算机专业的文科生也有可能打造出一款应用。 另一AI 巨头 Anthropic 也在其 Claude Code 模型上取得重大突破,新版本不仅能编写代码,还能自主完成复杂的逻辑设计和 Bug 修复,大幅提高了开发效率,成为开发者适应 AI 时代的关键工具。 生成式编程不止让卡帕西这样的大牛感到惊叹,它也正在切实改变普通人的生活。后来,他通过生成式编程开发了更多类似的轻量级应用 [1]。 在一次针对移动端新功能开发的任务中,伯克特发现了一个惊人变化:对于熟悉代码库的工程师同事来说,他们的开发速度提升了大约 10%;而对于初次接触新模块的工程师同事来说,速度提升竟然达到了 25%。原本需要手动编写数小时的基础逻辑,现在只需写下注释,AI 就会瞬间补全代码。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0120%2F4287a165j00t95rgc002cd000t600asm.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "244",
+            "width": "660"
+          },
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0120%2F1d12d5c7j00t95rgc0055d000p000b3m.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "293",
+            "width": "660"
+          },
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0120%2Ffc37ee5cj00t95rgd005pd000p000b3m.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "293",
+            "width": "660"
+          },
+          {
+            "url": "nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0120%2Ff47cf61dj00t95rgc005od000p000b3m.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+            "height": "293",
+            "width": "660"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 9,
+      "url": "https://clickup.com/blog/ai-code-tools/",
+      "title": "10 Best AI Coding Tools and Assistants in 2026 | ClickUp",
+      "date": "2025-11-18 06:05:29",
+      "content": " Programming languages:Many AI tools specialize in specific machine-learning languages. And even if they offer multiple languages, they may perform better in one over the other. If your team mostly works in Java, you won’t want a tool that’s best in Python. And if you mostly use CSS, you won’t want a tool developed for HTML code completion",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Programming languages:Many AI tools specialize in specific machine-learning languages. And even if they offer multiple languages, they may perform better in one over the other. If your team mostly works in Java, you won’t want a tool that’s best in Python. And if you mostly use CSS, you won’t want a tool developed for HTML code completion",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 10,
+      "url": "https://zhuanlan.zhihu.com/p/2003203520984264788",
+      "title": "2026 AI 编程智能体(Coding Agent)全景评估报告:从辅助插件到自主生产力的跃迁@ AI 进化策",
+      "date": "2026-02-08 12:48:00",
+      "content": " 第一章 评估概述 1.1 研究背景:智能体时代的黎明 2025年至2026年初,全球软件工程领域经历了一场更为深刻的代际更迭。如果说2023年是生成式AI的“补全时代(Autocomplete Era)”,那么2026年则正式确立了“智能体协作时代(Agentic Collaboration Era)”。随着大语言模型(LLM)推理能力的指数级跃升——特别是Claude 3.5/3.7系列、GPT-4o及Gemini 1.5 Pro在代码逻辑理解上的突破——开发工具的形态已从单纯的文本预测器,演化为具备环境感知、多步规划与自主执行能力的智能实体。 本评估报告基于八大核心维度(交互形态、上下文感知、模型能力、智能体能力、安全合规、开发者体验、成本与生态维度),对当前市场上的七款主流工具进行了深度解构:Cursor(体验标杆)、Trae(字节的免费挑战者)、Windsurf(Codeium的流式IDE)、Qoder(阿里的规格驱动平台)、Claude Code(Anthropic的终端智能体)、Gemini CLI(Google的长上下文利器)以及GitHub Copilot(行业守门人),旨在为企业CTO、技术团队负责人及高级软件工程师提供一份详尽的决策参考。 1.2 核心发现概览 本研究通过对技术架构、用户反馈及实测数据的综合分析,得出以下核心结论: 交互范式的分化:市场呈现出“IDE重构派”与“终端复兴派”两极分化。Cursor通过Composer确立了“多文件并发编辑”的行业标准,Trae和Windsurf在此基础上进行了微创新;而Claude Code和Gemini CLI则试图绕过GUI,直接在终端层通过自然语言接管DevOps流程,体现了“Unix哲学”在AI时代的回归。 上下文感知的质变:单纯的RAG(检索增强生成)已成过去式。Cursor的本地索引、Qoder的知识图谱(Repo Wiki)以及Gemini的1M+ Token暴力上下文正在形成三种异构的技术路线。MCP(Model Context Protocol)协议的出现,使得IDE开始具备连接外部世界(如Linear工单、Sentry日志)的能力,成为真正的研发操作系统。 规格驱动开发(SDD)的兴起:Qoder的“Quest Mode”和Claude Code的“Think”模式标志着开发模式的根本转变——开发者的时间将更多投入在定义规格(Spec)与验收测试(Review),而非编写具体实现(Implementation)。 1.3 声明 本文内容基于公开资料整理及笔者个人体验,限于视野与调研渠道,文中难免有挂一漏万或解读偏颇之处,内容仅供参考与交流。如有谬误,敬请方家指正。 第二章 行业演进与评估框架重构 2.1 技术演进路径:从 Copilot 到 Agent 回顾过去五年,AI编程工具经历了三个显著阶段,这一历史视角对于理解当前工具的定位至关重要。",
+      "icon": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=493147230,3096476255&fm=195&app=88&f=JPEG?w=200&h=200",
+      "web_anchor": "",
+      "type": "web",
+      "website": "知乎",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 第一章 评估概述 1.1 研究背景:智能体时代的黎明 2025年至2026年初,全球软件工程领域经历了一场更为深刻的代际更迭。如果说2023年是生成式AI的“补全时代(Autocomplete Era)”,那么2026年则正式确立了“智能体协作时代(Agentic Collaboration Era)”。随着大语言模型(LLM)推理能力的指数级跃升——特别是Claude 3.5/3.7系列、GPT-4o及Gemini 1.5 Pro在代码逻辑理解上的突破——开发工具的形态已从单纯的文本预测器,演化为具备环境感知、多步规划与自主执行能力的智能实体。 本评估报告基于八大核心维度(交互形态、上下文感知、模型能力、智能体能力、安全合规、开发者体验、成本与生态维度),对当前市场上的七款主流工具进行了深度解构:Cursor(体验标杆)、Trae(字节的免费挑战者)、Windsurf(Codeium的流式IDE)、Qoder(阿里的规格驱动平台)、Claude Code(Anthropic的终端智能体)、Gemini CLI(Google的长上下文利器)以及GitHub Copilot(行业守门人),旨在为企业CTO、技术团队负责人及高级软件工程师提供一份详尽的决策参考。 1.2 核心发现概览 本研究通过对技术架构、用户反馈及实测数据的综合分析,得出以下核心结论: 交互范式的分化:市场呈现出“IDE重构派”与“终端复兴派”两极分化。Cursor通过Composer确立了“多文件并发编辑”的行业标准,Trae和Windsurf在此基础上进行了微创新;而Claude Code和Gemini CLI则试图绕过GUI,直接在终端层通过自然语言接管DevOps流程,体现了“Unix哲学”在AI时代的回归。 上下文感知的质变:单纯的RAG(检索增强生成)已成过去式。Cursor的本地索引、Qoder的知识图谱(Repo Wiki)以及Gemini的1M+ Token暴力上下文正在形成三种异构的技术路线。MCP(Model Context Protocol)协议的出现,使得IDE开始具备连接外部世界(如Linear工单、Sentry日志)的能力,成为真正的研发操作系统。 规格驱动开发(SDD)的兴起:Qoder的“Quest Mode”和Claude Code的“Think”模式标志着开发模式的根本转变——开发者的时间将更多投入在定义规格(Spec)与验收测试(Review),而非编写具体实现(Implementation)。 1.3 声明 本文内容基于公开资料整理及笔者个人体验,限于视野与调研渠道,文中难免有挂一漏万或解读偏颇之处,内容仅供参考与交流。如有谬误,敬请方家指正。 第二章 行业演进与评估框架重构 2.1 技术演进路径:从 Copilot 到 Agent 回顾过去五年,AI编程工具经历了三个显著阶段,这一历史视角对于理解当前工具的定位至关重要。",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "pic3.zhimg.com/v2-4eb112682d872c923c91041e7d35dc98_r.jpg",
+            "height": "589",
+            "width": "1080"
+          },
+          {
+            "url": "pic4.zhimg.com/v2-55d86f6314fe282bd95d102037c9dfe9_r.jpg",
+            "height": "603",
+            "width": "1080"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    }
+  ]
+}

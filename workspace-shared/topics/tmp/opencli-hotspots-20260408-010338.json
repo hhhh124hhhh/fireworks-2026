@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-04-08 01:03:38",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "How to Find a $10k/mo SaaS Idea with Python & Apify (Geo-Arbitrage)",
+          "description": "<p>The biggest mistake developers make is writing code before validating the market. We spend 6 months building a complex web app, launch it on Product Hunt, get 50 upvotes, and then... zero revenue.<",
+          "url": "https://dev.to/datakaz/how-to-find-a-10kmo-saas-idea-with-python-apify-geo-arbitrage-34ho",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Top 5 Developer Tools to Find Micro-SaaS Ideas Before Coding (2026)",
+          "description": "<p>We’ve all been there. You spend 6 months building a beautiful web app, optimizing the database, and polishing the UI. You launch it on Product Hunt, get 50 upvotes, and then... crickets. Zero MRR.<",
+          "url": "https://dev.to/datakaz/top-5-developer-tools-to-find-micro-saas-ideas-before-coding-2026-4ghf",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Google Workspace Studio Tutorial: Turn Google Forms into a Full CRM - Auto Lead Capture, Personalized Emails & Team Notifications",
+          "description": "<p>As a consultant, I've learned one universal truth, <strong>The speed of your response determines the quality of your client relationships.</strong></p>\n\n<p>When a potential lead fills out a Get in ",
+          "url": "https://dev.to/gde/google-workspace-studio-tutorial-turn-google-forms-into-a-full-crm-auto-lead-capture-2og6",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Non-Intrusive JavaScript Runtime Instrumentation via Chrome DevTools Protocol for Advanced Debugging and Reverse Engineering",
+          "description": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In contemporary web development, debugging and reverse engineering JavaScript applications often resemble navigating a complex, opaque system where critical vulnera",
+          "url": "https://dev.to/kserude/non-intrusive-javascript-runtime-instrumentation-via-chrome-devtools-protocol-for-advanced-2p24",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "The Vonage Dev Discussion: Builder pattern",
+          "description": "<p>Have you ever heard of the builder pattern? 🧰🏘️</p>\n\n<p>In software development, the builder pattern is a <a href=\"https://vonage.dev/4c8VdpU\" rel=\"noopener noreferrer\">creational design pattern</a",
+          "url": "https://dev.to/vonagedev/the-vonage-dev-discussion-builder-pattern-1f45",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "I Built a Government-Grade Button Clicking Certification Program (Because the World Needs It)",
+          "description": "<p><em>This is a submission for the <a href=\"https://dev.to/challenges/aprilfools-2026\">DEV April Fools Challenge</a></em></p>\n\n<h2>\n  \n  \n  ⚠️ NATIONAL CLICK THREAT LEVEL: ELEVATED\n</h2>\n\n<p>Let me a",
+          "url": "https://dev.to/arya_koste_5845807df94776/i-built-a-government-grade-button-clicking-certification-program-because-the-world-needs-it-3j82",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "From Full-Stack to Flutter: My Journey & What I’m Learning Next",
+          "description": "<p>Hi developers! 👋</p>\n\n<p>Not long ago, I started my journey in programming with one simple goal: to build real-world applications that actually solve problems.</p>\n\n<p>At the beginning, everything ",
+          "url": "https://dev.to/shariqnajam/from-full-stack-to-flutter-my-journey-what-im-learning-next-kbk",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Building Open Data Infrastructure for Community and Collaboration",
+          "description": "<p><strong>Introduction</strong><br>\nInfrastructure is not only defined by technology and systems, but also by the communities that use and maintain them. Sustainable infrastructure requires active pa",
+          "url": "https://dev.to/opendatahub/building-open-data-infrastructure-for-community-and-collaboration-4ij0",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Stop Cluttering Your Codebase with Brittle Generated Tests",
+          "description": "<p><strong>TL;DR:</strong> In the industry, there is a weird habit: if a tool can generate tests, it is considered automatically useful. If you have 300 new <code>.java</code> files in your repo after",
+          "url": "https://dev.to/dmitry_turmyshev/stop-cluttering-your-codebase-with-brittle-generated-tests-ehc",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "What I Learned About DAO Governance From a 1,300-Year-Old Japanese Festival System (TEAMZ Summit 2026)",
+          "description": "<p>I just came back from TEAMZ Web3/AI Summit 2026 in Tokyo — held at Happo-en, a 400-year-old Japanese garden. 10,000 attendees, 130+ speakers, 50 countries represented.</p>\n\n<p>But the most importan",
+          "url": "https://dev.to/ko_takahashi/what-i-learned-about-dao-governance-from-a-1300-year-old-japanese-festival-system-teamz-summit-2a6a",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Flattening vs. Nested API Responses: Balancing Frontend Accessibility and Data Structure Integrity",
+          "description": "<h2>\n  \n  \n  Introduction &amp; Problem Statement\n</h2>\n\n<p>In the trenches of frontend development, the structure of API responses often becomes a silent battleground. The dilemma? Whether to <strong",
+          "url": "https://dev.to/pavkode/flattening-vs-nested-api-responses-balancing-frontend-accessibility-and-data-structure-integrity-9kb",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "How I Built a Niche File Converter for Turkish Lawyers",
+          "description": "<p>Ever heard of a <code>.udf</code> file? Probably not — unless you're a Turkish lawyer.</p>\n\n<h2>\n  \n  \n  The Problem\n</h2>\n\n<p>Turkey has one of the world's most comprehensive digital judiciary sys",
+          "url": "https://dev.to/ox3adie1/how-i-built-a-niche-file-converter-for-turkish-lawyers-b8h",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

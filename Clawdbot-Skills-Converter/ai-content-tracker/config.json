@@ -1,0 +1,35 @@
+{
+  "twitter": {
+    "searchQueries": [
+      "AI工具",
+      "AI玩法",
+      "ChatGPT技巧",
+      "Claude技巧",
+      "AI提示词",
+      "Prompt Engineering",
+      "#AI工具",
+      "#AI玩法"
+    ],
+    "accounts": [],
+    "maxTweets": 50,
+    "outputFormat": "markdown"
+  },
+  "media": {
+    "sources": [],
+    "categories": [
+      "视频教程",
+      "博客文章",
+      "工具网站",
+      "研究报告"
+    ]
+  },
+  "schedule": {
+    "interval": "daily",
+    "cron": "0 2 * * *"
+  },
+  "github": {
+    "repo": "ultimate-skills-bundle",
+    "branch": "main",
+    "path": "ai-content-tracker/docs"
+  }
+}

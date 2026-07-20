@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-05-08 01:00:09",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't",
+          "description": "<div class=\"crayons-card c-embed\">\n\n  <br>\n<strong>TL;DR-</strong> A hackathon compresses what would take months of solo learning into a single weekend. Beginners use Git, APIs, deployment, team colla",
+          "url": "https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Gemma 4 and the Return of Personal Computing",
+          "description": "<p><em>This is a submission for the <a href=\"https://dev.to/challenges/google-gemma-2026-05-06\">Gemma 4 Challenge: Write About Gemma 4</a></em></p>\n\n<blockquote>\n<h3>\n  \n  \n  TL;DR\n</h3>\n\n<p>AI alread",
+          "url": "https://dev.to/hemapriya_kanagala/gemma-4-and-the-return-of-personal-computing-2dd3",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Managed Iceberg Data Lakes: A Guide",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5k19wxxwup59bm9ms",
+          "url": "https://dev.to/jonisar/managed-iceberg-data-lakes-a-guide-3hk7",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "5 CLI Tools I Use to Keep Terminal Workflows Less Annoying",
+          "description": "<h2>\n  \n  \n  <strong>5 CLI Tools I Use to Keep Terminal Workflows Less Annoying</strong>\n</h2>\n\n<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfo",
+          "url": "https://dev.to/architeg/5-cli-tools-i-use-to-keep-terminal-workflows-less-annoying-3c3n",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "I Built a Free Spanish Math Calculator That Shows Every Step",
+          "description": "<p>Most calculators just give you the answer.<br>\nYou punch in the numbers, hit equals, and get a result. Done. But if you're a student trying to actually learn — that answer is almost useless without",
+          "url": "https://dev.to/faseeh_urrehman_ec82cc2f/i-built-a-free-spanish-math-calculator-that-shows-every-step-2j6b",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "How I Train My Linux Brain Daily",
+          "description": "<p>The small daily habits that made me better at Linux than memorizing commands ever did</p>\n\n<p>I used to think becoming good at Linux meant learning more commands every day.</p>\n\n<p>So I did what mo",
+          "url": "https://dev.to/pawan_natekar_8b1ab344624/how-i-train-my-linux-brain-daily-18a8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "How to sync large amounts of contacts from the HubSpot API",
+          "description": "<p>If you are building API integrations with HubSpot in your product, you will eventually need to sync more than 10,000 contacts from a customer's portal. That is not easy when you want a durable, res",
+          "url": "https://dev.to/nangohq/how-to-sync-large-amounts-of-contacts-from-the-hubspot-api-2acm",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "z4j: a self-hosted control plane for Python task queues",
+          "description": "<p>z4j is an open-source dashboard for Python background-job systems. It connects to the task queue (or queues) running in production and gives operators a single place to observe, retry, schedule, an",
+          "url": "https://dev.to/z4j/z4j-a-self-hosted-control-plane-for-python-task-queues-541h",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "The Local Eye (Sovereign Vision)",
+          "description": "<p>We’ve built a system that is <a href=\"https://www.kenwalger.com/blog/ai/ai-agent-reliability-llm-as-a-judge\" rel=\"noopener noreferrer\">Reliable</a>, <a href=\"https://www.kenwalger.com/blog/ai/the-a",
+          "url": "https://dev.to/kenwalger/the-local-eye-sovereign-vision-2h4h",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Beyond English: Why AI-Verified Desi Ilaaj is the Unfollowable Moat in Health AI (Day 13/30)",
+          "description": "<p>Founders often ask me why we didn't just build an English-first Health AI and then add translation layers. The answer lies in phrases like \"haldi doodh roz peeyein kya\" (should I drink turmeric mil",
+          "url": "https://dev.to/pururva_agarwal_49847572a/beyond-english-why-ai-verified-desi-ilaaj-is-the-unfollowable-moat-in-health-ai-day-1330-4ahp",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "npm audit isn't enough: I simulated a supply chain attack on my Node dependencies and found what the scanner can't see",
+          "description": "<h1>\n  \n  \n  npm audit isn't enough: I simulated a supply chain attack on my Node dependencies and found what the scanner can't see\n</h1>\n\n<p>The right answer for protecting a Node project's dependenc",
+          "url": "https://dev.to/jtorchia/npm-audit-isnt-enough-i-simulated-a-supply-chain-attack-on-my-node-dependencies-and-found-what-2ofc",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "npm audit no alcanza: simulé un supply chain attack sobre mis dependencias de Node y encontré lo que el scanner no ve",
+          "description": "<h1>\n  \n  \n  npm audit no alcanza: simulé un supply chain attack sobre mis dependencias de Node y encontré lo que el scanner no ve\n</h1>\n\n<p>La solución correcta para proteger las dependencias de un p",
+          "url": "https://dev.to/jtorchia/npm-audit-no-alcanza-simule-un-supply-chain-attack-sobre-mis-dependencias-de-node-y-encontre-lo-4pjg",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

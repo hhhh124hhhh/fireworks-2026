@@ -1,0 +1,305 @@
+success parse request body: {'query': 'AI news 2026 artificial intelligence latest', 'resource_type_filter': [{'type': 'web', 'top_k': 10}]}
+{
+  "request_id": "3ae735a6-f8a3-40d0-aa65-a7826272cb0a",
+  "references": [
+    {
+      "id": 1,
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+      "title": "Artificial Intelligence News",
+      "date": "2026-02-11 00:00:00",
+      "content": " February 11, 2026 Top Headlines AI Reads Brain MRIs in Seconds and Flags Emergencies Feb. 10, 2026 Researchers at the University of Michigan have created an AI system that can interpret brain MRI scans in just seconds, accurately identifying a wide range of neurological conditions and determining which cases need urgent care. Trained on hundreds ... Scientists Create Smart Synthetic Skin That Can Hide Images and Change Shape Feb. 6, 2026 Inspired by the shape-shifting skin of octopuses, Penn State researchers developed a smart hydrogel that can change appearance, texture, and shape on command. The material is programmed using a ... NASA’s Perseverance Rover Completes the First AI-planned Drive on Mars Feb. 2, 2026 ",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " February 11, 2026 Top Headlines AI Reads Brain MRIs in Seconds and Flags Emergencies Feb. 10, 2026 Researchers at the University of Michigan have created an AI system that can interpret brain MRI scans in just seconds, accurately identifying a wide range of neurological conditions and determining which cases need urgent care. Trained on hundreds ... Scientists Create Smart Synthetic Skin That Can Hide Images and Change Shape Feb. 6, 2026 Inspired by the shape-shifting skin of octopuses, Penn State researchers developed a smart hydrogel that can change appearance, texture, and shape on command. The material is programmed using a ... NASA’s Perseverance Rover Completes the First AI-planned Drive on Mars Feb. 2, 2026 ",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 2,
+      "url": "https://www.nvidia.com/en-us/",
+      "title": "World Leader in Artificial Intelligence Computing | NVIDIA",
+      "date": "2026-01-24 00:00:00",
+      "content": " Power the Latest Open-Source and Frontier Models From a Desktop ",
+      "icon": "https://www.nvidia.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Power the Latest Open-Source and Frontier Models From a Desktop ",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "www.nvidia.com/content/nvidiaGDC/us/en_US/home/_jcr_content/root/responsivegrid/Copy%20of%20nv_carousel_10568374/nv_teaser_copy_copy.coreimg.100.410.jpeg/1769088491918/siemens-sfg.jpeg",
+            "height": "230",
+            "width": "410"
+          },
+          {
+            "url": "www.nvidia.com/content/nvidiaGDC/us/en_US/home/_jcr_content/root/responsivegrid/Copy%20of%20nv_carousel_10568374/item_1710799952318.coreimg.100.410.jpeg/1769088492737/nv-ov-ito-sfg-1920x1080.jpeg",
+            "height": "230",
+            "width": "410"
+          },
+          {
+            "url": "www.nvidia.com/content/nvidiaGDC/us/en_US/home/_jcr_content/root/responsivegrid/Copy%20of%20nv_carousel_10568374/item_1669209933306.coreimg.100.410.jpeg/1769088492870/old-nv-ov-ito-sfg-1920x1080.jpeg",
+            "height": "230",
+            "width": "410"
+          },
+          {
+            "url": "www.nvidia.com/content/nvidiaGDC/us/en_US/home/_jcr_content/root/responsivegrid/nv_carousel_10568374_1427616877/nv_teaser_copy.coreimg.100.410.jpeg/1769088509476/nvidia-story.jpeg",
+            "height": "230",
+            "width": "410"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 3,
+      "url": "https://fortune.com/section/artificial-intelligence/",
+      "title": "AI News, Artificial Intelligence Trends & Market Impact | Fortune | Section",
+      "date": "2026-02-11 00:00:00",
+      "content": " Meet the American spies who helped mammograms save more lives ByErik GermanFebruary 15, 2026 Adrien Brody’s multimillion‑dollar TurboTax Super Bowl ad: Intuit’s CMO explains why the software giant spends more on marketing than R&D ByGeoff ColvinFebruary 15, 2026 AI is everywhere except in the data, suggesting it will enhance labor in some sectors rather than replace workers in all sectors, top economist says ByJason MaFebruary 14, 2026 Anthropic CEO Dario Amodei explains his spending caution, warning if AI growth forecasts are off by just a year, ‘then you go bankrupt’ ByJason MaFebruary 14, 2026 Your essential services are one surprise failure away from disruption. Consider how physical AI could tackle the crisis ByAlex HawkinsonFebruary 14, 2026 Latest Stories EuropeEU foreign policy chief pushes back on U.S. claims that ‘woke, decadent Europe’ is heading toward ‘civilizational erasure’ ByEmma Burrows,Geir MoulsonandThe Associated PressFebruary 15, 2026 Personal FinanceThanks to Trump, tax refunds could $1,000 higher this season. Here are the new deductions taxpayers should know about",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Meet the American spies who helped mammograms save more lives ByErik GermanFebruary 15, 2026 Adrien Brody’s multimillion‑dollar TurboTax Super Bowl ad: Intuit’s CMO explains why the software giant spends more on marketing than R&D ByGeoff ColvinFebruary 15, 2026 AI is everywhere except in the data, suggesting it will enhance labor in some sectors rather than replace workers in all sectors, top economist says ByJason MaFebruary 14, 2026 Anthropic CEO Dario Amodei explains his spending caution, warning if AI growth forecasts are off by just a year, ‘then you go bankrupt’ ByJason MaFebruary 14, 2026 Your essential services are one surprise failure away from disruption. Consider how physical AI could tackle the crisis ByAlex HawkinsonFebruary 14, 2026 Latest Stories EuropeEU foreign policy chief pushes back on U.S. claims that ‘woke, decadent Europe’ is heading toward ‘civilizational erasure’ ByEmma Burrows,Geir MoulsonandThe Associated PressFebruary 15, 2026 Personal FinanceThanks to Trump, tax refunds could $1,000 higher this season. Here are the new deductions taxpayers should know about",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-51617028.jpg?w=1440&q=75",
+            "height": "1102",
+            "width": "1440"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/Mikael-OXX-98.jpg?w=1440&q=75",
+            "height": "960",
+            "width": "1440"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2214110034.jpg?w=1440&q=75",
+            "height": "960",
+            "width": "1440"
+          },
+          {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2201505685-e1767897162837.jpg?w=1440&q=75",
+            "height": "960",
+            "width": "1440"
+          }
+        ]
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 4,
+      "url": "https://partner.microsoft.com/en-gb/solutions/azure/artificial-intelligence",
+      "title": "Artificial Intelligence (AI)",
+      "date": "2026-01-27 00:00:00",
+      "content": " Watch now Start now Materials to support Microsoft Partners. 2026-01-26Success Stories 2026-01-23Success Stories References: International Data Corporation (IDC)",
+      "icon": "https://partner.microsoft.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "微软网站",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Watch now Start now Materials to support Microsoft Partners. 2026-01-26Success Stories 2026-01-23Success Stories References: International Data Corporation (IDC)",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "partner.microsoft.com/-/media/mssc/mpn/partner/solutions/images/airefresh-opportunity-aiethics-fwf2-900x506.jpg?h=506&iar=0&w=900&la=en&hash=E6382A1FA8C663FAB349A307F945ED1C",
+            "height": "506",
+            "width": "900"
+          },
+          {
+            "url": "partner.microsoft.com/-/media/mssc/mpn/partner/solutions/images/ai_desktop_fwf_5050.jpg?h=506&iar=0&w=900&la=en&hash=F874E1F0DAB653DC6222BDA19C43E92D",
+            "height": "506",
+            "width": "900"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 5,
+      "url": "https://abcnews.go.com/alerts/artificial-------------------------intelligence",
+      "title": "Artificial Intelligence",
+      "date": "2026-01-30 04:36:37",
+      "content": " Tips on how to use AI to stick to your New Year's resolutions Jan 11 4:31 AI chatbot under fire over sexually explicit images of women, kids Jan 8 4:16 How AI could impact your life in 2026 Dec 30, 2025 1:52 How AI chatbots are revolutionizing holiday shopping Dec 20, 2025 6:31 Ted Cruz on defense bill, helicopter safety and rising use of AI in politics Dec 18, 2025 6:40 Ty Pennington promotes skilled trades as AI threatens jobs Dec 16, 2025 0:39 ‘Slop’ crowned Merriam-Webster word of the year, defining era of AI-generated content Dec 15, 2025 5:35 Energy costs are rising, thanks in part to AI Dec 12, 2025 1:35 Disney invests $1B in OpenAI Dec 12, 2025 Playlist ·10Videos",
+      "icon": "https://abcnews.go.com/apple-touch-icon-precomposed.png",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Tips on how to use AI to stick to your New Year's resolutions Jan 11 4:31 AI chatbot under fire over sexually explicit images of women, kids Jan 8 4:16 How AI could impact your life in 2026 Dec 30, 2025 1:52 How AI chatbots are revolutionizing holiday shopping Dec 20, 2025 6:31 Ted Cruz on defense bill, helicopter safety and rising use of AI in politics Dec 18, 2025 6:40 Ty Pennington promotes skilled trades as AI threatens jobs Dec 16, 2025 0:39 ‘Slop’ crowned Merriam-Webster word of the year, defining era of AI-generated content Dec 15, 2025 5:35 Energy costs are rising, thanks in part to AI Dec 12, 2025 1:35 Disney invests $1B in OpenAI Dec 12, 2025 Playlist ·10Videos",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 6,
+      "url": "https://apnews.com/hub/artificial-intelligence",
+      "title": "Artificial intelligence | AP News",
+      "date": "2026-01-31 00:00:00",
+      "content": "politics 2026 elections election results congress sports 2026 winter olympics ",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": "politics 2026 elections election results congress sports 2026 winter olympics ",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 7,
+      "url": "https://www.coursera.org/in/articles/artificial-intelligence-jobs",
+      "title": "6 Artificial Intelligence (AI) Jobs to Consider in 2026",
+      "date": "2025-12-05 05:29:09",
+      "content": " 1. Artificial intelligence (AI) engineer AI engineers use AI and machine learning techniques to develop applications and systems that help organisations become more efficient. They focus on developing the tools, systems, and processes that enable the application of AI to real-world problems. Data trains algorithms, helping them learn and perform better. AI engineers can help cut costs, increase productivity and profits, and make business recommendations.  Average annual base salary: ₹11,00,000 [2] 2. Machine learning engineer Machine learning engineers research, build, and design the AI responsible for machine learning. They maintain and improve existing AI systems. A machine learning engineer often serves as a liaison with other data science team members, collaborating with the data scientists who develop models for building AI systems. They run experiments and tests, perform statistical analyses, and develop machine learning systems.",
+      "icon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/favicon-v2-194x194.png",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 1. Artificial intelligence (AI) engineer AI engineers use AI and machine learning techniques to develop applications and systems that help organisations become more efficient. They focus on developing the tools, systems, and processes that enable the application of AI to real-world problems. Data trains algorithms, helping them learn and perform better. AI engineers can help cut costs, increase productivity and profits, and make business recommendations.  Average annual base salary: ₹11,00,000 [2] 2. Machine learning engineer Machine learning engineers research, build, and design the AI responsible for machine learning. They maintain and improve existing AI systems. A machine learning engineer often serves as a liaison with other data science team members, collaborating with the data scientists who develop models for building AI systems. They run experiments and tests, perform statistical analyses, and develop machine learning systems.",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 1,
+      "authority_score": 1,
+      "markdown_text": ""
+    },
+    {
+      "id": 8,
+      "url": "https://baijiahao.baidu.com/s?id=1855380607198269079&wfr=spider&for=pc",
+      "title": "展望全球人工智能2026年演进新局",
+      "date": "2026-01-26 20:00:32",
+      "content": " 技术:大模型竞赛带动智能体应用 2026年,人工智能大模型你追我赶的竞争趋势将延续。开放人工智能研究中心(OpenAI)、谷歌、深度求索等企业将发布规模更大或效率更高的最新版本大模型。 著名人工智能研究者、美国斯坦福大学教授李飞飞日前撰文指出,空间智能是人工智能下一个前沿。大模型在成功处理文本数据、多模态数据的基础上,正在空间理解力方面取得进步,其目标是具备语义、物理、几何、动态复杂交互等方面能力的模型。 同时,智能体可能日益普及,人工智能与人们的生活结合得将更为紧密。传统AI系统工作模式是一问一答,而具备深度目标导向、更多步骤规划能力以及擅长特定任务的智能体将越来越多地应用于各种工作中。美国高德纳咨询公司预测,2026年,40%的企业应用将嵌入任务型AI智能体,而这一比例在2025年还不足5%。 有些智能体已可实现自动点击按钮、填写表单、在不同软件间切换。例如,微软Office智能体能在与操作人员对话后自动创建电子表格和文档,并快速制作演示文稿。这意味着AI不再是辅助工具,而是一定程度具备了数字员工属性。 上海财经大学特聘教授胡延平接受记者采访时说,AI对企业的浅层价值是降本提效,深层价值是以能力迸发驱动范式转换。三种变革正在发生:成本结构方面,智能体系统不仅突破传统劳动力的时间空间、管理成本效率限制,还可突破创造力的产出能力瓶颈;组织形态方面,企业可用AI提供动态感知、实时交互、智能创造、行为达成、组织协作等能力,从而进化到智能经济时代的人智协作;竞争逻辑方面,从规模标准化转向规模与个性融合,从产业分工协作转向生态联接协同,从传统要素竞争转向智能统摄的能力要素竞争。 产业:“智能制造”迎来机遇期 在产业界,数字孪生与AI智能体结合正在重塑产品设计流程,“智能制造”迎来战略机遇期。 美国国际数据公司预测,2026年,40%配备生产调度系统的制造商将升级采用AI驱动的生产排程,实现生产资源管理的自主化运行;到2028年,全球头部1000家制造企业中将有65%把智能体与设计、仿真工具结合,用于持续验证设计变更与配置方案。",
+      "icon": "https://baijiahao.baidu.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "百家号",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " 技术:大模型竞赛带动智能体应用 2026年,人工智能大模型你追我赶的竞争趋势将延续。开放人工智能研究中心(OpenAI)、谷歌、深度求索等企业将发布规模更大或效率更高的最新版本大模型。 著名人工智能研究者、美国斯坦福大学教授李飞飞日前撰文指出,空间智能是人工智能下一个前沿。大模型在成功处理文本数据、多模态数据的基础上,正在空间理解力方面取得进步,其目标是具备语义、物理、几何、动态复杂交互等方面能力的模型。 同时,智能体可能日益普及,人工智能与人们的生活结合得将更为紧密。传统AI系统工作模式是一问一答,而具备深度目标导向、更多步骤规划能力以及擅长特定任务的智能体将越来越多地应用于各种工作中。美国高德纳咨询公司预测,2026年,40%的企业应用将嵌入任务型AI智能体,而这一比例在2025年还不足5%。 有些智能体已可实现自动点击按钮、填写表单、在不同软件间切换。例如,微软Office智能体能在与操作人员对话后自动创建电子表格和文档,并快速制作演示文稿。这意味着AI不再是辅助工具,而是一定程度具备了数字员工属性。 上海财经大学特聘教授胡延平接受记者采访时说,AI对企业的浅层价值是降本提效,深层价值是以能力迸发驱动范式转换。三种变革正在发生:成本结构方面,智能体系统不仅突破传统劳动力的时间空间、管理成本效率限制,还可突破创造力的产出能力瓶颈;组织形态方面,企业可用AI提供动态感知、实时交互、智能创造、行为达成、组织协作等能力,从而进化到智能经济时代的人智协作;竞争逻辑方面,从规模标准化转向规模与个性融合,从产业分工协作转向生态联接协同,从传统要素竞争转向智能统摄的能力要素竞争。 产业:“智能制造”迎来机遇期 在产业界,数字孪生与AI智能体结合正在重塑产品设计流程,“智能制造”迎来战略机遇期。 美国国际数据公司预测,2026年,40%配备生产调度系统的制造商将升级采用AI驱动的生产排程,实现生产资源管理的自主化运行;到2028年,全球头部1000家制造企业中将有65%把智能体与设计、仿真工具结合,用于持续验证设计变更与配置方案。",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 9,
+      "url": "https://www.marca.com/en/technology/artificial-intelligence.html",
+      "title": "Artificial intelligence",
+      "date": "2026-01-25 00:00:00",
+      "content": " Personal Finance Walmart and Google launch Gemini AI shopping feature: Here's how it works in the US Redacción:AUSTIN CALDWELL Technology These are the penalties a person could face for using AI to undress an image of a woman Technology Grok crosses the line and Elon Musk reacts: limits its functions after accusations of non-consensual AI-generated pornography Fans ask Grok to delete the fake GOAT between Messi and Cristiano and the response provokes debate Fans ask Grok to delete the fake GOAT between Messi and Cristiano and the response provokes debate Technology Controversy with Elon Musk's AI Grok for generating sexual images without consent Controversy with Elon Musk's AI Grok for generating sexual images without consent Technology The jobs most at risk of being replaced by AI in 2026 according to ChatGPT Lady Gaga, unafraid of AI: \"Human beings are not going out of fashion\" The 'godfather of AI' assures that programmers will continue to be \"valuable for quite some time\" McDonald's pulls AI-generated ad after negative comments McDonald's pulls AI-generated ad after negative comments The Walt Disney Company to invest more than 850 million euros in OpenAI: the deal will be for the next three years",
+      "icon": "",
+      "web_anchor": "",
+      "type": "web",
+      "website": "无",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Personal Finance Walmart and Google launch Gemini AI shopping feature: Here's how it works in the US Redacción:AUSTIN CALDWELL Technology These are the penalties a person could face for using AI to undress an image of a woman Technology Grok crosses the line and Elon Musk reacts: limits its functions after accusations of non-consensual AI-generated pornography Fans ask Grok to delete the fake GOAT between Messi and Cristiano and the response provokes debate Fans ask Grok to delete the fake GOAT between Messi and Cristiano and the response provokes debate Technology Controversy with Elon Musk's AI Grok for generating sexual images without consent Controversy with Elon Musk's AI Grok for generating sexual images without consent Technology The jobs most at risk of being replaced by AI in 2026 according to ChatGPT Lady Gaga, unafraid of AI: \"Human beings are not going out of fashion\" The 'godfather of AI' assures that programmers will continue to be \"valuable for quite some time\" McDonald's pulls AI-generated ad after negative comments McDonald's pulls AI-generated ad after negative comments The Walt Disney Company to invest more than 850 million euros in OpenAI: the deal will be for the next three years",
+      "web_extensions": {
+        "images": [
+          {
+            "url": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/01/12/17682544891015.jpg",
+            "height": "1320",
+            "width": "1980"
+          },
+          {
+            "url": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/01/11/17681491961689.jpg",
+            "height": "1320",
+            "width": "1980"
+          },
+          {
+            "url": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/01/02/17673629385662.jpg",
+            "height": "1320",
+            "width": "1980"
+          },
+          {
+            "url": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/01/03/17674713705754.jpg",
+            "height": "1320",
+            "width": "1980"
+          },
+          {
+            "url": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2025/12/30/17671118149929.jpg",
+            "height": "1320",
+            "width": "1980"
+          }
+        ]
+      },
+      "rerank_score": 0.5,
+      "authority_score": 0.5,
+      "markdown_text": ""
+    },
+    {
+      "id": 10,
+      "url": "https://partner.microsoft.com/da-dk/solutions/azure/artificial-intelligence",
+      "title": "Artificial Intelligence (AI)",
+      "date": "2026-01-21 00:00:00",
+      "content": " Discover the best ways to integrate AI into your business. Cognizant empowers enterprise transformation with intelligent automation  Materials to support Microsoft Partners.  Help your customers develop their skills and uncover business growth opportunities by hosting one-day workshops focused on specific Azure products and workflows. Using our ready-made collection of discipline-specific resources and tools, you can quickly and easily start hosting working sessions. Expand your value, drive demand for your solutions, and provide customers with the Azure expertise they’re looking for.  Microsoft forecast International Data Corporation (IDC)",
+      "icon": "https://partner.microsoft.com/favicon.ico",
+      "web_anchor": "",
+      "type": "web",
+      "website": "微软网站",
+      "video": null,
+      "image": null,
+      "is_aladdin": false,
+      "aladdin": null,
+      "snippet": " Discover the best ways to integrate AI into your business. Cognizant empowers enterprise transformation with intelligent automation  Materials to support Microsoft Partners.  Help your customers develop their skills and uncover business growth opportunities by hosting one-day workshops focused on specific Azure products and workflows. Using our ready-made collection of discipline-specific resources and tools, you can quickly and easily start hosting working sessions. Expand your value, drive demand for your solutions, and provide customers with the Azure expertise they’re looking for.  Microsoft forecast International Data Corporation (IDC)",
+      "web_extensions": {
+        "images": null
+      },
+      "rerank_score": 0.5,
+      "authority_score": 1,
+      "markdown_text": ""
+    }
+  ]
+}

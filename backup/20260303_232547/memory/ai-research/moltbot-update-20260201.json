@@ -1,0 +1,48 @@
+{
+  "date": "2026-02-01T03:00:00Z",
+  "search_query": "\"Clawdbot\" OR \"Moltbot\" \"AI assistant\" 2026",
+  "findings": [
+    {
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
+      "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
+      "summary": "Clawdbot was renamed to Moltbot. All functionality remains the same, and clawdbot command still works as a compatibility shim.",
+      "importance": "high"
+    },
+    {
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/",
+      "title": "Moltbot Is Taking Over Silicon Valley",
+      "summary": "He reckons that AI companies will all release personal assistants in 2026. But so far, he has seen nobody really ask the question: how can I have this and also own my data?",
+      "importance": "high"
+    },
+    {
+      "source": "geo.tv",
+      "url": "https://www.geo.tv/latest/647975-all-about-moltbot-clawdbot-ai-assistant-that-actually-does-things-across-your-pc",
+      "title": "All about Moltbot (Clawdbot): AI assistant that 'actually does things ...'",
+      "summary": "Moltbot (formerly known as Clawdbot) has recently become one of the fastest-growing open-source AI tools.",
+      "importance": "medium"
+    },
+    {
+      "source": "Unwire.hk",
+      "url": "https://unwire.hk/2026/01/30/openclaw-ai-assistant-security-update/ai/",
+      "title": "OpenClaw AI Assistant Security Update",
+      "summary": "Updates about Clawdbot > Moltbot > OpenClaw security features. Peter Steinberger from GitHub.",
+      "importance": "medium"
+    },
+    {
+      "source": "DEV Community",
+      "url": "https://dev.to/czmilo/moltbot-the-ultimate-personal-ai-assistant-guide-for-2026-d4e",
+      "title": "Moltbot: The Ultimate Personal AI Assistant Guide for 2026",
+      "summary": "A comprehensive guide to Moltbot (formerly Clawdbot) for 2026. Covers installation, setup, skills, automation, and advanced usage.",
+      "importance": "high"
+    }
+  ],
+  "status": "collected",
+  "review_agent_status": "last_check: 2026-02-01 03:31:03",
+  "next_actions": [
+    "Check if Moltbot skills marketplace has updates",
+    "Review security updates mentioned in Unwire.hk article",
+    "Read the comprehensive guide on DEV Community"
+  ]
+}

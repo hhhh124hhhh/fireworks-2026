@@ -1,0 +1,28 @@
+{
+  "name": "Free AI Prompt Generator for ChatGPT, Gemini & More | QuillBot",
+  "version": "1.0.0",
+  "description": "Write an AI prompt for a job description that attracts top talent",
+  "main": "SKILL.md",
+  "keywords": [
+    "ai",
+    "prompt",
+    "text-prompt"
+  ],
+  "author": "Clawdbot",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "SKILL.md",
+    "assets",
+    "references",
+    "scripts"
+  ],
+  "type": "Text Prompt",
+  "source": "writing",
+  "url": "https://quillbot.com/ai-writing-tools/ai-prompt-generator",
+  "quality_score": 63,
+  "content_hash": "6e800b2c7059e11a64ebbb3412718d80",
+  "created_at": "2026-02-05T09:43:10.511583"
+}

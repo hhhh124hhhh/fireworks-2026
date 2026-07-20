@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "created_at": "2026-02-17T00:00:00",
+    "last_updated": "2026-02-17T20:10:00",
+    "total_templates": 52
+  },
+  "templates": [
+    {
+      "id": "rainy-city-street-beginner-1",
+      "name": "雨夜城市街道",
+      "video_type": "photo-realistic",
+      "difficulty": "BEGINNER",
+      "prompt": "一位年轻女性在雨夜的城市街道上散步，霓虹灯倒映在水坑中，浪漫氛围，超高清电影级画质，自然光线，梦幻风格，慢镜头推进",
+      "duration": "5-10s",
+      "tags": ["雨天", "城市", "浪漫", "霓虹灯"],
+      "category": "自然风景"
+    },
+    {
+      "id": "morning-forest-beginner-1",
+      "name": "晨光森林",
+      "video_type": "photo-realistic",
+      "difficulty": "BEGINNER",
+      "prompt": "清晨的阳光穿过茂密的森林，雾气缭绕，一位探险者正在探索，超高清电影级画质，丁达尔效应，史诗风格，环绕镜头",
+      "duration": "5-10s",
+      "tags": ["森林", "晨光", "探险", "雾气"],
+      "category": "自然风景"
+    },
+    {
+      "id": "sunset-beach-beginner-1",
+      "name": "海边日落",
+      "video_type": "photo-realistic",
+      "difficulty": "BEGINNER",
+      "prompt": "金色的夕阳洒在海面上，海浪轻拍沙滩，一对恋人手牵手散步，超高清电影级画质，逆光拍摄，浪漫风格，侧跟镜头",
+      "duration": "5-10s",
+      "tags": ["海边", "日落", "浪漫", "恋人"],
+      "category": "自然风景"
+    },
+    {
+      "id": "snow-mountain-beginner-1",
+      "name": "雪山日出",
+      "video_type": "photo-realistic",
+      "difficulty": "BEGINNER",
+      "prompt": "晨光刚刚照亮雪山之巅，雪地反射着金色的光芒，一位登山者站在山顶，超高清电影级画质，极简构图，史诗风格，俯视镜头",
+      "duration": "5-10s",
+      "tags": ["雪山", "日出", "登山", "史诗"],
+      "category": "自然风景"
+    },
+    {
+      "id": "cafe-afternoon-intermediate-1",
+      "name": "咖啡馆午后",
+      "video_type": "photo-realistic",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "午后的阳光透过玻璃窗洒在咖啡馆里，一位年轻女性正在用笔记本电脑工作，超高清电影级画质，柔光照明，文艺风格，中景镜头",
+      "duration": "6-12s",
+      "tags": ["咖啡馆", "午后", "工作", "文艺"],
+      "category": "都市生活"
+    },
+    {
+      "id": "night-market-intermediate-1",
+      "name": "夜市繁华",
+      "video_type": "photo-realistic",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "夜市的灯火辉煌，人群熙熙攘攘，小吃摊冒着热气，充满烟火气，超高清电影级画质，暖色调，生活化风格，手持跟拍",
+      "duration": "6-12s",
+      "tags": ["夜市", "繁华", "烟火气", "生活化"],
+      "category": "都市生活"
+    },
+    {
+      "id": "subway-commute-intermediate-1",
+      "name": "地铁通勤",
+      "video_type": "photo-realistic",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "地铁站内，上班族们匆匆忙忙，列车进站的声音响起，充满都市节奏感，超高清电影级画质，冷色调，写实风格，固定机位",
+      "duration": "6-12s",
+      "tags": ["地铁", "通勤", "都市", "节奏感"],
+      "category": "都市生活"
+    },
+    {
+      "id": "rooftop-night-intermediate-1",
+      "name": "天台夜景",
+      "video_type": "photo-realistic",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "夜晚的天台，城市灯火如星河，一位年轻人独自望着远方，思考人生，超高清电影级画质，低照度，孤独氛围，远景镜头",
+      "duration": "6-12s",
+      "tags": ["天台", "夜景", "城市", "孤独"],
+      "category": "都市生活"
+    },
+    {
+      "id": "meeting-room-advanced-1",
+      "name": "会议室讨论",
+      "video_type": "storytelling",
+      "difficulty": "ADVANCED",
+      "prompt": "现代化的会议室，团队成员围坐在圆桌旁，激烈地讨论项目方案，超高清电影级画质，室内柔光，专业风格，环绕镜头，自然对话音效，轻快背景音乐",
+      "duration": "8-15s",
+      "tags": ["会议", "讨论", "团队", "专业"],
+      "category": "职场办公"
+    },
+    {
+      "id": "creative-office-advanced-1",
+      "name": "创意办公区",
+      "video_type": "storytelling",
+      "difficulty": "ADVANCED",
+      "prompt": "开放式办公区，年轻的设计师们正在头脑风暴，白板上写满了想法，超高清电影级画质，明亮的自然光，创意风格，跟拍镜头，欢快背景音乐",
+      "duration": "8-15s",
+      "tags": ["办公", "创意", "头脑风暴", "设计"],
+      "category": "职场办公"
+    },
+    {
+      "id": "video-conference-advanced-1",
+      "name": "视频会议",
+      "video_type": "storytelling",
+      "difficulty": "ADVANCED",
+      "prompt": "多个窗口显示着同事们的笑脸，大家正在视频会议中互相问候，超高清电影级画质，清晰的视频通话，远程协作风格，分屏展示，清晰对话音效",
+      "duration": "8-15s",
+      "tags": ["视频会议", "远程", "协作", "同事"],
+      "category": "职场办公"
+    },
+    {
+      "id": "startup-pitch-advanced-1",
+      "name": "创业路演",
+      "video_type": "storytelling",
+      "difficulty": "ADVANCED",
+      "prompt": "创业者正在舞台上向投资人展示产品，大屏幕上显示着精美的幻灯片，超高清电影级画质，舞台灯光，激情风格，多角度切换，激昂背景音乐，清晰演讲音效",
+      "duration": "8-15s",
+      "tags": ["路演", "创业", "投资", "激情"],
+      "category": "职场办公"
+    },
+    {
+      "id": "reunion-advanced-1",
+      "name": "久别重逢",
+      "video_type": "emotion-performance",
+      "difficulty": "ADVANCED",
+      "prompt": "机场的到达大厅，一对恋人紧紧拥抱在一起，眼泪在眼眶中打转，超高清电影级画质，柔和的暖光，感人风格，慢镜头特写，柔和背景音乐，轻声啜泣音效",
+      "duration": "8-15s",
+      "tags": ["重逢", "机场", "拥抱", "感人"],
+      "category": "情感表达"
+    },
+    {
+      "id": "birthday-surprise-advanced-1",
+      "name": "生日惊喜",
+      "video_type": "emotion-performance",
+      "difficulty": "ADVANCED",
+      "prompt": "黑暗的房间突然亮起灯光，朋友们从藏身处跳出来，寿星惊喜地捂住嘴巴，超高清电影级画质，明亮的彩光，欢乐风格，手持跟拍，欢快背景音乐，欢呼声音效",
+      "duration": "8-15s",
+      "tags": ["生日", "惊喜", "欢乐", "派对"],
+      "category": "情感表达"
+    },
+    {
+      "id": "farewell-advanced-1",
+      "name": "告别离别",
+      "video_type": "emotion-performance",
+      "difficulty": "ADVANCED",
+      "prompt": "火车站的站台，列车即将出发，朋友挥手告别，充满不舍之情，超高清电影级画质，黄昏的柔光，忧伤风格，远景镜头，忧伤背景音乐，列车鸣笛音效",
+      "duration": "8-15s",
+      "tags": ["告别", "火车", "不舍", "忧伤"],
+      "category": "情感表达"
+    },
+    {
+      "id": "proposal-advanced-1",
+      "name": "求婚现场",
+      "video_type": "emotion-performance",
+      "difficulty": "ADVANCED",
+      "prompt": "月光下的海滩，男生单膝跪地，拿着戒指向女生求婚，超高清电影级画质，浪漫的月光，感动风格，仰拍镜头，浪漫背景音乐，海浪声音效",
+      "duration": "8-15s",
+      "tags": ["求婚", "海滩", "浪漫", "月光"],
+      "category": "情感表达"
+    },
+    {
+      "id": "morning-run-intermediate-1",
+      "name": "晨跑公园",
+      "video_type": "character-consistency",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "清晨的公园，跑步者正在沿着小径慢跑，汗水在阳光下闪闪发光，超高清电影级画质，晨光，活力风格，跟拍镜头，清晰呼吸音效",
+      "duration": "6-12s",
+      "tags": ["晨跑", "公园", "运动", "活力"],
+      "category": "运动健身"
+    },
+    {
+      "id": "yoga-meditation-intermediate-1",
+      "name": "瑜伽冥想",
+      "video_type": "character-consistency",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "安静的瑜伽室，一位女性正在做瑜伽动作，窗外是绿意盎然的风景，超高清电影级画质，柔和的自然光，宁静风格，固定机位，轻柔背景音乐",
+      "duration": "6-12s",
+      "tags": ["瑜伽", "冥想", "宁静", "女性"],
+      "category": "运动健身"
+    },
+    {
+      "id": "basketball-match-advanced-1",
+      "name": "篮球比赛",
+      "video_type": "camera-movement",
+      "difficulty": "ADVANCED",
+      "prompt": "篮球场上，队员们正在激烈地比赛，观众席上掌声雷动，超高清电影级画质，明亮的球场灯光，运动风格，多机位切换，激烈背景音乐，篮球撞击声和欢呼声音效",
+      "duration": "8-15s",
+      "tags": ["篮球", "比赛", "运动", "激烈"],
+      "category": "运动健身"
+    },
+    {
+      "id": "rock-climbing-expert-1",
+      "name": "攀岩挑战",
+      "video_type": "camera-movement",
+      "difficulty": "EXPERT",
+      "prompt": "陡峭的岩壁上，攀岩者正在向上攀登，脚下是万丈深渊，超高清电影级画质，逆光拍摄，极限风格，航拍镜头，紧张背景音乐，风声和呼吸声音效",
+      "duration": "10-20s",
+      "tags": ["攀岩", "极限", "深渊", "紧张"],
+      "category": "运动健身"
+    },
+    {
+      "id": "baking-kitchen-intermediate-1",
+      "name": "烘焙厨房",
+      "video_type": "photo-realistic",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "温暖的厨房里，一位面包师正在揉面团，烤箱里飘出香甜的面包香气，超高清电影级画质，暖色调，温馨风格，近景特写，轻快背景音乐",
+      "duration": "6-12s",
+      "tags": ["烘焙", "厨房", "温馨", "面包师"],
+      "category": "美食制作"
+    },
+    {
+      "id": "high-end-restaurant-advanced-1",
+      "name": "高端餐厅",
+      "video_type": "photo-realistic",
+      "difficulty": "ADVANCED",
+      "prompt": "精致的高级餐厅，厨师正在精心地摆盘，菜品如艺术品般呈现，超高清电影级画质，专业的灯光，奢华风格，俯视镜头，优雅背景音乐",
+      "duration": "8-15s",
+      "tags": ["餐厅", "高端", "美食", "奢华"],
+      "category": "美食制作"
+    },
+    {
+      "id": "night-market-food-intermediate-1",
+      "name": "夜市小吃",
+      "video_type": "photo-realistic",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "夜市的小吃摊，老板正在煎着美味的食物，香味飘散在空气中，超高清电影级画质，暖黄色的灯光，市井风格，手持跟拍，热闹环境音效",
+      "duration": "6-12s",
+      "tags": ["夜市", "小吃", "市井", "美食"],
+      "category": "美食制作"
+    },
+    {
+      "id": "family-dinner-advanced-1",
+      "name": "家庭聚餐",
+      "video_type": "storytelling",
+      "difficulty": "ADVANCED",
+      "prompt": "温馨的家庭餐桌，全家人围坐在一起，享受着丰盛的晚餐，超高清电影级画质，暖色的室内光，团圆风格，环绕镜头，温馨背景音乐，欢笑声音效",
+      "duration": "8-15s",
+      "tags": ["家庭", "聚餐", "团圆", "温馨"],
+      "category": "美食制作"
+    },
+    {
+      "id": "library-reading-intermediate-1",
+      "name": "图书馆阅读",
+      "video_type": "photo-realistic",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "安静的图书馆，一位学生正在聚精会神地看书，阳光透过窗户洒在书页上，超高清电影级画质，柔和的晨光，求知风格，固定机位，安静环境音效",
+      "duration": "6-12s",
+      "tags": ["图书馆", "阅读", "学习", "安静"],
+      "category": "教育学习"
+    },
+    {
+      "id": "lab-research-advanced-1",
+      "name": "实验室研究",
+      "video_type": "photo-realistic",
+      "difficulty": "ADVANCED",
+      "prompt": "现代化的实验室，科学家们正在进行实验，仪器屏幕上显示着数据，超高清电影级画质，冷白色的实验室灯光，科技风格，跟拍镜头，电子设备音效",
+      "duration": "8-15s",
+      "tags": ["实验室", "研究", "科技", "科学家"],
+      "category": "教育学习"
+    },
+    {
+      "id": "classroom-teaching-intermediate-1",
+      "name": "课堂讲授",
+      "video_type": "storytelling",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "明亮的教室，老师正在黑板上讲解知识点，学生们认真听讲做笔记，超高清电影级画质，自然光，教育风格，中景镜头，清晰讲课音效",
+      "duration": "6-12s",
+      "tags": ["课堂", "教学", "学生", "老师"],
+      "category": "教育学习"
+    },
+    {
+      "id": "online-learning-intermediate-1",
+      "name": "线上学习",
+      "video_type": "storytelling",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "家里的书桌前，学生正在对着电脑屏幕上课，认真记录重点，超高清电影级画质，舒适的台灯，专注风格，侧拍镜头，键盘敲击音效",
+      "duration": "6-12s",
+      "tags": ["线上", "学习", "电脑", "专注"],
+      "category": "教育学习"
+    },
+    {
+      "id": "desert-hiking-expert-1",
+      "name": "沙漠徒步",
+      "video_type": "camera-movement",
+      "difficulty": "EXPERT",
+      "prompt": "金色的沙漠中，旅行者正在艰难前行，身后留下长长的脚印，超高清电影级画质，烈日当空，史诗风格，航拍远景，风声和脚步声音效",
+      "duration": "10-20s",
+      "tags": ["沙漠", "徒步", "史诗", "探险"],
+      "category": "旅行探险"
+    },
+    {
+      "id": "forest-camping-advanced-1",
+      "name": "森林露营",
+      "video_type": "camera-movement",
+      "difficulty": "ADVANCED",
+      "prompt": "茂密的森林中，露营者在搭建帐篷，篝火燃烧着，温暖的光芒照亮四周，超高清电影级画质，夜间的篝火光，探险风格，环绕镜头，火焰噼啪声音效",
+      "duration": "8-15s",
+      "tags": ["露营", "森林", "篝火", "探险"],
+      "category": "旅行探险"
+    },
+    {
+      "id": "polar-expedition-expert-1",
+      "name": "极地探险",
+      "video_type": "camera-movement",
+      "difficulty": "EXPERT",
+      "prompt": "白雪皑皑的极地，探险者正在雪地中前行，身后是一串串脚印，超高清电影级画质，冷冽的极光，史诗风格，航拍镜头，风声和踩雪声音效",
+      "duration": "10-20s",
+      "tags": ["极地", "探险", "极光", "雪地"],
+      "category": "旅行探险"
+    },
+    {
+      "id": "island-diving-advanced-1",
+      "name": "海岛潜水",
+      "video_type": "photo-realistic",
+      "difficulty": "ADVANCED",
+      "prompt": "清澈的海水中，潜水者正在探索珊瑚礁，鱼群在身边游弋，超高清电影级画质，海底的自然光，梦幻风格，跟拍镜头，水下环境音效",
+      "duration": "8-15s",
+      "tags": ["潜水", "海岛", "珊瑚礁", "鱼群"],
+      "category": "旅行探险"
+    },
+    {
+      "id": "chinese-new-year-advanced-1",
+      "name": "春节团圆",
+      "video_type": "storytelling",
+      "difficulty": "ADVANCED",
+      "prompt": "家中贴满了春联和福字，全家人围坐在一起包饺子，春晚正在播放，超高清电影级画质，红色的节日灯光，喜庆风格，环绕镜头，欢快背景音乐，鞭炮声音效",
+      "duration": "8-15s",
+      "tags": ["春节", "团圆", "喜庆", "饺子"],
+      "category": "节日庆祝"
+    },
+    {
+      "id": "christmas-eve-advanced-1",
+      "name": "圣诞夜晚",
+      "video_type": "storytelling",
+      "difficulty": "ADVANCED",
+      "prompt": "装饰着圣诞树的客厅，全家人正在交换礼物，温暖的灯光照亮整个房间，超高清电影级画质，柔和的暖光，温馨风格，固定机位，圣诞背景音乐，欢笑声音效",
+      "duration": "8-15s",
+      "tags": ["圣诞", "礼物", "温馨", "家庭"],
+      "category": "节日庆祝"
+    },
+    {
+      "id": "halloween-party-intermediate-1",
+      "name": "万圣节派对",
+      "video_type": "creative-effects",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "装饰着南瓜灯的派对现场，孩子们穿着万圣节服装，开心地要糖果，超高清电影级画质，神秘的灯光，节日风格，跟拍镜头，诡异背景音乐，欢笑声音效",
+      "duration": "6-12s",
+      "tags": ["万圣节", "派对", "南瓜灯", "孩子们"],
+      "category": "节日庆祝"
+    },
+    {
+      "id": "new-year-countdown-expert-1",
+      "name": "新年倒数",
+      "video_type": "creative-effects",
+      "difficulty": "EXPERT",
+      "prompt": "繁华的城市广场，成千上万的人聚集在一起，等待新年的到来，烟花绽放，超高清电影级画质，璀璨的烟花，庆祝风格，航拍镜头，欢庆背景音乐，烟花爆炸声和欢呼声音效",
+      "duration": "10-20s",
+      "tags": ["新年", "烟花", "倒数", "庆祝"],
+      "category": "节日庆祝"
+    },
+    {
+      "id": "future-city-expert-1",
+      "name": "未来城市",
+      "video_type": "creative-effects",
+      "difficulty": "EXPERT",
+      "prompt": "高科技的未来城市，飞行汽车在空中穿梭，全息广告屏闪烁着光芒，超高清电影级画质，霓虹灯光，科幻风格，航拍镜头，电子背景音乐，城市环境音效",
+      "duration": "10-20s",
+      "tags": ["未来", "科幻", "城市", "霓虹"],
+      "category": "科技未来"
+    },
+    {
+      "id": "ai-assistant-advanced-1",
+      "name": "AI助手",
+      "video_type": "creative-effects",
+      "difficulty": "ADVANCED",
+      "prompt": "未来感的智能家居，AI助手正在为用户提供服务，全息投影显示着信息，超高清电影级画质，冷蓝色的灯光，科技风格，环绕镜头，电子背景音乐，AI语音音效",
+      "duration": "8-15s",
+      "tags": ["AI", "智能家居", "科技", "全息"],
+      "category": "科技未来"
+    },
+    {
+      "id": "virtual-reality-advanced-1",
+      "name": "虚拟现实",
+      "video_type": "creative-effects",
+      "difficulty": "ADVANCED",
+      "prompt": "一位年轻人戴着VR头盔，沉浸在虚拟世界中，现实中身体在运动，超高清电影级画质，混合现实，科幻风格，双重视角，电子背景音乐，VR音效",
+      "duration": "8-15s",
+      "tags": ["VR", "虚拟现实", "科技", "沉浸"],
+      "category": "科技未来"
+    },
+    {
+      "id": "robot-factory-advanced-1",
+      "name": "机器人工作",
+      "video_type": "photo-realistic",
+      "difficulty": "ADVANCED",
+      "prompt": "自动化工厂里，机器人正在精确地组装产品，没有人类员工在场，超高清电影级画质，冷白色的工厂灯光，未来风格，固定机位，机械运作音效",
+      "duration": "8-15s",
+      "tags": ["机器人", "工厂", "自动化", "科技"],
+      "category": "科技未来"
+    },
+    {
+      "id": "street-graffiti-intermediate-1",
+      "name": "街头涂鸦",
+      "video_type": "photo-realistic",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "城市的墙面上，涂鸦艺术家正在创作，喷漆在墙上留下色彩斑斓的图案，超高清电影级画质，自然光，街头风格，跟拍镜头，喷漆声音效",
+      "duration": "6-12s",
+      "tags": ["涂鸦", "街头", "艺术", "创作"],
+      "category": "艺术创意"
+    },
+    {
+      "id": "music-creation-advanced-1",
+      "name": "音乐创作",
+      "video_type": "emotion-performance",
+      "difficulty": "ADVANCED",
+      "prompt": "录音棚里，音乐人正在创作，乐器声环绕，灵感迸发，超高清电影级画质，专业的录音棚灯光，艺术风格，环绕镜头，音乐创作音效",
+      "duration": "8-15s",
+      "tags": ["音乐", "创作", "录音棚", "艺术"],
+      "category": "艺术创意"
+    },
+    {
+      "id": "dance-practice-intermediate-1",
+      "name": "舞蹈练习",
+      "video_type": "character-consistency",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "明亮的舞蹈室，舞者正在练习舞蹈动作，镜子中映出优美的身姿，超高清电影级画质，柔光灯，艺术风格，固定机位，音乐背景音效",
+      "duration": "6-12s",
+      "tags": ["舞蹈", "练习", "艺术", "优美"],
+      "category": "艺术创意"
+    },
+    {
+      "id": "painting-creation-advanced-1",
+      "name": "画作创作",
+      "video_type": "photo-realistic",
+      "difficulty": "ADVANCED",
+      "prompt": "画家的工作室里，画家正在画布上创作，颜料和画笔散落在周围，超高清电影级画质，自然光，艺术风格，近景特写，画笔摩擦音效",
+      "duration": "8-15s",
+      "tags": ["绘画", "创作", "艺术", "工作室"],
+      "category": "艺术创意"
+    },
+    {
+      "id": "dog-playing-beginner-1",
+      "name": "狗狗玩耍",
+      "video_type": "photo-realistic",
+      "difficulty": "BEGINNER",
+      "prompt": "绿色的草地上，一只金毛正在追逐飞盘，主人开心地笑着，超高清电影级画质，明亮的阳光，可爱风格，跟拍镜头，欢快背景音乐，狗叫声音效",
+      "duration": "5-10s",
+      "tags": ["狗狗", "玩耍", "金毛", "可爱"],
+      "category": "宠物动物"
+    },
+    {
+      "id": "cat-sleeping-beginner-1",
+      "name": "猫咪睡觉",
+      "video_type": "photo-realistic",
+      "difficulty": "BEGINNER",
+      "prompt": "阳光洒在沙发上，一只猫正在懒洋洋地睡觉，偶尔伸个懒腰，超高清电影级画质，柔和的午光，治愈风格，固定机位，安静环境音效",
+      "duration": "5-10s",
+      "tags": ["猫咪", "睡觉", "阳光", "治愈"],
+      "category": "宠物动物"
+    },
+    {
+      "id": "bird-singing-beginner-1",
+      "name": "鸟儿歌唱",
+      "video_type": "photo-realistic",
+      "difficulty": "BEGINNER",
+      "prompt": "清晨的树枝上，一只鸟儿正在歌唱，羽毛在阳光下闪闪发光，超高清电影级画质，晨光，自然风格，近景特写，鸟鸣声音效",
+      "duration": "5-10s",
+      "tags": ["鸟儿", "歌唱", "晨光", "自然"],
+      "category": "宠物动物"
+    },
+    {
+      "id": "aquarium-beginner-1",
+      "name": "水族箱",
+      "video_type": "photo-realistic",
+      "difficulty": "BEGINNER",
+      "prompt": "水族箱里，五颜六色的热带鱼在游弋，水草轻轻摇曳，超高清电影级画质，蓝色的灯光，梦幻风格，固定机位，水泡声音效",
+      "duration": "5-10s",
+      "tags": ["水族箱", "热带鱼", "水草", "梦幻"],
+      "category": "宠物动物"
+    },
+    {
+      "id": "father-son-game-intermediate-1",
+      "name": "父子游戏",
+      "video_type": "storytelling",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "客厅里，爸爸和孩子正在玩积木，孩子在地上开心地大笑，超高清电影级画质，暖色的室内光，温馨风格，跟拍镜头，欢快背景音乐，欢笑声音效",
+      "duration": "6-12s",
+      "tags": ["父子", "游戏", "积木", "温馨"],
+      "category": "亲子家庭"
+    },
+    {
+      "id": "mother-son-reading-intermediate-1",
+      "name": "母子阅读",
+      "video_type": "storytelling",
+      "difficulty": "INTERMEDIATE",
+      "prompt": "床边，妈妈正在给孩子读故事书，孩子聚精会神地听着，超高清电影级画质，柔和的床头灯，温馨风格，近景特写，讲故事音效",
+      "duration": "6-12s",
+      "tags": ["母子", "阅读", "故事书", "温馨"],
+      "category": "亲子家庭"
+    },
+    {
+      "id": "family-picnic-advanced-1",
+      "name": "家庭野餐",
+      "video_type": "storytelling",
+      "difficulty": "ADVANCED",
+      "prompt": "草地上，全家人正在野餐，孩子们在追逐打闹，大人们聊天，超高清电影级画质，明亮的阳光，欢乐风格，环绕镜头，欢快背景音乐，笑声和环境音效",
+      "duration": "8-15s",
+      "tags": ["家庭", "野餐", "草地", "欢乐"],
+      "category": "亲子家庭"
+    },
+    {
+      "id": "celebration-dinner-advanced-1",
+      "name": "庆功宴",
+      "video_type": "storytelling",
+      "difficulty": "ADVANCED",
+      "prompt": "餐厅里，全家人正在为孩子庆祝升学，蛋糕上插满了蜡烛，超高清电影级画质，暖色的餐厅灯光，喜悦风格，固定机位，欢快背景音乐，掌声和祝福声音效",
+      "duration": "8-15s",
+      "tags": ["庆功宴", "升学", "蛋糕", "喜悦"],
+      "category": "亲子家庭"
+    }
+  ]
+}

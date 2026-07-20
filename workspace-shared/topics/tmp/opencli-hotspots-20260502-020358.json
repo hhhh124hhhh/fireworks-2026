@@ -1,0 +1,807 @@
+{
+  "timestamp": "2026-05-02 02:03:58",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
+          "score": 224,
+          "author": "lwhsiao",
+          "comments": 236,
+          "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"
+        },
+        {
+          "rank": 2,
+          "title": "Ask HN: Who is hiring? (May 2026)",
+          "score": 127,
+          "author": "whoishiring",
+          "comments": 129,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001"
+        },
+        {
+          "rank": 3,
+          "title": "Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests",
+          "score": 209,
+          "author": "loteck",
+          "comments": 65,
+          "url": "https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/"
+        },
+        {
+          "rank": 4,
+          "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
+          "score": 58,
+          "author": "peter_d_sherman",
+          "comments": 14,
+          "url": "https://github.com/whohas/whohas",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://github.com/whohas/whohas"
+        },
+        {
+          "rank": 5,
+          "title": "Ask HN: Who wants to be hired? (May 2026)",
+          "score": 68,
+          "author": "whoishiring",
+          "comments": 129,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004"
+        },
+        {
+          "rank": 6,
+          "title": "Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
+          "score": 52,
+          "author": "johnbarron",
+          "comments": 25,
+          "url": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://www.youtube.com/watch?v=nHwxV0Sd9V8"
+        },
+        {
+          "rank": 7,
+          "title": "Sally McKee, who coined the term \"the memory wall\", has died",
+          "score": 67,
+          "author": "deater",
+          "comments": 6,
+          "url": "https://www.online-tribute.com/SallyMcKee",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://www.online-tribute.com/SallyMcKee"
+        },
+        {
+          "rank": 8,
+          "title": "Show HN: My Private GitHub on Postgres",
+          "score": 7,
+          "author": "calebhwin",
+          "comments": 1,
+          "url": "https://github.com/calebwin/gitgres",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://github.com/calebwin/gitgres"
+        },
+        {
+          "rank": 9,
+          "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+          "score": 96,
+          "author": "ingve",
+          "comments": 19,
+          "url": "https://www.pagetable.com/?p=1854",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://www.pagetable.com/?p=1854"
+        },
+        {
+          "rank": 10,
+          "title": "Understand Anything",
+          "score": 6,
+          "author": "taubek",
+          "comments": 2,
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://github.com/Lum1104/Understand-Anything"
+        },
+        {
+          "rank": 11,
+          "title": "Your Website Is Not for You",
+          "score": 216,
+          "author": "pumbaa",
+          "comments": 148,
+          "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://websmith.studio/blog/your-website-is-not-for-you/"
+        },
+        {
+          "rank": 12,
+          "title": "An open letter asking NHS England to keep its code open",
+          "score": 113,
+          "author": "tvararu",
+          "comments": 6,
+          "url": "https://keepthingsopen.com",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://keepthingsopen.com"
+        },
+        {
+          "rank": 13,
+          "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+          "score": 77,
+          "author": "proberts",
+          "comments": 112,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012"
+        },
+        {
+          "rank": 14,
+          "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
+          "score": 24,
+          "author": "todience",
+          "comments": 5,
+          "url": "https://github.com/leox255/loopsy",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://github.com/leox255/loopsy"
+        },
+        {
+          "rank": 15,
+          "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+          "score": 178,
+          "author": "giuliomagnifico",
+          "comments": 104,
+          "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/"
+        },
+        {
+          "rank": 16,
+          "title": "Advanced Quantization Algorithm for LLMs",
+          "score": 82,
+          "author": "lastdong",
+          "comments": 13,
+          "url": "https://github.com/intel/auto-round",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://github.com/intel/auto-round"
+        },
+        {
+          "rank": 17,
+          "title": "Engineering tough blood clots for rapid haemostasis and enhanced regeneration",
+          "score": 4,
+          "author": "warbaker",
+          "comments": 1,
+          "url": "https://www.nature.com/articles/s41586-026-10412-y",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.nature.com/articles/s41586-026-10412-y"
+        },
+        {
+          "rank": 18,
+          "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+          "score": 88,
+          "author": "mayerwin",
+          "comments": 23,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017"
+        },
+        {
+          "rank": 19,
+          "title": "OpenWarp",
+          "score": 173,
+          "author": "zero-lab",
+          "comments": 126,
+          "url": "https://openwarp.zerx.dev",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://openwarp.zerx.dev"
+        },
+        {
+          "rank": 20,
+          "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+          "score": 447,
+          "author": "j12y",
+          "comments": 171,
+          "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
+        },
+        {
+          "rank": 21,
+          "title": "Grok 4.3",
+          "score": 334,
+          "author": "simianwords",
+          "comments": 437,
+          "url": "https://docs.x.ai/developers/models/grok-4.3",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://docs.x.ai/developers/models/grok-4.3"
+        },
+        {
+          "rank": 22,
+          "title": "Opus 4.7 knows the real Kelsey",
+          "score": 439,
+          "author": "ilamont",
+          "comments": 236,
+          "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously"
+        },
+        {
+          "rank": 23,
+          "title": "Maladaptive Frugality",
+          "score": 186,
+          "author": "herbertl",
+          "comments": 206,
+          "url": "https://herbertlui.net/maladaptive-frugality/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://herbertlui.net/maladaptive-frugality/"
+        },
+        {
+          "rank": 24,
+          "title": "Softmax, can you derive the Jacobian? And should you care?",
+          "score": 105,
+          "author": "smaddrellmander",
+          "comments": 41,
+          "url": "https://idlemachines.co.uk/essays/softmax",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://idlemachines.co.uk/essays/softmax"
+        },
+        {
+          "rank": 25,
+          "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+          "score": 289,
+          "author": "sleepingNomad",
+          "comments": 108,
+          "url": "https://github.com/darrylmorley/whatcable",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://github.com/darrylmorley/whatcable"
+        },
+        {
+          "rank": 26,
+          "title": "How an oil refinery works",
+          "score": 501,
+          "author": "chmaynard",
+          "comments": 173,
+          "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://www.construction-physics.com/p/how-an-oil-refinery-works"
+        },
+        {
+          "rank": 27,
+          "title": "If I could make my own GitHub",
+          "score": 114,
+          "author": "matricaria",
+          "comments": 131,
+          "url": "https://matduggan.com/if-i-could-make-my-own-github/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://matduggan.com/if-i-could-make-my-own-github/"
+        },
+        {
+          "rank": 28,
+          "title": "A Letter from Dijkstra on APL (1982)",
+          "score": 37,
+          "author": "tosh",
+          "comments": 29,
+          "url": "https://www.jsoftware.com/papers/Dijkstra_Letter.htm",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://www.jsoftware.com/papers/Dijkstra_Letter.htm"
+        },
+        {
+          "rank": 29,
+          "title": "AWS stops billing Middle East cloud customers as repairs to war damage drag on",
+          "score": 6,
+          "author": "johnbarron",
+          "comments": 0,
+          "url": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/"
+        },
+        {
+          "rank": 30,
+          "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+          "score": 1282,
+          "author": "elmean",
+          "comments": 696,
+          "url": "https://twitter.com/theo/status/2049645973350363168",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://twitter.com/theo/status/2049645973350363168"
+        }
+      ]
+    },
+    "github": {
+      "count": 9,
+      "items": [
+        {
+          "rank": 1,
+          "title": "TauricResearch /TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "language": "Python",
+          "stars": 59305,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "soxoj /maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "url": "https://github.com/soxoj/maigret",
+          "language": "Python",
+          "stars": 21403,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "warpdotdev /warp",
+          "description": "Warp is an agentic development environment, born out of the terminal.",
+          "url": "https://github.com/warpdotdev/warp",
+          "language": "Rust",
+          "stars": 51150,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "1jehuang /jcode",
+          "description": "Coding Agent Harness",
+          "url": "https://github.com/1jehuang/jcode",
+          "language": "Rust",
+          "stars": 2253,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "mattpocock /skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "url": "https://github.com/mattpocock/skills",
+          "language": "Shell",
+          "stars": 51970,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "browserbase /skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "url": "https://github.com/browserbase/skills",
+          "language": "JavaScript",
+          "stars": 1100,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "simstudioai /sim",
+          "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+          "url": "https://github.com/simstudioai/sim",
+          "language": "TypeScript",
+          "stars": 28083,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "obra /superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "url": "https://github.com/obra/superpowers",
+          "language": "Shell",
+          "stars": 175416,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "Flowseal /zapret-discord-youtube",
+          "description": "",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "language": "Batchfile",
+          "stars": 26923,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Why I Don’t Vibe Code",
+          "description": "",
+          "url": "https://jacobharr.is/personal/i-dont-vibe-code",
+          "score": 25,
+          "comments": 0,
+          "tags": [
+            "practices",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "A life update from Zach Oakes: Zig, AI, unemployment, and more",
+          "description": "<p>Zach Oakes, who some of you might know from his many Clojure projects, disappeared for a while.  He recently posted this and a couple of videos about what he's been up to and his VCS system.</p>\n",
+          "url": "https://www.youtube.com/watch?v=DhhPUrizZcw",
+          "score": 21,
+          "comments": 4,
+          "tags": [
+            "person",
+            "video"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "combat LLM spam by building a web of trust",
+          "description": "",
+          "url": "https://blog.tangled.org/vouching/",
+          "score": 6,
+          "comments": 1,
+          "tags": [
+            "vcs"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "If I Could Make My Own GitHub",
+          "description": "",
+          "url": "https://matduggan.com/if-i-could-make-my-own-github/",
+          "score": 42,
+          "comments": 18,
+          "tags": [
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "What are you doing this weekend?",
+          "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
+          "url": "",
+          "score": 16,
+          "comments": 32,
+          "tags": [
+            "ask",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "micro-benchmarks don’t tell the whole story",
+          "description": "",
+          "url": "https://hyper.dev/2026/chez-scheme-letloop-transparent-async-microbenchmark/",
+          "score": 5,
+          "comments": 1,
+          "tags": [
+            "lisp",
+            "performance",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Porting microgpt to Futhark, Part I",
+          "description": "",
+          "url": "https://www.kmjn.org/notes/microgpt_futhark.html",
+          "score": 25,
+          "comments": 2,
+          "tags": [
+            "ai",
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "GCC 16 Release Series: Changes, New Features, and Fixes",
+          "description": "",
+          "url": "https://gcc.gnu.org/gcc-16/changes.html",
+          "score": 52,
+          "comments": 22,
+          "tags": [
+            "compilers",
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "What even is Ecma? (Part 1)",
+          "description": "",
+          "url": "https://www.ryzokuken.dev/blog/about-ecma-1/",
+          "score": 5,
+          "comments": 0,
+          "tags": [
+            "browsers",
+            "javascript",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Shigeru Miyamoto has probably never compiled a line of code in his life and is still a better coder than most of you",
+          "description": "",
+          "url": "https://indiepixel.de/blog/posts/shigeru-miyamoto-has-probably-never-compiled-a-line-of-code-in-his-life-and-is-still-a-better-coder-than-most-of-you/",
+          "score": 7,
+          "comments": 3,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "You can beat the binary search",
+          "description": "",
+          "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
+          "score": 52,
+          "comments": 24,
+          "tags": [
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Progressive Web Components",
+          "description": "",
+          "url": "https://arielsalminen.com/2026/progressive-web-components/",
+          "score": 6,
+          "comments": 1,
+          "tags": [
+            "javascript",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "The LLM Is Not a Junior Engineer",
+          "description": "",
+          "url": "https://jacobharr.is/personal/llm-not-junior-engineer",
+          "score": 40,
+          "comments": 16,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "Mozilla's position on the Prompt API",
+          "description": "",
+          "url": "https://mastodon.social/@firefoxwebdevs/116492853483021978",
+          "score": 82,
+          "comments": 15,
+          "tags": [
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Groth16, Intuitively",
+          "description": "",
+          "url": "https://blog.zksecurity.xyz/posts/groth16/",
+          "score": 3,
+          "comments": 0,
+          "tags": [
+            "cryptography"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Life of a Packet in Amazon EKS",
+          "description": "",
+          "url": "https://samof76.space/life-of-a-packet-in-aws-eks.html",
+          "score": 6,
+          "comments": 0,
+          "tags": [
+            "networking"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Android VPN IP Leak Even If Always-On VPN Enabled",
+          "description": "",
+          "url": "https://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/",
+          "score": 28,
+          "comments": 0,
+          "tags": [
+            "android",
+            "privacy"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Contributor Poker and Zig's AI Ban",
+          "description": "",
+          "url": "https://kristoff.it/blog/contributor-poker-and-ai/",
+          "score": 205,
+          "comments": 109,
+          "tags": [
+            "vibecoding",
+            "zig"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "A text editor as a user interface",
+          "description": "",
+          "url": "https://ratfactor.com/cards/text-editor-as-ui",
+          "score": 79,
+          "comments": 11,
+          "tags": [
+            "editors"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "cPanel & WHM Authentication Bypass (CVE-2026-41940)",
+          "description": "",
+          "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+          "score": 7,
+          "comments": 0,
+          "tags": [
+            "php",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 59,
+    "hackernews": 30,
+    "github": 9,
+    "lobsters": 20
+  }
+}

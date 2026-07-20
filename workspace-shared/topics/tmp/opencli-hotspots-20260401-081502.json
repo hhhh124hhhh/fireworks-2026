@@ -1,0 +1,692 @@
+{
+  "timestamp": "2026-04-01 08:15:02",
+  "platforms": {
+    "zhihu": {
+      "count": 0,
+      "items": []
+    },
+    "weibo": {
+      "count": 0,
+      "items": []
+    },
+    "baidu": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "在雄安 为幸福加码",
+          "hot": "7904603",
+          "link": "https://www.baidu.com/s?wd=%E5%9C%A8%E9%9B%84%E5%AE%89+%E4%B8%BA%E5%B9%B8%E7%A6%8F%E5%8A%A0%E7%A0%81&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "中国最强“东西大动脉”要来了",
+          "hot": "7808136",
+          "link": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%BC%BA%E2%80%9C%E4%B8%9C%E8%A5%BF%E5%A4%A7%E5%8A%A8%E8%84%89%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "外交部：日本这一动向十分危险",
+          "hot": "7714053",
+          "link": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E8%BF%99%E4%B8%80%E5%8A%A8%E5%90%91%E5%8D%81%E5%88%86%E5%8D%B1%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "旅游新规落地 将带来哪些新变化",
+          "hot": "7618202",
+          "link": "https://www.baidu.com/s?wd=%E6%97%85%E6%B8%B8%E6%96%B0%E8%A7%84%E8%90%BD%E5%9C%B0+%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "台湾掀起“抢塑潮” 国台办回应",
+          "hot": "7521683",
+          "link": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%8E%80%E8%B5%B7%E2%80%9C%E6%8A%A2%E5%A1%91%E6%BD%AE%E2%80%9D+%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "2万多网购“小卡宴” 车标要自己贴",
+          "hot": "7424801",
+          "link": "https://www.baidu.com/s?wd=2%E4%B8%87%E5%A4%9A%E7%BD%91%E8%B4%AD%E2%80%9C%E5%B0%8F%E5%8D%A1%E5%AE%B4%E2%80%9D+%E8%BD%A6%E6%A0%87%E8%A6%81%E8%87%AA%E5%B7%B1%E8%B4%B4&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "公安部网安局公布3起网络谣言案例",
+          "hot": "7333751",
+          "link": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E9%83%A8%E7%BD%91%E5%AE%89%E5%B1%80%E5%85%AC%E5%B8%833%E8%B5%B7%E7%BD%91%E7%BB%9C%E8%B0%A3%E8%A8%80%E6%A1%88%E4%BE%8B&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "张本智和全胜晋级淘汰赛",
+          "hot": "7238822",
+          "link": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%85%A8%E8%83%9C%E6%99%8B%E7%BA%A7%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "立了遗嘱全给女儿 私生子起诉获支持",
+          "hot": "7143015",
+          "link": "https://www.baidu.com/s?wd=%E7%AB%8B%E4%BA%86%E9%81%97%E5%98%B1%E5%85%A8%E7%BB%99%E5%A5%B3%E5%84%BF+%E7%A7%81%E7%94%9F%E5%AD%90%E8%B5%B7%E8%AF%89%E8%8E%B7%E6%94%AF%E6%8C%81&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "20块的老古董有线耳机火了",
+          "hot": "7047291",
+          "link": "https://www.baidu.com/s?wd=20%E5%9D%97%E7%9A%84%E8%80%81%E5%8F%A4%E8%91%A3%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "多地回应4月1日起新规严查安全带",
+          "hot": "6947452",
+          "link": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%944%E6%9C%881%E6%97%A5%E8%B5%B7%E6%96%B0%E8%A7%84%E4%B8%A5%E6%9F%A5%E5%AE%89%E5%85%A8%E5%B8%A6&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "县委书记用6秒搞定足球赛闭幕式",
+          "hot": "6852796",
+          "link": "https://www.baidu.com/s?wd=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%A86%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B6%B3%E7%90%83%E8%B5%9B%E9%97%AD%E5%B9%95%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "4月1日起一批国家标准正式实施",
+          "hot": "6763387",
+          "link": "https://www.baidu.com/s?wd=4%E6%9C%881%E6%97%A5%E8%B5%B7%E4%B8%80%E6%89%B9%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 14,
+          "title": "A股收盘：全市场近4500只个股上涨",
+          "hot": "6664663",
+          "link": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%BF%914500%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 15,
+          "title": "张雪机车为何不允许新手购买",
+          "hot": "6567080",
+          "link": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%85%81%E8%AE%B8%E6%96%B0%E6%89%8B%E8%B4%AD%E4%B9%B0&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 16,
+          "title": "哈啰单车被约谈",
+          "hot": "6475769",
+          "link": "https://www.baidu.com/s?wd=%E5%93%88%E5%95%B0%E5%8D%95%E8%BD%A6%E8%A2%AB%E7%BA%A6%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 17,
+          "title": "歌手张政直播后突然晕倒被紧急送医",
+          "hot": "6376373",
+          "link": "https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E5%BC%A0%E6%94%BF%E7%9B%B4%E6%92%AD%E5%90%8E%E7%AA%81%E7%84%B6%E6%99%95%E5%80%92%E8%A2%AB%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 18,
+          "title": "“每天穿什么取决于邻居晒什么”",
+          "hot": "6280691",
+          "link": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%8F%E5%A4%A9%E7%A9%BF%E4%BB%80%E4%B9%88%E5%8F%96%E5%86%B3%E4%BA%8E%E9%82%BB%E5%B1%85%E6%99%92%E4%BB%80%E4%B9%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 19,
+          "title": "Colorwalk怎么火了",
+          "hot": "6180733",
+          "link": "https://www.baidu.com/s?wd=Colorwalk%E6%80%8E%E4%B9%88%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 20,
+          "title": "军事机密泄露竟是因为运动手表",
+          "hot": "6085921",
+          "link": "https://www.baidu.com/s?wd=%E5%86%9B%E4%BA%8B%E6%9C%BA%E5%AF%86%E6%B3%84%E9%9C%B2%E7%AB%9F%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BF%90%E5%8A%A8%E6%89%8B%E8%A1%A8&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 21,
+          "title": "“未缴车位费不抬杆”属违法催缴",
+          "hot": "5987542",
+          "link": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%AA%E7%BC%B4%E8%BD%A6%E4%BD%8D%E8%B4%B9%E4%B8%8D%E6%8A%AC%E6%9D%86%E2%80%9D%E5%B1%9E%E8%BF%9D%E6%B3%95%E5%82%AC%E7%BC%B4&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 22,
+          "title": "女教师被车拖行近6公里身亡",
+          "hot": "5891876",
+          "link": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E8%BD%A6%E6%8B%96%E8%A1%8C%E8%BF%916%E5%85%AC%E9%87%8C%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 23,
+          "title": "张雪爆火 这个男人是谁",
+          "hot": "5799071",
+          "link": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E7%88%86%E7%81%AB+%E8%BF%99%E4%B8%AA%E7%94%B7%E4%BA%BA%E6%98%AF%E8%B0%81&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 24,
+          "title": "疑用中国风景照 苏格兰撤下旅游广告",
+          "hot": "5703047",
+          "link": "https://www.baidu.com/s?wd=%E7%96%91%E7%94%A8%E4%B8%AD%E5%9B%BD%E9%A3%8E%E6%99%AF%E7%85%A7+%E8%8B%8F%E6%A0%BC%E5%85%B0%E6%92%A4%E4%B8%8B%E6%97%85%E6%B8%B8%E5%B9%BF%E5%91%8A&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 25,
+          "title": "浙创投为张雪机车投资9000万",
+          "hot": "5622524",
+          "link": "https://www.baidu.com/s?wd=%E6%B5%99%E5%88%9B%E6%8A%95%E4%B8%BA%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%8A%95%E8%B5%849000%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 26,
+          "title": "患者做手术需自费买刀 收费近4千元",
+          "hot": "5519385",
+          "link": "https://www.baidu.com/s?wd=%E6%82%A3%E8%80%85%E5%81%9A%E6%89%8B%E6%9C%AF%E9%9C%80%E8%87%AA%E8%B4%B9%E4%B9%B0%E5%88%80+%E6%94%B6%E8%B4%B9%E8%BF%914%E5%8D%83%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 27,
+          "title": "辛苦考上幼师后幼儿园却没了",
+          "hot": "5425557",
+          "link": "https://www.baidu.com/s?wd=%E8%BE%9B%E8%8B%A6%E8%80%83%E4%B8%8A%E5%B9%BC%E5%B8%88%E5%90%8E%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%8D%B4%E6%B2%A1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 28,
+          "title": "李荣浩否认抄袭",
+          "hot": "5315444",
+          "link": "https://www.baidu.com/s?wd=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%90%A6%E8%AE%A4%E6%8A%84%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 29,
+          "title": "两只狗偷药：一个打掩护一个负责偷",
+          "hot": "5237188",
+          "link": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%8F%AA%E7%8B%97%E5%81%B7%E8%8D%AF%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%89%93%E6%8E%A9%E6%8A%A4%E4%B8%80%E4%B8%AA%E8%B4%9F%E8%B4%A3%E5%81%B7&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        },
+        {
+          "rank": 30,
+          "title": "张雪机车夺冠：政府该怎样支持企业",
+          "hot": "5131473",
+          "link": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A4%BA%E5%86%A0%EF%BC%9A%E6%94%BF%E5%BA%9C%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%94%AF%E6%8C%81%E4%BC%81%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news",
+          "platform": "baidu",
+          "category": "social",
+          "priority": "P0"
+        }
+      ]
+    },
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Claude Code Unpacked : A visual guide",
+          "score": 261,
+          "author": "autocracy101",
+          "comments": 50,
+          "url": "https://ccunpacked.dev/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://ccunpacked.dev/"
+        },
+        {
+          "rank": 2,
+          "title": "CERN levels up with new superconducting karts",
+          "score": 42,
+          "author": "fnands",
+          "comments": 7,
+          "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts"
+        },
+        {
+          "rank": 3,
+          "title": "Neanderthals survived on a knife's edge for 350k years",
+          "score": 125,
+          "author": "Hooke",
+          "comments": 81,
+          "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years"
+        },
+        {
+          "rank": 4,
+          "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+          "score": 27,
+          "author": "wazHFsRy",
+          "comments": 3,
+          "url": "https://github.com/yannick-cw/korb",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://github.com/yannick-cw/korb"
+        },
+        {
+          "rank": 5,
+          "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+          "score": 47,
+          "author": "ingve",
+          "comments": 7,
+          "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/"
+        },
+        {
+          "rank": 6,
+          "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+          "score": 160,
+          "author": "sorenjan",
+          "comments": 19,
+          "url": "https://arxiv.org/abs/2602.04118",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://arxiv.org/abs/2602.04118"
+        },
+        {
+          "rank": 7,
+          "title": "A dot a day keeps the clutter away",
+          "score": 285,
+          "author": "scottlawson",
+          "comments": 82,
+          "url": "https://scottlawsonbc.com/post/dot-system",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://scottlawsonbc.com/post/dot-system"
+        },
+        {
+          "rank": 8,
+          "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+          "score": 228,
+          "author": "PrismML",
+          "comments": 97,
+          "url": "https://prismml.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://prismml.com/"
+        },
+        {
+          "rank": 9,
+          "title": "TruffleRuby",
+          "score": 115,
+          "author": "tosh",
+          "comments": 6,
+          "url": "https://chrisseaton.com/truffleruby/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://chrisseaton.com/truffleruby/"
+        },
+        {
+          "rank": 10,
+          "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
+          "score": 38,
+          "author": "Munksgaard",
+          "comments": 37,
+          "url": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude"
+        },
+        {
+          "rank": 11,
+          "title": "Remembering Magnetic Memories and the Apollo AGC",
+          "score": 5,
+          "author": "2earth",
+          "comments": 1,
+          "url": "https://2earth.github.io/website/20260304.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://2earth.github.io/website/20260304.html"
+        },
+        {
+          "rank": 12,
+          "title": "MiniStack (replacement for LocalStack)",
+          "score": 208,
+          "author": "kerblang",
+          "comments": 40,
+          "url": "https://ministack.org/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://ministack.org/"
+        },
+        {
+          "rank": 13,
+          "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+          "score": 1137,
+          "author": "alex000kim",
+          "comments": 450,
+          "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/"
+        },
+        {
+          "rank": 14,
+          "title": "Chess in SQL",
+          "score": 34,
+          "author": "upmostly",
+          "comments": 10,
+          "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://www.dbpro.app/blog/chess-in-pure-sql"
+        },
+        {
+          "rank": 15,
+          "title": "Digitizing photos from the 1998 Game Boy Camera",
+          "score": 40,
+          "author": "rockbruno",
+          "comments": 6,
+          "url": "https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera"
+        },
+        {
+          "rank": 16,
+          "title": "OpenAI closes funding round at an $852B valuation",
+          "score": 428,
+          "author": "surprisetalk",
+          "comments": 372,
+          "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
+        },
+        {
+          "rank": 17,
+          "title": "4D Doom",
+          "score": 195,
+          "author": "chronolitus",
+          "comments": 45,
+          "url": "https://github.com/danieldugas/HYPERHELL",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://github.com/danieldugas/HYPERHELL"
+        },
+        {
+          "rank": 18,
+          "title": "Slop is not necessarily the future",
+          "score": 226,
+          "author": "dakshgupta",
+          "comments": 385,
+          "url": "https://www.greptile.com/blog/ai-slopware-future",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://www.greptile.com/blog/ai-slopware-future"
+        },
+        {
+          "rank": 19,
+          "title": "Open source CAD in the browser (Solvespace)",
+          "score": 324,
+          "author": "phkahler",
+          "comments": 103,
+          "url": "https://solvespace.com/webver.pl",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://solvespace.com/webver.pl"
+        },
+        {
+          "rank": 20,
+          "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+          "score": 288,
+          "author": "KoftaBob",
+          "comments": 764,
+          "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/"
+        },
+        {
+          "rank": 21,
+          "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+          "score": 99,
+          "author": "WaitWaitWha",
+          "comments": 35,
+          "url": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"
+        },
+        {
+          "rank": 22,
+          "title": "Analyzing Geekbench 6 under Intel's BOT",
+          "score": 22,
+          "author": "hajile",
+          "comments": 12,
+          "url": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/"
+        },
+        {
+          "rank": 23,
+          "title": "Joel Meyerowitz on Photographing Giorgio Morandi's Studio",
+          "score": 3,
+          "author": "vinhnx",
+          "comments": 0,
+          "url": "https://hyperallergic.com/joel-meyerowitz-on-photograpghing-giorgio-morandis-studio/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://hyperallergic.com/joel-meyerowitz-on-photograpghing-giorgio-morandis-studio/"
+        },
+        {
+          "rank": 24,
+          "title": "Butterfly-collecting: The history of an insult (2017)",
+          "score": 10,
+          "author": "jruohonen",
+          "comments": 1,
+          "url": "http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html"
+        },
+        {
+          "rank": 25,
+          "title": "Back to FreeBSD – Part 2 – Jails",
+          "score": 79,
+          "author": "vermaden",
+          "comments": 14,
+          "url": "https://hypha.pub/back-to-freebsd-part-2",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://hypha.pub/back-to-freebsd-part-2"
+        },
+        {
+          "rank": 26,
+          "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+          "score": 111,
+          "author": "ericlewis",
+          "comments": 24,
+          "url": "https://github.com/ericlewis/libpo32",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://github.com/ericlewis/libpo32"
+        },
+        {
+          "rank": 27,
+          "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+          "score": 1832,
+          "author": "mtud",
+          "comments": 737,
+          "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
+        },
+        {
+          "rank": 28,
+          "title": "Cohere Transcribe: Speech Recognition",
+          "score": 188,
+          "author": "gmays",
+          "comments": 55,
+          "url": "https://cohere.com/blog/transcribe",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://cohere.com/blog/transcribe"
+        },
+        {
+          "rank": 29,
+          "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+          "score": 143,
+          "author": "tjgreen",
+          "comments": 42,
+          "url": "https://github.com/timescale/pg_textsearch",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://github.com/timescale/pg_textsearch"
+        },
+        {
+          "rank": 30,
+          "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+          "score": 118,
+          "author": "future-shock-ai",
+          "comments": 9,
+          "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://news.future-shock.ai/the-weight-of-remembering/"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "zhihu: failed to grab",
+    "weibo: failed to grab"
+  ],
+  "summary": {
+    "total": 60,
+    "baidu": 30,
+    "hackernews": 30
+  }
+}

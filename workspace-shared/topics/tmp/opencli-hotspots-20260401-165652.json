@@ -1,0 +1,870 @@
+{
+  "timestamp": "2026-04-01 16:56:52",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Claude Code Unpacked : A visual guide",
+          "score": 330,
+          "author": "autocracy101",
+          "comments": 70,
+          "url": "https://ccunpacked.dev/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://ccunpacked.dev/"
+        },
+        {
+          "rank": 2,
+          "title": "CERN levels up with new superconducting karts",
+          "score": 64,
+          "author": "fnands",
+          "comments": 10,
+          "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts"
+        },
+        {
+          "rank": 3,
+          "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+          "score": 43,
+          "author": "wazHFsRy",
+          "comments": 5,
+          "url": "https://github.com/yannick-cw/korb",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://github.com/yannick-cw/korb"
+        },
+        {
+          "rank": 4,
+          "title": "Neanderthals survived on a knife's edge for 350k years",
+          "score": 133,
+          "author": "Hooke",
+          "comments": 89,
+          "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years"
+        },
+        {
+          "rank": 5,
+          "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+          "score": 55,
+          "author": "ingve",
+          "comments": 9,
+          "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/"
+        },
+        {
+          "rank": 6,
+          "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+          "score": 165,
+          "author": "sorenjan",
+          "comments": 19,
+          "url": "https://arxiv.org/abs/2602.04118",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://arxiv.org/abs/2602.04118"
+        },
+        {
+          "rank": 7,
+          "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+          "score": 238,
+          "author": "PrismML",
+          "comments": 101,
+          "url": "https://prismml.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://prismml.com/"
+        },
+        {
+          "rank": 8,
+          "title": "A dot a day keeps the clutter away",
+          "score": 300,
+          "author": "scottlawson",
+          "comments": 85,
+          "url": "https://scottlawsonbc.com/post/dot-system",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://scottlawsonbc.com/post/dot-system"
+        },
+        {
+          "rank": 9,
+          "title": "TruffleRuby",
+          "score": 121,
+          "author": "tosh",
+          "comments": 7,
+          "url": "https://chrisseaton.com/truffleruby/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://chrisseaton.com/truffleruby/"
+        },
+        {
+          "rank": 10,
+          "title": "MiniStack (replacement for LocalStack)",
+          "score": 216,
+          "author": "kerblang",
+          "comments": 40,
+          "url": "https://ministack.org/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://ministack.org/"
+        },
+        {
+          "rank": 11,
+          "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+          "score": 1154,
+          "author": "alex000kim",
+          "comments": 456,
+          "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/"
+        },
+        {
+          "rank": 12,
+          "title": "Chess in SQL",
+          "score": 40,
+          "author": "upmostly",
+          "comments": 15,
+          "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://www.dbpro.app/blog/chess-in-pure-sql"
+        },
+        {
+          "rank": 13,
+          "title": "OpenAI closes funding round at an $852B valuation",
+          "score": 438,
+          "author": "surprisetalk",
+          "comments": 381,
+          "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
+        },
+        {
+          "rank": 14,
+          "title": "Digitizing photos from the 1998 Game Boy Camera",
+          "score": 44,
+          "author": "rockbruno",
+          "comments": 5,
+          "url": "https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera"
+        },
+        {
+          "rank": 15,
+          "title": "4D Doom",
+          "score": 200,
+          "author": "chronolitus",
+          "comments": 46,
+          "url": "https://github.com/danieldugas/HYPERHELL",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://github.com/danieldugas/HYPERHELL"
+        },
+        {
+          "rank": 16,
+          "title": "Slop is not necessarily the future",
+          "score": 230,
+          "author": "dakshgupta",
+          "comments": 391,
+          "url": "https://www.greptile.com/blog/ai-slopware-future",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://www.greptile.com/blog/ai-slopware-future"
+        },
+        {
+          "rank": 17,
+          "title": "Open source CAD in the browser (Solvespace)",
+          "score": 333,
+          "author": "phkahler",
+          "comments": 103,
+          "url": "https://solvespace.com/webver.pl",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://solvespace.com/webver.pl"
+        },
+        {
+          "rank": 18,
+          "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+          "score": 301,
+          "author": "KoftaBob",
+          "comments": 807,
+          "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/"
+        },
+        {
+          "rank": 19,
+          "title": "Remembering Magnetic Memories and the Apollo AGC",
+          "score": 5,
+          "author": "2earth",
+          "comments": 1,
+          "url": "https://2earth.github.io/website/20260304.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://2earth.github.io/website/20260304.html"
+        },
+        {
+          "rank": 20,
+          "title": "Analyzing Geekbench 6 under Intel's BOT",
+          "score": 24,
+          "author": "hajile",
+          "comments": 13,
+          "url": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/"
+        },
+        {
+          "rank": 21,
+          "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+          "score": 100,
+          "author": "WaitWaitWha",
+          "comments": 39,
+          "url": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"
+        },
+        {
+          "rank": 22,
+          "title": "Butterfly-collecting: The history of an insult (2017)",
+          "score": 11,
+          "author": "jruohonen",
+          "comments": 1,
+          "url": "http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html"
+        },
+        {
+          "rank": 23,
+          "title": "Back to FreeBSD – Part 2 – Jails",
+          "score": 84,
+          "author": "vermaden",
+          "comments": 15,
+          "url": "https://hypha.pub/back-to-freebsd-part-2",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://hypha.pub/back-to-freebsd-part-2"
+        },
+        {
+          "rank": 24,
+          "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+          "score": 116,
+          "author": "ericlewis",
+          "comments": 25,
+          "url": "https://github.com/ericlewis/libpo32",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://github.com/ericlewis/libpo32"
+        },
+        {
+          "rank": 25,
+          "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+          "score": 1836,
+          "author": "mtud",
+          "comments": 738,
+          "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
+        },
+        {
+          "rank": 26,
+          "title": "Cohere Transcribe: Speech Recognition",
+          "score": 193,
+          "author": "gmays",
+          "comments": 56,
+          "url": "https://cohere.com/blog/transcribe",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://cohere.com/blog/transcribe"
+        },
+        {
+          "rank": 27,
+          "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+          "score": 146,
+          "author": "tjgreen",
+          "comments": 44,
+          "url": "https://github.com/timescale/pg_textsearch",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://github.com/timescale/pg_textsearch"
+        },
+        {
+          "rank": 28,
+          "title": "Joel Meyerowitz on Photographing Giorgio Morandi's Studio",
+          "score": 3,
+          "author": "vinhnx",
+          "comments": 0,
+          "url": "https://hyperallergic.com/joel-meyerowitz-on-photograpghing-giorgio-morandis-studio/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://hyperallergic.com/joel-meyerowitz-on-photograpghing-giorgio-morandis-studio/"
+        },
+        {
+          "rank": 29,
+          "title": "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
+          "score": 51,
+          "author": "kencausey",
+          "comments": 5,
+          "url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/"
+        },
+        {
+          "rank": 30,
+          "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+          "score": 121,
+          "author": "future-shock-ai",
+          "comments": 9,
+          "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://news.future-shock.ai/the-weight-of-remembering/"
+        }
+      ]
+    },
+    "github": {
+      "count": 14,
+      "items": [
+        {
+          "rank": 1,
+          "title": "luongnv89 /claude-howto",
+          "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "language": "Python",
+          "stars": 14318,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "microsoft /VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "language": "Python",
+          "stars": 33739,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "Yeachan-Heo /oh-my-claudecode",
+          "description": "Teams-first Multi-agent orchestration for Claude Code",
+          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+          "language": "TypeScript",
+          "stars": 19996,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "shanraisshan /claude-code-best-practice",
+          "description": "practice made claude perfect",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "language": "HTML",
+          "stars": 29584,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "NousResearch /hermes-agent",
+          "description": "The agent that grows with you",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "language": "Python",
+          "stars": 20900,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "obra /superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "url": "https://github.com/obra/superpowers",
+          "language": "Shell",
+          "stars": 129177,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "microsoft /agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "language": "Python",
+          "stars": 16354,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "PaddlePaddle /PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "language": "Python",
+          "stars": 74484,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "Dimillian /Skills",
+          "description": "My Codex Skills",
+          "url": "https://github.com/Dimillian/Skills",
+          "language": "Shell",
+          "stars": 3025,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "sherlock-project /sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "language": "Python",
+          "stars": 75787,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "neovim /neovim",
+          "description": "Vim-fork focused on extensibility and usability",
+          "url": "https://github.com/neovim/neovim",
+          "language": "Vim Script",
+          "stars": 98035,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "vas3k /TaxHacker",
+          "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+          "url": "https://github.com/vas3k/TaxHacker",
+          "language": "TypeScript",
+          "stars": 3920,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "OpenBMB /ChatDev",
+          "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+          "url": "https://github.com/OpenBMB/ChatDev",
+          "language": "Python",
+          "stars": 32524,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 14,
+          "title": "jwasham /coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "language": "",
+          "stars": 339939,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Reading leaked Claude Code source code",
+          "description": "",
+          "url": "https://lr0.org/blog/p/claude-code-source/",
+          "score": 26,
+          "comments": 8,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Gaim 3 Exists",
+          "description": "",
+          "url": "https://gaim.imfreedom.org/",
+          "score": 24,
+          "comments": 10,
+          "tags": [
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Historical GitHub Uptime Charts",
+          "description": "",
+          "url": "https://damrnelson.github.io/github-historical-uptime/",
+          "score": 55,
+          "comments": 6,
+          "tags": [
+            "vcs",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "your hex editor should color-code bytes",
+          "description": "",
+          "url": "https://simonomi.dev/blog/color-code-your-bytes/",
+          "score": 45,
+          "comments": 10,
+          "tags": [
+            "editors",
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Pidgin 3.0 Alpha 1 2.95.0 has been released",
+          "description": "",
+          "url": "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-1-2-95-0-has-been-released/378",
+          "score": 28,
+          "comments": 5,
+          "tags": [
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "RubyGems Fracture Incident Report",
+          "description": "",
+          "url": "https://rubycentral.org/news/rubygems-fracture-incident-report/",
+          "score": 26,
+          "comments": 15,
+          "tags": [
+            "ruby"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "The Subprime Technical Debt Crisis",
+          "description": "",
+          "url": "https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/",
+          "score": 24,
+          "comments": 8,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "plakar + openbsd",
+          "description": "",
+          "url": "https://x61.sh/log/2026/03/25032026151800-plakar.html",
+          "score": 12,
+          "comments": 5,
+          "tags": [
+            "openbsd"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Supply Chain Attack on Axios",
+          "description": "",
+          "url": "https://socket.dev/blog/axios-npm-package-compromised",
+          "score": 52,
+          "comments": 29,
+          "tags": [
+            "javascript",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "I Made a Keyboard Nobody Asked For: My Experience Making TapType",
+          "description": "",
+          "url": "https://fireborn.mataroa.blog/blog/i-made-a-keyboard-nobody-asked-for-my-experience-making-taptype/",
+          "score": 10,
+          "comments": 1,
+          "tags": [
+            "a11y",
+            "android",
+            "mobile"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Software You Can Love 2026 tickets are on sale",
+          "description": "",
+          "url": "https://mattnite.net/blog/sycl-2026-tickets-are-here/",
+          "score": 15,
+          "comments": 9,
+          "tags": [
+            "event"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Early observations from Interviews with Engineering Teams Adopting AI",
+          "description": "",
+          "url": "https://jonathannen.com/observations-from-interviews/",
+          "score": 4,
+          "comments": 2,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "The Self-Cancelling Subscription",
+          "description": "",
+          "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+          "score": 4,
+          "comments": 0,
+          "tags": [
+            "debugging"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "DSTs Are Just Polymorphically Compiled Generics",
+          "description": "",
+          "url": "https://faultlore.com/blah/dsts-are-polymorphic-generics/",
+          "score": 9,
+          "comments": 0,
+          "tags": [
+            "plt",
+            "rust",
+            "swift"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Why have supply chain attacks become a near daily occurrence ?",
+          "description": "<p>There are now two supply chain attacks in a week.</p>\n<p>A few days ago it was litellm (Pypi) and now its axios (npm) .</p>\n",
+          "url": "",
+          "score": 52,
+          "comments": 53,
+          "tags": [
+            "ask",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Let the commits tell the story",
+          "description": "",
+          "url": "https://chrismaiorana.com/git-commits-tell-the-story/",
+          "score": 24,
+          "comments": 27,
+          "tags": [
+            "vcs"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Autoscaling CI for Gitea in Rust",
+          "description": "",
+          "url": "https://rustunit.com/blog/2026/03-30-gitea-ci-autoscaler/",
+          "score": 16,
+          "comments": 0,
+          "tags": [
+            "release",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "February in Servo: faster layout, pause and resume scripts, and more",
+          "description": "",
+          "url": "https://servo.org/blog/2026/03/31/february-in-servo/",
+          "score": 22,
+          "comments": 1,
+          "tags": [
+            "browsers",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Reconstructing full Linux history",
+          "description": "",
+          "url": "https://rentry.co/sv4de7ty",
+          "score": 1,
+          "comments": 0,
+          "tags": [
+            "historical",
+            "linux",
+            "rust",
+            "vcs"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "copilot edited an ad into my pr",
+          "description": "",
+          "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+          "score": 157,
+          "comments": 30,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 64,
+    "hackernews": 30,
+    "github": 14,
+    "lobsters": 20
+  }
+}

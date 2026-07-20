@@ -1,0 +1,878 @@
+{
+  "timestamp": "2026-06-08 02:02:09",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
+          "score": 138,
+          "author": "supermatou",
+          "comments": 71,
+          "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122"
+        },
+        {
+          "rank": 2,
+          "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+          "score": 11,
+          "author": "elpocko",
+          "comments": 1,
+          "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html"
+        },
+        {
+          "rank": 3,
+          "title": "Cloning a Sennheiser BA2015 battery pack",
+          "score": 48,
+          "author": "zdw",
+          "comments": 7,
+          "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/"
+        },
+        {
+          "rank": 4,
+          "title": "LLMs are eroding my software engineering career and I don't know what to do",
+          "score": 601,
+          "author": "poisonfountain",
+          "comments": 551,
+          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/"
+        },
+        {
+          "rank": 5,
+          "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+          "score": 307,
+          "author": "matt_d",
+          "comments": 74,
+          "url": "https://www.ioccc.org/2025/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://www.ioccc.org/2025/"
+        },
+        {
+          "rank": 6,
+          "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+          "score": 118,
+          "author": "devenjarvis",
+          "comments": 20,
+          "url": "https://github.com/devenjarvis/lathe",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://github.com/devenjarvis/lathe"
+        },
+        {
+          "rank": 7,
+          "title": "Anthropic, please ship an official Claude Desktop for Linux",
+          "score": 270,
+          "author": "predkambrij",
+          "comments": 139,
+          "url": "https://github.com/anthropics/claude-code/issues/65697",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://github.com/anthropics/claude-code/issues/65697"
+        },
+        {
+          "rank": 8,
+          "title": "Proliferate (YC S25) is hiring to building open source Codex",
+          "score": 1,
+          "author": "pablo24602",
+          "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer"
+        },
+        {
+          "rank": 9,
+          "title": "The gamers taking on the industry to stop it switching off games",
+          "score": 40,
+          "author": "Brajeshwar",
+          "comments": 28,
+          "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://www.bbc.com/news/articles/c8e8e7g0r82o"
+        },
+        {
+          "rank": 10,
+          "title": "Win16 Memory Management",
+          "score": 109,
+          "author": "supermatou",
+          "comments": 55,
+          "url": "http://www.os2museum.com/wp/win16-memory-management/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "http://www.os2museum.com/wp/win16-memory-management/"
+        },
+        {
+          "rank": 11,
+          "title": "Podman 6: machine usability improvements (2025)",
+          "score": 55,
+          "author": "daesorin",
+          "comments": 1,
+          "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/"
+        },
+        {
+          "rank": 12,
+          "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+          "score": 123,
+          "author": "kkm",
+          "comments": 20,
+          "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://fergusfinn.com/blog/kv-entropy-coder/"
+        },
+        {
+          "rank": 13,
+          "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+          "score": 48,
+          "author": "le_chuck",
+          "comments": 23,
+          "url": "https://kyushu.dev/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://kyushu.dev/"
+        },
+        {
+          "rank": 14,
+          "title": "Backrest – a web UI and orchestrator for restic backup",
+          "score": 12,
+          "author": "flexagoon",
+          "comments": 2,
+          "url": "https://github.com/garethgeorge/backrest",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://github.com/garethgeorge/backrest"
+        },
+        {
+          "rank": 15,
+          "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
+          "score": 47,
+          "author": "ChrisGammell",
+          "comments": 5,
+          "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/"
+        },
+        {
+          "rank": 16,
+          "title": "Public Domain Image Archive",
+          "score": 208,
+          "author": "davidbarker",
+          "comments": 30,
+          "url": "https://pdimagearchive.org/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://pdimagearchive.org/"
+        },
+        {
+          "rank": 17,
+          "title": "How Long Does It Take for a QQuickItem to Become Visible?",
+          "score": 25,
+          "author": "jandeboevrie",
+          "comments": 1,
+          "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/"
+        },
+        {
+          "rank": 18,
+          "title": "My Software North Star",
+          "score": 173,
+          "author": "kristoff_it",
+          "comments": 107,
+          "url": "https://kristoff.it/blog/north-star/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://kristoff.it/blog/north-star/"
+        },
+        {
+          "rank": 19,
+          "title": "The best relationships are all-encompassing.",
+          "score": 43,
+          "author": "andytratt",
+          "comments": 37,
+          "url": "https://andys.blog/the-best-relationships/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://andys.blog/the-best-relationships/"
+        },
+        {
+          "rank": 20,
+          "title": "Valve P2P networking broken for more than 2 months",
+          "score": 239,
+          "author": "babuskov",
+          "comments": 121,
+          "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398"
+        },
+        {
+          "rank": 21,
+          "title": "Field of clones: How horse replicas came to dominate polo",
+          "score": 144,
+          "author": "gscott",
+          "comments": 66,
+          "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses"
+        },
+        {
+          "rank": 22,
+          "title": "What is the purpose of the lost+found folder in Linux and Unix?",
+          "score": 5,
+          "author": "tosh",
+          "comments": 0,
+          "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix"
+        },
+        {
+          "rank": 23,
+          "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+          "score": 131,
+          "author": "mmastrac",
+          "comments": 11,
+          "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://symbolica.io/posts/symbolica_2_0_release/"
+        },
+        {
+          "rank": 24,
+          "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+          "score": 150,
+          "author": "Anon84",
+          "comments": 62,
+          "url": "https://arxiv.org/abs/2601.14470",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://arxiv.org/abs/2601.14470"
+        },
+        {
+          "rank": 25,
+          "title": "Efficient and Training-Free Single-Image Diffusion Models",
+          "score": 38,
+          "author": "yorwba",
+          "comments": 0,
+          "url": "https://arxiv.org/abs/2606.04299",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://arxiv.org/abs/2606.04299"
+        },
+        {
+          "rank": 26,
+          "title": "There's no escaping it: an exploration of ANSI codes",
+          "score": 15,
+          "author": "ankitg12",
+          "comments": 3,
+          "url": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://blog.safia.rocks/2025/12/22/ansi-codes/"
+        },
+        {
+          "rank": 27,
+          "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+          "score": 145,
+          "author": "zeech",
+          "comments": 79,
+          "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/"
+        },
+        {
+          "rank": 28,
+          "title": "Warren's Abstract Machine: A Tutorial Reconstruction",
+          "score": 39,
+          "author": "nextos",
+          "comments": 5,
+          "url": "https://github.com/a-yiorgos/wambook",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://github.com/a-yiorgos/wambook"
+        },
+        {
+          "rank": 29,
+          "title": "Biohub releases a world model of protein biology",
+          "score": 135,
+          "author": "gmays",
+          "comments": 23,
+          "url": "https://biohub.org/news/world-model-of-protein-biology/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://biohub.org/news/world-model-of-protein-biology/"
+        },
+        {
+          "rank": 30,
+          "title": "Arithmetic Without Numbers – How LLMs Do Math",
+          "score": 87,
+          "author": "old_sound",
+          "comments": 26,
+          "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html"
+        }
+      ]
+    },
+    "github": {
+      "count": 15,
+      "items": [
+        {
+          "rank": 1,
+          "title": "mvanhorn /last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "language": "Python",
+          "stars": 30269,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "opencv /opencv",
+          "description": "Open Source Computer Vision Library",
+          "url": "https://github.com/opencv/opencv",
+          "language": "C++",
+          "stars": 87989,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "Leonxlnx /taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "language": "Shell",
+          "stars": 36281,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "NousResearch /hermes-agent",
+          "description": "The agent that grows with you",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "language": "Python",
+          "stars": 185660,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "lfnovo /open-notebook",
+          "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "language": "TypeScript",
+          "stars": 27050,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "yikart /AiToEarn",
+          "description": "Let's use AI to Earn!",
+          "url": "https://github.com/yikart/AiToEarn",
+          "language": "TypeScript",
+          "stars": 18666,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "aaif-goose /goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "url": "https://github.com/aaif-goose/goose",
+          "language": "Rust",
+          "stars": 47300,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "Crosstalk-Solutions /project-nomad",
+          "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "language": "TypeScript",
+          "stars": 29569,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "ggml-org /llama.cpp",
+          "description": "LLM inference in C/C++",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "language": "C++",
+          "stars": 115213,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "RyanCodrai /turbovec",
+          "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "language": "Python",
+          "stars": 6749,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "TapXWorld /ChinaTextbook",
+          "description": "所有小初高、大学PDF教材。",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "language": "Roff",
+          "stars": 72397,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "openai /plugins",
+          "description": "OpenAI Plugins",
+          "url": "https://github.com/openai/plugins",
+          "language": "JavaScript",
+          "stars": 1971,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "refactoringhq /tolaria",
+          "description": "Desktop app to manage markdown knowledge bases",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "language": "TypeScript",
+          "stars": 12748,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 14,
+          "title": "HunxByts /GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "language": "Python",
+          "stars": 13655,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 15,
+          "title": "microsoft /pg_durable",
+          "description": "PostgreSQL in-database durable execution",
+          "url": "https://github.com/microsoft/pg_durable",
+          "language": "Rust",
+          "stars": 1378,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "To my students",
+          "description": "",
+          "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+          "score": 164,
+          "comments": 44,
+          "tags": [
+            "education",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "The User Doesn't Care - But you should",
+          "description": "",
+          "url": "https://lewiscampbell.tech/blog/260607.html",
+          "score": 24,
+          "comments": 6,
+          "tags": [
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)",
+          "description": "",
+          "url": "https://www.ioccc.org/2025/",
+          "score": 32,
+          "comments": 2,
+          "tags": [
+            "c"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Moving beyond fork() + exec()",
+          "description": "",
+          "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+          "score": 24,
+          "comments": 13,
+          "tags": [
+            "unix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix",
+          "description": "",
+          "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
+          "score": 18,
+          "comments": 5,
+          "tags": [
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Life is too short for a slow terminal",
+          "description": "",
+          "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+          "score": 71,
+          "comments": 50,
+          "tags": [
+            "linux",
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "mold-desktop",
+          "description": "",
+          "url": "https://codeberg.org/mmontone/mold-desktop",
+          "score": 11,
+          "comments": 2,
+          "tags": [
+            "lisp",
+            "osdev"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "How LLMs Actually Work",
+          "description": "",
+          "url": "https://0xkato.xyz/how-llms-actually-work/",
+          "score": 31,
+          "comments": 1,
+          "tags": [
+            "ai"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Getting silly with C, part &((int*)-8)[3]",
+          "description": "",
+          "url": "https://lcamtuf.substack.com/p/getting-silly-with-c-part-and-int1",
+          "score": 44,
+          "comments": 6,
+          "tags": [
+            "c",
+            "satire"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Why Queues Don’t Fix Overload (And What To Do Instead)",
+          "description": "",
+          "url": "https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead",
+          "score": 6,
+          "comments": 1,
+          "tags": [
+            "distributed"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Ergonomic overrides for Nixpkgs",
+          "description": "",
+          "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
+          "score": 33,
+          "comments": 6,
+          "tags": [
+            "nix",
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "The perils of UUID primary keys in SQLite",
+          "description": "",
+          "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+          "score": 35,
+          "comments": 20,
+          "tags": [
+            "clojure",
+            "databases"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "Entropy",
+          "description": "",
+          "url": "https://arch.dog/bark/entropy",
+          "score": 1,
+          "comments": 0,
+          "tags": [
+            "cryptography",
+            "linux"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+          "description": "",
+          "url": "https://arxiv.org/pdf/2605.31514",
+          "score": 35,
+          "comments": 22,
+          "tags": [
+            "ai",
+            "pdf"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "DIY Kobo annotation backup",
+          "description": "",
+          "url": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
+          "score": 7,
+          "comments": 3,
+          "tags": [
+            "hardware"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+          "description": "",
+          "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+          "score": 48,
+          "comments": 12,
+          "tags": [
+            "privacy",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Thoughts on starting new projects with LLM agents",
+          "description": "",
+          "url": "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/",
+          "score": 11,
+          "comments": 2,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Stop Using Conventional Commits",
+          "description": "",
+          "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+          "score": 212,
+          "comments": 52,
+          "tags": [
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "A Little Explanation of Little's Law",
+          "description": "",
+          "url": "https://rugu.dev/en/blog/littles-law/",
+          "score": 14,
+          "comments": 2,
+          "tags": [
+            "performance",
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "ntsc-rs - an accurate VHS video effect",
+          "description": "",
+          "url": "https://ntsc.rs/",
+          "score": 23,
+          "comments": 1,
+          "tags": [
+            "graphics",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 65,
+    "hackernews": 30,
+    "github": 15,
+    "lobsters": 20
+  }
+}

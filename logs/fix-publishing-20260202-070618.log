@@ -1,0 +1,75 @@
+[2026-02-02 07:06:18] ==========================================
+[2026-02-02 07:06:18] 🔧 修复发布流程
+[2026-02-02 07:06:18] ==========================================
+[0;32m[INFO][0m ✅ 输出目录已准备: /root/clawd/dist
+[0;32m[INFO][0m 📦 发现 19 个待打包的 skills
+[2026-02-02 07:06:18] 
+[2026-02-02 07:06:18] [步骤 1/3] 打包 Skills
+[0;32m[INFO][0m ✅ 已打包: ai-from-trueslazac.skill (4.0K)
+[0;32m[INFO][0m ✅ 已打包: ai-genie-3-game-prompts.skill (8.0K)
+[0;32m[INFO][0m ✅ 已打包: ai-portrait-generator.skill (12K)
+[0;32m[INFO][0m ✅ 已打包: akkadian-noun-analyzer.skill (4.0K)
+[0;32m[INFO][0m ✅ 已打包: gaussian-process-mlp-hybrid.skill (8.0K)
+[0;32m[INFO][0m ✅ 已打包: gemini-nano-banana-pro-portraits.skill (8.0K)
+[0;32m[INFO][0m ✅ 已打包: google-imagen-3-hyperrealistic-landscape.skill (8.0K)
+[0;32m[INFO][0m ✅ 已打包: google-imagen-3-portrait-photography.skill (8.0K)
+[0;32m[INFO][0m ✅ 已打包: google-veo-dynamic-city-nightview.skill (8.0K)
+[0;32m[INFO][0m ✅ 已打包: langchain-chat-prompt-template.skill (4.0K)
+[0;32m[INFO][0m ✅ 已打包: merc-income-guide.skill (16K)
+[0;32m[INFO][0m ✅ 已打包: prompt-from-lexx-aura.skill (8.0K)
+[0;32m[INFO][0m ✅ 已打包: reddit-job-posting-templates.skill (4.0K)
+[0;32m[INFO][0m ✅ 已打包: reddit-nlp-research-problems.skill (4.0K)
+[0;32m[INFO][0m ✅ 已打包: self-taught-ml-career-path.skill (4.0K)
+[0;32m[INFO][0m ✅ 已打包: sora-2-futuristic-tech-showcase.skill (8.0K)
+[0;32m[INFO][0m ✅ 已打包: sora-2-nature-documentary.skill (4.0K)
+[0;32m[INFO][0m ✅ 已打包: sora-2-superhero-movie.skill (4.0K)
+[0;32m[INFO][0m 📊 打包完成: 18 成功, 0 失败
+[2026-02-02 07:06:18] 
+[2026-02-02 07:06:18] [步骤 2/3] 发布到 ClawdHub
+[2026-02-02 07:06:18] ========================================
+[2026-02-02 07:06:18] Starting auto-publish skills script
+[2026-02-02 07:06:18] ========================================
+[2026-02-02 07:06:18] Checking authentication status...
+[0;32m✅ Authenticated to ClawdHub[0m
+[2026-02-02 07:06:19] Authenticated successfully
+[0;34m📦 Found 54 skill(s) to process[0m
+[2026-02-02 07:06:19] Found 54 skill(s) in /root/clawd/dist
+[2026-02-02 07:06:19] Processing skill: ai-from-trueslazac
+[2026-02-02 07:06:19] Skill display name: ai-from-trueslazac
+[2026-02-02 07:06:19] Skill description: No description provided
+[2026-02-02 07:06:19] Checking if 'ai-from-trueslazac' is already published...
+[2026-02-02 07:06:22] Skill 'ai-from-trueslazac' is not published yet
+[2026-02-02 07:06:22] Publishing ai-from-trueslazac to ClawdHub...
+- Preparing ai-from-trueslazac@1.0.0
+Error: SKILL.md required
+[0;31m❌ Failed to publish: ai-from-trueslazac[0m
+[2026-02-02 07:06:24] Failed to publish ai-from-trueslazac
+
+[2026-02-02 07:06:24] Processing skill: ai-genie-3-game-prompts
+[0;31m❌ SKILL.md not found in ai-genie-3-game-prompts[0m
+[0;31m[ERROR][0m ⚠️  发布流程执行失败（查看日志获取详情）
+[2026-02-02 07:06:24] 
+[2026-02-02 07:06:24] [步骤 3/3] 统计发布结果
+[0;32m[INFO][0m 📊 发布统计:
+[0;32m[INFO][0m   - 成功: 0
+0
+[0;32m[INFO][0m   - 失败: 1
+[0;32m[INFO][0m   - 已存在: 0
+0
+[2026-02-02 07:06:24] 
+[2026-02-02 07:06:24] ==========================================
+[2026-02-02 07:06:24] 📋 修复报告
+[2026-02-02 07:06:24] ==========================================
+[2026-02-02 07:06:24] 打包统计:
+[2026-02-02 07:06:24]   - 成功: 18
+[2026-02-02 07:06:24]   - 失败: 0
+[2026-02-02 07:06:24] 发布统计:
+[2026-02-02 07:06:24]   - 成功: 0
+0
+[2026-02-02 07:06:24]   - 失败: 1
+[2026-02-02 07:06:24]   - 已存在: 0
+0
+[2026-02-02 07:06:24] ==========================================
+[2026-02-02 07:06:24] 
+[0;32m[INFO][0m ✅ 修复流程完成！
+[0;32m[INFO][0m 📝 日志: /root/clawd/logs/fix-publishing-20260202-070618.log

@@ -1,0 +1,347 @@
+[2026-01-30 21:17:59] Starting batch upload...
+Found 16 .skill files
+Processing: ai 编码-reddit-454d672a
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: ai 编码-reddit-96d5680b
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: ai 编码-unknown-165657c2
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: ai-from-trueslazac
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: ai-portrait-generator
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: merc-income-guide
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: prompt-from-lexx-aura
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: sora 2-sora-2---未来科技展示-b95f8b89
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: sora 2-sora-2---自然纪录片-ff4894c1
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: sora 2-sora-2---超级英雄电影-bcb42152
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: 提示词工程-reddit-bee10779
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: 谷歌生图-google-imagen-3---人像摄影-aa1d47e0
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: 谷歌生图-google-imagen-3---超写实风景-c1d838ac
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: 谷歌生图-google-veo---动态城市夜景-162c3fd9
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: 通用-reddit-e34899f0
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+Processing: 通用-reddit-e806778a
+  Unzipped
+  Uploading...
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+  SUCCESS: Published
+
+========================================
+Upload Statistics
+========================================
+Success: 16
+Failed: 0
+
+Complete!
+Log: /root/clawd/logs/clawdhub-simple-upload.log

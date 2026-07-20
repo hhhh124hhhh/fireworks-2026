@@ -1,0 +1,833 @@
+{
+  "total_skills": 42,
+  "skills": [
+    {
+      "name": "Gcalcli",
+      "path": "/root/clawd/skills/Gcalcli",
+      "metadata": {
+        "name": "gcalcli",
+        "description": "Interact with Google Calendar via gcalcli"
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "SkillGuard",
+      "path": "/root/clawd/skills/SkillGuard",
+      "metadata": {
+        "name": "skillguard",
+        "description": "Security scanner for AgentSkill packages. Scan skills for credential theft, code injection, prompt manipulation, data exfiltration, and evasion techniques before installing them. Use when evaluating skills from ClawHub or any untrusted source.",
+        "metadata": {
+          "openclaw": {
+            "requires": {
+              "bins": [
+                "node"
+              ]
+            }
+          }
+        }
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "ad-creative-generator",
+      "path": "/root/clawd/skills/ad-creative-generator",
+      "metadata": {
+        "name": "ad-creative-generator",
+        "description": "Generate diverse, engaging ad prompts for any product or brand across 20+ creative styles and 10 categories. Use when user needs advertisement concepts, marketing prompts, or creative marketing content generation."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "ai-music-prompts",
+      "path": "/root/clawd/skills/ai-music-prompts",
+      "metadata": {
+        "name": "ai-music-prompts",
+        "description": "AI music prompt templates and best practices for generating music with AI tools like Suno, Udio, Mureka, and others. Use when user needs to create music prompts, song ideas, or wants guidance on writing effective prompts for AI music generation. Includes bilingual prompt templates for various genres, mood descriptors, instrumentation guidance, and lyric writing tips. Also provides techniques for crafting specific musical outcomes and examples of well-structured prompts in Chinese and English."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": true,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "ai-video-gen",
+      "path": "/root/clawd/skills/ai-video-gen",
+      "metadata": {
+        "name": "ai-video-gen",
+        "description": "End-to-end AI video generation - create videos from text prompts using image generation, video synthesis, voice-over, and editing. Supports OpenAI DALL-E, Replicate models, LumaAI, Runway, and FFmpeg editing."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "auto-updater",
+      "path": "/root/clawd/skills/auto-updater",
+      "metadata": {
+        "name": "auto-updater",
+        "description": "Automatically update Clawdbot and all installed skills once daily. Runs via cron, checks for updates, applies them, and messages the user with a summary of what changed.",
+        "metadata": {
+          "version": "1.0.0",
+          "clawdbot": {
+            "emoji": "\ud83d\udd04",
+            "os": [
+              "darwin",
+              "linux"
+            ]
+          }
+        }
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": true,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "bird",
+      "path": "/root/clawd/skills/bird",
+      "metadata": {
+        "name": "bird",
+        "description": "X/Twitter CLI for reading, searching, and posting via cookies or Sweetistics.",
+        "homepage": "https://bird.fast",
+        "metadata": {
+          "clawdbot": {
+            "emoji": "\ud83d\udc26",
+            "requires": {
+              "bins": [
+                "bird"
+              ]
+            },
+            "install": [
+              {
+                "id": "brew",
+                "kind": "brew",
+                "formula": "steipete/tap/bird",
+                "bins": [
+                  "bird"
+                ],
+                "label": "Install bird (brew)"
+              }
+            ]
+          }
+        }
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "brand-creative-suite",
+      "path": "/root/clawd/skills/brand-creative-suite",
+      "metadata": null,
+      "has_name": false,
+      "has_description": false,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": [
+        "Error loading: Invalid SKILL.md: missing YAML frontmatter"
+      ]
+    },
+    {
+      "name": "calendar",
+      "path": "/root/clawd/skills/calendar",
+      "metadata": {
+        "name": "calendar",
+        "description": "Calendar management and scheduling. Create events, manage meetings, and sync across calendar providers.",
+        "metadata": {
+          "clawdbot": {
+            "emoji": "\ud83d\udcc5",
+            "requires": {
+              "bins": [
+                "curl",
+                "jq"
+              ]
+            }
+          }
+        }
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "clawdbot-filesystem",
+      "path": "/root/clawd/skills/clawdbot-filesystem",
+      "metadata": {
+        "name": "filesystem",
+        "description": "Advanced filesystem operations - listing, searching, batch processing, and directory analysis for Clawdbot",
+        "homepage": "https://github.com/gtrusler/clawdbot-filesystem",
+        "metadata": {
+          "clawdbot": {
+            "emoji": "\ud83d\udcc1",
+            "requires": {
+              "bins": [
+                "node"
+              ]
+            }
+          }
+        }
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "clawdbot-security-check",
+      "path": "/root/clawd/skills/clawdbot-security-check",
+      "metadata": {
+        "name": "clawdbot-self-security-audit",
+        "description": "Perform a comprehensive read-only security audit of Clawdbot's own configuration. This is a knowledge-based skill that teaches Clawdbot to identify hardening opportunities across the system. Use when user asks to \"run security check\", \"audit clawdbot\", \"check security hardening\", or \"what vulnerabilities does my Clawdbot have\". This skill uses Clawdbot's internal capabilities and file system access to inspect configuration, detect misconfigurations, and recommend remediations. It is designed to be extensible - new checks can be added by updating this skill's knowledge.",
+        "homepage": "https://github.com/TheSethRose/Clawdbot-Security-Check",
+        "metadata": {
+          "clawdbot": {
+            "emoji": "\ud83d\udd12",
+            "os": [
+              "darwin",
+              "linux"
+            ],
+            "requires": {
+              "files": [
+                "read"
+              ],
+              "tools": [
+                "exec",
+                "bash"
+              ]
+            },
+            "install": [
+              {
+                "id": "read-skill",
+                "kind": "skill",
+                "name": "clawdbot-self-security-audit",
+                "label": "Install security audit skill",
+                "bins": [
+                  "SKILL.md"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "coding-agent",
+      "path": "/root/clawd/skills/coding-agent",
+      "metadata": {
+        "name": "coding-agent",
+        "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.",
+        "metadata": {
+          "clawdbot": {
+            "emoji": "\ud83e\udde9",
+            "requires": {
+              "anyBins": [
+                "claude",
+                "codex",
+                "opencode",
+                "pi"
+              ]
+            }
+          }
+        }
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "creative-illustration",
+      "path": "/root/clawd/skills/creative-illustration",
+      "metadata": {
+        "name": "creative-illustration",
+        "description": "Generate diverse creative illustrations via OpenAI Images API. Create book illustrations, editorial art, children's book art, concept illustrations, and artistic scenes. Use when user needs creative visual content for stories, articles, presentations, or artistic projects (e.g., \"illustrate a fairy tale scene\", \"create editorial art about technology\", \"design children's book illustrations\", \"generate concept art for a story\")."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "feishu-bridge",
+      "path": "/root/clawd/skills/feishu-bridge",
+      "metadata": {
+        "name": "feishu-bridge",
+        "description": "Connect a Feishu (Lark) bot to Clawdbot via WebSocket long-connection. No public server, domain, or ngrok required. Use when setting up Feishu/Lark as a messaging channel, troubleshooting the Feishu bridge, or managing the bridge service (start/stop/logs). Covers bot creation on Feishu Open Platform, credential setup, bridge startup, macOS launchd auto-restart, and group chat behavior tuning."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "firecrawl-search",
+      "path": "/root/clawd/skills/firecrawl-search",
+      "metadata": {
+        "name": "firecrawl",
+        "description": "Web search and scraping via Firecrawl API. Use when you need to search the web, scrape websites (including JS-heavy pages), crawl entire sites, or extract structured data from web pages. Requires FIRECRAWL_API_KEY environment variable."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": true,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "game-character-gen",
+      "path": "/root/clawd/skills/game-character-gen",
+      "metadata": {
+        "name": "game-character-gen",
+        "description": "Generate professional game character designs via OpenAI Images API. Create diverse characters for RPGs, video games, tabletop games, and interactive media. Use when user needs character concept art, character portraits, game sprites, or character sheets with specific attributes like race, class, profession, equipment, and visual style (e.g., \"create an elven ranger\", \"design a cyberpunk hacker\", \"generate fantasy warrior character\")."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "humanizer",
+      "path": "/root/clawd/skills/humanizer",
+      "metadata": {
+        "name": "humanizer",
+        "version": "2.1.1",
+        "description": "Remove signs of AI-generated writing from text. Use when editing or reviewing\ntext to make it sound more natural and human-written. Based on Wikipedia's\ncomprehensive \"Signs of AI writing\" guide. Detects and fixes patterns including:\ninflated symbolism, promotional language, superficial -ing analyses, vague\nattributions, em dash overuse, rule of three, AI vocabulary words, negative\nparallelisms, and excessive conjunctive phrases.\n",
+        "allowed-tools": [
+          "Read",
+          "Write",
+          "Edit",
+          "Grep",
+          "Glob",
+          "AskUserQuestion"
+        ]
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "interview-coach",
+      "path": "/root/clawd/skills/interview-coach",
+      "metadata": {
+        "name": "interview-coach",
+        "description": "Professional interview preparation and practice coach for job seekers. Use when Codex needs to help users prepare for job interviews, practice common interview questions, refine their answers, or understand interview strategies. Supports multiple interview types (technical, behavioral, case studies) and provides feedback on responses."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": true,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "kokoro-tts",
+      "path": "/root/clawd/skills/kokoro-tts",
+      "metadata": {
+        "name": "kokoro-tts",
+        "description": "Generate spoken audio from text using the local Kokoro TTS engine. Use when the user asks to \"say\" something, requests a voice message, or wants text converted to speech."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": true,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "nano-banana-pro",
+      "path": "/root/clawd/skills/nano-banana-pro",
+      "metadata": {
+        "name": "nano-banana-pro",
+        "description": "Generate/edit images with Nano Banana Pro (Gemini 3 Pro Image). Use for image create/modify requests incl. edits. Supports text-to-image + image-to-image; 1K/2K/4K; use --input-image."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "openai-image-gen",
+      "path": "/root/clawd/skills/openai-image-gen",
+      "metadata": {
+        "name": "openai-image-gen",
+        "description": "Batch-generate images via OpenAI Images API. Random prompt sampler + `index.html` gallery."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "prompt-craft",
+      "path": "/root/clawd/skills/prompt-craft",
+      "metadata": {
+        "name": "prompt-craft",
+        "description": "Transform basic prompts into elite structured prompts using Anthropic's 10-step framework. Use when user needs to improve, optimize, or analyze prompts; create templates; or build structured prompts for coding, writing, research, or analysis tasks."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "prompt-learning-assistant",
+      "path": "/root/clawd/skills/prompt-learning-assistant",
+      "metadata": {
+        "name": "prompt-learning-assistant",
+        "description": "Systematic learning of 58+ AI prompt engineering techniques with real-world cases and personalized learning paths."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": true,
+      "issues": []
+    },
+    {
+      "name": "prompt-master",
+      "path": "/root/clawd/skills/prompt-master",
+      "metadata": null,
+      "has_name": false,
+      "has_description": false,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": [
+        "Error loading: mapping values are not allowed here\n  in \"<unicode string>\", line 2, column 89:\n     ... t combines three powerful skills: 50+ role templates from awesom ... \n                                         ^"
+      ]
+    },
+    {
+      "name": "prompt-optimizer",
+      "path": "/root/clawd/skills/prompt-optimizer",
+      "metadata": {
+        "name": "prompt-optimizer",
+        "description": "Evaluate, optimize, and enhance prompts using 58 proven prompting techniques. Use when user asks to improve, optimize, or analyze a prompt; when a prompt needs better clarity, specificity, or structure; or when generating prompt variations for different use cases. Covers quality assessment, targeted improvements, and automatic optimization across techniques like CoT, few-shot learning, role-play, and 50+ more."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": true,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "prompt-rewriter",
+      "path": "/root/clawd/skills/prompt-rewriter",
+      "metadata": {
+        "name": "prompt-rewriter",
+        "description": "Advanced prompt rewriting and optimization service. Analyzes prompts for clarity, specificity, structure, completeness, and usability. Identifies weaknesses, suggests improvements, and generates multiple rewrite options. Use when users need to improve an existing prompt's effectiveness, understand why a prompt isn't working well, generate variations of a prompt for A/B testing, or learn prompt engineering best practices through examples."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": true,
+      "has_assets": true,
+      "issues": []
+    },
+    {
+      "name": "prompt-to-skill-converter",
+      "path": "/root/clawd/skills/prompt-to-skill-converter",
+      "metadata": null,
+      "has_name": false,
+      "has_description": false,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": [
+        "Error loading: mapping values are not allowed here\n  in \"<unicode string>\", line 2, column 366:\n     ... le skills. The workflow includes: (1) searching X for AI prompts ... \n                                         ^"
+      ]
+    },
+    {
+      "name": "prompts-workflow",
+      "path": "/root/clawd/skills/prompts-workflow",
+      "metadata": null,
+      "has_name": false,
+      "has_description": false,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": [
+        "Error loading: Invalid SKILL.md: missing YAML frontmatter"
+      ]
+    },
+    {
+      "name": "searxng",
+      "path": "/root/clawd/skills/searxng",
+      "metadata": {
+        "name": "searxng",
+        "description": "Privacy-respecting metasearch using your local SearXNG instance. Search the web, images, news, and more without external API dependencies.",
+        "author": "Avinash Venkatswamy",
+        "version": "1.0.1",
+        "homepage": "https://searxng.org",
+        "triggers": [
+          "search for",
+          "search web",
+          "find information",
+          "look up"
+        ],
+        "metadata": {
+          "clawdbot": {
+            "emoji": "\ud83d\udd0d",
+            "requires": {
+              "bins": [
+                "python3"
+              ]
+            },
+            "config": {
+              "env": {
+                "SEARXNG_URL": {
+                  "description": "SearXNG instance URL",
+                  "default": "http://localhost:8080",
+                  "required": true
+                }
+              }
+            }
+          }
+        }
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "skill-manager",
+      "path": "/root/clawd/skills/skill-manager",
+      "metadata": {
+        "name": "skill-manager",
+        "description": "Comprehensive skill management system for Clawdbot Skills. Provides duplication detection (name/description/content similarity), version management with change tracking, dependency relationship management, quality scoring system, and ClawdHub publishing integration. Use when managing multiple skills, preparing skills for distribution, ensuring skill quality, detecting duplicates before publishing, or maintaining skill dependencies and versions."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": true,
+      "has_assets": true,
+      "issues": []
+    },
+    {
+      "name": "sql-assistant",
+      "path": "/root/clawd/skills/sql-assistant",
+      "metadata": {
+        "name": "sql-assistant",
+        "description": "Comprehensive SQL query assistant for database operations, optimization, and troubleshooting. Use when Codex needs to write, debug, optimize, or explain SQL queries; analyze database schemas; or help with SQL-related tasks including joins, subqueries, aggregations, and performance tuning. Supports MySQL, PostgreSQL, SQLite, and other SQL dialects."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": true,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "style-transfer",
+      "path": "/root/clawd/skills/style-transfer",
+      "metadata": {
+        "name": "style-transfer",
+        "description": "Professional artistic style transfer via OpenAI Images API. Transform images into specific art styles, eras, and visual aesthetics. Use when user needs to convert an existing image into different artistic styles, apply famous art movements, or transform visual content with specific stylistic parameters (e.g., \"make this photo look like an oil painting\", \"apply cyberpunk aesthetic\", \"transform into vintage photography\")."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "summarize",
+      "path": "/root/clawd/skills/summarize",
+      "metadata": {
+        "name": "summarize",
+        "description": "Summarize URLs or files with the summarize CLI (web, PDFs, images, audio, YouTube).",
+        "homepage": "https://summarize.sh",
+        "metadata": {
+          "clawdbot": {
+            "emoji": "\ud83e\uddfe",
+            "requires": {
+              "bins": [
+                "summarize"
+              ]
+            },
+            "install": [
+              {
+                "id": "brew",
+                "kind": "brew",
+                "formula": "steipete/tap/summarize",
+                "bins": [
+                  "summarize"
+                ],
+                "label": "Install summarize (brew)"
+              }
+            ]
+          }
+        }
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "tavily-search",
+      "path": "/root/clawd/skills/tavily-search",
+      "metadata": {
+        "name": "tavily",
+        "description": "AI-optimized web search via Tavily API. Returns concise, relevant results for AI agents.",
+        "homepage": "https://tavily.com",
+        "metadata": {
+          "clawdbot": {
+            "emoji": "\ud83d\udd0d",
+            "requires": {
+              "bins": [
+                "node"
+              ],
+              "env": [
+                "TAVILY_API_KEY"
+              ]
+            },
+            "primaryEnv": "TAVILY_API_KEY"
+          }
+        }
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "tiktok-ai-model-generator",
+      "path": "/root/clawd/skills/tiktok-ai-model-generator",
+      "metadata": {
+        "name": "tiktok-ai-model-generator",
+        "description": "Generate AI model videos for TikTok livestreams using Pinterest, Claude, Nano Banana Pro, and Veo or Kling. Use for creating AI-generated fashion models wearing products, animating them into videos, or building automated TikTok content production workflows. This skill provides a complete 4-step workflow covering Pinterest reference selection, Claude JSON prompt generation, Nano Banana Pro image generation, and video animation. Perfect for e-commerce sellers, content creators, and TikTok marketers who need AI models to showcase products.",
+        "license": "MIT",
+        "metadata": {
+          "version": "1.0.0",
+          "author": "hhhh124hhhh",
+          "category": "Content Creation",
+          "tags": [
+            "tiktok",
+            "ai-model",
+            "video-generation",
+            "e-commerce",
+            "automation"
+          ]
+        }
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": true,
+      "has_assets": true,
+      "issues": []
+    },
+    {
+      "name": "twitter-search-skill",
+      "path": "/root/clawd/skills/twitter-search-skill",
+      "metadata": {
+        "name": "twitter-search",
+        "description": "Advanced Twitter search and social media data analysis. Fetches tweets by keywords using Twitter API, processes up to 1000 results, and generates professional data analysis reports with insights and actionable recommendations. Use when user requests Twitter/X social media search, social media trend analysis, tweet data mining, social listening, influencer identification, topic sentiment analysis from tweets, or any task involving gathering and analyzing Twitter data for insights."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": true,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "vap-multimedia-generation",
+      "path": "/root/clawd/skills/vap-multimedia-generation",
+      "metadata": {
+        "name": "vap-media",
+        "description": "AI image, video, and music generation. Flux, Veo 3.1, Suno V5.",
+        "homepage": "https://vapagent.com",
+        "metadata": {
+          "clawdbot": {
+            "emoji": "\ud83c\udfac",
+            "requires": {
+              "bins": [
+                "curl"
+              ]
+            }
+          }
+        }
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "veo",
+      "path": "/root/clawd/skills/veo",
+      "metadata": {
+        "name": "veo",
+        "description": "Generate video using Google Veo (Veo 3.1 / Veo 3.0)."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "veo3-video-gen",
+      "path": "/root/clawd/skills/veo3-video-gen",
+      "metadata": {
+        "name": "veo3-video-gen",
+        "description": "Generate and stitch short videos via Google Veo 3.x using the Gemini API (google-genai). Use when you need to create video clips from prompts (ads, UGC-style clips, product demos) and want a reproducible CLI workflow (generate, poll, download MP4, optionally stitch multiple segments)."
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": true,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "wechat-cover-generator",
+      "path": "/root/clawd/skills/wechat-cover-generator",
+      "metadata": null,
+      "has_name": false,
+      "has_description": false,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": [
+        "Error loading: mapping values are not allowed here\n  in \"<unicode string>\", line 2, column 154:\n     ... on, DALL-E). Use when users need: (1) Create WeChat cover images ... \n                                         ^"
+      ]
+    },
+    {
+      "name": "x-prompt-hunter",
+      "path": "/root/clawd/skills/x-prompt-hunter",
+      "metadata": {
+        "name": "x-prompt-hunter",
+        "description": "AI \u63d0\u793a\u8bcd\u7cfb\u7edf - \u96c6\u6210\u8bed\u4e49\u53bb\u91cd\u3001\u591a\u6e90\u6293\u53d6\u3001LLM \u8bc4\u4f30\u548c Langfuse \u8ffd\u8e2a",
+        "metadata": {
+          "clawdbot": {
+            "emoji": "\ud83c\udfaf",
+            "requires": {
+              "anyBins": [
+                "python3"
+              ]
+            },
+            "env": [
+              "GITHUB_TOKEN",
+              "HUGGINGFACE_TOKEN",
+              "ANTHROPIC_API_KEY",
+              "LANGFUSE_PUBLIC_KEY",
+              "LANGFUSE_SECRET_KEY"
+            ]
+          }
+        }
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    },
+    {
+      "name": "x-trends",
+      "path": "/root/clawd/skills/x-trends",
+      "metadata": {
+        "name": "x-trends",
+        "description": "Fetches current top trending topics on X (Twitter) for any country using public aggregators.",
+        "version": "1.2.0",
+        "author": "Ani",
+        "license": "MIT"
+      },
+      "has_name": true,
+      "has_description": true,
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false,
+      "issues": []
+    }
+  ],
+  "issues": {
+    "load_errors": [
+      "brand-creative-suite",
+      "prompt-master",
+      "prompt-to-skill-converter",
+      "prompts-workflow",
+      "wechat-cover-generator"
+    ],
+    "missing_name": [],
+    "missing_description": []
+  },
+  "statistics": {
+    "with_name": 37,
+    "with_description": 37,
+    "with_scripts": 18,
+    "with_references": 11,
+    "with_assets": 4,
+    "missing_name": 0,
+    "missing_description": 0,
+    "load_errors": 5
+  }
+}

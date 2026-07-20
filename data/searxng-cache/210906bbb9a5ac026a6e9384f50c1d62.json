@@ -1,0 +1,249 @@
+{
+  "query": "prompt engineering best practices best practices examples",
+  "results": [
+    {
+      "title": "11 Prompt Engineering Best Practices Every Modern Dev Needs | Mirascope",
+      "url": "https://mirascope.com/blog/prompt-engineering-best-practices",
+      "content": "The four best practices below approach prompt engineering as a system-level discipline that you version, trace, and improve over time. We built Lilypad with this in mind. While other platforms focus on narrow slices, like playgrounds or prompt versioning, they often fall short when it comes to implementing prompt engineering techniques that make LLM behavior repeatable at scale. For example, such tools version the prompt but ignore things like parameters or helper logic.",
+      "engine": "google",
+      "score": 2.6666666666666665,
+      "thumbnail": "",
+      "publishedDate": "2025-07-01T00:00:00"
+    },
+    {
+      "title": "Prompt Engineering Best Practices: Tips, Tricks, and Tools",
+      "url": "https://www.digitalocean.com/resources/articles/prompt-engineering-best-practices",
+      "content": "2025年12月19日 — Prompt engineering best practices focus on being specific, providing clear context, examples, and data, defining the desired output, and giving instructions on ...",
+      "engine": "google",
+      "score": 1,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "Prompting best practices - Claude API Docs",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-4-best-practices",
+      "content": "2025年9月6日 — Avoid over-engineering. Only make changes that are directly requested or clearly necessary. Keep solutions simple and focused. Don't add features, refactor code ...",
+      "engine": "google",
+      "score": 0.5,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "PROmpting for everyone — examples and best practices | by Gergely Rabb",
+      "url": "https://medium.com/@rbbgrgly/prompting-for-everyone-examples-and-best-practices-d6189411ee32",
+      "content": "Understanding prompt engineering means learning how to “speak the language” of advanced AI. By focusing on clarity, providing context, specifying desired output ...",
+      "engine": "google",
+      "score": 0.25,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "Examples of Prompts",
+      "url": "https://www.promptingguide.ai/introduction/examples",
+      "content": "2025年12月28日 — Examples of Prompts · Text Summarization · Information Extraction · Question Answering · Text Classification · Conversation · Code Generation · Reasoning · Notebook.",
+      "engine": "google",
+      "score": 0.2,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "r/PromptEngineering on Reddit: After 1000 hours of prompt engineering, I found the 6 patterns that actually matter",
+      "url": "https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/",
+      "content": "",
+      "engine": "brave",
+      "score": 0.2,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "Prompt Engineering for AI Guide",
+      "url": "https://cloud.google.com/discover/what-is-prompt-engineering",
+      "content": "2026年1月14日 — Prompt engineering refines prompts to obtain more accurate and useful responses from LLMs. Learn more and find prompt examples with Google Cloud.",
+      "engine": "google",
+      "score": 0.14285714285714285,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "Best practices for LLM prompt engineering",
+      "url": "https://palantir.com/docs/foundry/aip/best-practices-prompt-engineering/",
+      "content": "2025年5月30日 — This guide provides some best practices for prompt engineering, along with illustrative examples. While the effectiveness of each strategy might vary ...",
+      "engine": "google",
+      "score": 0.125,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "Google's Prompt Engineering Best Practices",
+      "url": "https://www.prompthub.us/blog/googles-prompt-engineering-best-practices",
+      "content": "2025年4月30日 — Provide high-quality examples: Few-shot prompting is one of the best ways to teach the model the exact format, style, and scope you want.",
+      "engine": "google",
+      "score": 0.1111111111111111,
+      "thumbnail": "",
+      "publishedDate": null
+    },
+    {
+      "title": "Prompt Engineering: Techniques, Examples & Best Practices Guide",
+      "url": "https://infomineo.com/artificial-intelligence/prompt-engineering-techniques-examples-best-practices-guide/",
+      "content": "2025年10月30日 — Learn prompt engineering: core techniques, real examples & proven templates for AI-powered business intelligence.",
+      "engine": "google",
+      "score": 1,
+      "thumbnail": "https://imgs.search.brave.com/qo-oeo8v3PAFGl_w_kEiPHJ4DWvzhRj46PB2dU_xDt4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbmZv/bWluZW8uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzEw/L3BleGVscy1zdGV2/ZS0zNDA2MjY1MC02/OTAzNmVjNTI1NDkw/LndlYnA",
+      "publishedDate": "2025-10-30T00:00:00"
+    },
+    {
+      "title": "Prompt Engineering Tutorial: A Comprehensive Guide With Examples And Best Practices",
+      "url": "https://www.lambdatest.com/learning-hub/prompt-engineering",
+      "content": "Prompt engineering can be used by enterprises that involve the use of Artificial Intelligence in their services. The AI can be guided to cater to the exact demands of the customers and introduce customization to the process of output generation of the AI.",
+      "engine": "brave",
+      "score": 0.7,
+      "thumbnail": "https://imgs.search.brave.com/46v0jPqV3U3pFnLf079qRW8dEyS1nDmxd-VHqARDhzE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9Z/UWJiSEFkRkJBby9k/ZWZhdWx0LmpwZw",
+      "publishedDate": null
+    },
+    {
+      "title": "Prompt engineering best practices | Claude",
+      "url": "https://claude.com/blog/best-practices-for-prompt-engineering",
+      "content": "The more specific you are about what you want, the better the results. ... Specific: \"Design a Mediterranean diet meal plan for pre-diabetic management. 1,800 calories daily, emphasis on low glycemic foods.",
+      "engine": "brave",
+      "score": 0.5,
+      "thumbnail": "https://imgs.search.brave.com/zRedYwfn6RbI5DK-mHwbN8e6f9V2YuTmWxKfED01zlc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jbGF1/ZGUuY29tL2Jsb2cv/YmVzdC1wcmFjdGlj/ZXMtZm9yLXByb21w/dC1lbmdpbmVlcmlu/Zw",
+      "publishedDate": "2025-11-11T00:00:00"
+    },
+    {
+      "title": "Effective Prompts for AI: The Essentials - MIT Sloan Teaching & Learning Technologies",
+      "url": "https://mitsloanedtech.mit.edu/ai/basics/effective-prompts/",
+      "content": "Given that context, consider these three strategies for prompt engineering: First, provide context. Second, be specific. And third, build on the conversation. Your prompt can be a simple question, like, “What’s the best time of year to enjoy ...",
+      "engine": "brave",
+      "score": 0.16666666666666666,
+      "thumbnail": "https://imgs.search.brave.com/EGUHvhm-67b_Vc2ImNPVLmGMlCEZWogOGFIKjT9SBVI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXRz/bG9hbmVkdGVjaC5t/aXQuZWR1L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIzLzA4L0Js/b2dfU3luZXJnaXpp/bmdCdXNpbmVzc0Nv/bW11bmljYXRpb25z/X01lbGlzc2FXZWJz/dGVyLTEwMjR4NjU0/LnBuZw",
+      "publishedDate": "2025-05-30T00:00:00"
+    },
+    {
+      "title": "Prompt Engineering Best Practices for Precise AI Results | Rocket Blog",
+      "url": "https://www.rocket.new/blog/prompt-engineering-best-practices-for-accurate-ai-results",
+      "content": "Using a few examples improves relevance and consistency. The chain of thought guides the model through the reasoning steps. This is helpful for complex reasoning or calculations. ... This approach often improves accurate responses and reduces logical errors. Chain-of-thought prompting is especially useful for math, logic, and analysis. Tree-of-thought prompting explores multiple reasoning paths before selecting the best one.",
+      "engine": "brave",
+      "score": 0.14285714285714285,
+      "thumbnail": "https://imgs.search.brave.com/-KHEFMnq3K43dgBiu3T6F_OmQ-YfEOZsv5J3A3JbHaA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdHJh/cGktYXBpLnJvY2tl/dC5uZXcvdXBsb2Fk/cy9Sb2NrZXRfYmxv/Z19PR18xXzdkNDg1/ZWU5MTkud2VicA",
+      "publishedDate": null
+    },
+    {
+      "title": "Prompt engineering best practices 2025: Top features to focus on now",
+      "url": "https://codesignal.com/blog/prompt-engineering-best-practices-2025/",
+      "content": "For example, instead of starting with a prompt like: “Explain climate change,” try instead: “Write a 3-paragraph summary of climate change for high school students, using bullet points and a neutral tone.” This level of specificity helps ...",
+      "engine": "brave",
+      "score": 0.125,
+      "thumbnail": "https://imgs.search.brave.com/AN_24DNKzTGEG8DQspf1IlKHin1B0Bf6yjS3O_D4eTs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jb2Rl/c2lnbmFsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/OC9ibG9nLWZlYXQt/aW1nLWJnLTAyOC1z/Y2FsZWQud2VicA",
+      "publishedDate": "2025-11-20T00:00:00"
+    },
+    {
+      "title": "Prompt Engineering: Examples and Best Practices - Springs",
+      "url": "https://springsapps.com/knowledge/prompt-engineering-examples-and-best-practices",
+      "content": "or example: \"Deliver a step-by-step guide on password reset, utilizing bullet points.\" Using these key elements will significantly help in the crafting of a clear and well-defined prompt leading to responses that are not only relevant but also ...",
+      "engine": "brave",
+      "score": 0.1111111111111111,
+      "thumbnail": "https://imgs.search.brave.com/2lR3sKg5VtlnpY6dvug7ZuOlp3FW_aIXDEER6qGq09o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NDkzMDBmMzYwNmU1/MWNiOTk5ODQyZGYv/NjVjZjc4YTRmNzdi/NGMzMmYyZDQ3NDdk/X3Byb21wdCUyMGVu/Z2luZWVyaW5nJTIw/KDEpLnBuZw",
+      "publishedDate": "2025-02-10T00:00:00"
+    },
+    {
+      "title": "Prompt Engineering in 2025: The Latest Best Practices",
+      "url": "https://www.news.aakashg.com/p/prompt-engineering",
+      "content": "Research-backed prompt engineering techniques from $50M ARR AI companies. Latest 2025 frameworks, templates & strategies for product teams.",
+      "engine": "brave",
+      "score": 0.09090909090909091,
+      "thumbnail": "https://imgs.search.brave.com/u6krmunnCaHxxyxhwVDWgSQHYOvIOOZblevbUq9zGIw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdWJz/dGFjay1wb3N0LW1l/ZGlhLnMzLmFtYXpv/bmF3cy5jb20vcHVi/bGljL2ltYWdlcy8z/ZGExMGYzNy05MTQz/LTRjMDgtYjE3Zi03/ZTgxMzQ0OWE2Yzdf/MTIwMHg4MDAucG5n",
+      "publishedDate": "2025-07-09T00:00:00"
+    },
+    {
+      "title": "Prompt engineering techniques: Top 6 for 2026",
+      "url": "https://www.k2view.com/blog/prompt-engineering-techniques/",
+      "content": "By showing an example, the model ... Best practices for few-shot prompting include providing clear, representative examples and maintaining consistency in formatting....",
+      "engine": "brave",
+      "score": 0.08333333333333333,
+      "thumbnail": "https://imgs.search.brave.com/e1GW0k1TAxn3uBCDKWrWVoZ_CcRh4DO_guP9ujhq2SI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/azJ2aWV3LmNvbS9o/dWJmcy9Qcm9tcHQl/MjBlbmdpbmVlcmlu/ZyUyMHRlY2huaXF1/ZXMuanBn",
+      "publishedDate": "2025-11-23T00:00:00"
+    },
+    {
+      "title": "Prompt Engineering Best Practices for AI Models - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/blogs/prompt-engineering-best-practices/",
+      "content": "... Action: Clearly define our request with precision. Benefit: Reduces ambiguity, ensuring the AI generates focused, accurate responses. Example: \"List three key benefits of renewable energy for businesses.\"",
+      "engine": "brave",
+      "score": 0.07692307692307693,
+      "thumbnail": "https://imgs.search.brave.com/zl_KHrx9klspgmkLxazt4EAgUyHSvh0ozKhxMeCDwoY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZWVrc2Zvcmdl/ZWtzLm9yZy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNTAyMDgx/MjA1MTEzODQ2NTEv/UHJvbXB0LUVuZ2lu/ZWVyaW5nLUJlc3Qt/UHJhY3RpY2VzLWZv/ci1BSS1Nb2RlbHMu/d2VicA",
+      "publishedDate": "2025-07-21T00:00:00"
+    },
+    {
+      "title": "Prompt Engineering Best Practices You Should Know For Any LLM | Astera",
+      "url": "https://www.astera.com/type/blog/prompt-engineering-best-practices/",
+      "content": "Prompt example: “Only get me the delimited output with field headers and values. Please don’t include the output enclosed in parenthesis or quotes.” · Prompt engineering is more than just writing clever instructions. It’s about understanding how large language models interpret context, structure, and logic. Published May 9, 2025",
+      "engine": "brave",
+      "score": 0.07142857142857142,
+      "thumbnail": "https://imgs.search.brave.com/sxblEfsIuWBXGG9KtHJgD36GxEObdFueIlzBLYqJXvc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9s/X2M0WXIzZTRCMC9o/cWRlZmF1bHQuanBn",
+      "publishedDate": null
+    },
+    {
+      "title": "Best Practices for Prompt Engineering in the Enterprise",
+      "url": "https://www.leeboonstra.dev/prompt-engineering/prompt_engineering_guide6/",
+      "content": "When everyone follows the best practices (as listed in this chapter), you will see a variance in performance between all the different prompt attempts. Besides prompt engineering with other engineers, it might be equally helpful to sit together with a subject matter expert. When the subject matter expert rates your prompt outputs, discuss what perfection looks like and brainstorm ideas on how to reach this goal, e.g., providing examples, rewording certain instructions, etc.",
+      "engine": "brave",
+      "score": 0.06666666666666667,
+      "thumbnail": "https://imgs.search.brave.com/_DG5KeN18it7GfjvZBYt0OGLjAhdGcC_3a6SO0vigbY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bGVlYm9vbnN0cmEu/ZGV2L2ltYWdlcy9z/Y3JlZW4ucG5n",
+      "publishedDate": "2025-09-11T00:00:00"
+    },
+    {
+      "title": "Prompt engineering best practices: Data-driven optimization guide - Articles - Braintrust",
+      "url": "https://www.braintrust.dev/articles/systematic-prompt-engineering",
+      "content": "Effective prompt engineering starts with clear requirements definition. Teams must specify exactly what tasks the model should perform, what constraints apply (length, format, tone), what failure modes to avoid, and how success will be measured.",
+      "engine": "brave",
+      "score": 0.0625,
+      "thumbnail": "https://imgs.search.brave.com/k6NmWLvI1sOThfCtTV-W9aRAJiv-TFcsMj-k73NXkRM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YnJhaW50cnVzdC5k/ZXYvb2c_dGl0bGU9/UHJvbXB0K2VuZ2lu/ZWVyaW5nK2Jlc3Qr/cHJhY3RpY2VzJTNB/K0RhdGEtZHJpdmVu/K29wdGltaXphdGlv/bitndWlkZSZhbXA7/ZGVzY3JpcHRpb249/VHJhbnNmb3JtK3By/b21wdCtkZXZlbG9w/bWVudCtmcm9tK2d1/ZXNzd29yaytpbnRv/K3N5c3RlbWF0aWMr/ZW5naW5lZXJpbmcr/d2l0aCtkYXRhLWRy/aXZlbitvcHRpbWl6/YXRpb24uJmFtcDt0/ZW1wbGF0ZT1ibG9n",
+      "publishedDate": "2025-08-21T00:00:00"
+    },
+    {
+      "title": "Prompt Engineering Guide (2025): Best Practices & Examples",
+      "url": "https://myriamtisler.com/prompt-engineering-guide",
+      "content": "Prompt engineering guide for 2025 with best practices, input–output examples, enterprise-safe tips, and a printable cheat sheet.",
+      "engine": "brave",
+      "score": 0.058823529411764705,
+      "thumbnail": "https://imgs.search.brave.com/Gq_JzKc_cbB-TpZDI_xxx9dNa-Bbra3bnxduByx0HCM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9teXJp/YW10aXNsZXIuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI1/LzA5L0hlcm8tcGlj/LVByb21wdC1Fbmdp/bmVlcmluZy1HdWlk/ZS5qcGc",
+      "publishedDate": "2025-09-16T00:00:00"
+    },
+    {
+      "title": "Prompt Engineering Best Practices Guide",
+      "url": "https://talentsprint.com/blog/prompt-engineering-best-practices",
+      "content": "For example, if you want a structured, readable and actionable outcome, you need to give the prompt like: “Explain blockchain in 5 short bullet points, easy enough for beginners to understand.” · If you can read your prompt and imagine ...",
+      "engine": "brave",
+      "score": 0.05555555555555555,
+      "thumbnail": "https://imgs.search.brave.com/6vCmBiGhV5fEpDJ9DOEDkMrbv1cgzNPSEph2ucqiqn4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdHJh/cGkuYmxvZy50YWxl/bnRzcHJpbnQuY29t/L3VwbG9hZHMvcHJv/bXB0X2VuZ2luZWVy/aW5nX2Jlc3RfcHJh/Y3RpY2VzXzExMDZi/YzQ1ZmMud2VicA",
+      "publishedDate": "2025-12-01T00:00:00"
+    },
+    {
+      "title": "Prompt Engineering Masterclass: The 12 Prompt Engineering Techniques Every PM Should Use",
+      "url": "https://www.productmanagement.ai/p/prompt-engineering",
+      "content": "Section 6: Prompt Engineering Mental Shifts You Need To Understand · Now, let’s dive into this. In our collaboration with Aakash Gupta, we analysed the system prompts of two companies nailing it the best.",
+      "engine": "brave",
+      "score": 0.05263157894736842,
+      "thumbnail": "https://imgs.search.brave.com/U40wOg7V7Y_mNPS7UeJ7se-WekknvX3iaBGI-NwxEGw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdWJz/dGFja2Nkbi5jb20v/aW1hZ2UvZmV0Y2gv/JHNfIXIwYnYhLGZf/YXV0byxxX2F1dG86/Z29vZCxmbF9wcm9n/cmVzc2l2ZTpzdGVl/cC9odHRwcyUzQSUy/RiUyRnN1YnN0YWNr/LXBvc3QtbWVkaWEu/czMuYW1hem9uYXdz/LmNvbSUyRnB1Ymxp/YyUyRmltYWdlcyUy/RjBlOWNhMzVmLTlm/OGQtNDJkNS1iZjMz/LTkxOTdmY2MxZTdh/NV8xMzY2eDcxNC5w/bmc",
+      "publishedDate": null
+    },
+    {
+      "title": "The Prompt Engineering Playbook for Programmers",
+      "url": "https://addyo.substack.com/p/the-prompt-engineering-playbook-for",
+      "content": "As mentioned earlier, asking the ... senior engineer can be very effective. For refactoring, you might say: “Act as a seasoned TypeScript expert and refactor this code to align with best practices and modern standards.” This often yields not just superficial changes, but more insightful improvements because the AI tries to live up to the “expert” persona. A popular example from a prompt guide is having ...",
+      "engine": "brave",
+      "score": 0.047619047619047616,
+      "thumbnail": "https://imgs.search.brave.com/HbIw1jkVwwsyAZFB6RhxrcV3Rf3OwVH1oHUdVlj6uzo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdWJz/dGFja2Nkbi5jb20v/aW1hZ2UvZmV0Y2gv/Zl9hdXRvLHFfYXV0/bzpnb29kLGZsX3By/b2dyZXNzaXZlOnN0/ZWVwL2h0dHBzJTNB/JTJGJTJGc3Vic3Rh/Y2stcG9zdC1tZWRp/YS5zMy5hbWF6b25h/d3MuY29tJTJGcHVi/bGljJTJGaW1hZ2Vz/JTJGMDRiNDM1OGIt/OGIzOC00ZTViLThk/OTktMjI0NjNlY2I4/NzllXzUyNDZ4NTI0/Ni5wbmc",
+      "publishedDate": "2025-05-27T00:00:00"
+    },
+    {
+      "title": "Prompt Engineering Best Practices | Sprinklr Help Center",
+      "url": "https://www.sprinklr.com/help/articles/prompt-engineering-best-practices/prompt-engineering-best-practices/6880b3a5f4b66256ad64b124",
+      "content": "This guide outlines best practices for writing effective prompts in AI+ Studio, including how to construct system and base prompts, test deployments, and optimize prompt performance across models and use cases. Prompt engineering is the practice of writing clear and effective instructions for ...",
+      "engine": "brave",
+      "score": 0.05,
+      "thumbnail": "",
+      "publishedDate": "2025-11-17T00:00:00"
+    }
+  ],
+  "timestamp": 1769785160970
+}

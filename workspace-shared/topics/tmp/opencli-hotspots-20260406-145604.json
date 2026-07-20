@@ -1,0 +1,1033 @@
+{
+  "timestamp": "2026-04-06 14:56:04",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "SideX – A Tauri-based port of Visual Studio Code",
+          "score": 8,
+          "author": "0x1997",
+          "comments": 1,
+          "url": "https://github.com/Sidenai/sidex",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://github.com/Sidenai/sidex"
+        },
+        {
+          "rank": 2,
+          "title": "Show HN: I built a tiny LLM to demystify how language models work",
+          "score": 315,
+          "author": "armanified",
+          "comments": 26,
+          "url": "https://github.com/arman-bd/guppylm",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://github.com/arman-bd/guppylm"
+        },
+        {
+          "rank": 3,
+          "title": "Gemma 4 on iPhone",
+          "score": 559,
+          "author": "janandonly",
+          "comments": 144,
+          "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337"
+        },
+        {
+          "rank": 4,
+          "title": "Show HN: I made a YouTube search form with advanced filters",
+          "score": 193,
+          "author": "nevernothing",
+          "comments": 116,
+          "url": "https://playlists.at/youtube/search/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://playlists.at/youtube/search/"
+        },
+        {
+          "rank": 5,
+          "title": "The 1987 game “The Last Ninja” was 40 kilobytes",
+          "score": 51,
+          "author": "keepamovin",
+          "comments": 18,
+          "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://twitter.com/exQUIZitely/status/2040777977521398151"
+        },
+        {
+          "rank": 6,
+          "title": "An open-source 240-antenna array to bounce signals off the Moon",
+          "score": 53,
+          "author": "hillcrestenigma",
+          "comments": 12,
+          "url": "https://moonrf.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://moonrf.com/"
+        },
+        {
+          "rank": 7,
+          "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+          "score": 356,
+          "author": "naves",
+          "comments": 196,
+          "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/"
+        },
+        {
+          "rank": 8,
+          "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+          "score": 38,
+          "author": "karimf",
+          "comments": 2,
+          "url": "https://github.com/fikrikarim/parlor",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://github.com/fikrikarim/parlor"
+        },
+        {
+          "rank": 9,
+          "title": "LÖVE: 2D Game Framework for Lua",
+          "score": 271,
+          "author": "cl3misch",
+          "comments": 105,
+          "url": "https://github.com/love2d/love",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://github.com/love2d/love"
+        },
+        {
+          "rank": 10,
+          "title": "Winners of the 2026 Kokuyo Design Awards",
+          "score": 30,
+          "author": "zdw",
+          "comments": 3,
+          "url": "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/"
+        },
+        {
+          "rank": 11,
+          "title": "Case study: recovery of a corrupted 12 TB multi-device pool",
+          "score": 42,
+          "author": "salt4034",
+          "comments": 5,
+          "url": "https://github.com/kdave/btrfs-progs/issues/1107",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://github.com/kdave/btrfs-progs/issues/1107"
+        },
+        {
+          "rank": 12,
+          "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+          "score": 54,
+          "author": "ikessler",
+          "comments": 9,
+          "url": "https://github.com/kessler/gemma-gem",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://github.com/kessler/gemma-gem"
+        },
+        {
+          "rank": 13,
+          "title": "Why Switzerland has 25 Gbit internet and America doesn't",
+          "score": 394,
+          "author": "sschueller",
+          "comments": 290,
+          "url": "https://sschueller.github.io/posts/the-free-market-lie/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://sschueller.github.io/posts/the-free-market-lie/"
+        },
+        {
+          "rank": 14,
+          "title": "Signals, the push-pull based algorithm",
+          "score": 14,
+          "author": "mpweiher",
+          "comments": 0,
+          "url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm"
+        },
+        {
+          "rank": 15,
+          "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+          "score": 243,
+          "author": "vbtechguy",
+          "comments": 57,
+          "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with"
+        },
+        {
+          "rank": 16,
+          "title": "Rendering arbitrary-scale emojis using the Slug algorithm",
+          "score": 13,
+          "author": "leduyquang753",
+          "comments": 0,
+          "url": "https://leduyquang753.name.vn/blog/2026/4/4/rendering-arbitrary-scale-emojis-using-the-slug-algorithm",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://leduyquang753.name.vn/blog/2026/4/4/rendering-arbitrary-scale-emojis-using-the-slug-algorithm"
+        },
+        {
+          "rank": 17,
+          "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+          "score": 112,
+          "author": "MoltenMonster",
+          "comments": 30,
+          "url": "https://github.com/mikf/gallery-dl/discussions/9304",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://github.com/mikf/gallery-dl/discussions/9304"
+        },
+        {
+          "rank": 18,
+          "title": "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
+          "score": 37,
+          "author": "mohshomis",
+          "comments": 7,
+          "url": "https://github.com/mohshomis/modo",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://github.com/mohshomis/modo"
+        },
+        {
+          "rank": 19,
+          "title": "Sheets Spreadsheets in Your Terminal",
+          "score": 35,
+          "author": "_____k",
+          "comments": 7,
+          "url": "https://github.com/maaslalani/sheets",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://github.com/maaslalani/sheets"
+        },
+        {
+          "rank": 20,
+          "title": "Employers use your personal data to figure out the lowest salary you'll accept",
+          "score": 166,
+          "author": "thisislife2",
+          "comments": 76,
+          "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb"
+        },
+        {
+          "rank": 21,
+          "title": "We replaced Node.js with Bun for 5x throughput",
+          "score": 42,
+          "author": "pier25",
+          "comments": 21,
+          "url": "https://trigger.dev/blog/firebun",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://trigger.dev/blog/firebun"
+        },
+        {
+          "rank": 22,
+          "title": "Usenet Archives",
+          "score": 22,
+          "author": "myth_drannon",
+          "comments": 2,
+          "url": "https://usenetarchives.com",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://usenetarchives.com"
+        },
+        {
+          "rank": 23,
+          "title": "Music for Programming",
+          "score": 155,
+          "author": "merusame",
+          "comments": 64,
+          "url": "https://musicforprogramming.net",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://musicforprogramming.net"
+        },
+        {
+          "rank": 24,
+          "title": "A tail-call interpreter in (nightly) Rust",
+          "score": 152,
+          "author": "g0xA52A2A",
+          "comments": 28,
+          "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/"
+        },
+        {
+          "rank": 25,
+          "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+          "score": 155,
+          "author": "rbanffy",
+          "comments": 181,
+          "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/"
+        },
+        {
+          "rank": 26,
+          "title": "Eight years of wanting, three months of building with AI",
+          "score": 745,
+          "author": "brilee",
+          "comments": 223,
+          "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://lalitm.com/post/building-syntaqlite-ai/"
+        },
+        {
+          "rank": 27,
+          "title": "Computational Physics (2nd Edition) (2025)",
+          "score": 133,
+          "author": "teleforce",
+          "comments": 17,
+          "url": "https://websites.umich.edu/~mejn/cp2/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://websites.umich.edu/~mejn/cp2/"
+        },
+        {
+          "rank": 28,
+          "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+          "score": 464,
+          "author": "mooreds",
+          "comments": 360,
+          "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://www.bbc.com/news/videos/ce3d5gkd2geo"
+        },
+        {
+          "rank": 29,
+          "title": "The Mechanics of Steins Gate (2023) [pdf]",
+          "score": 70,
+          "author": "Ariarule",
+          "comments": 14,
+          "url": "https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf"
+        },
+        {
+          "rank": 30,
+          "title": "Caveman: Why use many token when few token do trick",
+          "score": 748,
+          "author": "tosh",
+          "comments": 325,
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://github.com/JuliusBrussee/caveman"
+        }
+      ]
+    },
+    "github": {
+      "count": 10,
+      "items": [
+        {
+          "rank": 1,
+          "title": "google-ai-edge /gallery",
+          "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+          "url": "https://github.com/google-ai-edge/gallery",
+          "language": "Kotlin",
+          "stars": 17247,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "Blaizzy /mlx-vlm",
+          "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+          "url": "https://github.com/Blaizzy/mlx-vlm",
+          "language": "Python",
+          "stars": 4009,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "siddharthvaddem /openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "language": "TypeScript",
+          "stars": 22948,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "block /goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "url": "https://github.com/block/goose",
+          "language": "Rust",
+          "stars": 37334,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "onyx-dot-app /onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "language": "Python",
+          "stars": 25212,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "badlogic /pi-mono",
+          "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+          "url": "https://github.com/badlogic/pi-mono",
+          "language": "TypeScript",
+          "stars": 32045,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "dmtrKovalenko /fff.nvim",
+          "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+          "url": "https://github.com/dmtrKovalenko/fff.nvim",
+          "language": "Rust",
+          "stars": 3760,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "google-ai-edge /LiteRT-LM",
+          "description": "",
+          "url": "https://github.com/google-ai-edge/LiteRT-LM",
+          "language": "C++",
+          "stars": 1679,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "telegramdesktop /tdesktop",
+          "description": "Telegram Desktop messaging app",
+          "url": "https://github.com/telegramdesktop/tdesktop",
+          "language": "C++",
+          "stars": 31131,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "freeCodeCamp /freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "language": "TypeScript",
+          "stars": 441695,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "v2ex": {
+      "count": 10,
+      "items": [
+        {
+          "rank": 1,
+          "title": "免费发 codex 10000 刀",
+          "replies": 151,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "专门为程序员设计的聊天软件： KongChat，即将发布。现抽奖，免费送 5 个 ChatGPT Plus 使用权（1 个月）",
+          "replies": 78,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "没有苹果电脑， vibe codding 是不是用 Linux 更合适一些？",
+          "replies": 58,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "上海女性交友贴",
+          "replies": 42,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "为什么抖音的思路跟正常人不一样？",
+          "replies": 40,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "公司可以报销一半 ai 使用费用了 有啥推荐吗？",
+          "replies": 40,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "程序员们， AI 出现后你们觉的自己变得更强还是要被淘汰了？",
+          "replies": 33,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "如果你还在用机场，搞自建吧，买台 vps，上面执行这个脚本，按 3 个回车即可拥有了 6 个节点",
+          "replies": 31,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "职场汇报发言总是紧张、语无伦次，自信不够怎么办",
+          "replies": 23,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "免费申请的德国沃达丰 eSIM 的车门还没关！",
+          "replies": 22,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Stop shipping var_dump() to production — enforce it with PHPStan",
+          "description": "<h1>\n  \n  \n  Stop shipping <code>var_dump()</code> to production — enforce it with PHPStan\n</h1>\n\n<p>We’ve all done it.</p>\n\n<p>You add a quick <code>var_dump()</code> or <code>dd()</code> while debug",
+          "url": "https://dev.to/rajmundtoth0/stop-shipping-vardump-to-production-enforce-it-with-phpstan-kpa",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Data Engineer's Guide to Linux: Why It Is Your Secret Weapon",
+          "description": "<p>If you are stepping into the world of data engineering, you will quickly realize that if SQL and Python are the languages spoken, then Linux is the room they are spoken in. Most modern infrastructu",
+          "url": "https://dev.to/gracenimimi/data-engineers-guide-to-linux-why-it-is-your-secret-weapon-34ce",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Why Some AI Feels “Process-Obsessed” While Others Just Ship Code",
+          "description": "<p>I ran a simple experiment.</p>\n\n<p>Same codebase.<br>\nOne AI rated it <strong>9/10 production-ready</strong>.<br>\nAnother rated it <strong>5/10</strong>.</p>\n\n<p>At first, it looks like one of them",
+          "url": "https://dev.to/doozieakshay/why-some-ai-feels-process-obsessed-while-others-just-ship-code-ehi",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Programming Language vs Scripting Language",
+          "description": "<p>In the world of software development, the terms programming language and scripting language are often used interchangeably. However, they have distinct purposes, execution methods, and use cases.</",
+          "url": "https://dev.to/harini_magesh_fa40041cf8d/programming-language-vs-scripting-language-3la8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Defining and creating a basic Design System based on any website (in Figma and React) using Claude",
+          "description": "<p>It's 2026, and MCP and design tooling are constantly changing with various improvements in the AI space. Arguably, one of the most long-awaited features was Figma MCP supporting agents writing to i",
+          "url": "https://dev.to/saintasia/defining-and-creating-a-basic-design-system-based-on-any-website-in-figma-and-react-using-claude-9p2",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Valkey vs Redis, browser-side AI models, and why quiet weeks are the best weeks",
+          "description": "<h2>\n  \n  \n  Browser-Embedded AI Models: Backend Engineers, You Can Relax (For Now)\n</h2>\n\n<p>Gemma Gem hit Show HN this week — a project that runs Google's Gemma model entirely in the browser. No API",
+          "url": "https://dev.to/shaneshi_backend/valkey-vs-redis-browser-side-ai-models-and-why-quiet-weeks-are-the-best-weeks-n28",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "A Reasoning Log: What Happens When Integration Fails Honestly",
+          "description": "<p>This is a log of a language model running through a structured reasoning cycle on a deliberately difficult question. The structure has eleven levels. The interesting part is not the final answer — ",
+          "url": "https://dev.to/__272d48f2ed/a-reasoning-log-what-happens-when-integration-fails-honestly-bhh",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Full Stack Developer Roadmap 2026: The Complete Guide from Beginner to Pro 🚀",
+          "description": "<p><a href=\"https://ali-asghar-profile.netlify.app\" rel=\"noopener noreferrer\">Have a Look at My Portfolio</a></p>\n\n<h2>\n  \n  \n  Introduction: Why Full Stack Development Is Still the Best Bet in 2026\n<",
+          "url": "https://dev.to/ali-asghar/full-stack-developer-roadmap-2026-the-complete-guide-from-beginner-to-pro-3cck",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "I Scanned 50 Open-Source MCP Servers. Here Is What I Found.",
+          "description": "<h1>\n  \n  \n  I Scanned 50 Open-Source MCP Servers. Here Is What I Found.\n</h1>\n\n<p>MCP servers run inside your Claude Code, Cursor, or Windsurf session. They have direct access to your file system, en",
+          "url": "https://dev.to/whoffagents/i-scanned-50-open-source-mcp-servers-here-is-what-i-found-4ell",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Built a Lightweight GitHub Action for Deploying to Azure Static Web Apps",
+          "description": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>I created <a href=\"https://github.com/marketplace/actions/deploy-azure-static-web-apps\" rel=\"noopener noreferrer\"><code>shibayan/swa-deploy</code></a> — a lightweight GitH",
+          "url": "https://dev.to/polymind/built-a-lightweight-github-action-for-deploying-to-azure-static-web-apps-1ame",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Self-Hosting in 2026: Why It Matters and How to Get Started",
+          "description": "<p>Every year, another SaaS tool raises prices, removes features, or shuts down. Your monthly stack — file storage, password management, project tracking, monitoring, analytics, automation — keeps gro",
+          "url": "https://dev.to/sst21/self-hosting-in-2026-why-it-matters-and-how-to-get-started-233d",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "What happens when you give an AI your acceptance criteria and ask it to write test cases?",
+          "description": "<p>After years of building frontend applications across e-health and e-learning products, I've sat in enough sprint reviews to notice a pattern: <em>QA test cases</em> are written the same way every t",
+          "url": "https://dev.to/programmer4web/what-happens-when-you-give-an-ai-your-acceptance-criteria-and-ask-it-to-write-test-cases-1d3",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Stamp It! All Programs Must Report Their Version",
+          "description": "",
+          "url": "https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/",
+          "score": 51,
+          "comments": 9,
+          "tags": [
+            "go",
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Eight years of wanting, three months of building with AI",
+          "description": "",
+          "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+          "score": 55,
+          "comments": 7,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Best Paper Awards in Computer Science over the past 30 years",
+          "description": "",
+          "url": "https://jeffhuang.com/best_paper_awards/",
+          "score": 10,
+          "comments": 1,
+          "tags": [
+            "compsci"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "neomd: A minimal email TUI where you read with Markdown and write in Neovim",
+          "description": "",
+          "url": "https://github.com/ssp-data/neomd",
+          "score": 19,
+          "comments": 1,
+          "tags": [
+            "email",
+            "vibecoding",
+            "vim"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "A tail-call interpreter in (nightly) Rust",
+          "description": "",
+          "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+          "score": 32,
+          "comments": 10,
+          "tags": [
+            "plt",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Endian wars and anti-portability",
+          "description": "",
+          "url": "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/",
+          "score": 6,
+          "comments": 10,
+          "tags": [
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Size matters, even on very fast connections",
+          "description": "",
+          "url": "https://maurycyz.com/misc/13kb/",
+          "score": 3,
+          "comments": 1,
+          "tags": [
+            "networking",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "The nvim-treesitter repository was archived",
+          "description": "<blockquote>\n<p>This repository was archived by the owner on Apr 3, 2026. It is now read-only.</p>\n</blockquote>\n<p>Anyone know what's up?\nThis is a widely used plugin that a lot of people depend on, would be a shame to see it go.</p>\n",
+          "url": "https://github.com/nvim-treesitter/nvim-treesitter",
+          "score": 137,
+          "comments": 97,
+          "tags": [
+            "editors",
+            "programming",
+            "vim"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "If you thought the speed of writing code was your problem - you have bigger problems",
+          "description": "",
+          "url": "https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems",
+          "score": 56,
+          "comments": 16,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "unnix: Reproducible Nix environments without installing Nix",
+          "description": "",
+          "url": "https://github.com/figsoda/unnix",
+          "score": 12,
+          "comments": 3,
+          "tags": [
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Roogle: A Rust API search engine",
+          "description": "",
+          "url": "https://github.com/roogle-rs/roogle",
+          "score": 24,
+          "comments": 6,
+          "tags": [
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Can We Measure Software Slop? An Experiment",
+          "description": "",
+          "url": "https://pscanf.com/s/352/",
+          "score": 3,
+          "comments": 5,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "DPI bypass using eBPF sock_ops and fake TLS ClientHello injection",
+          "description": "<p>Uses BPF_SOCK_OPS_ACTIVE_ESTABLISHED_CB to detect new TLS\nconnections, then injects a fake ClientHello with spoofed\nSNI and low TTL via raw socket before the real handshake.\nIncludes MSS clamping for ClientHello fragmentation and a\nbuilt-in DoH resolver.</p>\n",
+          "url": "https://github.com/boratanrikulu/gecit",
+          "score": 11,
+          "comments": 0,
+          "tags": [
+            "c",
+            "linux",
+            "networking",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "Building a dry-run mode for the OpenTelemetry Collector",
+          "description": "",
+          "url": "https://simme.dev/posts/building-a-dry-run-mode-for-the-opentelemetry-collector/",
+          "score": 7,
+          "comments": 1,
+          "tags": [
+            "linux",
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "dev.css: tiny, simple, classless CSS framework inspired by new.css",
+          "description": "",
+          "url": "https://tangled.org/devins.page/dev.css",
+          "score": 2,
+          "comments": 0,
+          "tags": [
+            "css",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Turn-Based Collaboration: AI Agents with Multiple Personalities",
+          "description": "",
+          "url": "https://alnewkirk.com/projects/tbc",
+          "score": 2,
+          "comments": 0,
+          "tags": [
+            "ai"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Make your own ColecoVision at home, part 5",
+          "description": "",
+          "url": "https://www.leadedsolder.com/2026/03/24/colecovision-diy-part-5.html",
+          "score": 2,
+          "comments": 0,
+          "tags": [
+            "hardware",
+            "retrocomputing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Sam text editor tips",
+          "description": "",
+          "url": "https://9lab.org/plan9/sam/",
+          "score": 22,
+          "comments": 0,
+          "tags": [
+            "editors"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "It has never been about code",
+          "description": "",
+          "url": "https://www.ufried.com/blog/never_been_about_code/",
+          "score": 1,
+          "comments": 0,
+          "tags": [
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "Mvidia: A game where you build a GPU",
+          "description": "",
+          "url": "https://jaso1024.com/mvidia/",
+          "score": 8,
+          "comments": 0,
+          "tags": [
+            "graphics",
+            "hardware"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 82,
+    "hackernews": 30,
+    "github": 10,
+    "v2ex": 10,
+    "devto": 12,
+    "lobsters": 20
+  }
+}

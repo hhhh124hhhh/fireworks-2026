@@ -1,0 +1,73 @@
+# AI 提示词系统配置文件
+
+# 语义去重配置
+semantic_dedup:
+  enabled: true
+  model_name: "all-MiniLM-L6-v2"
+  similarity_threshold: 0.85
+  batch_size: 32
+  log_file: "data/deduplication_log.json"
+
+# GitHub API 配置
+github:
+  enabled: true
+  token: ""  # 从环境变量 GITHUB_TOKEN 读取
+  base_url: "https://api.github.com"
+  repos:
+    - "f/awesome-chatgpt-prompts"
+    - "danielmiessler/fabric"
+  search_keywords:
+    - "prompt"
+    - "template"
+    - "system prompt"
+  output_file: "data/github_prompts.json"
+
+# HuggingFace API 配置
+huggingface:
+  enabled: true
+  token: ""  # 从环境变量 HUGGINGFACE_TOKEN 读取
+  datasets:
+    - "Gustavosta/Stable-Diffusion-Prompts"
+  output_file: "data/hf_prompts.json"
+
+# LLM-as-Judge 配置
+llm_judge:
+  enabled: true
+  provider: "anthropic"  # anthropic, openai
+  model: "claude-3-5-sonnet-20241022"
+  api_key: ""  # 从环境变量 ANTHROPIC_API_KEY 读取
+  evaluation_criteria:
+    - "innovation"    # 创新性
+    - "practicality"  # 实用性
+    - "clarity"       # 清晰度
+    - "reusability"   # 可复用性
+  output_file: "data/evaluation_results.json"
+  batch_size: 10
+
+# Langfuse 质量追踪配置
+langfuse:
+  enabled: true
+  public_key: ""  # 从环境变量 LANGFUSE_PUBLIC_KEY 读取
+  secret_key: ""  # 从环境变量 LANGFUSE_SECRET_KEY 读取
+  host: "https://cloud.langfuse.com"  # 或自部署地址
+  project_name: "prompt-hunter"
+  output_dir: "data/langfuse_reports"
+
+# URL 去重配置
+url_dedup:
+  enabled: true
+  url_store_file: "data/processed_urls.json"
+  max_store_size: 100000  # 最多存储 10 万个 URL
+
+# 日志配置
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/prompt_hunter.log"
+
+# 数据存储配置
+data:
+  base_dir: "data"
+  prompts_file: "data/prompts.json"
+  deduplication_file: "data/deduplication_log.json"
+  evaluation_file: "data/evaluation_results.json"

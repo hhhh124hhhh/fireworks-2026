@@ -1,0 +1,28 @@
+{
+  "name": "Best Stable Diffusion Prompts Guide with Examples",
+  "version": "1.0.0",
+  "description": "create an image similar to a particular artist",
+  "main": "SKILL.md",
+  "keywords": [
+    "ai",
+    "prompt",
+    "image-generation"
+  ],
+  "author": "Clawdbot",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "SKILL.md",
+    "assets",
+    "references",
+    "scripts"
+  ],
+  "type": "Image Generation",
+  "source": "image-generation",
+  "url": "https://mockey.ai/blog/stable-diffusion-prompts-guide/",
+  "quality_score": 72,
+  "content_hash": "b5e2300147b34b4a72204678224ac656",
+  "created_at": "2026-02-05T09:43:10.501267"
+}

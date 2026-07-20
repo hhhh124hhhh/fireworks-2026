@@ -1,0 +1,7 @@
+# 语义去重系统依赖
+sentence-transformers>=2.2.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# 日志（如果需要）
+# python-json-logger>=2.0.0

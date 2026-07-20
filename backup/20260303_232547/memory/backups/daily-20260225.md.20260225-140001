@@ -1,0 +1,43 @@
+# 2026-02-25 记忆
+
+## 📝 今日事件
+
+### 11:35 - 查找 TikHub Skill
+**用户**: jack
+**事件**: 用户询问 TikHub skill 是否存在
+**结果**: 
+- 找到了 `tiktok-ai-model-generator` skill
+- 位置: `/root/clawd/skills/tiktok-ai-model-generator/`
+- 功能: TikTok AI 模特视频生成器
+
+**Skill 详情**:
+- 4 步工作流: Pinterest 参考 → Claude 提示词 → Nano Banana Pro 图片 → Veo/Kling 视频
+- 用途: 电商产品展示、TikTok 直播带货、品牌宣传片
+- 适合: 服装、化妆品、配饰展示
+
+**相关工具**:
+- Pinterest (免费) - 视觉参考
+- Claude AI (免费/付费) - JSON 提示词生成
+- Nano Banana Pro (免费/付费) - AI 图片生成
+- Veo/Kling (免费/付费) - 视频动画
+
+---
+
+## 🔍 发现的其他 Skills
+
+在查找过程中还发现以下相关 skills:
+- `ai-video-gen` - AI 视频生成
+- `veo3-video-gen` - Veo 3 视频生成
+- `video-prompt-generator` - 视频提示词生成器
+- `tiktok-ai-model-generator` - TikTok AI 模特生成器
+
+---
+
+## 💡 总结
+
+用户想找 "TikHub" skill，但实际找到的是 `tiktok-ai-model-generator`。这是一个功能完整的 TikTok AI 模特视频生成工具，适合电商和内容创作者使用。
+
+如果用户确实需要名为 "TikHub" 的特定 skill，可能需要:
+1. 在 ClawdHub 上搜索
+2. 从 GitHub 安装
+3. 或者用户记错了名字，实际就是 `tiktok-ai-model-generator`

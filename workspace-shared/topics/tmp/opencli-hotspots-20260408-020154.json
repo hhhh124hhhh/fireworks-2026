@@ -1,0 +1,813 @@
+{
+  "timestamp": "2026-04-08 02:01:54",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "GLM-5.1: Towards Long-Horizon Tasks",
+          "score": 129,
+          "author": "zixuanlimit",
+          "comments": 26,
+          "url": "https://z.ai/blog/glm-5.1",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://z.ai/blog/glm-5.1"
+        },
+        {
+          "rank": 2,
+          "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+          "score": 552,
+          "author": "sam-bee",
+          "comments": 179,
+          "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://sam-burns.com/posts/concrete-laptop-stand/"
+        },
+        {
+          "rank": 3,
+          "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
+          "score": 23,
+          "author": "speckx",
+          "comments": 4,
+          "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://www.bbc.com/news/articles/c0rx7xzd10xo"
+        },
+        {
+          "rank": 4,
+          "title": "Cloudflare targets 2029 for full post-quantum security",
+          "score": 147,
+          "author": "ilreb",
+          "comments": 45,
+          "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://blog.cloudflare.com/post-quantum-roadmap/"
+        },
+        {
+          "rank": 5,
+          "title": "Google open-sources experimental agent orchestration testbed Scion",
+          "score": 66,
+          "author": "timbilt",
+          "comments": 19,
+          "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/"
+        },
+        {
+          "rank": 6,
+          "title": "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
+          "score": 26,
+          "author": "gmac",
+          "comments": 5,
+          "url": "https://printervention.app/details",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://printervention.app/details"
+        },
+        {
+          "rank": 7,
+          "title": "Moving fast in hardware: lessons from lab to $100M ARR",
+          "score": 65,
+          "author": "rryan",
+          "comments": 14,
+          "url": "https://blog.zacka.io/p/simplify-then-add-lightness-bc4",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://blog.zacka.io/p/simplify-then-add-lightness-bc4"
+        },
+        {
+          "rank": 8,
+          "title": "AI helps add 10k more photos to OldNYC",
+          "score": 31,
+          "author": "evakhoury",
+          "comments": 5,
+          "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html"
+        },
+        {
+          "rank": 9,
+          "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+          "score": 314,
+          "author": "henrygarner",
+          "comments": 160,
+          "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/"
+        },
+        {
+          "rank": 10,
+          "title": "A new Postcrossing stamp from the USA",
+          "score": 34,
+          "author": "Tomte",
+          "comments": 8,
+          "url": "https://www.postcrossing.com/blog/2026/03/31/a-new-postcrossing-stamp-from-the-usa",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://www.postcrossing.com/blog/2026/03/31/a-new-postcrossing-stamp-from-the-usa"
+        },
+        {
+          "rank": 11,
+          "title": "Good Taste the Only Real Moat Left",
+          "score": 119,
+          "author": "speckx",
+          "comments": 104,
+          "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
+        },
+        {
+          "rank": 12,
+          "title": "12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)",
+          "score": 140,
+          "author": "pulisse",
+          "comments": 44,
+          "url": "https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined"
+        },
+        {
+          "rank": 13,
+          "title": "Dropping Cloudflare for Bunny.net",
+          "score": 299,
+          "author": "shintoist",
+          "comments": 140,
+          "url": "https://jola.dev/posts/dropping-cloudflare",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://jola.dev/posts/dropping-cloudflare"
+        },
+        {
+          "rank": 14,
+          "title": "John Coltrane Illustrates the Mathematics of Jazz",
+          "score": 29,
+          "author": "luu",
+          "comments": 1,
+          "url": "https://www.americanjazzmusicsociety.com/blog/john-coltrane-draws",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://www.americanjazzmusicsociety.com/blog/john-coltrane-draws"
+        },
+        {
+          "rank": 15,
+          "title": "9 Mothers (YC P26) Is Hiring – Lead Robotics and More",
+          "score": 1,
+          "author": "ukd1",
+          "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q"
+        },
+        {
+          "rank": 16,
+          "title": "Emotion Concepts and Their Function in a Large Language Model",
+          "score": 24,
+          "author": "Anon84",
+          "comments": 0,
+          "url": "https://transformer-circuits.pub/2026/emotions/index.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://transformer-circuits.pub/2026/emotions/index.html"
+        },
+        {
+          "rank": 17,
+          "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
+          "score": 122,
+          "author": "intofarlands",
+          "comments": 23,
+          "url": "https://www.intofarlands.com/atlasofarda",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.intofarlands.com/atlasofarda"
+        },
+        {
+          "rank": 18,
+          "title": "Every GPU That Mattered",
+          "score": 266,
+          "author": "jonbaer",
+          "comments": 152,
+          "url": "https://sheets.works/data-viz/every-gpu",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://sheets.works/data-viz/every-gpu"
+        },
+        {
+          "rank": 19,
+          "title": "You can't cancel a JavaScript promise (except sometimes you can)",
+          "score": 63,
+          "author": "goodoldneon",
+          "comments": 33,
+          "url": "https://www.inngest.com/blog/hanging-promises-for-control-flow",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://www.inngest.com/blog/hanging-promises-for-control-flow"
+        },
+        {
+          "rank": 20,
+          "title": "A whole civilization might die tonight",
+          "score": 30,
+          "author": "hedayet",
+          "comments": 13,
+          "url": "https://www.nbcnews.com/politics/white-house/trump-threat-whole-civilization-will-die-iran-war-deadline-hormuz-rcna267059",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://www.nbcnews.com/politics/white-house/trump-threat-whole-civilization-will-die-iran-war-deadline-hormuz-rcna267059"
+        },
+        {
+          "rank": 21,
+          "title": "SQLite in Production: Lessons from Running a Store on a Single File",
+          "score": 121,
+          "author": "thunderbong",
+          "comments": 72,
+          "url": "https://ultrathink.art/blog/sqlite-in-production-lessons",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://ultrathink.art/blog/sqlite-in-production-lessons"
+        },
+        {
+          "rank": 22,
+          "title": "Identify a London Underground Line just by listening to it",
+          "score": 148,
+          "author": "nelson687",
+          "comments": 45,
+          "url": "https://tubesoundquiz.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://tubesoundquiz.com/"
+        },
+        {
+          "rank": 23,
+          "title": "Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps",
+          "score": 16,
+          "author": "ashish004",
+          "comments": 5,
+          "url": "https://github.com/final-run/finalrun-agent",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://github.com/final-run/finalrun-agent"
+        },
+        {
+          "rank": 24,
+          "title": "My Experience as a Rice Farmer",
+          "score": 312,
+          "author": "surprisetalk",
+          "comments": 153,
+          "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html"
+        },
+        {
+          "rank": 25,
+          "title": "Global Physics Photowalk: 2025 winners revealed",
+          "score": 20,
+          "author": "ibobev",
+          "comments": 1,
+          "url": "https://www.quantamagazine.org/global-physics-photowalk-2025-winners-revealed-20260401/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://www.quantamagazine.org/global-physics-photowalk-2025-winners-revealed-20260401/"
+        },
+        {
+          "rank": 26,
+          "title": "Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000",
+          "score": 125,
+          "author": "mooreds",
+          "comments": 33,
+          "url": "https://rarehistoricalphotos.com/kursk-submarine-disaster-photos/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://rarehistoricalphotos.com/kursk-submarine-disaster-photos/"
+        },
+        {
+          "rank": 27,
+          "title": "Wi-Fi That Can Withstand a Nuclear Reactor: This receiver chip can take it",
+          "score": 70,
+          "author": "voxadam",
+          "comments": 5,
+          "url": "https://spectrum.ieee.org/robotics-in-nuclear-industry",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://spectrum.ieee.org/robotics-in-nuclear-industry"
+        },
+        {
+          "rank": 28,
+          "title": "Kindle to end store downloads and registering for 1st-5th gen kindles in May",
+          "score": 30,
+          "author": "seam_carver",
+          "comments": 12,
+          "url": "https://www.reddit.com/r/kindle/s/xg8uCdAWU3",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://www.reddit.com/r/kindle/s/xg8uCdAWU3"
+        },
+        {
+          "rank": 29,
+          "title": "Blackholing My Email",
+          "score": 139,
+          "author": "semyonsh",
+          "comments": 22,
+          "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://www.johnsto.co.uk/blog/blackholing-my-email/"
+        },
+        {
+          "rank": 30,
+          "title": "DeiMOS – A Superoptimizer for the MOS 6502",
+          "score": 64,
+          "author": "Aransentin",
+          "comments": 17,
+          "url": "https://aransentin.github.io/deimos/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://aransentin.github.io/deimos/"
+        }
+      ]
+    },
+    "github": {
+      "count": 9,
+      "items": [
+        {
+          "rank": 1,
+          "title": "google-ai-edge /gallery",
+          "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+          "url": "https://github.com/google-ai-edge/gallery",
+          "language": "Kotlin",
+          "stars": 18597,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "google-ai-edge /LiteRT-LM",
+          "description": "",
+          "url": "https://github.com/google-ai-edge/LiteRT-LM",
+          "language": "C++",
+          "stars": 2429,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "NVIDIA /personaplex",
+          "description": "PersonaPlex code.",
+          "url": "https://github.com/NVIDIA/personaplex",
+          "language": "Python",
+          "stars": 7801,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "abhigyanpatwari /GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "language": "TypeScript",
+          "stars": 24312,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "tobi /qmd",
+          "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+          "url": "https://github.com/tobi/qmd",
+          "language": "TypeScript",
+          "stars": 19388,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "forrestchang /andrej-karpathy-skills",
+          "description": "",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "language": "",
+          "stars": 7902,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "elebumm /RedditVideoMakerBot",
+          "description": "Create Reddit Videos with just✨ one command ✨",
+          "url": "https://github.com/elebumm/RedditVideoMakerBot",
+          "language": "Python",
+          "stars": 9907,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "HKUDS /DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "language": "Python",
+          "stars": 11926,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "TheCraigHewitt /seomachine",
+          "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "language": "Python",
+          "stars": 3735,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "The Downfall and Enshittification of Microsoft in 2026",
+          "description": "",
+          "url": "https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html",
+          "score": 75,
+          "comments": 26,
+          "tags": [
+            "linux",
+            "mac",
+            "windows"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "The Seed Beneath the Snow",
+          "description": "",
+          "url": "https://eli.li/the-seed-beneath-the-snow",
+          "score": 41,
+          "comments": 2,
+          "tags": [
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Two Years of Valkey",
+          "description": "",
+          "url": "https://redmonk.com/sogrady/2026/04/06/valkey-at-two/",
+          "score": 8,
+          "comments": 3,
+          "tags": [
+            "distributed"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "What text editor (cli or gui) are you using for writing non-code?",
+          "description": "<p>Papers, books, and notes.</p>\n<p>I’ve being using Trilium (not Next) but find writing simple markdown notes very enjoyable in CLI. Been trying Nano and now micro recently, both enjoyable.</p>\n",
+          "url": "",
+          "score": 8,
+          "comments": 28,
+          "tags": [
+            "ask",
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "A Cryptography Engineer’s Perspective on Quantum Computing Timelines",
+          "description": "",
+          "url": "https://words.filippo.io/crqc-timeline/",
+          "score": 82,
+          "comments": 17,
+          "tags": [
+            "cryptography",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "OpenSSH begins warning for non-PQC key exchanges",
+          "description": "",
+          "url": "https://www.openssh.com/pq.html",
+          "score": 19,
+          "comments": 6,
+          "tags": [
+            "networking",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Plan 9 is a Uniquely Complete Operating System",
+          "description": "",
+          "url": "https://posixcafe.org/blogs/2024/07/27/0/",
+          "score": 13,
+          "comments": 4,
+          "tags": [
+            "osdev"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Someone good at CSS help, my website design is dying",
+          "description": "",
+          "url": "https://ahti.space/~nortti/writeups/my-website-design-is-dying.html",
+          "score": 47,
+          "comments": 6,
+          "tags": [
+            "css"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Multi-agentic Software Development is a Distributed Systems Problem (AGI can't save you)",
+          "description": "",
+          "url": "https://kirancodes.me/posts/log-distributed-llms.html",
+          "score": 8,
+          "comments": 6,
+          "tags": [
+            "compsci",
+            "distributed",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Floating point from scratch: Hard Mode",
+          "description": "",
+          "url": "https://essenceia.github.io/projects/floating_dragon/",
+          "score": 10,
+          "comments": 3,
+          "tags": [
+            "hardware",
+            "math"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "The pinnacle of enshittification, or Large Language Models",
+          "description": "",
+          "url": "https://blogs.gentoo.org/mgorny/2026/04/05/the-pinnacle-of-enshittification-or-large-language-models/",
+          "score": 30,
+          "comments": 10,
+          "tags": [
+            "rant",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+          "description": "",
+          "url": "https://sschueller.github.io/posts/the-free-market-lie/",
+          "score": 108,
+          "comments": 63,
+          "tags": [
+            "networking"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "Clojure on Fennel part one: Persistent Data Structures",
+          "description": "",
+          "url": "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/",
+          "score": 16,
+          "comments": 3,
+          "tags": [
+            "clojure",
+            "lisp"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "Wet Sidewalks and Odd Numbers",
+          "description": "",
+          "url": "https://philcrissman.net/posts/wet-sidewalks-and-odd-numbers/",
+          "score": 2,
+          "comments": 0,
+          "tags": [
+            "compsci",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Someone at BrowserStack is Leaking Users' Email Address",
+          "description": "",
+          "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+          "score": 79,
+          "comments": 19,
+          "tags": [
+            "privacy"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Git’s Magic Files",
+          "description": "",
+          "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
+          "score": 37,
+          "comments": 9,
+          "tags": [
+            "vcs"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "the value of a performance oracle",
+          "description": "",
+          "url": "https://wingolog.org/archives/2026/04/07/the-value-of-a-performance-oracle",
+          "score": 6,
+          "comments": 0,
+          "tags": [
+            "compilers",
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "The Cult Of Vibe Coding Is Insane",
+          "description": "",
+          "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+          "score": 8,
+          "comments": 0,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "A Conversation with Paul Masurel, Creator of Tantivy",
+          "description": "<p>\"If I had looked at the lexical search and BM25 space in 2016, I would have said it was solved, and that catching up would be nearly impossible.\"</p>\n<p>This interview with Tantivy creator Paul Masurel looks at how wrong I would have been; discussing challenging solved domains, open-source competition done right, and why long-fermented frustration is an underrated driver.</p>\n",
+          "url": "https://www.paradedb.com/blog/tantivy-interview",
+          "score": 3,
+          "comments": 1,
+          "tags": [
+            "databases"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "What next for the compute crunch?",
+          "description": "",
+          "url": "https://martinalderson.com/posts/what-next-for-the-compute-crunch/",
+          "score": 2,
+          "comments": 1,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 59,
+    "hackernews": 30,
+    "github": 9,
+    "lobsters": 20
+  }
+}

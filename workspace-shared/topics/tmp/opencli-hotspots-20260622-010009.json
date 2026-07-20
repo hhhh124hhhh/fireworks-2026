@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-22 01:00:09",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "TPUs vs GPUs: How Google's Tensor Processing Units Actually Work",
+          "description": "<p><em>Hello, I'm Shrijith Venkatramana. I'm building git-lrc, an AI code reviewer that runs on every commit. <a href=\"https://github.com/HexmosTech/git-lrc\" rel=\"noopener noreferrer\">Star Us</a> to h",
+          "url": "https://dev.to/shrsv/tpus-vs-gpus-how-googles-tensor-processing-units-actually-work-c8i",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Reverse engineering a DJI Mavic Pro remote: meeting the DUML protocol",
+          "description": "<blockquote>\n<p>A hobby project on the side. I bought a Mavic Pro Gen1 shell and its <strong>GL200A</strong> remote for a few euros, sold as non-functional. Rather than just repairing them, I wanted t",
+          "url": "https://dev.to/oliopti/reverse-engineering-a-dji-mavic-pro-remote-meeting-the-duml-protocol-3j5e",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "React State Management Without Redux or Zustand",
+          "description": "<p>React state management has a well-worn path: pick a library (Redux, Zustand, Jotai, MobX), define your store shape, write actions and reducers, connect components, wire up side effects.</p>\n\n<p>It ",
+          "url": "https://dev.to/ctrotech/react-state-management-without-redux-or-zustand-3oc7",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "The Cheapest SMS API for Uganda and East Africa — UGX 20/SMS, Pay with Mobile Money",
+          "description": "<h1>\n  \n  \n  The Cheapest SMS API for Uganda and East Africa — UGX 20/SMS, Pay with Mobile Money\n</h1>\n\n<p>Let me show you exactly how much SMS costs across the main providers, then show you the cheap",
+          "url": "https://dev.to/yoolasms/the-cheapest-sms-api-for-uganda-and-east-africa-ugx-20sms-pay-with-mobile-money-5a3k",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Aggressive Cows",
+          "description": "<h2>\n  \n  \n  Problem Statement\n</h2>\n\n<p>Given:</p>\n\n<ul>\n<li>Positions of stalls</li>\n<li>\n<code>k</code> cows</li>\n</ul>\n\n<p>Place the cows in stalls such that:<br>\n</p>\n\n<div class=\"highlight js-co",
+          "url": "https://dev.to/jaspreet_singh_86ae1740ac/aggressive-cows-5gcl",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "The Spirit of Curiosity: Randy Bias on the Future of AI Operations | The Root Cause",
+          "description": "<p>In this episode of <strong>The Root Cause</strong>, Priyank Upadhyay sits down with <strong>Randy Bias</strong> to talk about the part of the AI revolution almost everyone is ignoring. <br>\nRandy i",
+          "url": "https://dev.to/rubixkube/the-spirit-of-curiosity-randy-bias-on-the-future-of-ai-operations-the-root-cause-49d2",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Allocate Minimum Number of Pages | Binary Search on Answer",
+          "description": "<div class=\"crayons-card c-embed text-styles text-styles--secondary\">\n    <div class=\"c-embed__content\">\n      <div class=\"c-embed__body flex items-center justify-between\">\n        <a href=\"https://ww",
+          "url": "https://dev.to/jaspreet_singh_86ae1740ac/allocate-minimum-number-of-pages-binary-search-on-answer-3loj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "How to Write a Cover Letter for a US Startup as an Indian Applicant Seeking Visa Sponsorship",
+          "description": "<h1>\n  \n  \n  Why Your Cover Letter Must Lead with Visa Honesty and Startup Value\n</h1>\n\n<p>A US startup hiring from India is not like a Fortune 500 company. Startups have lean HR, limited legal budget",
+          "url": "https://dev.to/prismresume/how-to-write-a-cover-letter-for-a-us-startup-as-an-indian-applicant-seeking-visa-sponsorship-4lfl",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "kth smallest element in sorted array",
+          "description": "<h2>\n  \n  \n  Problem Statement\n</h2>\n\n<p>Given two sorted arrays <code>arr1[]</code> and <code>arr2[]</code> and an integer <code>k</code>, return the kth smallest element from the combined sorted arr",
+          "url": "https://dev.to/jaspreet_singh_86ae1740ac/kth-smallest-element-in-sorted-array-168k",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "The second axis most maps miss: not how much you hand the model, but how much of your work survives the session as state you can open and inspect. Cleanest articulation of this I have seen.",
+          "description": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a href=\"https://dev.to/jugeni/vibe-coding-is-not-a-level-its-an-axis-12gb\" class=\"crayons-story__hidden-navigation-link\">Vibe codin",
+          "url": "https://dev.to/sarracin0/the-second-axis-most-maps-miss-not-how-much-you-hand-the-model-but-how-much-of-your-work-survives-33g2",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Median of the two sorted arrays.",
+          "description": "<h2>\n  \n  \n  Problem Statement\n</h2>\n\n<p>Given two sorted arrays <code>nums1</code> and <code>nums2</code>, return the median of the two sorted arrays.</p>\n\n<p>The overall run time complexity should b",
+          "url": "https://dev.to/jaspreet_singh_86ae1740ac/median-of-the-two-sorted-arrays-8m5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Send SMS to Uganda, Kenya, Tanzania and 40+ Countries from One API — Here's the Code",
+          "description": "<h1>\n  \n  \n  I Built Uganda's Most Affordable SMS API — Here's How to Integrate It in 5 Minutes (PHP, Python, JS)\n</h1>\n\n<blockquote>\n<p><strong>TL;DR:</strong> Yoola SMS is a bulk SMS platform built ",
+          "url": "https://dev.to/yoolasms/send-sms-to-uganda-kenya-tanzania-and-40-countries-from-one-api-heres-the-code-pm8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

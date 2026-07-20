@@ -1,0 +1,439 @@
+# MEMORY.md - 核心记忆
+
+*记忆已备份，可以通过 memory-manager 查询历史记忆*
+*备份目录：/root/clawd/memory/backups*
+
+## 重要记忆
+
+*此部分保留最重要的长期记忆，不会被清理*
+
+---
+
+## 🌐 Cloudflare Pages 部署经验（2026-02-14）
+
+### 关键发现
+
+**Cloudflare Pages API 不接受包含中文的 commit 消息**
+
+### 错误信息
+
+```
+Invalid commit message, it must be a valid UTF-8 string. [code: 8000111]
+```
+
+### 问题描述
+
+#### 问题字符
+- 中文箭头 "→" "↑" "↓"
+- 中文引号 "「" "」"
+- 中文标点 "。" "、" "！" "？"
+- 中文括号 "（" "）"
+
+#### 失败 vs 成功对比
+
+| Commit 消息 | 状态 |
+|------------|------|
+| `feat: 阶段 1 优化 - 字体系统重构 + 品牌视觉系统` | ❌ 失败 |
+| `feat: Stage 1 optimization - font system and brand system` | ✅ 成功 |
+
+### 解决方案
+
+#### 方案 1：使用英文 commit 消息（推荐）
+
+```bash
+# ✅ 正确
+git commit -m "feat: Stage 1 optimization - font system and brand system
+
+- Font system: Playfair Display -> Cormorant Garamond
+- Brand system: Custom Logo (J + AI circuits)
+- Performance: FCP +25%, LCP +28%"
+
+# ❌ 错误
+git commit -m "feat: 阶段 1 优化 - 字体系统重构 + 品牌视觉系统"
+```
+
+#### 方案 2：修改已存在的 commit message
+
+```bash
+# 修改最新的 commit message
+git commit --amend -m "feat: Stage 1 optimization - font system and brand system..."
+
+# 强制推送到远程
+git push --force origin main
+```
+
+#### 方案 3：手动部署（如果自动部署失败）
+
+```bash
+cd /root/clawd/jack-portfolio
+export CLOUDFLARE_API_TOKEN=your_api_token
+wrangler pages deploy . --project-name=jack-portfolio
+```
+
+### 项目信息
+
+**GitHub 仓库**: hhhh124hhhh/jack-portfolio
+**Cloudflare Pages**: https://jack-portfolio-5un.pages.dev/
+**Cloudflare 项目名**: jack-portfolio
+
+### 部署状态检查
+
+#### 检查 GitHub Actions 部署
+
+```bash
+cd /root/clawd/jack-portfolio
+gh run list --limit 5 --workflow=deploy-cloudflare.yml
+```
+
+#### 检查特定部署的日志
+
+```bash
+gh run view <run-id> --log-failed
+```
+
+#### 验证网站可访问性
+
+```bash
+# 使用 web_fetch
+web_fetch https://jack-portfolio-5un.pages.dev/
+
+# 或使用 curl
+curl -I https://jack-portfolio-5un.pages.dev/
+```
+
+### 最佳实践
+
+1. **Commit 消息规范化**
+   - ✅ 使用英文
+   - ✅ 避免特殊字符
+   - ✅ 遵循 Conventional Commits 规范
+
+2. **Commit 消息格式**
+
+```bash
+<type>(<scope>): <subject>
+
+<body>
+```
+
+3. **部署验证**
+   - 每次部署后检查网站可访问性
+   - 查看 GitHub Actions 日志
+   - 确认部署状态
+
+4. **团队规范**
+   - 在项目文档中明确要求使用英文 commit 消息
+   - 提供 commit 消息模板
+   - 定期检查部署状态
+
+### 成功案例
+
+#### 成功的部署（2026-02-14）
+
+- **Run ID**: 22008384728
+- **Commit**: `feat: Stage 1 optimization - font system and brand system`
+- **状态**: ✅ success
+- **网站**: https://jack-portfolio-5un.pages.dev/
+- **验证**: 200 OK，正常访问
+
+#### 失败的部署（2026-02-13）
+
+- **Run ID**: 21988746064
+- **Commit**: `feat: 阶段 1 优化 - 字体系统重构 + 品牌视觉系统`
+- **状态**: ❌ failure
+- **错误**: Invalid commit message, it must be a valid UTF-8 string. [code: 8000111]
+
+---
+
+## 🌐 Cloudflare Pages 生产分支设置（2026-02-14）
+
+### 关键配置
+
+**Cloudflare Pages 凭据**
+- **API Token**: `Sd0vKvLKAVaKIScuBEEsPb1d3tAmL8aR-wh4M6sf`
+- **Account ID**: `944fa484617a666c2f04aa2cc308285c`
+- **邮箱**: jackhappy123rt@gmail.com
+- **配置位置**: `/root/clawd/.config/cloudflare-token.json`
+
+### Wrangler CLI 使用
+
+#### 登录状态检查
+```bash
+export CLOUDFLARE_API_TOKEN=Sd0vKvLKAVaKIScuBEEsPb1d3tAmL8aR-wh4M6sf
+wrangler whoami
+```
+
+#### 手动部署
+```bash
+cd /root/clawd/jack-portfolio
+wrangler pages deploy . --project-name=jack-portfolio
+```
+
+#### 查看部署历史
+```bash
+wrangler pages deployment list --project-name=jack-portfolio
+```
+
+### ⚠️ 生产分支问题
+
+#### 问题现象
+- **主站 URL**: https://jack-portfolio-5un.pages.dev/
+- **状态**: ❌ 显示旧内容
+- **原因**: Production branch 设置为 `master`，但当前分支是 `main`
+
+#### 解决方案
+
+**在 Cloudflare Dashboard 中设置生产分支**：
+
+1. 访问 https://dash.cloudflare.com/
+2. Workers & Pages → jack-portfolio
+3. Settings → Production branch → 改为 `main`
+4. Save 保存
+
+#### 为什么必须手动设置？
+
+- Wrangler CLI 没有直接设置生产分支的命令
+- GitHub Actions 无法修改 Cloudflare 项目配置
+- 必须在 Cloudflare Dashboard 中手动设置
+
+### 生产分支设置（2026-02-14）
+
+**时间**: 2026-02-14 13:31
+**用户操作**: 在 Cloudflare Dashboard 中设置生产分支为 `main`
+**结果**: ✅ 成功
+
+**部署验证**：
+- Production 分支：`main` ✅
+- 最新的 Production 部署：`1d1033be`（just now）
+- 部署内容：commit 3092d9e（阶段 1 优化）
+
+**可访问 URL**：
+- 主站：https://jack-portfolio-5un.pages.dev/
+- Production：https://1d1033be.jack-portfolio-5un.pages.dev/
+
+---
+
+## ⚠️ 重要教训：生产分支设置错误（2026-02-14）
+
+### 问题描述
+
+**症状**：
+- GitHub Actions 创建 Preview 部署成功
+- Production 部署失败（显示旧内容）
+- 两个 URL 内容不一致
+
+**根本原因**：
+- Cloudflare Pages 项目的 Production Branch 设置为 `master`（旧分支）
+- 当前开发使用的分支是 `main`（新分支）
+- 导致 Production 部署使用 `master` 分支的旧内容，而不是 `main` 分支的新内容
+
+### 问题影响
+
+| 问题 | 影响 |
+|------|------|
+| GitHub Actions 部署 | 只创建 Preview 部署，不部署到 Production |
+| Production 部署 | 使用 `master` 分支（1 week ago 的旧内容） |
+| 主站 URL | 显示旧内容，用户体验差 |
+| 部署状态 | 表面上部署成功，实际内容未更新 |
+
+### 解决方案
+
+#### 1. 在 Cloudflare Dashboard 中设置生产分支（必须）
+
+**步骤**：
+1. 访问 https://dash.cloudflare.com/
+2. Workers & Pages → jack-portfolio
+3. Settings → Production branch → 改为 `main`
+4. Save 保存
+
+**为什么必须手动设置**：
+- Wrangler CLI 没有直接设置生产分支的命令
+- GitHub Actions 无法修改 Cloudflare 项目配置
+- 必须在 Cloudflare Dashboard 中手动设置
+
+#### 2. 验证生产分支设置
+
+**检查命令**：
+```bash
+wrangler pages deployment list --project-name=jack-portfolio | grep Production
+```
+
+**预期输出**：
+```
+│ Production  │ main   │ <最新部署> │ just now      │
+```
+
+### 预防措施
+
+#### 1. 创建新项目时的检查清单
+
+**创建 Cloudflare Pages 项目时，检查**：
+- [ ] Production Branch 设置正确（与开发分支一致）
+- [ ] GitHub Secrets 配置正确（CLOUDFLARE_API_TOKEN, CLOUDFLARE_ACCOUNT_ID）
+- [ ] Workflow 文件正确（projectName 正确）
+
+#### 2. 切换分支时的检查清单
+
+**切换 Git 分支时，检查**：
+- [ ] Cloudflare Pages Production Branch 是否需要更新
+- [ ] 如果分支名称变化，更新 Cloudflare Dashboard
+- [ ] 测试部署，确认 Production 部署使用正确的分支
+
+#### 3. 部署后的验证步骤
+
+**每次部署后，验证**：
+1. 查看 GitHub Actions 部署日志
+2. 使用 `wrangler pages deployment list` 检查部署状态
+3. 访问 Production URL 验证内容
+4. 对比 Preview URL 和 Production URL 的内容
+
+### 快速诊断命令
+
+#### 检查 Production 分支
+```bash
+wrangler pages deployment list --project-name=<project-name> | grep Production
+```
+
+#### 检查最新部署
+```bash
+wrangler pages deployment list --project-name=<project-name> | head -5
+```
+
+#### 查看部署详情
+```bash
+wrangler pages deployment create --project-name=<project-name> --branch=<branch-name>
+```
+
+### 常见错误
+
+#### 错误 1：两个 URL 内容不一致
+
+**症状**：
+- Preview URL 显示新内容
+- Production URL 显示旧内容
+
+**原因**：
+Production Branch 设置错误
+
+**解决**：
+在 Cloudflare Dashboard 中更新 Production Branch
+
+#### 错误 2：部署成功但内容未更新
+
+**症状**：
+- GitHub Actions 显示成功
+- Production URL 显示旧内容
+- CDN 缓存问题排除后仍然旧
+
+**原因**：
+Production Branch 设置错误
+
+**解决**：
+检查并更新 Production Branch
+
+#### 错误 3：切换分支后部署失败
+
+**症状**：
+- 切换到新分支后部署失败
+- Production 部署使用旧分支
+
+**原因**：
+Production Branch 没有更新
+
+**解决**：
+在 Cloudflare Dashboard 中更新 Production Branch
+
+### 最佳实践
+
+1. **保持分支名称一致**
+   - Git 分支和 Cloudflare Pages Production Branch 保持一致
+   - 如果使用 `main`，确保 Cloudflare 也设置为 `main`
+
+2. **定期检查配置**
+   - 每次切换分支时检查 Production Branch 设置
+   - 每次部署后验证 Production 部署是否使用正确分支
+
+3. **使用验证脚本**
+   - 创建自动化检查脚本，定期验证部署状态
+   - 集成到 CI/CD 流程中
+
+---
+
+## 🏆 成就系统（2026-02-01 开始开发）
+
+### 主要成就系统
+
+**位置**: `/root/clawd/projects/achievement-system/`
+
+**状态**: ✅ 已完成开发
+
+**功能**:
+- 多维度成就追踪（工具使用、技能调用、消息处理、工作流完成）
+- 连续使用统计
+- 详细的统计可视化（ASCII 风格）
+- JSON 数据持久化
+- 工作流追踪
+- 实时成就检测
+
+**终端工具**: `/root/clawd/projects/achievement-system/clawd_achievement.py`
+
+**可用命令**:
+- `status` - 查看状态
+- `list` - 列出成就（--unlocked, --locked）
+- `visualize` - 可视化统计（--type, --days）
+- `export` - 导出数据（--format, --output）
+- `track` - 记录活动（--tool, --skill, --message, --workflow）
+- `workflow` - 工作流操作（--start, --complete）
+
+### 成就分类（8 类）
+
+1. **首次使用** (5 个) - ✅ 全部解锁
+2. **连续使用** (3 个) - ⏳ 待解锁
+3. **里程碑** (7 个) - 2/7 解锁
+4. **技能大师** (3 个) - 1/3 解锁
+5. **工作流专家** (3 个) - ⏳ 待解锁
+6. **效率达人** (3 个) - 1/3 解锁
+7. **个性化** (4 个) - ⏳ 待解锁
+8. **夜猫子** (3 个) - ⏳ 待解锁
+
+### 当前状态（2026-02-14）
+
+| 指标 | 数值 |
+|------|-----|
+| **成就进度** | 9/31 (29.03%) |
+| **连续使用** | 1 天 |
+| **最长连续** | 1 天 |
+| **总进度** | 普通 9/25, 稀有 0/4, 史诗 0/2 |
+
+### 已解锁成就（9 个）
+
+**首次使用** (5/5):
+- 🎯 初次接触 - 第一次使用任何工具
+- ⚡ 技能觉醒 - 第一次使用技能
+- 💬 破冰 - 发送或接收第一条消息
+- 🔄 自动化初体验 - 完成第一个工作流
+- 💻 Hello World - 第一次使用 coding-agent
+
+**里程碑** (2/7):
+- 🛠️ 工具达人 - 累计使用工具 100 次
+- 💬 话痨 - 累计处理消息 100 条
+
+**技能大师** (1/3):
+- 🧭 探索者 - 使用超过 10 种不同的工具
+
+**效率达人** (1/3):
+- 📊 高效助手 - 工具调用成功率超过 95%
+
+### 备用成就系统
+
+**位置**: `/root/clawd/achievement-system/`
+
+**状态**: ✅ 已完成开发
+
+**功能**: 另一个成就系统实现
+
+**脚本**:
+- `ach` - 快速命令
+- `install.sh` - 安装脚本
+- `demo.sh` - 演示脚本
+- `uninstall.sh` - 卸载脚本

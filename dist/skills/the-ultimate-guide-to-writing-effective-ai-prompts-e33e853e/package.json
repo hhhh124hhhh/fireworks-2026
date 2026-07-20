@@ -1,0 +1,28 @@
+{
+  "name": "The ultimate guide to writing effective AI prompts - Work Life by Atlassian",
+  "version": "1.0.0",
+  "description": "Write an email to [contact] to schedule a meeting on [day]",
+  "main": "SKILL.md",
+  "keywords": [
+    "ai",
+    "prompt",
+    "text-prompt"
+  ],
+  "author": "Clawdbot",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "SKILL.md",
+    "assets",
+    "references",
+    "scripts"
+  ],
+  "type": "Text Prompt",
+  "source": "writing",
+  "url": "https://www.atlassian.com/blog/artificial-intelligence/ultimate-guide-writing-ai-prompts",
+  "quality_score": 75,
+  "content_hash": "e33e853e247da3bb77e9baf2a54eb773",
+  "created_at": "2026-02-05T09:43:10.500513"
+}

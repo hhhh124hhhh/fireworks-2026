@@ -1,0 +1,51 @@
+# 2026-03-02 Memory Log
+
+## Task: Find Google Imagen 2 (Nano Banana 2) Proxy Sites
+
+### Request
+Jack asked to find proxy/mirror sites for Google Imagen 2 (also known as Nano Banana 2 / Gemini 3.1 Flash Image).
+
+### Research Results
+Found multiple platforms claiming to offer Nano Banana 2 access:
+
+**Tested Platforms (Server-side check):**
+- iMini AI (imini.com) - 200 OK
+- Labnana (labnana.com) - 307 Redirect (normal)
+- Gemini中文站 (gemini-tool.com) - 200 OK
+- Flowith (flowith.io) - 200 OK
+- Lovart (lovart.ai) - 200 OK
+- AI Arena (lmarena.ai) - 301 Redirect
+
+**New Findings:**
+- Gemini中文站 (gemini-tool.com): Claims "国内网络自动加速,无需翻墙"
+- DeepSider: Edge browser plugin for accessing Nano Banana 2 without VPN
+- KeyVox: Desktop agent that recently integrated Nano Banana 2
+- 香蕉美图 (91banana.site): Wrapper site using OpenRouter API
+
+### Issue Encountered
+Jack reported that **none** of the sites were accessible from his location, despite server tests showing 200 OK responses.
+
+**Possible Causes:**
+1. DNS pollution/blocking
+2. Regional ISP restrictions
+3. Enterprise/corporate network filtering
+4. Hosts file modifications
+
+**Suggested Troubleshooting:**
+1. Change DNS to 223.5.5.5 (Ali) or 114.114.114.114
+2. Try mobile hotspot (different ISP)
+3. Check hosts file for blocked entries
+4. Try Edge browser + DeepSider plugin
+
+### Alternative Solutions Offered
+If Nano Banana 2 proxies continue to be inaccessible:
+- 必应AI (bing.com/create) - DALL-E 3 powered
+- 百度文心一格 (yige.baidu.com)
+- 通义万相 (阿里)
+- 豆包AI (字节)
+
+### Status
+Task incomplete - Jack unable to access any recommended platforms from his network. Further troubleshooting or alternative approaches needed.
+
+---
+Logged: 2026-03-02 09:18 AM (Asia/Shanghai)

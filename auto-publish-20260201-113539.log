@@ -1,0 +1,84 @@
+[2026-02-01 11:35:39] ========================================
+[2026-02-01 11:35:39] Starting auto-publish skills script
+[2026-02-01 11:35:39] ========================================
+[2026-02-01 11:35:39] Checking authentication status...
+[2026-02-01 11:35:40] Authenticated successfully
+[2026-02-01 11:35:40] Found 56 skill(s) in /root/clawd/dist
+[2026-02-01 11:35:40] Processing skill: ad-creative-generator
+[2026-02-01 11:35:40] Skill display name: ad-creative-generator
+[2026-02-01 11:35:40] Skill description: Generate diverse, engaging ad prompts for any product or brand across 20+ creative styles and 10 categories. Use when user needs advertisement concepts, marketing prompts, or creative marketing content generation.
+[2026-02-01 11:35:40] Checking if 'ad-creative-generator' is already published...
+[2026-02-01 11:35:43] Skill 'ad-creative-generator' is already published
+[2026-02-01 11:35:43] Processing skill: ai-from-trueslazac
+[2026-02-01 11:35:43] Skill display name: ai-from-trueslazac
+[2026-02-01 11:35:43] Skill description: No description provided
+[2026-02-01 11:35:43] Checking if 'ai-from-trueslazac' is already published...
+[2026-02-01 11:35:45] Skill 'ai-from-trueslazac' is not published yet
+[2026-02-01 11:35:45] Publishing ai-from-trueslazac to ClawdHub...
+[2026-02-01 11:35:47] Failed to publish ai-from-trueslazac
+[2026-02-01 11:35:47] Processing skill: ai-music-prompts
+[2026-02-01 11:35:47] Skill display name: ai-music-prompts
+[2026-02-01 11:35:47] Skill description: AI music prompt templates and best practices for generating music with AI tools like Suno, Udio, Mureka, and others. Use when user needs to create music prompts, song ideas, or wants guidance on writing effective prompts for AI music generation. Includes bilingual prompt templates for various genres, mood descriptors, instrumentation guidance, and lyric writing tips. Also provides techniques for crafting specific musical outcomes and examples of well-structured prompts in Chinese and English.
+[2026-02-01 11:35:47] Checking if 'ai-music-prompts' is already published...
+[2026-02-01 11:35:49] Skill 'ai-music-prompts' is not published yet
+[2026-02-01 11:35:49] Publishing ai-music-prompts to ClawdHub...
+[2026-02-01 11:35:51] Failed to publish ai-music-prompts
+[2026-02-01 11:35:51] Processing skill: ai-portrait-generator
+[2026-02-01 11:35:51] Skill display name: ai-portrait-generator
+[2026-02-01 11:35:51] Skill description: Generate ultra-photorealistic portraits using structured JSON prompts. Use when creating AI-generated portraits, character art, or realistic human images with cinematic quality and detailed specifications.
+[2026-02-01 11:35:51] Checking if 'ai-portrait-generator' is already published...
+[2026-02-01 11:35:53] Skill 'ai-portrait-generator' is not published yet
+[2026-02-01 11:35:53] Publishing ai-portrait-generator to ClawdHub...
+[2026-02-01 11:35:55] Failed to publish ai-portrait-generator
+[2026-02-01 11:35:55] Processing skill: creative-illustration
+[2026-02-01 11:35:55] Skill display name: creative-illustration
+[2026-02-01 11:35:55] Skill description: Generate diverse creative illustrations via OpenAI Images API. Create book illustrations, editorial art, children's book art, concept illustrations, and artistic scenes. Use when user needs creative visual content for stories, articles, presentations, or artistic projects (e.g., "illustrate a fairy tale scene", "create editorial art about technology", "design children's book illustrations", "generate concept art for a story").
+[2026-02-01 11:35:55] Checking if 'creative-illustration' is already published...
+[2026-02-01 11:35:58] Skill 'creative-illustration' is already published
+[2026-02-01 11:35:58] Processing skill: game-character-gen
+[2026-02-01 11:35:58] Skill display name: game-character-gen
+[2026-02-01 11:35:58] Skill description: Generate professional game character designs via OpenAI Images API. Create diverse characters for RPGs, video games, tabletop games, and interactive media. Use when user needs character concept art, character portraits, game sprites, or character sheets with specific attributes like race, class, profession, equipment, and visual style (e.g., "create an elven ranger", "design a cyberpunk hacker", "generate fantasy warrior character").
+[2026-02-01 11:35:58] Checking if 'game-character-gen' is already published...
+[2026-02-01 11:36:00] Skill 'game-character-gen' is already published
+[2026-02-01 11:36:00] Processing skill: interview-coach
+[2026-02-01 11:36:00] Skill display name: interview-coach
+[2026-02-01 11:36:00] Skill description: Professional interview preparation and practice coach for job seekers. Use when Codex needs to help users prepare for job interviews, practice common interview questions, refine their answers, or understand interview strategies. Supports multiple interview types (technical, behavioral, case studies) and provides feedback on responses.
+[2026-02-01 11:36:00] Checking if 'interview-coach' is already published...
+[2026-02-01 11:36:03] Skill 'interview-coach' is already published
+[2026-02-01 11:36:03] Processing skill: merc-income-guide
+[2026-02-01 11:36:03] Skill display name: merc-income-guide
+[2026-02-01 11:36:03] Skill description: Complete guide to making $42/hr on Mercor platform. Use when you want to start freelancing on Mercor, optimize your profile, or maximize earnings on the platform.
+[2026-02-01 11:36:03] Checking if 'merc-income-guide' is already published...
+[2026-02-01 11:36:06] Skill 'merc-income-guide' is not published yet
+[2026-02-01 11:36:06] Publishing merc-income-guide to ClawdHub...
+[2026-02-01 11:36:08] Failed to publish merc-income-guide
+[2026-02-01 11:36:08] Processing skill: openai-image-gen
+[2026-02-01 11:36:08] Skill display name: openai-image-gen
+[2026-02-01 11:36:08] Skill description: Batch-generate images via OpenAI Images API. Random prompt sampler + `index.html` gallery.
+[2026-02-01 11:36:08] Checking if 'openai-image-gen' is already published...
+[2026-02-01 11:36:10] Skill 'openai-image-gen' is already published
+[2026-02-01 11:36:10] Processing skill: prompt-craft
+[2026-02-01 11:36:10] Skill display name: prompt-craft
+[2026-02-01 11:36:10] Skill description: Transform basic prompts into elite structured prompts using Anthropic's 10-step framework. Use when user needs to improve, optimize, or analyze prompts; create templates; or build structured prompts for coding, writing, research, or analysis tasks.
+[2026-02-01 11:36:10] Checking if 'prompt-craft' is already published...
+[2026-02-01 11:36:12] Skill 'prompt-craft' is already published
+[2026-02-01 11:36:12] Processing skill: prompt-from-lexx-aura
+[2026-02-01 11:36:12] Skill display name: prompt-from-lexx-aura
+[2026-02-01 11:36:12] Skill description: No description provided
+[2026-02-01 11:36:12] Checking if 'prompt-from-lexx-aura' is already published...
+[2026-02-01 11:36:14] Skill 'prompt-from-lexx-aura' is not published yet
+[2026-02-01 11:36:14] Publishing prompt-from-lexx-aura to ClawdHub...
+[2026-02-01 11:36:16] Failed to publish prompt-from-lexx-aura
+[2026-02-01 11:36:16] Processing skill: sql-assistant
+[2026-02-01 11:36:16] Skill display name: sql-assistant
+[2026-02-01 11:36:16] Skill description: Comprehensive SQL query assistant for database operations, optimization, and troubleshooting. Use when Codex needs to write, debug, optimize, or explain SQL queries; analyze database schemas; or help with SQL-related tasks including joins, subqueries, aggregations, and performance tuning. Supports MySQL, PostgreSQL, SQLite, and other SQL dialects.
+[2026-02-01 11:36:16] Checking if 'sql-assistant' is already published...
+[2026-02-01 11:36:18] Skill 'sql-assistant' is already published
+[2026-02-01 11:36:18] Processing skill: style-transfer
+[2026-02-01 11:36:18] Skill display name: style-transfer
+[2026-02-01 11:36:18] Skill description: Professional artistic style transfer via OpenAI Images API. Transform images into specific art styles, eras, and visual aesthetics. Use when user needs to convert an existing image into different artistic styles, apply famous art movements, or transform visual content with specific stylistic parameters (e.g., "make this photo look like an oil painting", "apply cyberpunk aesthetic", "transform into vintage photography").
+[2026-02-01 11:36:18] Checking if 'style-transfer' is already published...
+[2026-02-01 11:36:20] Skill 'style-transfer' is not published yet
+[2026-02-01 11:36:20] Publishing style-transfer to ClawdHub...
+[2026-02-01 11:36:22] Failed to publish style-transfer
+[2026-02-01 11:36:22] Processing skill: tiktok-ai-model-generator

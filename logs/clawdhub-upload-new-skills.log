@@ -1,0 +1,408 @@
+[2026-02-02 07:55:50] ==========================================
+[2026-02-02 07:55:50] 📦 批量上传**新的** Skills 到 ClawdHub
+[2026-02-02 07:55:50] ==========================================
+[2026-02-02 07:55:50] 
+[0;32m[INFO][0m 配置信息:
+[2026-02-02 07:55:50]   Skills 目录: /root/clawd/dist/skills
+[2026-02-02 07:55:50]   Registry: https://www.clawhub.ai/api
+[2026-02-02 07:55:50]   模式: 仅上传新 Skills（跳过已发布的）
+[2026-02-02 07:55:50] 
+[0;32m[INFO][0m 找到 34 个 .skill 文件
+[2026-02-02 07:55:50] 
+[0;32m[INFO][0m 📦 处理: 10-of-my-most-popular-text-to-image-series-prompts-78b0897e
+- Preparing 10-of-my-most-popular-text-to-image-series-prompts-78b0897e@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: 10-of-my-most-popular-text-to-image-series-prompts-78b0897e
+[0;32m[INFO][0m 📦 处理: 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5
+- Preparing 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5
+[0;32m[INFO][0m 📦 处理: 5-ai-prompts-that-will-transform-your-writing-fore-222d9418
+- Preparing 5-ai-prompts-that-will-transform-your-writing-fore-222d9418@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: 5-ai-prompts-that-will-transform-your-writing-fore-222d9418
+[0;32m[INFO][0m 📦 处理: 50-ai-templates-to-save-time-and-improve-productiv-545d62aa
+- Preparing 50-ai-templates-to-save-time-and-improve-productiv-545d62aa@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: 50-ai-templates-to-save-time-and-improve-productiv-545d62aa
+[0;32m[INFO][0m 📦 处理: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b
+- Preparing 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b
+[0;32m[INFO][0m 📦 处理: a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec
+- Preparing a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec
+[0;32m[INFO][0m 📦 处理: ai-assistant-prompt-template-examples-templafy-hel-90af51ce
+- Preparing ai-assistant-prompt-template-examples-templafy-hel-90af51ce@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: ai-assistant-prompt-template-examples-templafy-hel-90af51ce
+[0;32m[INFO][0m 📦 处理: ai-image-generation-prompts-0d857478
+- Preparing ai-image-generation-prompts-0d857478@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: ai-image-generation-prompts-0d857478
+[0;32m[INFO][0m 📦 处理: ai-image-generation-prompts-9142af54
+- Preparing ai-image-generation-prompts-9142af54@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: ai-image-generation-prompts-9142af54
+[0;32m[INFO][0m 📦 处理: ai-image-prompts-for-eye-catching-marketing-creati-4e43d568
+- Preparing ai-image-prompts-for-eye-catching-marketing-creati-4e43d568@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: ai-image-prompts-for-eye-catching-marketing-creati-4e43d568
+[0;32m[INFO][0m 📦 处理: ai-prompts-5-best-techniques-for-writing-prompts-279e77b3
+- Preparing ai-prompts-5-best-techniques-for-writing-prompts-279e77b3@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: ai-prompts-5-best-techniques-for-writing-prompts-279e77b3
+[0;32m[INFO][0m 📦 处理: any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd
+- Preparing any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd
+[0;32m[INFO][0m 📦 处理: asked-chatgpt-to-turn-me-and-itself-into-animals-t-aedd4d88
+- Preparing asked-chatgpt-to-turn-me-and-itself-into-animals-t-aedd4d88@1.0.0
+✔ OK. Published asked-chatgpt-to-turn-me-and-itself-into-animals-t-aedd4d88@1.0.0 (k970ga8zqc5826355yr2pttxyh80a5qg)
+[0;32m[INFO][0m ✓ 成功发布: asked-chatgpt-to-turn-me-and-itself-into-animals-t-aedd4d88
+[0;32m[INFO][0m 📦 处理: best-practices-for-llm-prompt-engineering-palantir-4a296dff
+- Preparing best-practices-for-llm-prompt-engineering-palantir-4a296dff@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: best-practices-for-llm-prompt-engineering-palantir-4a296dff
+[0;32m[INFO][0m 📦 处理: best-practices-for-prompt-engineering-with-the-ope-f26e9557
+- Preparing best-practices-for-prompt-engineering-with-the-ope-f26e9557@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: best-practices-for-prompt-engineering-with-the-ope-f26e9557
+[0;32m[INFO][0m 📦 处理: best-stable-diffusion-prompts-guide-with-examples-b5e23001
+- Preparing best-stable-diffusion-prompts-guide-with-examples-b5e23001@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: best-stable-diffusion-prompts-guide-with-examples-b5e23001
+[0;32m[INFO][0m 📦 处理: boycott-chatgpt-54c8dfea
+- Preparing boycott-chatgpt-54c8dfea@1.0.0
+✔ OK. Published boycott-chatgpt-54c8dfea@1.0.0 (k973tnas24zqtcyz2h7mea5yfh80a4zw)
+[0;32m[INFO][0m ✓ 成功发布: boycott-chatgpt-54c8dfea
+[0;32m[INFO][0m 📦 处理: chatgpt-ignores-custom-instructions-and-won-t-stop-61b988af
+- Preparing chatgpt-ignores-custom-instructions-and-won-t-stop-61b988af@1.0.0
+✔ OK. Published chatgpt-ignores-custom-instructions-and-won-t-stop-61b988af@1.0.0 (k970h3erxyeh6hj8s9mezx582580b997)
+[0;32m[INFO][0m ✓ 成功发布: chatgpt-ignores-custom-instructions-and-won-t-stop-61b988af
+[0;32m[INFO][0m 📦 处理: d-examples-of-self-taught-people-who-made-signific-96d5680b
+- Preparing d-examples-of-self-taught-people-who-made-signific-96d5680b@1.0.0
+✔ OK. Published d-examples-of-self-taught-people-who-made-signific-96d5680b@1.0.0 (k97dfd57zxe7npksea35s9a7j180asvj)
+[0;32m[INFO][0m ✓ 成功发布: d-examples-of-self-taught-people-who-made-signific-96d5680b
+[0;32m[INFO][0m 📦 处理: developing-writing-prompts-center-for-excellence-i-d6362a24
+- Preparing developing-writing-prompts-center-for-excellence-i-d6362a24@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: developing-writing-prompts-center-for-excellence-i-d6362a24
+[0;32m[INFO][0m 📦 处理: examples-of-prompts-prompt-engineering-guide-647441e3
+- Preparing examples-of-prompts-prompt-engineering-guide-647441e3@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: examples-of-prompts-prompt-engineering-guide-647441e3
+[0;32m[INFO][0m 📦 处理: free-ai-prompt-generator-for-chatgpt-gemini-more-q-6e800b2c
+- Preparing free-ai-prompt-generator-for-chatgpt-gemini-more-q-6e800b2c@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: free-ai-prompt-generator-for-chatgpt-gemini-more-q-6e800b2c
+[0;32m[INFO][0m 📦 处理: generative-ai-prompt-samples-generative-ai-on-vert-49f1ea7f
+- Preparing generative-ai-prompt-samples-generative-ai-on-vert-49f1ea7f@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[0;34m[SKIP][0m ⏭️  已存在，跳过: generative-ai-prompt-samples-generative-ai-on-vert-49f1ea7f
+[0;32m[INFO][0m 📦 处理: harpa-ai-crafting-exceptional-prompts-for-midjourn-05e5faa9
+- Preparing harpa-ai-crafting-exceptional-prompts-for-midjourn-05e5faa9@1.0.0
+✖ Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+Error: Uncaught Error: Version already exists
+    at handler (../../convex/skills.ts:1478:22)
+
+[clawdbot] Failed to start CLI: Error: ENOENT: no such file or directory, uv_cwd
+    at process.wrappedCwd (node:internal/bootstrap/switches/does_own_process_state:142:28)
+    at process.cwd (/usr/lib/node_modules/clawdbot/node_modules/graceful-fs/polyfills.js:10:19)
+    at file:///usr/lib/node_modules/clawdbot/node_modules/@mariozechner/pi-coding-agent/dist/core/tools/bash.js:225:48
+    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:665:26)
+[clawdbot] Failed to start CLI: Error: ENOENT: no such file or directory, uv_cwd
+    at process.wrappedCwd (node:internal/bootstrap/switches/does_own_process_state:142:28)
+    at process.cwd (/usr/lib/node_modules/clawdbot/node_modules/graceful-fs/polyfills.js:10:19)
+    at file:///usr/lib/node_modules/clawdbot/node_modules/@mariozechner/pi-coding-agent/dist/core/tools/bash.js:225:48
+    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:665:26)
+[2026-02-02 08:05:50] ==========================================
+[2026-02-02 08:05:50] 📦 批量上传**新的** Skills 到 ClawdHub
+[2026-02-02 08:05:50] ==========================================
+[2026-02-02 08:05:50] 
+[0;32m[INFO][0m 配置信息:
+[2026-02-02 08:05:50]   Skills 目录: /root/clawd/dist/skills
+[2026-02-02 08:05:50]   Registry: https://www.clawhub.ai/api
+[2026-02-02 08:05:50]   模式: 仅上传新 Skills（跳过已发布的）
+[2026-02-02 08:05:50] 
+[0;32m[INFO][0m 找到 34 个 .skill 文件
+[2026-02-02 08:05:50] 
+[0;32m[INFO][0m 📦 处理: 10-of-my-most-popular-text-to-image-series-prompts-78b0897e
+- Preparing 10-of-my-most-popular-text-to-image-series-prompts-78b0897e@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: 10-of-my-most-popular-text-to-image-series-prompts-78b0897e
+[0;32m[INFO][0m 📦 处理: 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5
+- Preparing 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5
+[0;32m[INFO][0m 📦 处理: 5-ai-prompts-that-will-transform-your-writing-fore-222d9418
+- Preparing 5-ai-prompts-that-will-transform-your-writing-fore-222d9418@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: 5-ai-prompts-that-will-transform-your-writing-fore-222d9418
+[0;32m[INFO][0m 📦 处理: 50-ai-templates-to-save-time-and-improve-productiv-545d62aa
+- Preparing 50-ai-templates-to-save-time-and-improve-productiv-545d62aa@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: 50-ai-templates-to-save-time-and-improve-productiv-545d62aa
+[0;32m[INFO][0m 📦 处理: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b
+- Preparing 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b
+[0;32m[INFO][0m 📦 处理: a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec
+- Preparing a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec
+[0;32m[INFO][0m 📦 处理: ai-assistant-prompt-template-examples-templafy-hel-90af51ce
+- Preparing ai-assistant-prompt-template-examples-templafy-hel-90af51ce@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: ai-assistant-prompt-template-examples-templafy-hel-90af51ce
+[0;32m[INFO][0m 📦 处理: ai-image-generation-prompts-0d857478
+- Preparing ai-image-generation-prompts-0d857478@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: ai-image-generation-prompts-0d857478
+[0;32m[INFO][0m 📦 处理: ai-image-generation-prompts-9142af54
+- Preparing ai-image-generation-prompts-9142af54@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: ai-image-generation-prompts-9142af54
+[0;32m[INFO][0m 📦 处理: ai-image-prompts-for-eye-catching-marketing-creati-4e43d568
+- Preparing ai-image-prompts-for-eye-catching-marketing-creati-4e43d568@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: ai-image-prompts-for-eye-catching-marketing-creati-4e43d568
+[0;32m[INFO][0m 📦 处理: ai-prompts-5-best-techniques-for-writing-prompts-279e77b3
+- Preparing ai-prompts-5-best-techniques-for-writing-prompts-279e77b3@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: ai-prompts-5-best-techniques-for-writing-prompts-279e77b3
+[0;32m[INFO][0m 📦 处理: any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd
+- Preparing any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd
+[0;32m[INFO][0m 📦 处理: asked-chatgpt-to-turn-me-and-itself-into-animals-t-aedd4d88
+- Preparing asked-chatgpt-to-turn-me-and-itself-into-animals-t-aedd4d88@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: asked-chatgpt-to-turn-me-and-itself-into-animals-t-aedd4d88
+[0;32m[INFO][0m 📦 处理: best-practices-for-llm-prompt-engineering-palantir-4a296dff
+- Preparing best-practices-for-llm-prompt-engineering-palantir-4a296dff@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: best-practices-for-llm-prompt-engineering-palantir-4a296dff
+[0;32m[INFO][0m 📦 处理: best-practices-for-prompt-engineering-with-the-ope-f26e9557
+- Preparing best-practices-for-prompt-engineering-with-the-ope-f26e9557@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: best-practices-for-prompt-engineering-with-the-ope-f26e9557
+[0;32m[INFO][0m 📦 处理: best-stable-diffusion-prompts-guide-with-examples-b5e23001
+- Preparing best-stable-diffusion-prompts-guide-with-examples-b5e23001@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: best-stable-diffusion-prompts-guide-with-examples-b5e23001
+[0;32m[INFO][0m 📦 处理: boycott-chatgpt-54c8dfea
+- Preparing boycott-chatgpt-54c8dfea@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: boycott-chatgpt-54c8dfea
+[0;32m[INFO][0m 📦 处理: chatgpt-ignores-custom-instructions-and-won-t-stop-61b988af
+- Preparing chatgpt-ignores-custom-instructions-and-won-t-stop-61b988af@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: chatgpt-ignores-custom-instructions-and-won-t-stop-61b988af
+[0;32m[INFO][0m 📦 处理: d-examples-of-self-taught-people-who-made-signific-96d5680b
+- Preparing d-examples-of-self-taught-people-who-made-signific-96d5680b@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: d-examples-of-self-taught-people-who-made-signific-96d5680b
+[0;32m[INFO][0m 📦 处理: developing-writing-prompts-center-for-excellence-i-d6362a24
+- Preparing developing-writing-prompts-center-for-excellence-i-d6362a24@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: developing-writing-prompts-center-for-excellence-i-d6362a24
+[0;32m[INFO][0m 📦 处理: examples-of-prompts-prompt-engineering-guide-647441e3
+- Preparing examples-of-prompts-prompt-engineering-guide-647441e3@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: examples-of-prompts-prompt-engineering-guide-647441e3
+[0;32m[INFO][0m 📦 处理: free-ai-prompt-generator-for-chatgpt-gemini-more-q-6e800b2c
+- Preparing free-ai-prompt-generator-for-chatgpt-gemini-more-q-6e800b2c@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: free-ai-prompt-generator-for-chatgpt-gemini-more-q-6e800b2c
+[0;32m[INFO][0m 📦 处理: generative-ai-prompt-samples-generative-ai-on-vert-49f1ea7f
+- Preparing generative-ai-prompt-samples-generative-ai-on-vert-49f1ea7f@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: generative-ai-prompt-samples-generative-ai-on-vert-49f1ea7f
+[2026-02-02 08:07:00] ==========================================
+[2026-02-02 08:07:00] 📦 批量上传**新的** Skills 到 ClawdHub
+[2026-02-02 08:07:00] ==========================================
+[2026-02-02 08:07:00] 
+[0;32m[INFO][0m 配置信息:
+[2026-02-02 08:07:00]   Skills 目录: /root/clawd/dist/skills
+[2026-02-02 08:07:00]   Registry: https://www.clawhub.ai/api
+[2026-02-02 08:07:00]   模式: 仅上传新 Skills（跳过已发布的）
+[2026-02-02 08:07:00] 
+[0;32m[INFO][0m 找到 34 个 .skill 文件
+[2026-02-02 08:07:00] 
+[0;32m[INFO][0m 📦 处理: 10-of-my-most-popular-text-to-image-series-prompts-78b0897e
+- Preparing 10-of-my-most-popular-text-to-image-series-prompts-78b0897e@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: 10-of-my-most-popular-text-to-image-series-prompts-78b0897e
+[0;32m[INFO][0m 📦 处理: 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5
+- Preparing 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: 15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5
+[0;32m[INFO][0m 📦 处理: 5-ai-prompts-that-will-transform-your-writing-fore-222d9418
+- Preparing 5-ai-prompts-that-will-transform-your-writing-fore-222d9418@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: 5-ai-prompts-that-will-transform-your-writing-fore-222d9418
+[0;32m[INFO][0m 📦 处理: 50-ai-templates-to-save-time-and-improve-productiv-545d62aa
+- Preparing 50-ai-templates-to-save-time-and-improve-productiv-545d62aa@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: 50-ai-templates-to-save-time-and-improve-productiv-545d62aa
+[0;32m[INFO][0m 📦 处理: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b
+- Preparing 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: 50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b
+[0;32m[INFO][0m 📦 处理: a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec
+- Preparing a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec
+[0;32m[INFO][0m 📦 处理: ai-assistant-prompt-template-examples-templafy-hel-90af51ce
+- Preparing ai-assistant-prompt-template-examples-templafy-hel-90af51ce@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: ai-assistant-prompt-template-examples-templafy-hel-90af51ce
+[0;32m[INFO][0m 📦 处理: ai-image-generation-prompts-0d857478
+- Preparing ai-image-generation-prompts-0d857478@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: ai-image-generation-prompts-0d857478
+[0;32m[INFO][0m 📦 处理: ai-image-generation-prompts-9142af54
+- Preparing ai-image-generation-prompts-9142af54@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: ai-image-generation-prompts-9142af54
+[0;32m[INFO][0m 📦 处理: ai-image-prompts-for-eye-catching-marketing-creati-4e43d568
+- Preparing ai-image-prompts-for-eye-catching-marketing-creati-4e43d568@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: ai-image-prompts-for-eye-catching-marketing-creati-4e43d568
+[0;32m[INFO][0m 📦 处理: ai-prompts-5-best-techniques-for-writing-prompts-279e77b3
+- Preparing ai-prompts-5-best-techniques-for-writing-prompts-279e77b3@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: ai-prompts-5-best-techniques-for-writing-prompts-279e77b3
+[0;32m[INFO][0m 📦 处理: any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd
+- Preparing any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd
+[0;32m[INFO][0m 📦 处理: asked-chatgpt-to-turn-me-and-itself-into-animals-t-aedd4d88
+- Preparing asked-chatgpt-to-turn-me-and-itself-into-animals-t-aedd4d88@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: asked-chatgpt-to-turn-me-and-itself-into-animals-t-aedd4d88
+[0;32m[INFO][0m 📦 处理: best-practices-for-llm-prompt-engineering-palantir-4a296dff
+- Preparing best-practices-for-llm-prompt-engineering-palantir-4a296dff@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: best-practices-for-llm-prompt-engineering-palantir-4a296dff
+[0;32m[INFO][0m 📦 处理: best-practices-for-prompt-engineering-with-the-ope-f26e9557
+- Preparing best-practices-for-prompt-engineering-with-the-ope-f26e9557@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: best-practices-for-prompt-engineering-with-the-ope-f26e9557
+[0;32m[INFO][0m 📦 处理: best-stable-diffusion-prompts-guide-with-examples-b5e23001
+- Preparing best-stable-diffusion-prompts-guide-with-examples-b5e23001@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: best-stable-diffusion-prompts-guide-with-examples-b5e23001
+[0;32m[INFO][0m 📦 处理: boycott-chatgpt-54c8dfea
+- Preparing boycott-chatgpt-54c8dfea@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: boycott-chatgpt-54c8dfea
+[0;32m[INFO][0m 📦 处理: chatgpt-ignores-custom-instructions-and-won-t-stop-61b988af
+- Preparing chatgpt-ignores-custom-instructions-and-won-t-stop-61b988af@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: chatgpt-ignores-custom-instructions-and-won-t-stop-61b988af
+[0;32m[INFO][0m 📦 处理: d-examples-of-self-taught-people-who-made-signific-96d5680b
+- Preparing d-examples-of-self-taught-people-who-made-signific-96d5680b@1.0.0
+Error: SKILL.md required
+[0;31m[ERROR][0m ✗ 发布失败: d-examples-of-self-taught-people-who-made-signific-96d5680b

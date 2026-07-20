@@ -1,0 +1,6 @@
+2026-01-31 14:33:15,013 - evaluate_prompts_llm - INFO - ================================================================================
+2026-01-31 14:33:15,013 - evaluate_prompts_llm - INFO - 🤖 开始基于 LLM 的提示词质量评估
+2026-01-31 14:33:15,013 - evaluate_prompts_llm - INFO - ================================================================================
+2026-01-31 14:33:15,031 - evaluate_prompts_llm - ERROR - 环境变量 ANTHROPIC_API_KEY 未设置
+2026-01-31 14:33:15,031 - evaluate_prompts_llm - ERROR - ❌ ANTHROPIC_API_KEY 环境变量未设置
+2026-01-31 14:33:15,031 - evaluate_prompts_llm - INFO - 提示: export ANTHROPIC_API_KEY='your-key-here'

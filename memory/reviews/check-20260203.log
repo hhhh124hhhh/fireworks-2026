@@ -1,0 +1,51 @@
+=== 检查时间: 2026-02-03 04:34:30 ===
+
+审查代理检查（深夜模式）
+
+当前时间: 2026-02-03 04:34:30 GMT+8
+模式: 深夜模式 (23:00-07:00)
+
+检查结果:
+- review-agent 子代理: 未找到（会话列表中不存在）
+- achievement-system-dev 子代理: 未找到（会话列表中不存在）
+
+AI 研究任务状态:
+- ✅ 已完成 (04:00-04:02)
+- ✅ 脚本创建并测试成功
+- ✅ 搜索了 8 个主题
+- ✅ 结果保存在 /root/clawd/memory/ai-research/
+
+发现的问题:
+1. achievement-system-dev 子代理未运行
+   - 状态: 不存在或已停止
+   - 影响: 成就系统开发进度未知
+   - 需要关注: 下次白天时检查子代理状态
+
+2. review-agent 子代理未运行
+   - 状态: 不存在或已停止
+   - 影响: 代码审查功能不可用
+   - 需要关注: 下次白天时检查子代理状态
+
+其他状态:
+- SearXNG: ✅ 正常工作
+- Gateway: ✅ 运行中
+- Slack: ✅ 正常工作
+- Feishu: ✅ 正常工作
+- QQ: ⏸️ 待配置
+
+建议:
+1. 白天时间检查子代理运行状态
+2. 确认 achievement-system-dev 开发进度
+3. 检查 review-agent 是否需要重新启动
+4. 检查 QQ Bot URL 限制配置是否需要重启 Gateway
+
+-------------------
+=== 检查时间: Tue Feb  3 06:33:46 CST 2026 ===
+审查代理状态:
+/root/clawd/scripts/check-review-agent.sh: line 18: sessions_history: command not found
+
+开发代理状态:
+/root/clawd/scripts/check-review-agent.sh: line 24: sessions_history: command not found
+
+-------------------
+

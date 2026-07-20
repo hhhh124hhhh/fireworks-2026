@@ -1,0 +1,146 @@
+{
+  "insights": {
+    "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+    "total_searches": 1,
+    "total_results": 14,
+    "average_results_per_search": 14.0,
+    "topics": [
+      "AI automation trends 2026"
+    ],
+    "sources_used": [
+      "tavily",
+      "searxng",
+      "baidu"
+    ],
+    "source_distribution": {
+      "Tavily": 5,
+      "SearXNG": 5,
+      "Baidu": 4
+    },
+    "key_findings": [
+      "搜索了 1 个主题",
+      "总共获取了 14 条结果",
+      "平均每个主题 14 条结果",
+      "搜索源: tavily, searxng, baidu",
+      "Tavily: 5 条",
+      "SearXNG: 5 条",
+      "Twitter: 0 条",
+      "百度: 4 条"
+    ],
+    "action_items": [
+      "评估选题的上下文现状",
+      "分析不同来源的趋势",
+      "识别最佳选题方向",
+      "验证选题可行性"
+    ],
+    "timestamp": "2026-02-22T12:43:59.925388",
+    "date": "2026-02-22",
+    "time": "12:43:59",
+    "trend_analysis": "基于最近 5 条洞察的分析",
+    "topic_recommendations": [
+      "❌ 低热度：该主题关注度较低，建议重新评估"
+    ]
+  },
+  "search_results": {
+    "AI automation trends 2026": [
+      {
+        "url": "https://www.uipath.com/resources/automation-whitepapers/automation-trends-report",
+        "title": "UiPath 2026 AI and Agentic Automation Trends Report",
+        "content": "AI and Automation Trends 2026 Report | UiPath\n\nImage 1: UiPath LogoImage 2: UiPath Logo\n\nImage 3\n\nUiPath 2026 AI and Agentic Automation Trends Report\n\nUnlocking the map to agentic automation\n\nSee how\n\nAgentic AI is no longer the new frontier, it’s the foundation of enterprise transformation. The UiPath AI and Agentic Automation Trends 2026 Report shows how people, robots, and AI agents now collaborate to accelerate outcomes, reinvent operating models, and deliver measurable ROI.\n\n   Multi-agent systems rise: Solo agents are out; orchestrated ecosystems are in.\n\n   Operating models reinvented: 78% of executives plan major overhauls, with governance-as-code as the compliance backbone.\n\n   From hype to ROI: Real-world examples prove agentic automation drives competitive advantage.",
+        "score": 0.9356824,
+        "raw_content": null,
+        "source": "Tavily"
+      },
+      {
+        "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+        "title": "The trends that will shape AI and tech in 2026 - IBM",
+        "content": "2026 will be defined by three trends that move AI beyond personal productivity, says Kevin Chung, Chief Strategy Officer at Writer, an enterprise AI platform for agentic work.\n\n“First, AI is shifting from individual usage to team and workflow orchestration,” Chung told _IBM Think_. That means coordinating entire workflows, connecting data across departments and moving projects from idea to completion.\n\nSecond, as reasoning capabilities improve, systems won’t just follow instructions: they’ll anticipate needs. “This evolution transforms AI from a passive assistant into an active collaborator capable of meaningful problem-solving and decision-making,” he said. [...] “In 2026, I see agent control planes and multi-agent dashboards becoming real. You’ll kick off tasks from one place, and those agents will operate across environments—your browser, your editor, your inbox—without you having to manage a dozen separate tools,” Hay said. Forget the static software in the user experience and user interface. Expect interfaces and apps that can adapt to any scenario, Hay predicts, making every user an AI composer.\n\n“Whoever owns that front door to the super agent will shape the market.”\n\n### AI agents will shift from personal assistants to AI‑orchestrated teams, as everyday users become the new agent builders|Kevin Chung, Chief Strategy Officer,Writer [...] Generative models need to be multisensory so they can interpret the world like humans and even detect signals we might miss, said Aaron Baughman, IBM Fellow and Master Inventor, in a recent episode of _Mixture of Experts_.\n\nBaughman has worked with multimodal AI in sports and leads some of IBM’s work with the US Open, ESPN Fantasy Football and the Masters, notably. For him, multimodal AI is a trend he expects to see more of in 2026.\n\n“These models will be able to perceive and act in a world much more like a human. They’ll be able to bridge language, vision and action, all together,” he said. “In the near future, we’re to start seeing these multimodal digital workers that can autonomously complete these different tasks to interpret things, maybe even like complex healthcare cases.”",
+        "score": 0.9177831,
+        "raw_content": null,
+        "source": "Tavily"
+      },
+      {
+        "url": "https://www.manufacturingdive.com/news/physical-ai-craze-2026-automation-trends-to-watch/810860/",
+        "title": "The physical AI craze and other automation trends to watch ...",
+        "content": "Earlier this year at CES in Las Vegas, Nvidia CEO and co-founder Jensen Huang said the “ChatGPT moment for physical AI is here,” marking an inflection point in the robotics space. Hyundai Motor Group also debuted its Atlas humanoid robot for production settings, with plans to gradually deploy them across its operations in the coming years.\n\nIn addition to collaborative applications and robotic arms, manufacturers are also increasingly using AI agents and sensor technologies to enhance their operations. However, as their systems become more digital, they also must take cybersecurity measures to prevent potential attacks.\n\nHere are some of the AI and robotics trends to watch in 2026.\n\n### The physical AI hype is real, but the rollout will take some time [...] As companies lean further into automated software, sensor technologies and robots to fill labor gaps and remain competitive, they also are using AI tools to bolster their cybersecurity.\n\n Published Jan. 29, 2026 \n\nImage 10: Nathan Owens's headshot\n\nNathan OwensReporter\n\n   Image 11: Share this articleShare)\n\n       Image 12: Copy linkCopy link)\n       Image 13: Email this pageEmail\n       Image 14: Post to LinkedInLinkedIn\n       Image 15: Post on XX/Twitter\n       Image 16: Share on FacebookFacebook\n       Image 17: Print this pagePrint)\n\n   Image 18: License this articleLicense\n   Image 19: Set preferred sourceAdd us on Google\n\nImage 20: Hydundai Motor Group's Atlas humanoid robot is on stage at CES 2026 in Las Vegas. [...] A number of manufacturers are already using physical AI, such as robotic arms and cobots, to fill labor shortages and handle repetitive tasks. But as carmakers like Audi and BMW pilot humanoids within their operations and ABB Group sells its robotics division to Softbank, the movement is set to go from niche to mainstream in 2026.\n\nAccording to a recent Deloitte survey of more than 3,200 global business leaders, about 58% of participants indicated they were currently using physical AI to some extent in their operations for smart monitoring or production alongside humans. That number grew to 80% when asked about their plans over the next two years, with 15% using physical AI extensively and 3% fully integrating it.",
+        "score": 0.90965873,
+        "raw_content": null,
+        "source": "Tavily"
+      },
+      {
+        "url": "https://www.automateshow.com/blog/automation-tips-and-trends-for-2026-how-to-plan-your-next-move",
+        "title": "Automation Tips and Trends for 2026: How to Plan Your Next Move",
+        "content": "THE TRENDS SHAPING INDUSTRIAL AUTOMATION IN 2026\n\nThe automation trends shaping this year aren't about a single breakthrough or solution. In fact, they're about the convergence of multiple technologies and collaboration among suppliers to deliver smarter, scalable, and accessible solutions across industries and company sizes. Here’s what to be on the lookout for this year and why it matters.\n\n### AI and vision technology get smarter\n\nArtificial intelligence and vision technologies are now advanced enough to operate in highly complex and dynamic environments. From mixed SKUs and variable lighting to generative AI and 3D visualization, their integration is allowing us to turn insights into action.",
+        "score": 0.9018604,
+        "raw_content": null,
+        "source": "Tavily"
+      },
+      {
+        "url": "https://www.forbes.com/sites/charlestowersclark/2025/12/10/ai-in-2026-10-predictions-on-automation-and-the-future-of-work/",
+        "title": "AI In 2026: 10 Predictions On Automation And The Future ...",
+        "content": "5. Adapting Humans To Automation, Not Automation To Humans\n\nCompanies that succeed in 2026 will rebuild their operations so that AI handles everything it can, while humans focus on oversight, creativity, and complex judgment. This automation-first design will unlock far greater efficiency and competitiveness than simply trying to fit AI around existing human-centric processes.\n\n6. Understanding Informal Networks Will Come Main Stream [...] 6. Understanding Informal Networks Will Come Main Stream\n\nProcesses can be automated, but the human connections between colleagues can not. I spend my professional and academic life mapping out the value of informal human networks. With agentic AI accelerating automation in 2026, the value of understanding what drives the internal engine of organisations will become a key factor to organisational success in 2026 and beyond.\n\n7. Stories Will Still Be Seen As Secondary To Facts [...] Most AI funding is being spent on bigger and better LLMs. However, Yann LeCun, the 2018 Turing Award winner who resigned as Meta's Chief AI Scientist in November 2025, argues that LLMs lack the capability to form AGI's technological foundation. Instead, in LeCun’s view AGI will use a World Model - where models simulate how the world will change when actions are taken, rather than just reacting to inputs or predicting the next token in a sequence. Therefore in 2026 we will see a greater exploration of other models than LLMs for the future of AI.\n\n4. Job Displacement Will Become More Prevalent Due To AI Agents",
+        "score": 0.8969848,
+        "raw_content": null,
+        "source": "Tavily"
+      },
+      {
+        "title": "AI And Automation Trends 2026: From Efficiency To Enterprise Resilience",
+        "url": "https://www.redwood.com/article/ai-automation-trends/",
+        "content": "See how AI and automation trends are shaping enterprise resilience and operational strategy in 2026. The new role of the ERP, AI governance and agentic orchestration are taking center stage.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Free Online Games on CrazyGames | Play Now!",
+        "url": "https://www.crazygames.com/",
+        "content": "Play free online games at CrazyGames, the best place to play high-quality browser games. We add new games every day. Have fun!",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Crazy Games - Free Online Games - Play Now!",
+        "url": "https://crazygames.gg/",
+        "content": "Crazy Games is the #1 website for playing free online games on your computer. No downloads, no login. Play now!",
+        "source": "SearXNG"
+      },
+      {
+        "title": "UiPath 2026 AI and Agentic Automation Trends Report",
+        "url": "https://www.uipath.com/resources/automation-whitepapers/automation-trends-report",
+        "content": "The UiPath AI and Agentic Automation Trends 2026 Report shows how people, robots, and AI agents now collaborate to accelerate outcomes, reinvent operating ...",
+        "source": "SearXNG"
+      },
+      {
+        "title": "Top 10 AI Trends to Watch in 2026 - usaii.org",
+        "url": "https://www.usaii.org/ai-insights/top-10-ai-trends-to-watch-in-2026",
+        "content": "Discover the top AI trends for 2026, from Agentic AI to AGI and invisible AI. See how these trends will reshape industries, work-life balance, and trigger growth.",
+        "source": "SearXNG"
+      },
+      {
+        "title": "谷歌2026 AI Agent前瞻,九科信息企业级智能体bit-Agent精准适配发展路径",
+        "url": "https://baijiahao.baidu.com/s?id=1856254128099298661&wfr=spider&for=pc",
+        "content": " 01 趋势一:人人拥有智能体 2026年最深刻的商业变革,并非单纯的效率提升,而是一场以员工为中心的根本性转型。员工只需明确期望结果,搭载大语言模型的智能体便能自主规划路径、跨系统执行任务。这意味着员工使用工具的方式,从过去的“下指令”简化为“表达意图”。 52%的生成式AI应用企业已投入AI Agent生产 报告数据显示,52%的生成式AI应用企业已将智能体投入生产,覆盖多元场景:49%用于客户服务、46%用于营销或安全运营、45%用于技术支持、43%用于产品创新或生产力提升。这种普及背后,是员工角色的本质转变:从亲自完成每一项繁琐任务,变为“智能体团队的协调者”,核心职责聚焦战略方向、目标设定、质量验证与复杂决策。 AI Agent赋能加拿大电信巨头TELUS团队成员 加拿大电信巨头TELUS的5.7万名团队成员定期使用AI智能体,每次互动平均节省40分钟,印证了智能体作为“全天候生产力工具”的核心价值。 谷歌云AI全球产品负责人Saurabh Tiwary表示:“到2026年,智能体将管理跨系统的复杂多步骤工作流。员工的关键职责将是制定战略,并监督负责发票开具、合同签订等任务的智能体系统。” 02 趋势二:每个工作流都有智能体 如果说“人人拥有智能体”是个体能力的增强,那么“每个工作流都有智能体”则是企业运营体系的重构。 88%的AI Agent采用者已获正投资回报率 88%的智能体早期采用者已在至少一个生成式AI场景中获得正投资回报率(ROI),这一数据印证了智能体对业务的实际价值。其核心突破在于解决了传统工作流的数据孤岛与效率瓶颈:通过Agent2Agent(A2A)开放协议,不同开发商、不同框架、不同组织的智能体可无缝协同;而模型语境协议(MCP)则打通了大语言模型与实时数据、外部工具的连接,弥补了LLM“知识冻结”与“无法交互”的短板。 谷歌云安全产品总裁Francisde Souza强调:“AI正在推动企业的代际重构——核心工作流与整个技术栈都在被重塑。AI智能体将变革采购、安全运营、客户支持等复杂流程,让人类角色聚焦于全业务的高价值战略协调。” 03 趋势三:面向客户的智能体 过去十年,客户服务自动化的核心是预编程聊天机器人。它们高效但僵化,无法应对复杂、细微的客户需求。",
+        "snippet": " 01 趋势一:人人拥有智能体 2026年最深刻的商业变革,并非单纯的效率提升,而是一场以员工为中心的根本性转型。员工只需明确期望结果,搭载大语言模型的智能体便能自主规划路径、跨系统执行任务。这意味着员工使用工具的方式,从过去的“下指令”简化为“表达意图”。 52%的生成式AI应用企业已投入AI Agent生产 报告数据显示,52%的生成式AI应用企业已将智能体投入生产,覆盖多元场景:49%用于客户服务、46%用于营销或安全运营、45%用于技术支持、43%用于产品创新或生产力提升。这种普及背后,是员工角色的本质转变:从亲自完成每一项繁琐任务,变为“智能体团队的协调者”,核心职责聚焦战略方向、目标设定、质量验证与复杂决策。 AI Agent赋能加拿大电信巨头TELUS团队成员 加拿大电信巨头TELUS的5.7万名团队成员定期使用AI智能体,每次互动平均节省40分钟,印证了智能体作为“全天候生产力工具”的核心价值。 谷歌云AI全球产品负责人Saurabh Tiwary表示:“到2026年,智能体将管理跨系统的复杂多步骤工作流。员工的关键职责将是制定战略,并监督负责发票开具、合同签订等任务的智能体系统。” 02 趋势二:每个工作流都有智能体 如果说“人人拥有智能体”是个体能力的增强,那么“每个工作流都有智能体”则是企业运营体系的重构。 88%的AI Agent采用者已获正投资回报率 88%的智能体早期采用者已在至少一个生成式AI场景中获得正投资回报率(ROI),这一数据印证了智能体对业务的实际价值。其核心突破在于解决了传统工作流的数据孤岛与效率瓶颈:通过Agent2Agent(A2A)开放协议,不同开发商、不同框架、不同组织的智能体可无缝协同;而模型语境协议(MCP)则打通了大语言模型与实时数据、外部工具的连接,弥补了LLM“知识冻结”与“无法交互”的短板。 谷歌云安全产品总裁Francisde Souza强调:“AI正在推动企业的代际重构——核心工作流与整个技术栈都在被重塑。AI智能体将变革采购、安全运营、客户支持等复杂流程,让人类角色聚焦于全业务的高价值战略协调。” 03 趋势三:面向客户的智能体 过去十年,客户服务自动化的核心是预编程聊天机器人。它们高效但僵化,无法应对复杂、细微的客户需求。",
+        "source": "Baidu"
+      },
+      {
+        "title": "2026年人工智能时代趋势分析",
+        "url": "https://baijiahao.baidu.com/s?id=1856610056371753427&wfr=spider&for=pc",
+        "content": " 一、引言 人工智能技术正在经历从实验室到产业化的历史性跨越。2025年,中国AI核心产业规模突破1.2万亿元,企业数量超过6000家,国产开源大模型全球累计下载量突破100亿次。这些数据标志着AI技术已从概念验证期进入规模化应用期。2026年,随着DeepSeek等开源模型的突破性进展,AI发展呈现出\"轻量化、专业化、普惠化\"的新特征。本文旨在通过对技术、产业、基础设施和治理四个层面的分析,勾勒出2026年人工智能时代的整体图景。 二、技术范式:从\"暴力堆参数\"到\"高效智能\" 2.1 大模型的效率革命 2026年,大模型发展逻辑发生根本性转变。传统的\"暴力堆参数\"模式难以为继,稀疏激活(Sparse Activation)、动态路由(Dynamic Routing)、混合专家模型(MoE)等技术普及,使千亿级模型的训练与推理成本降低50%以上。这种效率革命不仅体现在技术层面,更反映了行业对可持续发展的追求。正如清华大学张亚勤院士所言,中国AI正转向\"更轻的模型、更聪明的架构、更高的效率和更低的价格\"。 2.2 从\"对话\"到\"做事\"的范式转移 2026年最显著的特征是AI从\"Chat\"范式向\"Agent\"范式的转变。以对话为核心的交互模式已告终结,AI竞争转向\"能办事\"的智能体时代。智能体(AI Agent)具备自主规划、工具调用和任务执行能力,能够端到端地完成复杂工作流程。IBM杰出工程师Chris Hay预测,\"超级智能体\"将在2026年崭露头角,用户可通过单一入口发起任务,智能体跨环境自主运作,覆盖浏览器、编辑器、收件箱等全场景。 2.3 多模态融合与物理AI崛起 多模态技术正迎来\"ChatGPT时刻\"。2026年,通用多模态大模型的模态覆盖将更加全面,不仅包括文本、图像、音频、视频,还延伸至触觉、嗅觉等感官维度。更值得关注的是\"物理AI\"(Physical AI)的兴起。随着大模型在纯文本领域的边际效益递减,业界开始将目光投向能在真实环境中感知、行动和学习的AI系统,机器人技术与具身智能成为新的创新前沿。 三、产业应用:从\"试点探索\"到\"规模落地\" 3.1 推理需求的爆发式增长 2026年标志着AI应用从训练驱动向推理驱动的转折。根据灼识咨询预测,到2026年全球AI推理对加速卡的需求将超过训练场景,中国市场这一趋势更加明显。",
+        "snippet": " 一、引言 人工智能技术正在经历从实验室到产业化的历史性跨越。2025年,中国AI核心产业规模突破1.2万亿元,企业数量超过6000家,国产开源大模型全球累计下载量突破100亿次。这些数据标志着AI技术已从概念验证期进入规模化应用期。2026年,随着DeepSeek等开源模型的突破性进展,AI发展呈现出\"轻量化、专业化、普惠化\"的新特征。本文旨在通过对技术、产业、基础设施和治理四个层面的分析,勾勒出2026年人工智能时代的整体图景。 二、技术范式:从\"暴力堆参数\"到\"高效智能\" 2.1 大模型的效率革命 2026年,大模型发展逻辑发生根本性转变。传统的\"暴力堆参数\"模式难以为继,稀疏激活(Sparse Activation)、动态路由(Dynamic Routing)、混合专家模型(MoE)等技术普及,使千亿级模型的训练与推理成本降低50%以上。这种效率革命不仅体现在技术层面,更反映了行业对可持续发展的追求。正如清华大学张亚勤院士所言,中国AI正转向\"更轻的模型、更聪明的架构、更高的效率和更低的价格\"。 2.2 从\"对话\"到\"做事\"的范式转移 2026年最显著的特征是AI从\"Chat\"范式向\"Agent\"范式的转变。以对话为核心的交互模式已告终结,AI竞争转向\"能办事\"的智能体时代。智能体(AI Agent)具备自主规划、工具调用和任务执行能力,能够端到端地完成复杂工作流程。IBM杰出工程师Chris Hay预测,\"超级智能体\"将在2026年崭露头角,用户可通过单一入口发起任务,智能体跨环境自主运作,覆盖浏览器、编辑器、收件箱等全场景。 2.3 多模态融合与物理AI崛起 多模态技术正迎来\"ChatGPT时刻\"。2026年,通用多模态大模型的模态覆盖将更加全面,不仅包括文本、图像、音频、视频,还延伸至触觉、嗅觉等感官维度。更值得关注的是\"物理AI\"(Physical AI)的兴起。随着大模型在纯文本领域的边际效益递减,业界开始将目光投向能在真实环境中感知、行动和学习的AI系统,机器人技术与具身智能成为新的创新前沿。 三、产业应用:从\"试点探索\"到\"规模落地\" 3.1 推理需求的爆发式增长 2026年标志着AI应用从训练驱动向推理驱动的转折。根据灼识咨询预测,到2026年全球AI推理对加速卡的需求将超过训练场景,中国市场这一趋势更加明显。",
+        "source": "Baidu"
+      },
+      {
+        "title": "Top 20 automation trends for 2026",
+        "url": "http://www.hostinger.com/tutorials/automation-trends",
+        "content": " ChatGPTClaude.aiGoogle AIGrokPerplexity Share: In 2026, we will see deeper integration of automation into business, leveraging the power of AI, smarter data handling, and open-source platforms. This article explores 15 automation trends to anticipate for the future to help you stay on top of your industry. Compiling data from credible sources, we will cover what’s driving adoption and how these trends have grown in recent years. Workflow automation tool n8n has200k+users and grew revenues 5x last year, showing robust demand for flexible automation. 91.24%of security leaders are expected to adopt automated cybersecurity tools to safeguard their organization’s infrastructure. 1. Artificial intelligence (AI) and machine learning integration According to recent forecasts,63%of organizations worldwide plan to adopt AI within the next three years. The AI market itself is growing at over120% year-over-year.",
+        "snippet": " ChatGPTClaude.aiGoogle AIGrokPerplexity Share: In 2026, we will see deeper integration of automation into business, leveraging the power of AI, smarter data handling, and open-source platforms. This article explores 15 automation trends to anticipate for the future to help you stay on top of your industry. Compiling data from credible sources, we will cover what’s driving adoption and how these trends have grown in recent years. Workflow automation tool n8n has200k+users and grew revenues 5x last year, showing robust demand for flexible automation. 91.24%of security leaders are expected to adopt automated cybersecurity tools to safeguard their organization’s infrastructure. 1. Artificial intelligence (AI) and machine learning integration According to recent forecasts,63%of organizations worldwide plan to adopt AI within the next three years. The AI market itself is growing at over120% year-over-year.",
+        "source": "Baidu"
+      },
+      {
+        "title": "The Future of the Hi-Tech Industry: 6 Trends That Will Define 2026",
+        "url": "https://www.wns.com/perspectives/articles/the-future-of-the-hi-tech-industry-6-trends-that-will-define-2026",
+        "content": " As these deployments mature, we are witnessing a seismic shift in how products are built, how services are delivered and how hi-tech organizations structure themselves. The next test is clear:Translate AI maturity into measurable business outcomes, consistently and at scale. This means shifting from human-led service delivery to AI-led delivery with humans in the loop, ensuring high-quality experiences, personalization at scale and uncompromising compliance. At the center of this transformation lies scaled operations. They are becoming the heart of change, powering key initiatives, shaping differentiated end-products, elevating customer experience and strengthening regulatory / contractual compliance and trust frameworks. With the advent ofAgentic AIand automated decisioning systems, companies are re-wiring their operating models and re-defining their partner ecosystems to build leaner, smarter and more resilient AI-native structures.",
+        "snippet": " As these deployments mature, we are witnessing a seismic shift in how products are built, how services are delivered and how hi-tech organizations structure themselves. The next test is clear:Translate AI maturity into measurable business outcomes, consistently and at scale. This means shifting from human-led service delivery to AI-led delivery with humans in the loop, ensuring high-quality experiences, personalization at scale and uncompromising compliance. At the center of this transformation lies scaled operations. They are becoming the heart of change, powering key initiatives, shaping differentiated end-products, elevating customer experience and strengthening regulatory / contractual compliance and trust frameworks. With the advent ofAgentic AIand automated decisioning systems, companies are re-wiring their operating models and re-defining their partner ecosystems to build leaner, smarter and more resilient AI-native structures.",
+        "source": "Baidu"
+      }
+    ]
+  }
+}

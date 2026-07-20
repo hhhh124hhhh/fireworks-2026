@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<!-- Google Analytics (GA4) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E25S3PK9M6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E25S3PK9M6');
+</script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 提示词转 Skill - jack</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0e17;
+            --bg-secondary: #111827;
+            --bg-tertiary: #1f2937;
+            --accent-primary: #3b82f6;
+            --accent-secondary: #8b5cf6;
+            --accent-glow: rgba(59, 130, 246, 0.3);
+            --text-primary: #f9fafb;
+            --text-secondary: #9ca3af;
+            --text-muted: #6b7280;
+            --border-color: #374151;
+            --gradient-1: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+            --gradient-2: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Space Grotesk', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .bg-grid {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image:
+                linear-gradient(rgba(59, 130, 246, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(59, 130, 246, 0.03) 1px, transparent 1px);
+            background-size: 60px 60px;
+            animation: gridMove 20s linear infinite;
+            z-index: -2;
+            pointer-events: none;
+        }
+
+        @keyframes gridMove {
+            0% { transform: translate(0, 0); }
+            100% { transform: translate(60px, 60px); }
+        }
+
+        #scroll-progress {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 0%;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+            z-index: 9999;
+            transition: width 0.1s ease;
+            box-shadow: 0 0 10px var(--accent-glow);
+        }
+
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 1.5rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(10, 14, 23, 0.8);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border-color);
+            z-index: 1000;
+        }
+
+        .nav-left {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.875rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: color 0.3s ease;
+        }
+
+        .back-link:hover {
+            color: var(--accent-primary);
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.875rem;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--accent-primary);
+        }
+
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 8rem 2rem 4rem;
+            text-align: center;
+            position: relative;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 2rem;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .badge-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--accent-primary);
+            border-radius: 50%;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .hero h1 {
+            font-size: clamp(2.5rem, 7vw, 4.5rem);
+            font-weight: 700;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: fadeInUp 0.8s ease-out 0.2s backwards;
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            color: var(--text-secondary);
+            max-width: 700px;
+            margin-bottom: 3rem;
+            animation: fadeInUp 0.8s ease-out 0.4s backwards;
+        }
+
+        .hero-actions {
+            display: flex;
+            gap: 1rem;
+            animation: fadeInUp 0.8s ease-out 0.6s backwards;
+        }
+
+        .btn {
+            padding: 1rem 2rem;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .btn-primary {
+            background: var(--gradient-1);
+            color: white;
+            border: none;
+            box-shadow: 0 0 30px var(--accent-glow);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 0 40px var(--accent-glow);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--text-primary);
+            border: 1px solid var(--border-color);
+        }
+
+        .btn-secondary:hover {
+            background: var(--bg-tertiary);
+            border-color: var(--accent-primary);
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .section {
+            padding: 8rem 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .section-title {
+            font-size: clamp(2rem, 5vw, 3rem);
+            font-weight: 700;
+            margin-bottom: 3rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .section-title::before {
+            content: '';
+            width: 4px;
+            height: 3rem;
+            background: var(--gradient-1);
+            border-radius: 2px;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin-bottom: 4rem;
+        }
+
+        .stat-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 1rem;
+            padding: 2rem;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--accent-primary);
+            box-shadow: 0 0 20px var(--accent-glow);
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-label {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+
+        .workflow-step {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 1rem;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            display: flex;
+            gap: 1.5rem;
+            align-items: flex-start;
+        }
+
+        .step-number {
+            width: 48px;
+            height: 48px;
+            background: var(--gradient-1);
+            border-radius: 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: 700;
+            flex-shrink: 0;
+        }
+
+        .step-content {
+            flex: 1;
+        }
+
+        .step-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+        }
+
+        .step-desc {
+            color: var(--text-secondary);
+            margin-bottom: 1rem;
+        }
+
+        .step-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .step-tag {
+            padding: 0.25rem 0.75rem;
+            background: var(--bg-tertiary);
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        .tech-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .tech-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 1rem;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+        }
+
+        .tech-card:hover {
+            transform: translateY(-3px);
+            border-color: var(--accent-primary);
+        }
+
+        .tech-name {
+            font-size: 1.125rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .tech-desc {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+            margin-bottom: 1rem;
+        }
+
+        .tech-url {
+            color: var(--accent-primary);
+            font-size: 0.875rem;
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .tech-url:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            padding: 3rem 2rem;
+            text-align: center;
+            border-top: 1px solid var(--border-color);
+        }
+
+        footer p {
+            color: var(--text-muted);
+            font-size: 0.875rem;
+        }
+
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .section {
+                padding: 4rem 1.5rem;
+            }
+
+            .workflow-step {
+                flex-direction: column;
+            }
+        }
+
+        .reveal {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.8s ease;
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-grid"></div>
+
+    <div id="scroll-progress"></div>
+
+    <nav>
+        <div class="nav-left">
+            <a href="../" class="back-link">
+                <span class="mono">←</span>
+                <span>返回</span>
+            </a>
+            <div class="logo">AI 提示词转 Skill</div>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#overview">概述</a></li>
+            <li><a href="#workflow">工作流</a></li>
+            <li><a href="#tech">技术栈</a></li>
+            <li><a href="#results">成果</a></li>
+        </ul>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-badge">
+            <span class="badge-dot"></span>
+            <span>运行中</span>
+        </div>
+        <h1>AI 提示词转 Skill</h1>
+        <p>自动化抓取、评估和转换 AI 提示词为 Clawdbot Skills 的完整工作流。让优质提示词成为可复用的 AI 技能。</p>
+        <div class="hero-actions">
+            <a href="#workflow" class="btn btn-primary">
+                <span>了解工作流</span>
+                <span class="mono">→</span>
+            </a>
+            <a href="https://github.com/hhhh124hhhh/Clawdbot-Skills-Converter" target="_blank" class="btn btn-secondary">
+                <span>GitHub 仓库</span>
+                <span class="mono">↗</span>
+            </a>
+        </div>
+    </section>
+
+    <section class="section" id="overview">
+        <h2 class="section-title reveal">项目概述</h2>
+        
+        <div class="stats-grid reveal">
+            <div class="stat-card">
+                <div class="stat-value">1000+</div>
+                <div class="stat-label">每日收集提示词</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">200+</div>
+                <div class="stat-label">高质量内容</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">10-30</div>
+                <div class="stat-label">日生成 Skills</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">5维度</div>
+                <div class="stat-label">质量评估系统</div>
+            </div>
+        </div>
+
+        <div style="background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 1rem; padding: 2rem;" class="reveal">
+            <h3 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1.5rem;">项目目标</h3>
+            <p style="color: var(--text-secondary); line-height: 1.8;">
+                自动化发现互联网上的优质 AI 提示词，使用多维度评估系统筛选出最有价值的内容，然后将其转换为可直接使用的 Clawdbot Skills。这不仅让提示词变得可复用，还建立了 AI 技能的商业化生态。
+            </p>
+            <ul style="margin-top: 1.5rem; color: var(--text-secondary); line-height: 2; list-style: none;">
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: var(--accent-primary);">✓</span>
+                    多源数据收集（Twitter/X、Reddit、GitHub、Hacker News）
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: var(--accent-primary);">✓</span>
+                    语义去重算法，避免重复内容
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: var(--accent-primary);">✓</span>
+                    LLM 驱动的质量评估系统
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: var(--accent-primary);">✓</span>
+                    自动转换为 Clawdbot Skills
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: var(--accent-primary);">✓</span>
+                    自动发布到 ClawdHub
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="section" id="workflow">
+        <h2 class="section-title reveal">自动化工作流</h2>
+        
+        <div class="workflow-step reveal">
+            <div class="step-number">1</div>
+            <div class="step-content">
+                <h3 class="step-title">数据收集</h3>
+                <p class="step-desc">从多个平台抓取 AI 提示词相关内容，包括推文、Reddit 帖子、GitHub 讨论、Hacker News 等。</p>
+                <div class="step-tags">
+                    <span class="step-tag">Twitter API</span>
+                    <span class="step-tag">Reddit API</span>
+                    <span class="step-tag">GitHub API</span>
+                    <span class="step-tag">SearXNG</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="workflow-step reveal">
+            <div class="step-number">2</div>
+            <div class="step-content">
+                <h3 class="step-title">语义去重</h3>
+                <p class="step-desc">使用 sentence-transformers 模型计算提示词之间的语义相似度，自动过滤重复和高度相似的内容。</p>
+                <div class="step-tags">
+                    <span class="step-tag">PyTorch</span>
+                    <span class="step-tag">sentence-transformers</span>
+                    <span class="step-tag">all-MiniLM-L6-v2</span>
+                    <span class="step-tag">相似度阈值: 0.85</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="workflow-step reveal">
+            <div class="step-number">3</div>
+            <div class="step-content">
+                <h3 class="step-title">质量评估</h3>
+                <p class="step-desc">使用 Claude (coding-agent) 从创新性、实用性、清晰度、可复用性四个维度评估提示词质量。</p>
+                <div class="step-tags">
+                    <span class="step-tag">Claude</span>
+                    <span class="step-tag">LLM Judge</span>
+                    <span class="step-tag">4 维度评分</span>
+                    <span class="step-tag">100 分制</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="workflow-step reveal">
+            <div class="step-number">4</div>
+            <div class="step-content">
+                <h3 class="step-title">Skill 转换</h3>
+                <p class="step-desc">将高分提示词自动转换为标准的 Clawdbot Skill 格式，生成 SKILL.md、示例代码和使用文档。</p>
+                <div class="step-tags">
+                    <span class="step-tag">自动模板生成</span>
+                    <span class="step-tag">SKILL.md</span>
+                    <span class="step-tag">README.md</span>
+                    <span class="step-tag">.skill 打包</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="workflow-step reveal">
+            <div class="step-number">5</div>
+            <div class="step-content">
+                <h3 class="step-title">自动发布</h3>
+                <p class="step-desc">将生成的 Skills 自动提交到私有仓库，并通过 ClawdHub CLI 发布到技能市场。</p>
+                <div class="step-tags">
+                    <span class="step-tag">Git 自动提交</span>
+                    <span class="step-tag">ClawdHub API</span>
+                    <span class="step-tag">自动定价</span>
+                    <span class="step-tag">市场发布</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="tech">
+        <h2 class="section-title reveal">技术栈</h2>
+        
+        <div class="tech-grid reveal">
+            <div class="tech-card">
+                <h3 class="tech-name">x-prompt-hunter</h3>
+                <p class="tech-desc">AI 提示词发现和评估系统，包含语义去重和 LLM 质量评估功能。</p>
+                <a href="/root/clawd/skills/x-prompt-hunter/SKILL.md" class="tech-url">查看 Skill →</a>
+            </div>
+
+            <div class="tech-card">
+                <h3 class="tech-name">prompt-to-skill-converter</h3>
+                <p class="tech-desc">将提示词转换为 Clawdbot Skills 的自动化工具，支持多源数据抓取。</p>
+                <a href="/root/clawd/skills/prompt-to-skill-converter/SKILL.md" class="tech-url">查看 Skill →</a>
+            </div>
+
+            <div class="tech-card">
+                <h3 class="tech-name">twitter-search-skill</h3>
+                <p class="tech-desc">Twitter/X 推文搜索和抓取工具，支持关键词搜索和内容提取。</p>
+                <a href="/root/clawd/skills/twitter-search-skill/SKILL.md" class="tech-url">查看 Skill →</a>
+            </div>
+
+            <div class="tech-card">
+                <h3 class="tech-name">searxng</h3>
+                <p class="tech-desc">自建的隐私保护搜索引擎，支持多源聚合和 JSON API 输出。</p>
+                <a href="http://localhost:8080" class="tech-url">访问搜索 →</a>
+            </div>
+
+            <div class="tech-card">
+                <h3 class="tech-name">sentence-transformers</h3>
+                <p class="tech-desc">用于语义去重的 NLP 模型，支持多语言和高效相似度计算。</p>
+                <a href="https://www.sbert.net/" target="_blank" class="tech-url">文档 →</a>
+            </div>
+
+            <div class="tech-card">
+                <h3 class="tech-name">ClawdHub</h3>
+                <p class="tech-desc">Clawdbot 技能市场，用于发布和分发 AI 技能。</p>
+                <a href="https://www.clawhub.ai" target="_blank" class="tech-url">访问市场 →</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="results">
+        <h2 class="section-title reveal">成果与进展</h2>
+        
+        <div style="background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 1rem; padding: 2rem; margin-bottom: 2rem;" class="reveal">
+            <h3 style="font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">已完成</h3>
+            <ul style="color: var(--text-secondary); line-height: 2; list-style: none;">
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: #10b981;">✓</span>
+                    x-prompt-hunter 技能开发和测试
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: #10b981;">✓</span>
+                    语义去重功能验证（相似度阈值 0.85）
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: #10b981;">✓</span>
+                    Twitter API 集成和测试
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: #10b981;">✓</span>
+                    SearXNG 自建搜索服务
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: #10b981;">✓</span>
+                    第一个示例 Skill: tiktok-ai-model-generator
+                </li>
+            </ul>
+        </div>
+
+        <div style="background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 1rem; padding: 2rem;" class="reveal">
+            <h3 style="font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">进行中</h3>
+            <ul style="color: var(--text-secondary); line-height: 2; list-style: none;">
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: #f59e0b;">○</span>
+                    LLM 质量评估系统集成（使用 Claude）
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: #f59e0b;">○</span>
+                    Cron 自动化任务配置和测试
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: #f59e0b;">○</span>
+                    自动 Skill 转换和打包
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: #f59e0b;">○</span>
+                    ClawdHub 自动发布流程
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 jack · AI 提示词转 Skill 项目</p>
+        <p style="margin-top: 0.5rem;" class="mono">
+            <a href="https://github.com/hhhh124hhhh/Clawdbot-Skills-Converter" style="color: var(--accent-primary); text-decoration: none;">
+                GitHub: hhhh124hhhh/Clawdbot-Skills-Converter
+            </a>
+        </p>
+    </footer>
+
+    <script>
+        window.addEventListener('scroll', () => {
+            const scrollProgress = document.getElementById('scroll-progress');
+            const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+            const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            const progress = (scrollTop / scrollHeight) * 100;
+            scrollProgress.style.width = progress + '%';
+        });
+
+        function reveal() {
+            const reveals = document.querySelectorAll('.reveal');
+            reveals.forEach(element => {
+                const windowHeight = window.innerHeight;
+                const elementTop = element.getBoundingClientRect().top;
+                const elementVisible = 150;
+
+                if (elementTop < windowHeight - elementVisible) {
+                    element.classList.add('active');
+                }
+            });
+        }
+
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        window.addEventListener('load', reveal);
+        window.addEventListener('scroll', reveal);
+    </script>
+</body>
+</html>

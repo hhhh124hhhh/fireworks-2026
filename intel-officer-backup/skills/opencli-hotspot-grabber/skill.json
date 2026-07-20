@@ -1,0 +1,55 @@
+{
+  "name": "OpenCLI Hotspot Pipeline",
+  "version": "2.0.0",
+  "description": "全域情报处理管道 - 整合抓取、AI 筛选、质量评分、排序、写选题池全流程",
+  "entryPoint": "python",
+  "mainScript": "skills/opencli-hotspot-grabber/pipeline.py",
+  "dependencies": [
+    "opencli (npm)",
+    "python3 (3.8+)",
+    "beautifulsoup4"
+  ],
+  "platforms": [
+    "zhihu",
+    "weibo",
+    "baidu",
+    "hackernews",
+    "github",
+    "v2ex",
+    "douyin",
+    "lobsters",
+    "devto"
+  ],
+  "features": [
+    "热点抓取",
+    "AI 话题筛选",
+    "质量评分",
+    "智能排序",
+    "选题池生成",
+    "下游推送"
+  ],
+  "outputFormat": "json + markdown",
+  "timeout": 300,
+  "usage": {
+    "grab_only": "python skills/opencli-hotspot-grabber/pipeline.py --grab -p zhihu weibo baidu hackernews -o tmp",
+    "full_pipeline": "python skills/opencli-hotspot-grabber/pipeline.py --full -p zhihu weibo baidu hackernews --output-pool ../workspace-shared/topics/topics-pool-0830.md",
+    "analyze_only": "python skills/opencli-hotspot-grabber/pipeline.py --analyze --input tmp/opencli-hotspots-*.json --output-pool topics-pool.md",
+    "quality_check": "python skills/opencli-hotspot-grabber/pipeline.py --check-ai --input tmp/opencli-hotspots-*.json"
+  },
+  "qualityRules": {
+    "positiveList": [
+      "实战教程（5 个步骤、3 个技巧）",
+      "踩坑总结（新手坑、千万别）",
+      "工具实测（亲测好用、效率提升）",
+      "职场场景（省 X 小时、避免损失）",
+      "具体数字（5 个、90%）"
+    ],
+    "negativeList": [
+      "XX 战略类",
+      "XX 格局类",
+      "纯技术热点（无应用场景）",
+      "宏观分析报告",
+      "学术争议"
+    ]
+  }
+}

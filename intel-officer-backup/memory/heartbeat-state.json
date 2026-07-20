@@ -1,0 +1,53 @@
+{
+  "unitId": "bot4",
+  "agentId": "intel-officer",
+  "title": "情报值守岗",
+  "owner": "Dwight",
+  "status": "ok",
+  "summary": "运行与投递状态正常。21:05 心跳检查通过。",
+  "updatedAt": "2026-03-18T21:05:26.361657+08:00",
+  "runtimeStatus": "online",
+  "checks": {
+    "enabledJobs": 8,
+    "staleJobs": [
+      "情报官心跳检查"
+    ],
+    "lastObservedDeliveryAt": "2026-03-18T15:23:43.648000+08:00",
+    "blockedDeliveriesToday": 0,
+    "chromePort9222": false,
+    "chromeNote": "Chrome debug port 9222 未响应，夜间任务开始前需确认启动"
+  },
+  "heartbeatJob": {
+    "id": "intel-heartbeat-001",
+    "enabled": true,
+    "status": "ok",
+    "lastRunAt": "2026-03-18T21:05:11.000000+08:00",
+    "nextRunAt": "2026-03-18T21:02:20.409000+08:00"
+  },
+  "recentDeliveries": [
+    {
+      "jobId": "f678149f-3303-40d1-abdb-16cce8b50d4d",
+      "jobName": "选题推送到内容创作 (下午)",
+      "time": "2026-03-18T15:23:43.648000+08:00",
+      "runStatus": "ok",
+      "deliveryStatus": "delivered",
+      "error": null
+    },
+    {
+      "jobId": "b732c0b5-8f1d-452f-90cf-153759fd36ca",
+      "jobName": "情报 - 下午热点抓取 (写入共享选题池)",
+      "time": "2026-03-18T15:17:57.423000+08:00",
+      "runStatus": "ok",
+      "deliveryStatus": "delivered",
+      "error": null
+    },
+    {
+      "jobId": "f91a96b6-3d38-4426-b34c-d9c30ca57c49",
+      "jobName": "情报 - 上午热点抓取 (写入共享选题池)",
+      "time": "2026-03-18T09:16:27.898000+08:00",
+      "runStatus": "ok",
+      "deliveryStatus": "delivered",
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "collect-prompts",
+  "sessionTarget": "main",
+  "schedule": {
+    "kind": "interval",
+    "everyMs": 21600000,
+    "atMs": 1738161600000
+  },
+  "payload": {
+    "kind": "message",
+    "message": "定时收集 AI 提示词信息。请使用 web_search 工具搜索以下关键词：AI prompt engineering tips, ChatGPT prompts, Claude prompts, best AI prompts 2026, prompt templates。每个关键词搜索 5 条结果，然后将结果保存到 /root/clawd/data/prompts/collected.jsonl 文件（JSON Lines 格式，每行一个 JSON 对象）。包含时间戳和搜索查询信息。"
+  },
+  "enabled": true
+}

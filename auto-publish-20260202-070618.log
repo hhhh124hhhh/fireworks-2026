@@ -1,0 +1,14 @@
+[2026-02-02 07:06:18] ========================================
+[2026-02-02 07:06:18] Starting auto-publish skills script
+[2026-02-02 07:06:18] ========================================
+[2026-02-02 07:06:18] Checking authentication status...
+[2026-02-02 07:06:19] Authenticated successfully
+[2026-02-02 07:06:19] Found 54 skill(s) in /root/clawd/dist
+[2026-02-02 07:06:19] Processing skill: ai-from-trueslazac
+[2026-02-02 07:06:19] Skill display name: ai-from-trueslazac
+[2026-02-02 07:06:19] Skill description: No description provided
+[2026-02-02 07:06:19] Checking if 'ai-from-trueslazac' is already published...
+[2026-02-02 07:06:22] Skill 'ai-from-trueslazac' is not published yet
+[2026-02-02 07:06:22] Publishing ai-from-trueslazac to ClawdHub...
+[2026-02-02 07:06:24] Failed to publish ai-from-trueslazac
+[2026-02-02 07:06:24] Processing skill: ai-genie-3-game-prompts

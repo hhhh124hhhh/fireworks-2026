@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-04-05 01:02:51",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Types of Functions in JavaScript",
+          "description": "<h2>\n  \n  \n  1. Function Declaration\n</h2>\n\n<p>This is the basic way to create a function.</p>\n\n<h3>\n  \n  \n  Example:\n</h3>\n\n\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight javascrip",
+          "url": "https://dev.to/athithya_sivasankarar/types-of-functions-in-javascript-1c5p",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "I Published 12 VS Code Extensions — Here's What Each One Does and What I Learned",
+          "description": "<p>After shipping 10 Chrome extensions, I turned to VS Code. Same strategy: build tools I actually want to use, publish them, learn the ecosystem.</p>\n\n<p>12 extensions later, here's the breakdown.</p",
+          "url": "https://dev.to/miccho27/i-published-12-vs-code-extensions-heres-what-each-one-does-and-what-i-learned-333c",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Epistemic Control Systems: Anchoring on Kafka",
+          "description": "<p><em>This <a href=\"https://dev.to/thatechmaestro/epistemic-control-systems-governing-belief-not-reality-179h\">post</a> defined the invariants. This one anchors them on Apache Kafka, running live, br",
+          "url": "https://dev.to/thatechmaestro/epistemic-control-systems-anchoring-on-kafka-fao",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Exploring the Symfony Tui component",
+          "description": "<p>I had seen the <a href=\"https://symfony.com/blog/introducing-the-symfony-tui-component\" rel=\"noopener noreferrer\">Symfony Tui component announcement</a>, but I just got the time to start to explore",
+          "url": "https://dev.to/xwero/exploring-the-symfony-tui-component-5674",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "The Map Nobody Gave Me: A 10-Year iOS Dev's Honest Starting Guide",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqlc0sqolct8gxjn4",
+          "url": "https://dev.to/devkoan/the-map-nobody-gave-me-a-10-year-ios-devs-honest-starting-guide-56g2",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "[Boost]",
+          "description": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a href=\"https://dev.to/kimlimjustin/i-put-vs-code-claude-and-a-terminal-inside-a-file-manager-i-built-using-react-and-rust-heres-39",
+          "url": "https://dev.to/kimlimjustin/-31n9",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "I Put VS Code, Claude, and a Terminal Inside a File Manager I built using React and Rust — Here's What Happened",
+          "description": "<p>Remember when file managers were just... folders and files?</p>\n\n<p>I got tired of switching between Finder, VS Code, Terminal, and ChatGPT every 30 seconds. So I built a file manager that has all ",
+          "url": "https://dev.to/kimlimjustin/i-put-vs-code-claude-and-a-terminal-inside-a-file-manager-i-built-using-react-and-rust-heres-39hi",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "The Real Cost: Token Savings Calculator for Engineering Teams",
+          "description": "<h2>\n  \n  \n  How Much Is Your Team Actually Spending on Syntactic Overhead?\n</h2>\n\n\n\n\n<blockquote>\n<p><strong>Who this is for.</strong> Engineering managers, team leads, and developers who pay for LLM",
+          "url": "https://dev.to/delimitter_8b9077911a3848/the-real-cost-token-savings-calculator-for-engineering-teams-1286",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Architecture Is the Missing Layer in AI Harness Engineering",
+          "description": "<p><em>Originally published in longer form on Substack. This DEV version is adapted for software engineers and platform practitioners who want the practical takeaway quickly.</em></p>\n\n<p>Most AI harn",
+          "url": "https://dev.to/inetgas/architecture-is-the-missing-layer-in-ai-harness-engineering-2d17",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Building Production-Ready Agentic AI Systems for Enterprise Software Delivery",
+          "description": "<h2>\n  \n  \n  Episode 1: From POCs to Production - What I Learned Building Agentic Engineering Workflows\n</h2>\n\n<p><strong>1. Context: The Gap Between Potential and Reality</strong><br>\nOver the last y",
+          "url": "https://dev.to/khurram_bilal786/building-production-ready-agentic-ai-systems-for-enterprise-software-delivery-12je",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "I Tried to Automate a Manual Review Task with Claude. It Wasn't Worth It.",
+          "description": "<p>Every day, a CI job adds new entries to <a href=\"https://github.com/clusterflick/scripts/blob/main/common/tests/test-titles.json\" rel=\"noopener noreferrer\"><code>test-titles.json</code></a> in my C",
+          "url": "https://dev.to/alistairjcbrown/i-tried-to-automate-a-manual-review-task-with-claude-it-wasnt-worth-it-13m9",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "A color QR code on a physical medium — it actually reads!",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjxxpusrk87fh6kwf7",
+          "url": "https://dev.to/astra31415926/a-color-qr-code-on-a-physical-medium-it-actually-reads-3lhj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

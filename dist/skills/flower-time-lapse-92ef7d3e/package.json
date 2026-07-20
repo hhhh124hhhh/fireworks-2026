@@ -1,0 +1,28 @@
+{
+  "name": "Flower Time-lapse",
+  "version": "1.0.0",
+  "description": "Create a video showing time-lapse of a flower blooming",
+  "main": "SKILL.md",
+  "keywords": [
+    "ai",
+    "prompt",
+    "video-generation"
+  ],
+  "author": "Clawdbot",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "SKILL.md",
+    "assets",
+    "references",
+    "scripts"
+  ],
+  "type": "Video Generation",
+  "source": "test",
+  "url": "http://test.com/3",
+  "quality_score": 72,
+  "content_hash": "92ef7d3e75ea386f28477b65eb8ac709",
+  "created_at": "2026-02-05T09:43:10.514068"
+}

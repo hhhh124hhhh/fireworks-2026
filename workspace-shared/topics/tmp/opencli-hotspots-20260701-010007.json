@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-07-01 01:00:07",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Getting started with OAuth in your Web Apps",
+          "description": "<p>This article is intended as a beginner level article for people that want to learn how to use OAuth2 in their web applications natively.</p>\n<p>There is an accompanying video/demo that may be helpf",
+          "url": "https://dev.to/intersystems/getting-started-with-oauth-in-your-web-apps-2g76",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Breaking the Tables – My Journey from Relational Databases to MongoDB",
+          "description": "<p>For a long time, my comfort zone was built on rows, columns, and foreign keys. I lived in the world of strict relational databases, relying on strong consistency and complex multi-table joins to ge",
+          "url": "https://dev.to/scalingdiaries/breaking-the-tables-my-journey-from-relational-databases-to-mongodb-2p6b",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "AI Won’t Replace You—Here’s What Will",
+          "description": "<p>Every other day, headlines come your way saying AI scalped yet another thousand heads in big tech. For an average IT person, the anxiety is understandable because of how opinions around you have be",
+          "url": "https://dev.to/ujasdhami/ai-wont-replace-you-heres-what-will-53g6",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "I built a budget app that never sees your money",
+          "description": "<p>The envelope budgeting method genuinely works — you assign every rupee to a category before you spend it, and you stop wondering where your money went. But every app that does this well also stores",
+          "url": "https://dev.to/hitesh_m_c864380a9c70c417/i-built-a-budget-app-that-never-sees-your-money-2kdm",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "\"Memory adherence is a systems problem. So which model lets you build the system?\"",
+          "description": "<p>I got a comment on the last post that I want to answer properly, because it gets at the real question. They agreed that memory adherence is a systems problem and not just a prompting problem, then ",
+          "url": "https://dev.to/hendrixx/memory-adherence-is-a-systems-problem-so-which-model-lets-you-build-the-system-1f79",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Qwen 3.6 27B is the sweet spot for local development",
+          "description": "<p>I’ve been diving deep into the world of local development lately, and let me tell you, it's been quite the journey. There’s something oddly exhilarating about setting up a new environment, testing ",
+          "url": "https://dev.to/technoblogger14o3/qwen-36-27b-is-the-sweet-spot-for-local-development-1ccc",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "How I Found the Best AI Coding Model Without Going Broke",
+          "description": "<p>How I Found the Best AI Coding Model Without Going Broke</p>\n\n\n\n\n<p>So here's the thing. I just finished a coding bootcamp a few months ago, and I was riding that high of \"I can build anything!\" Th",
+          "url": "https://dev.to/bolddeck/how-i-found-the-best-ai-coding-model-without-going-broke-5570",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "I Run a Full PaaS on One $11/Month ARM Server. Here's What the Resource Usage Actually Looks Like.",
+          "description": "<p>A managed Kubernetes cluster on AWS starts at ~$73/month, just the control plane, before you run anything on it. Add a load balancer, a managed Postgres instance, and a few worker nodes and you're ",
+          "url": "https://dev.to/jonny2k26/i-run-a-full-paas-on-one-11month-arm-server-heres-what-the-resource-usage-actually-looks-like-4lnp",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "No puedes escalar lo que no puedes medir",
+          "description": "<p>El título suena a regaño, pero es una realidad que he visto repetirse: software que crece sin medirse desde el inicio termina siendo imposible de mantener.</p>\n\n<p>Es como un niño que nunca va al m",
+          "url": "https://dev.to/luis_d301c3ab18fcfad97ba1/no-puedes-escalar-lo-que-no-puedes-medir-284h",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Credit risk is more than predicting default: building the full stack in Python (IFRS 9 ECL, scorecards, monitoring)",
+          "description": "<p><em>Most credit-risk tutorials stop at \"train a classifier to predict default.\" That is maybe a fifth of what a real credit-risk function does, and not the interesting fifth. So I built the rest, o",
+          "url": "https://dev.to/gbadedata/credit-risk-is-more-than-predicting-default-building-the-full-stack-in-python-ifrs-9-ecl-511a",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "What It Takes to Build an AI Personal Assistant That Actually Remembers",
+          "description": "<p>Everyone is building AI assistants.</p>\n\n<p>Most of them work well during a single conversation.</p>\n\n<p>The moment you start a new chat, they forget everything.</p>\n\n<p>A real personal assistant s",
+          "url": "https://dev.to/gurujaya27/what-it-takes-to-build-an-ai-personal-assistant-that-actually-remembers-51e5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Detecting Which AI Chat Platform You're On: URL and DOM Patterns for ChatGPT, Claude, Gemini, and Copilot",
+          "description": "<p>If you're building a Chrome extension that works with AI chat platforms — prompt injection, session export, UI customization — you need to know which platform the user is on before you do anything.",
+          "url": "https://dev.to/ktg0215/detecting-which-ai-chat-platform-youre-on-url-and-dom-patterns-for-chatgpt-claude-gemini-and-3fkp",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

@@ -1,0 +1,96 @@
+[2026-04-01 12:25:19] === Cloud sync started ===
+[2026-04-01 12:25:19] Fetching origin...
+fatal: could not read Password for 'https://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@github.com': No such device or address
+[master (root-commit) 19b1ba7] sync: 2026-04-01 12:25
+ 52 files changed, 8266 insertions(+)
+ create mode 100644 README.md
+ create mode 100644 matrix-state.md
+ create mode 100644 sync-cloud.log
+ create mode 100755 sync-to-cloud.sh
+ create mode 100644 sync-topics.sh
+ create mode 100644 topics-pool-20260317-1612.md
+ create mode 100644 topics-pool-20260318-0900.md
+ create mode 100644 topics-pool-20260318-1440.md
+ create mode 100644 topics-pool-20260318-1505.md
+ create mode 100644 topics-pool-20260318-1520.md
+ create mode 100644 topics-pool-20260319-0800.md
+ create mode 100644 topics-pool-20260319-0830.md
+ create mode 100644 topics-pool-20260319-1505.md
+ create mode 100644 topics-pool-20260320-0400.md
+ create mode 100644 topics-pool-20260320-1019.md
+ create mode 100644 topics-pool-20260320-1505.md
+ create mode 100644 topics-pool-20260321-0400.md
+ create mode 100644 topics-pool-20260321-0830.jike.json
+ create mode 100644 topics-pool-20260321-0830.md
+ create mode 100644 topics-pool-20260321-1505.jike.json
+ create mode 100644 topics-pool-20260321-1505.md
+ create mode 100644 topics-pool-20260322-0100-night-intel.md
+ create mode 100644 topics-pool-20260322-0400-night-output.md
+ create mode 100644 topics-pool-20260322-0830.md
+ create mode 100644 topics-pool-20260322-1318.md
+ create mode 100644 topics-pool-20260322-1505.md
+ create mode 100644 topics-pool-20260323-0400-night-output.md
+ create mode 100644 topics-pool-20260323-0404-night-output.md
+ create mode 100644 topics-pool-20260323-0831.md
+ create mode 100644 topics-pool-20260323-1506.md
+ create mode 100644 topics-pool-20260324-0404-night-output.md
+ create mode 100644 topics-pool-20260324-0835.md
+ create mode 100644 topics-pool-20260324-1010.md
+ create mode 100644 topics-pool-20260324-1018.md
+ create mode 100644 topics-pool-20260324-1021.md
+ create mode 100644 topics-pool-20260324-1024.md
+ create mode 100644 topics-pool-20260324-1025.md
+ create mode 100644 topics-pool-20260325-0830.md
+ create mode 100644 topics-pool-20260326-0830.jike.json
+ create mode 100644 topics-pool-20260326-0830.md
+ create mode 100644 topics-pool-20260327-0830.md
+ create mode 100644 topics-pool-20260328-0830.md
+ create mode 100644 topics-pool-20260329-1143.md
+ create mode 100644 topics-pool-20260329-1150.md
+ create mode 100644 topics-pool-20260329-1242.md
+ create mode 100644 topics-pool-20260329-1245.md
+ create mode 100644 topics-pool-20260329-1353.md
+ create mode 100644 topics-pool-20260329-final.md
+ create mode 100644 topics-pool-20260330-0830.md
+ create mode 100644 topics-pool-20260331-0830.md
+ create mode 100644 topics-pool-20260401-0832.md
+ create mode 100644 topics-pool.md
+[2026-04-01 12:25:20] Changes committed
+[2026-04-01 12:25:20] Pushing to origin...
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/hhhh124hhhh/openclaw-topics-sync.git'
+[2026-04-01 12:25:54] === Cloud sync started ===
+[2026-04-01 12:25:54] Fetching origin...
+fatal: could not read Password for 'https://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@github.com': No such device or address
+[main e4337c8] sync: 2026-04-01 12:25
+ 1 file changed, 61 insertions(+)
+[2026-04-01 12:25:54] Changes committed
+[2026-04-01 12:25:54] Pushing to origin...
+fatal: could not read Password for 'https://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@github.com': No such device or address
+[2026-04-01 12:26:22] === Cloud sync started ===
+[2026-04-01 12:26:22] Fetching origin...
+fatal: could not read Password for 'https://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@github.com': terminal prompts disabled
+[main 43abe76] sync: 2026-04-01 12:26
+ 2 files changed, 12 insertions(+), 4 deletions(-)
+[2026-04-01 12:26:23] Changes committed
+[2026-04-01 12:26:23] Pushing to origin...
+fatal: could not read Password for 'https://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@github.com': terminal prompts disabled
+[2026-04-01 12:27:11] === Cloud sync started ===
+[2026-04-01 12:27:11] Fetching origin...
+fatal: could not read Password for 'https://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@github.com': terminal prompts disabled
+[main e8808f1] sync: 2026-04-01 12:27
+ 1 file changed, 8 insertions(+)
+[2026-04-01 12:27:11] Changes committed
+[2026-04-01 12:27:11] Pushing to origin...
+fatal: could not read Password for 'https://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@github.com': terminal prompts disabled
+[2026-04-01 12:27:28] === Cloud sync started ===
+[2026-04-01 12:27:28] Fetching origin...
+From https://github.com/hhhh124hhhh/openclaw-topics-sync
+ * branch            main       -> FETCH_HEAD
+[main 0242e0b] sync: 2026-04-01 12:27
+ 2 files changed, 12 insertions(+), 5 deletions(-)
+[2026-04-01 12:27:29] Changes committed
+[2026-04-01 12:27:29] Pushing to origin...
+To https://github.com/hhhh124hhhh/openclaw-topics-sync.git
+   5306e39..0242e0b  main -> main
+[2026-04-01 12:27:30] === Cloud sync completed ===

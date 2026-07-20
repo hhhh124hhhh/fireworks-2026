@@ -1,0 +1,70 @@
+{
+  "pipeline": {
+    "enabled": true,
+    "schedule": "0 */6 * * *",
+    "schedule_desc": "每 6 小时运行一次",
+    "timeout_minutes": 60
+  },
+  "quality": {
+    "min_score_for_publish": 90,
+    "min_score_for_test": 70,
+    "max_skills_per_run": 5,
+    "auto_optimize_weights": true
+  },
+  "environments": {
+    "test": {
+      "branch": "test-env",
+      "enabled": true
+    },
+    "production": {
+      "branch": "main",
+      "enabled": true,
+      "manual_approval": false
+    }
+  },
+  "rollback": {
+    "window_days": 7,
+    "auto_rollback_on_failure": true,
+    "max_rollback_attempts": 3
+  },
+  "notifications": {
+    "slack": {
+      "enabled": true,
+      "channel": "#clawdbot",
+      "on_success": true,
+      "on_failure": true,
+      "on_publish": true
+    },
+    "feishu": {
+      "enabled": true,
+      "user_id": "ou_3bc5290afc1a94f38e23dc17c35f26d6",
+      "on_success": false,
+      "on_failure": true,
+      "on_publish": false
+    }
+  },
+  "data_sources": {
+    "reddit": {
+      "enabled": true,
+      "subreddits": ["ChatGPT", "artificial", "machinelearning", "LanguageTechnology"],
+      "max_posts_per_subreddit": 25
+    },
+    "searxng": {
+      "enabled": true,
+      "queries": [
+        "AI prompt engineering",
+        "ChatGPT prompts",
+        "Claude prompts"
+      ]
+    },
+    "twitter": {
+      "enabled": false,
+      "reason": "API quota exhausted"
+    }
+  },
+  "clawdhub": {
+    "auto_publish": true,
+    "check_duplicates": true,
+    "default_version": "1.0.0"
+  }
+}

@@ -1,0 +1,1053 @@
+{
+  "timestamp": "2026-06-05 08:15:06",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Do transformers need three projections? Systematic study of QKV variants",
+          "score": 52,
+          "author": "Anon84",
+          "comments": 5,
+          "url": "https://arxiv.org/abs/2606.04032",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://arxiv.org/abs/2606.04032"
+        },
+        {
+          "rank": 2,
+          "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+          "score": 226,
+          "author": "binyu",
+          "comments": 74,
+          "url": "https://github.com/anthropics/defending-code-reference-harness",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://github.com/anthropics/defending-code-reference-harness"
+        },
+        {
+          "rank": 3,
+          "title": "VoidZero Is Joining Cloudflare",
+          "score": 551,
+          "author": "coloneltcb",
+          "comments": 246,
+          "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/"
+        },
+        {
+          "rank": 4,
+          "title": "IPv6 zones in URLs are a mistake",
+          "score": 62,
+          "author": "xena",
+          "comments": 49,
+          "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/"
+        },
+        {
+          "rank": 5,
+          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+          "score": 295,
+          "author": "meetpateltech",
+          "comments": 381,
+          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://www.anthropic.com/institute/recursive-self-improvement"
+        },
+        {
+          "rank": 6,
+          "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+          "score": 59,
+          "author": "birdculture",
+          "comments": 7,
+          "url": "https://tiki.li/blog/blqsort",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://tiki.li/blog/blqsort"
+        },
+        {
+          "rank": 7,
+          "title": "Queen bees emerge from special wax chambers",
+          "score": 30,
+          "author": "gmays",
+          "comments": 0,
+          "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06"
+        },
+        {
+          "rank": 8,
+          "title": "Ian's Secure Shoelace Knot",
+          "score": 483,
+          "author": "mooreds",
+          "comments": 185,
+          "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://www.fieggen.com/shoelace/secureknot.htm"
+        },
+        {
+          "rank": 9,
+          "title": "Retro-Tech Parenting",
+          "score": 230,
+          "author": "mawise",
+          "comments": 160,
+          "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://havenweb.org/2026/05/28/retro-tech.html"
+        },
+        {
+          "rank": 10,
+          "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+          "score": 111,
+          "author": "theanonymousone",
+          "comments": 11,
+          "url": "https://github.com/huawei-csl/KVarN",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://github.com/huawei-csl/KVarN"
+        },
+        {
+          "rank": 11,
+          "title": "Castor: CERN Advanced STORage Manager",
+          "score": 40,
+          "author": "naves",
+          "comments": 16,
+          "url": "https://castor.web.cern.ch/content/home.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://castor.web.cern.ch/content/home.html"
+        },
+        {
+          "rank": 12,
+          "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+          "score": 5,
+          "author": "PaulHoule",
+          "comments": 0,
+          "url": "https://arxiv.org/abs/2604.24881",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://arxiv.org/abs/2604.24881"
+        },
+        {
+          "rank": 13,
+          "title": "Samurai City",
+          "score": 87,
+          "author": "zdw",
+          "comments": 13,
+          "url": "https://worksinprogress.co/issue/samurai-city/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://worksinprogress.co/issue/samurai-city/"
+        },
+        {
+          "rank": 14,
+          "title": "External Clock Generation on RTX 50 Series",
+          "score": 5,
+          "author": "mfro",
+          "comments": 0,
+          "url": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series"
+        },
+        {
+          "rank": 15,
+          "title": "JLink JTAG Access on the Pinecil",
+          "score": 34,
+          "author": "hasheddan",
+          "comments": 5,
+          "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://danielmangum.com/posts/jlink-jtag-pinecil/"
+        },
+        {
+          "rank": 16,
+          "title": "Making Debian or Fedora persistent live images",
+          "score": 56,
+          "author": "henry_flower",
+          "comments": 6,
+          "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html"
+        },
+        {
+          "rank": 17,
+          "title": "Meta's ships facial recognition on smart glasses",
+          "score": 206,
+          "author": "buchodi",
+          "comments": 187,
+          "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.buchodi.com/meta-glasses-facial-recognition/"
+        },
+        {
+          "rank": 18,
+          "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
+          "score": 64,
+          "author": "tejaswigowda",
+          "comments": 22,
+          "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://github.com/tejaswigowda/ffmpeg-webCLI"
+        },
+        {
+          "rank": 19,
+          "title": "Show HN: Hitoku Draft – Context aware local assistant",
+          "score": 9,
+          "author": "lostathome",
+          "comments": 1,
+          "url": "https://hitoku.me/draft/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://hitoku.me/draft/"
+        },
+        {
+          "rank": 20,
+          "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
+          "score": 1,
+          "author": "el_al",
+          "url": "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect"
+        },
+        {
+          "rank": 21,
+          "title": "WSL 2 is getting faster Windows file system access",
+          "score": 25,
+          "author": "haydenbarnes",
+          "comments": 11,
+          "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/"
+        },
+        {
+          "rank": 22,
+          "title": "Mornings and nights no longer exist at 47C: A day in the hottest place in India",
+          "score": 99,
+          "author": "mellosouls",
+          "comments": 65,
+          "url": "https://www.bbc.co.uk/news/articles/crmp0krp98ro",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://www.bbc.co.uk/news/articles/crmp0krp98ro"
+        },
+        {
+          "rank": 23,
+          "title": "Sum-product, unit distances, and number fields",
+          "score": 52,
+          "author": "robinhouston",
+          "comments": 12,
+          "url": "https://www.erdosproblems.com/forum/thread/blog:6",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://www.erdosproblems.com/forum/thread/blog:6"
+        },
+        {
+          "rank": 24,
+          "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+          "score": 14,
+          "author": "utibeumanah",
+          "comments": 3,
+          "url": "https://www.mercek.dev/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://www.mercek.dev/"
+        },
+        {
+          "rank": 25,
+          "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+          "score": 205,
+          "author": "BrunoBernardino",
+          "comments": 193,
+          "url": "https://uruky.com/?il=en",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://uruky.com/?il=en"
+        },
+        {
+          "rank": 26,
+          "title": "Gaussian Point Splatting",
+          "score": 174,
+          "author": "ibobev",
+          "comments": 65,
+          "url": "https://momentsingraphics.de/Siggraph2026.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://momentsingraphics.de/Siggraph2026.html"
+        },
+        {
+          "rank": 27,
+          "title": "AI, Ashby Engineering, and the future",
+          "score": 49,
+          "author": "fredley",
+          "comments": 32,
+          "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future"
+        },
+        {
+          "rank": 28,
+          "title": "U.S. Army Corps of Engineers Bay Model",
+          "score": 206,
+          "author": "tosh",
+          "comments": 53,
+          "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model"
+        },
+        {
+          "rank": 29,
+          "title": "3D-printed book turns its own G-code into raised lettering",
+          "score": 73,
+          "author": "surprisetalk",
+          "comments": 27,
+          "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/"
+        },
+        {
+          "rank": 30,
+          "title": "Ask HN: So what happened to Facebook \"localhost\" tracking?",
+          "score": 74,
+          "author": "juliusceasar",
+          "comments": 82,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029"
+        }
+      ]
+    },
+    "github": {
+      "count": 14,
+      "items": [
+        {
+          "rank": 1,
+          "title": "chopratejas /headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "url": "https://github.com/chopratejas/headroom",
+          "language": "Python",
+          "stars": 12433,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "NousResearch /hermes-agent",
+          "description": "The agent that grows with you",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "language": "Python",
+          "stars": 180949,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "affaan-m /ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "url": "https://github.com/affaan-m/ECC",
+          "language": "JavaScript",
+          "stars": 207207,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "PaddlePaddle /PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "language": "Python",
+          "stars": 79844,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "github /spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "url": "https://github.com/github/spec-kit",
+          "language": "Python",
+          "stars": 108564,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "NVIDIA /cosmos",
+          "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+          "url": "https://github.com/NVIDIA/cosmos",
+          "language": "Jupyter Notebook",
+          "stars": 8987,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "lfnovo /open-notebook",
+          "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "language": "TypeScript",
+          "stars": 24999,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "Open-LLM-VTuber /Open-LLM-VTuber",
+          "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "language": "Python",
+          "stars": 9574,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "jwasham /coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "language": "",
+          "stars": 349706,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "github /copilot-sdk",
+          "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "url": "https://github.com/github/copilot-sdk",
+          "language": "Java",
+          "stars": 8961,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "aquasecurity /trivy",
+          "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+          "url": "https://github.com/aquasecurity/trivy",
+          "language": "Go",
+          "stars": 35664,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "openclaw /openclaw-windows-node",
+          "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+          "url": "https://github.com/openclaw/openclaw-windows-node",
+          "language": "C#",
+          "stars": 1318,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "reconurge /flowsint",
+          "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+          "url": "https://github.com/reconurge/flowsint",
+          "language": "TypeScript",
+          "stars": 5303,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 14,
+          "title": "mvanhorn /last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "language": "Python",
+          "stars": 27558,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "v2ex": {
+      "count": 8,
+      "items": [
+        {
+          "rank": 1,
+          "title": "中转站纯 pro 号池注册送体验额度",
+          "replies": 134,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "[HyperAPI] gpt pro➕plus 号池，额度又重置了，这不得送点",
+          "replies": 102,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "断掉牛奶后感觉免疫力变强了",
+          "replies": 101,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "大家现在个人服务器一般怎么管理比较合适？",
+          "replies": 99,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "问问过来人，搞对象除了性行为，还有什么其他意义吗？",
+          "replies": 88,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "注册送免费额度 支持 gpt5.5 5.4 pro20x 号池",
+          "replies": 80,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "有重置了兄弟们",
+          "replies": 61,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "我老婆最近找了新工作, 老板总说她生图很慢, 想帮她搞个工具",
+          "replies": 49,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Building a Real-Time Chat Feature with Django Channels and React",
+          "description": "<h2>\n  \n  \n  Building a Real-Time Chat Feature with Django Channels and React\n</h2>\n\n<p>Real-time features have become table stakes for modern web applications. Whether it is a customer support widget",
+          "url": "https://dev.to/uchitchakma/building-a-real-time-chat-feature-with-django-channels-and-react-4e7e",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Build Your Own MCP Server from Scratch",
+          "description": "<p>Every AI agent ships with the same bottleneck: it can only reason over what it can reach. MCP servers dissolve that boundary. They expose tools, resources, and prompts to any compliant client over ",
+          "url": "https://dev.to/michal_szalinski_91bf893d/build-your-own-mcp-server-from-scratch-2mn7",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Claude agent vs Claude Code: which one are you actually building?",
+          "description": "<p>Search \"claude agent boilerplate\" and you'll drown in Claude <strong>Code</strong> results — the agentic CLI, <code>CLAUDE.md</code> files, slash commands, hooks. Great tools. But none of that is w",
+          "url": "https://dev.to/zied_mnif_2f4225fb8d70342/claude-agent-vs-claude-code-which-one-are-you-actually-building-5ek9",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "the developer laptop is the first production environment for agents",
+          "description": "<p>Docker published a post this week about securing AI agents, and the most interesting part was not really Docker.</p>\n\n<p>The post makes the now-familiar argument that agents need execution isolatio",
+          "url": "https://dev.to/pvgomes/the-developer-laptop-is-the-first-production-environment-for-agents-201f",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Oracle ORA-00264 Error: Causes and Solutions Complete Guide",
+          "description": "<h2>\n  \n  \n  ORA-00264: No Recovery Required — What It Means and How to Handle It\n</h2>\n\n<p>ORA-00264 is an informational message returned by Oracle when a <code>RECOVER</code> command is issued again",
+          "url": "https://dev.to/dbmserror/oracle-ora-00264-error-causes-and-solutions-complete-guide-330",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "A Clean-Room Kubernetes CrashLoopBackOff Incident Exercise for SRE/DevOps Learners",
+          "description": "<p><code>CrashLoopBackOff</code> is one of those Kubernetes states that many learners recognize, but fewer people practice investigating in a structured incident-response flow.</p>\n\n<p>It is tempting ",
+          "url": "https://dev.to/josuecross/a-clean-room-kubernetes-crashloopbackoff-incident-exercise-for-sredevops-learners-25j8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "I Used Blender, and In a Programmer’s Prospective",
+          "description": "<p>I have not wrote blogs for a while, because of various things regarding<br>\nto my job. But recently, I started to use<br>\n<a href=\"https://www.blender.org/\" rel=\"noopener noreferrer\">Blender</a> --",
+          "url": "https://dev.to/vincent4486/i-used-blender-and-in-a-programmers-prospective-2k96",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Building a PostHog-Like Analytics Platform with FastAPI",
+          "description": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>At a high level, analytics platforms seem deceptively simple. A user clicks a button, an event payload hits an endpoint, and a pretty dashboard displays the result.",
+          "url": "https://dev.to/nulfacedesigner/building-a-posthog-like-analytics-platform-with-fastapi-10dd",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Inside Azure Networking: How I Created a Virtual Network with Custom Subnets",
+          "description": "<p>If you've ever stared at the Azure portal wondering where to even begin with networking, you're not alone. I was right there a few weeks ago. In this post, I'm walking you through exactly what I di",
+          "url": "https://dev.to/4thman/inside-azure-networking-how-i-created-a-virtual-network-with-custom-subnets-35g4",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "From 9 Tiles to 900: Scaling Computer Vision Pipelines",
+          "description": "<h2>\n  \n  \n  The scale wall\n</h2>\n\n<p>A computer vision pipeline that works on one image at one resolution isn't a pipeline. It's a prototype. The moment you move beyond controlled inputs, you hit the",
+          "url": "https://dev.to/aws/from-9-tiles-to-900-scaling-computer-vision-pipelines-5eli",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Our VP's AI Wrote 3,000 Tests. Production Cost $700K. I Deleted Every Single One.",
+          "description": "<blockquote>\n<p><em>Based on real industry trends. About an AI testing tool promising 300x efficiency, a VP who rebranded hand-written automation as \"manual testing,\" and a $700K SLA bill nobody saw c",
+          "url": "https://dev.to/xulingfeng/our-vps-ai-wrote-3000-tests-production-cost-700k-i-deleted-every-single-one-5536",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "I'm a Chemistry Student from Jordan. I Built a SaaS with AI and Zero CS Knowledge.",
+          "description": "<p>I want to tell you something that still feels surreal to me.</p>\n\n<p>I study Chemistry at Al al-Bayt University in Jordan. <br>\nI have never taken a programming course. I don't have a <br>\nCS degre",
+          "url": "https://dev.to/chembuilds/im-a-chemistry-student-from-jordan-i-built-a-saas-with-ai-and-zero-cs-knowledge-iib",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "jujutsu v0.42.0 released",
+          "description": "",
+          "url": "https://github.com/jj-vcs/jj/releases/tag/v0.42.0",
+          "score": 22,
+          "comments": 19,
+          "tags": [
+            "release",
+            "vcs"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "The C++ Standard Library Has Been Walking Itself Back for Fifteen Years, and the Receipts Are Public",
+          "description": "",
+          "url": "https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public",
+          "score": 53,
+          "comments": 41,
+          "tags": [
+            "c++"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Reviewing code requires reading",
+          "description": "",
+          "url": "https://hauleth.dev/post/review-requires-reading/",
+          "score": 24,
+          "comments": 4,
+          "tags": [
+            "culture"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "burntsushi discusses personal medical diagnosis",
+          "description": "",
+          "url": "https://burntsushi.net/encephalitis/",
+          "score": 268,
+          "comments": 33,
+          "tags": [
+            "person"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "A faster bump allocator for rust",
+          "description": "",
+          "url": "https://owen.cafe/posts/stumpalo/",
+          "score": 10,
+          "comments": 1,
+          "tags": [
+            "performance",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Extension or Imitation? Can you tell the valid Haskell Language Extensions, from the Impostors?",
+          "description": "",
+          "url": "https://doscienceto.it/extension-or-imitation/",
+          "score": 30,
+          "comments": 5,
+          "tags": [
+            "haskell"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "IPv6 zones in URLs are a mistake",
+          "description": "",
+          "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+          "score": 12,
+          "comments": 3,
+          "tags": [
+            "devops",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "My Software North Star",
+          "description": "",
+          "url": "https://kristoff.it/blog/north-star/",
+          "score": 74,
+          "comments": 17,
+          "tags": [
+            "philosophy"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
+          "description": "",
+          "url": "https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against",
+          "score": 13,
+          "comments": 15,
+          "tags": [
+            "practices",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Elixir v1.20 released: now a gradually typed language",
+          "description": "",
+          "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+          "score": 91,
+          "comments": 9,
+          "tags": [
+            "elixir",
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "RP2040 DMA is Turing Complete (2023)",
+          "description": "",
+          "url": "https://people.ece.cornell.edu/land/courses/ece4760/RP2040/C_SDK_DMA_machine/DMA_machine_rp2040.html",
+          "score": 21,
+          "comments": 0,
+          "tags": [
+            "compsci",
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Designing a better podcast editor",
+          "description": "",
+          "url": "https://www.adamsolove.com/ui/ducking/2026/06/03/better-podcast-ui.html",
+          "score": 16,
+          "comments": 2,
+          "tags": [
+            "design",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "Tmux plugin to quickly switch between sessions",
+          "description": "",
+          "url": "https://github.com/maxonvim/tmux-underkeys",
+          "score": 2,
+          "comments": 3,
+          "tags": [
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "Reproducible Builds in May 2026",
+          "description": "",
+          "url": "https://reproducible-builds.org/reports/2026-05/",
+          "score": 6,
+          "comments": 1,
+          "tags": [
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Gaussian Point Splatting",
+          "description": "",
+          "url": "https://momentsingraphics.de/Siggraph2026.html",
+          "score": 6,
+          "comments": 5,
+          "tags": [
+            "graphics"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": ".furry - A Top-Level Domain for furries",
+          "description": "",
+          "url": "https://www.dotfurry.org/",
+          "score": 100,
+          "comments": 66,
+          "tags": [
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Learning J – Part I",
+          "description": "<p><a href=\"https://drj11.wordpress.com/2007/04/09/learning-j-part-i/\" rel=\"ugc\">Part I</a>, <a href=\"https://drj11.wordpress.com/2007/04/11/learning-j-part-ii/\" rel=\"ugc\">Part II</a>, <a href=\"https://drj11.wordpress.com/2007/04/27/learning-j-part-iii/\" rel=\"ugc\">Part III</a>, and <a href=\"https://drj11.wordpress.com/2007/05/12/learning-j-part-iv/\" rel=\"ugc\">Part IV</a></p>\n",
+          "url": "https://drj11.wordpress.com/2007/04/09/learning-j-part-i/",
+          "score": 3,
+          "comments": 0,
+          "tags": [
+            "apl"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "What happened to tab autocomplete?",
+          "description": "<p>Does anyone still use them? Now that agentic programming software are available.</p>\n",
+          "url": "",
+          "score": 7,
+          "comments": 13,
+          "tags": [
+            "ask",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Announcing Mutation Testing in Haskell",
+          "description": "",
+          "url": "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell",
+          "score": 17,
+          "comments": 3,
+          "tags": [
+            "haskell",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "rsync and outrage",
+          "description": "",
+          "url": "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0",
+          "score": 123,
+          "comments": 144,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 84,
+    "hackernews": 30,
+    "github": 14,
+    "v2ex": 8,
+    "devto": 12,
+    "lobsters": 20
+  }
+}

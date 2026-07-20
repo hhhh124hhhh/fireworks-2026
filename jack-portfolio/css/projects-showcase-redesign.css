@@ -1,0 +1,411 @@
+/* ========================================
+   GitHub 项目展示重新设计 - 大幅增加间距
+   ========================================
+   设计理念：
+   - 大幅增加项目间距，避免重叠
+   - 增加项目最小宽度
+   - 容器宽度 1400px（和精选项目一致）
+   - 适中的排名数字，避免卡片过高
+   - 电光蓝 + 深灰色的配色方案
+   - 现代科技杂志风格
+   ======================================== */
+
+/* 项目容器 - 和精选项目一致 */
+.github-showcase-wrapper {
+    position: relative;
+    padding: 0 var(--spacing-md);
+    margin: 40px auto;
+    overflow: visible;
+    width: 100%;
+    max-width: 1400px;
+    box-sizing: border-box;
+}
+
+/* 标题组 - 杂志风格 */
+.github-showcase-wrapper .subsection-title {
+    font-family: 'Helvetica Neue', 'Arial Black', sans-serif;
+    font-size: clamp(1.8rem, 4vw, 2.5rem);
+    font-weight: 900;
+    margin-bottom: 12px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    color: #ffffff;
+    position: relative;
+    display: inline-block;
+}
+
+/* 标题装饰线条 */
+.github-showcase-wrapper .subsection-title::before {
+    content: '';
+    position: absolute;
+    left: -20px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 8px;
+    height: calc(100% + 10px);
+    background: linear-gradient(180deg, #00f0ff 0%, #00d4ff 100%);
+    border-radius: 2px;
+}
+
+.github-showcase-wrapper .subsection-title::after {
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+    width: 60px;
+    height: 4px;
+    background: #00f0ff;
+}
+
+/* 描述文本 */
+.github-showcase-wrapper .subsection-description {
+    font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 400;
+    color: rgba(255,255,255,0.6);
+    max-width: 600px;
+    line-height: 1.6;
+    margin-left: 20px;
+}
+
+/* 项目网格 - 大幅增加间距 */
+.github-projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+    gap: 4rem;
+    margin-top: 40px;
+    position: relative;
+    width: 100%;
+}
+
+/* 背景网格装饰 */
+.github-projects-grid::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image:
+        linear-gradient(rgba(0, 240, 255, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 240, 255, 0.03) 1px, transparent 1px);
+    background-size: 60px 60px;
+    pointer-events: none;
+    z-index: 0;
+    animation: gridMove 20s linear infinite;
+}
+
+@keyframes gridMove {
+    0% { transform: translate(0, 0); }
+    100% { transform: translate(60px, 60px); }
+}
+
+/* 项目卡片 */
+.project-card-horizontal {
+    display: grid;
+    grid-template-columns: 70px 1fr;
+    gap: 16px;
+    background: rgba(17, 17, 17, 0.95);
+    border-radius: 12px;
+    padding: 32px;
+    position: relative;
+    overflow: visible;
+    border-left: 3px solid #00f0ff;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    box-sizing: border-box;
+    min-height: auto;
+    align-items: start;
+}
+
+/* 卡片悬停效果 */
+.project-card-horizontal:hover {
+    transform: translateY(-6px) scale(1.02);
+    box-shadow: 0 20px 40px rgba(0, 240, 255, 0.15);
+}
+
+/* 排名数字 - 紧凑设计 */
+.project-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-right: 16px;
+    border-right: 1px solid rgba(0, 240, 255, 0.2);
+}
+
+.project-rank {
+    font-family: 'SF Mono', 'Consolas', monospace;
+    font-size: clamp(2rem, 6vw, 3rem);
+    font-weight: 700;
+    color: #00f0ff;
+    line-height: 1;
+    text-shadow: 0 0 20px rgba(0, 240, 255, 0.5);
+    animation: rankPulse 2s ease-in-out infinite;
+}
+
+@keyframes rankPulse {
+    0%, 100% { text-shadow: 0 0 20px rgba(0, 240, 255, 0.5); }
+    50% { text-shadow: 0 0 40px rgba(0, 240, 255, 0.8); }
+}
+
+/* 不同排名的颜色 */
+.project-card-horizontal:nth-child(1) .project-rank {
+    color: #ffd700;
+    text-shadow: 0 0 20px rgba(255, 215, 0, 0.5);
+}
+
+.project-card-horizontal:nth-child(1):hover {
+    border-left-color: #ffd700;
+}
+
+.project-card-horizontal:nth-child(2) .project-rank {
+    color: #c0c0c0;
+    text-shadow: 0 0 20px rgba(192, 192, 192, 0.5);
+}
+
+.project-card-horizontal:nth-child(2):hover {
+    border-left-color: #c0c0c0;
+}
+
+.project-card-horizontal:nth-child(3) .project-rank {
+    color: #cd7f32;
+    text-shadow: 0 0 20px rgba(205, 127, 50, 0.5);
+}
+
+.project-card-horizontal:nth-child(3):hover {
+    border-left-color: #cd7f32;
+}
+
+/* 项目信息 */
+.project-info {
+    width: 100%;
+    text-align: center;
+}
+
+.project-title {
+    font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: clamp(1rem, 3vw, 1.3rem);
+    font-weight: 600;
+    color: #ffffff;
+    margin: 8px 0 6px 0;
+    line-height: 1.3;
+}
+
+/* 统计数据 */
+.project-stats {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.project-stats span {
+    font-family: 'SF Mono', 'Consolas', monospace;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: rgba(255,255,255, 0.7);
+    background: rgba(0, 240, 255, 0.1);
+    padding: 4px 10px;
+    border-radius: 4px;
+}
+
+/* 右侧内容 */
+.project-right {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding-left: 5px;
+    justify-content: flex-start;
+}
+
+/* 项目描述 */
+.project-description {
+    font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0;
+}
+
+/* 项目标签 */
+.project-features {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.project-feature {
+    font-family: 'SF Mono', 'Consolas', monospace;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 4px 10px;
+    background: rgba(0, 240, 255, 0.15);
+    color: #00f0ff;
+    border-radius: 12px;
+    border: 1px solid rgba(0, 240, 255, 0.2);
+    transition: all 0.3s ease;
+}
+
+/* 标签悬停效果 */
+.project-card-horizontal:hover .project-feature {
+    background: rgba(0, 240, 255, 0.25);
+    transform: translateY(-2px);
+}
+
+/* 查看项目按钮 */
+.project-status {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 16px;
+    background: #00f0ff;
+    color: #000;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 0.85rem;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: visible;
+    justify-content: center;
+}
+
+/* 按钮悬停效果 */
+.project-card-horizontal:hover .project-status {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0, 240, 255, 0.4);
+}
+
+/* 渐变边框装饰 */
+.brand-gradient-border {
+    display: none;
+}
+
+/* ========================================
+   响应式设计
+   ======================================== */
+
+/* 平板端 */
+@media (max-width: 1400px) {
+    .github-showcase-wrapper {
+        max-width: 100%;
+        padding: 0 var(--spacing-sm);
+    }
+    
+    .github-projects-grid {
+        gap: 4rem;
+    }
+    
+    .project-card-horizontal {
+        padding: 30px;
+    }
+    
+    .project-rank {
+        font-size: clamp(1.8rem, 5vw, 2.5rem);
+    }
+}
+
+/* 小屏平板 */
+@media (max-width: 1200px) {
+    .github-showcase-wrapper {
+        padding: 0 var(--spacing-sm);
+    }
+    
+    .github-projects-grid {
+        gap: 3.5rem;
+    }
+    
+    .project-card-horizontal {
+        padding: 28px;
+        gap: 12px;
+    }
+    
+    .project-rank {
+        font-size: clamp(1.6rem, 5vw, 2.2rem);
+    }
+    
+    .project-title {
+        font-size: 0.95rem;
+    }
+    
+    .project-description {
+        font-size: 0.85rem;
+    }
+}
+
+/* 移动端 */
+@media (max-width: 768px) {
+    .github-showcase-wrapper {
+        padding: 0 var(--spacing-sm);
+    }
+    
+    .github-showcase-wrapper .subsection-title {
+        font-size: clamp(1.5rem, 4vw, 2.2rem);
+    }
+    
+    .github-projects-grid {
+        grid-template-columns: 1fr;
+        gap: 3rem;
+    }
+    
+    .project-card-horizontal {
+        grid-template-columns: auto 1fr;
+        padding: 20px;
+        gap: 14px;
+    }
+    
+    .project-left {
+        min-width: 60px;
+        padding-right: 14px;
+    }
+    
+    .project-rank {
+        font-size: clamp(1.8rem, 5vw, 2.5rem);
+    }
+    
+    .project-title {
+        font-size: 1.05rem;
+    }
+    
+    .project-description {
+        font-size: 0.9rem;
+    }
+    
+    .project-status {
+        width: 100%;
+    }
+}
+
+/* 小屏手机 */
+@media (max-width: 480px) {
+    .github-showcase-wrapper {
+        padding: 0 var(--spacing-xs);
+    }
+    
+    .github-projects-grid {
+        gap: 3rem;
+    }
+    
+    .project-card-horizontal {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+    
+    .project-left {
+        flex-direction: row;
+        width: 100%;
+        justify-content: center;
+        border-right: none;
+        border-bottom: 1px solid rgba(0, 240, 255, 0.2);
+        padding-bottom: 10px;
+        padding-right: 0;
+    }
+    
+    .project-rank {
+        font-size: 2rem;
+    }
+    
+    .project-info {
+        text-align: center;
+    }
+    
+    .project-right {
+        padding-left: 0;
+    }
+}

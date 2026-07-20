@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-12 01:02:32",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "### Topic: Python Basics — `print()`, Variables, Identifiers, Data Types",
+          "description": "<h2>\n  \n  \n  📌 Key Concepts\n</h2>\n\n<div class=\"table-wrapper-paragraph\"><table>\n<thead>\n<tr>\n<th>Concept</th>\n<th>One-Line Definition</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>print()</code></td>\n<td",
+          "url": "https://dev.to/tejas_shinkar/-topic-python-basics-print-variables-identifiers-data-types-1gd5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Native Bounding Boxes Changes Everything for Visions Devs",
+          "description": "<p>For a hot minute, getting an AI to tell you exactly where an object lives inside an image was a complete architectural nightmare. You had to chain together a massive LLM to understand the prompt, a",
+          "url": "https://dev.to/amirhosseinghanipour/native-bounding-boxes-changes-everything-for-visions-devs-19no",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "A Release Is Not Complete Until the Outcome Is Reviewed",
+          "description": "<p>A Release Is Not Complete Until the Outcome Is Reviewed is a practical operating principle, not a slogan.</p>\n\n<p>The useful version of analytics, automation, and software operations is usually qui",
+          "url": "https://dev.to/webmasterid/a-release-is-not-complete-until-the-outcome-is-reviewed-2l8f",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "You Fixed the Rate Limits. Now Your Agent Fails Quietly.",
+          "description": "<p>Last week I wrote that <a href=\"https://dev.to/p0rt/your-ai-agent-isnt-failing-because-it-hallucinates-its-failing-because-of-rate-limits-2d60\">your agent isn’t failing because it hallucinates — it",
+          "url": "https://dev.to/p0rt/you-fixed-the-rate-limits-now-your-agent-fails-quietly-3keo",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Tile-Voting Image Registration: A Refusal to Slide a PNG Became a Free CV Tool",
+          "description": "<h1>\n  \n  \n  Tile-voting image registration: how a refusal to slide a PNG became a free CV tool\n</h1>\n\n<p>There's a specific kind of work that humans are great at and that I, as an AI, am quietly terr",
+          "url": "https://dev.to/trenttompkins/tile-voting-image-registration-a-refusal-to-slide-a-png-became-a-free-cv-tool-4k37",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "How I Built NexBrief: An Automated Daily IT Newsletter Platform for Engineering Students",
+          "description": "<p>As a B.Tech student, keeping up with the rapid developments in the IT and AI sectors is critical for career development, placements, and interviews. However, searching through countless tech blogs,",
+          "url": "https://dev.to/mdrounaqali/how-i-built-nexbrief-an-automated-daily-it-newsletter-platform-for-engineering-students-3b57",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Why Building a Ledger Is Harder Than It Looks",
+          "description": "<p>On August 1, 2012, Knight Capital pushed a faulty deployment to production. Within 45 minutes, its router fired more than 4 million unintended orders into the market, and the firm lost over $460 mi",
+          "url": "https://dev.to/tomasralmeida/why-building-a-ledger-is-harder-than-it-looks-21cm",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "When AI Agents Go Wrong: How Cosmic Keeps Them Scoped",
+          "description": "<p>Recently, a rogue AI agent hijacked a developer's Fedora account and spent weeks submitting pull requests, reassigning bugs, and generating LLM-fabricated responses to maintainer feedback, convinci",
+          "url": "https://dev.to/tonyspiro/when-ai-agents-go-wrong-how-cosmic-keeps-them-scoped-ih5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Claude Code vs Codex vs Cursor: The Best AI Coding Tool in 2026",
+          "description": "<p>Every developer evaluating AI coding tools in 2026 hits the same three names: Claude Code, OpenAI Codex, and Cursor. They sit at different points on the spectrum from \"autocomplete that reads your ",
+          "url": "https://dev.to/tonyspiro/claude-code-vs-codex-vs-cursor-the-best-ai-coding-tool-in-2026-32pm",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "What 6 Months of Posting About AI Taught Me (the boring, useful parts)",
+          "description": "<h1>\n  \n  \n  What 6 Months of Posting About AI Taught Me (the boring, useful parts)\n</h1>\n\n<p>I'm a year in writing about AI tools on DEV, and I keep getting DMs asking the same questions:<br>\n<em>\"Ho",
+          "url": "https://dev.to/rachel_lu_8e2f1c9df223677/what-6-months-of-posting-about-ai-taught-me-the-boring-useful-parts-1716",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "I made my portfolio readable by AI agents. A scanner found four things that didn't exist",
+          "description": "<p>Last week I wrote about <a href=\"https://dev.to/yonyonai/how-i-made-my-website-fully-agent-readable-an-mcp-server-nlweb-ask-in-nextjs-50m0\">making my site fully agent-readable</a> — an MCP server, ",
+          "url": "https://dev.to/yonyonai/i-made-my-portfolio-readable-by-ai-agents-a-scanner-found-four-things-that-didnt-exist-456o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Proxy Rotation & Session Management for AI Web Agents",
+          "description": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>Intelligent proxy rotation for AI web agents requires tying specific exit IPs, TLS fingerprints, and cookie jars to persistent session IDs. Instead of round-robin rotation",
+          "url": "https://dev.to/alterlab/proxy-rotation-session-management-for-ai-web-agents-2cd",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

@@ -1,0 +1,181 @@
+# AI 提示词转 Skill 自动化配置
+
+automation:
+  enabled: true
+  log_level: INFO
+  timezone: Asia/Shanghai
+
+data_collection:
+  sources:
+    twitter:
+      enabled: true
+      interval_hours: 6
+      max_results: 100
+      min_likes: 30
+      queries:
+        - "AI prompt OR ChatGPT prompt -is:retweet min_likes:30"
+        - "Claude prompt OR prompt engineering -is:retweet min_likes:20"
+        - "#AIPrompts OR #promptengineering"
+        - "best AI prompts -is:retweet min_likes:50"
+      output_dir: /root/clawd/data/x-scraping
+
+    reddit:
+      enabled: true
+      interval_hours: 6
+      subreddits:
+        - ChatGPT
+        - artificial
+        - MachineLearning
+        - LocalLLaMA
+      limit_per_sub: 25
+      output_file: /root/clawd/data/prompts/reddit-prompts.jsonl
+
+    searxng:
+      enabled: true
+      interval_hours: 4
+      url: "http://localhost:8080/search"
+      engines: ["google", "duckduckgo", "bing"]
+      keywords:
+        - "AI prompt engineering tips 2026"
+        - "effective ChatGPT prompts"
+        - "best AI prompts for coding"
+        - "Claude AI prompt templates"
+        - "prompt engineering techniques"
+      results_per_search: 10
+      output_file: /root/clawd/data/prompts/searxng.jsonl
+
+    github:
+      enabled: true
+      interval_hours: 12
+      search_queries:
+        - "prompt engineering language:python stars:>100 pushed:>2025-01-01"
+        - "awesome prompts stars:>100 pushed:>2025-01-01"
+        - "ChatGPT prompts stars:>50 pushed:>2025-01-01"
+      results_per_query: 20
+      output_file: /root/clawd/data/prompts/github-awesome-prompts.jsonl
+
+    hackernews:
+      enabled: true
+      interval_hours: 8
+      search_terms:
+        - AI
+        - prompt
+        - LLM
+        - ChatGPT
+        - Claude
+      min_score: 50
+      min_comments: 10
+      output_file: /root/clawd/data/prompts/hacker-news-ai.jsonl
+
+  quality_filters:
+    min_length: 50
+    max_length: 2000
+    exclude_keywords:
+      - "test"
+      - "demo"
+      - "example"
+      - "placeholder"
+    dedup_enabled: true
+    dedup_method: content_hash
+
+quality_evaluation:
+  enabled: true
+  min_score: 60  # C 及以上
+  convert_threshold: 70  # B+ 及以上转换
+
+  weights:
+    practicality: 0.30
+    innovation: 0.20
+    completeness: 0.20
+    popularity: 0.25
+    influence: 0.05
+
+  scoring:
+    a_plus: 90
+    a: 80
+    b_plus: 70
+    b: 60
+    c: 50
+
+  output_file: /root/clawd/data/evaluation/scored-prompts.jsonl
+
+skill_conversion:
+  enabled: true
+  interval_hours: 24
+  min_score: 70
+  output_dir: /root/clawd/generated-skills
+
+  templates:
+    coding: coding-assistant
+    writing: content-creator
+    analysis: data-analyst
+    creative: ai-image-generator
+    education: learning-guide
+    productivity: workflow-optimizer
+    research: research-assistant
+
+  content_enhancement:
+    add_examples: true
+    add_faq: true
+    add_test_cases: true
+
+publishing:
+  enabled: true
+  platform: clawdhub
+  auto_publish_threshold: 70
+  retry_delays: [3600, 21600]  # 1h, 6h (seconds)
+  max_retries: 3
+
+  clawdhub:
+    api_url: https://www.clawhub.ai/api
+    token: clh_6aVBxdBkWmSOoZN9tUDX1nABYZFMqO_ARPUbHbkboj4
+
+  pricing:
+    a_plus: 9.99
+    a: 4.99
+    b_plus: 2.99
+    b: 0.99
+
+  published_marker: .published
+
+monitoring:
+  enabled: true
+  daily_report: true
+  daily_report_time: "09:00"
+  weekly_report: true
+  weekly_report_day: monday
+  weekly_report_time: "09:00"
+  alert_on_failure: true
+  alert_threshold: 3  # 连续失败次数
+
+  metrics_file: /root/clawd/data/metrics.jsonl
+  reports_dir: /root/clawd/reports
+
+notifications:
+  slack:
+    enabled: true
+    channel: "#clawdbot"
+    dm_id: "D0AB0J4QLAH"
+
+  feishu:
+    enabled: true
+    user_id: "ou_3bc5290afc1a94f38e23dc17c35f26d6"
+
+git:
+  enabled: true
+  auto_commit: true
+  auto_push: true
+  repo_path: /root/clawd
+  branch: main
+  commit_message_prefix: "Auto:"
+
+logging:
+  enabled: true
+  log_file: /root/clawd/logs/automation.log
+  max_size_mb: 10
+  backup_count: 5
+  log_format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+state:
+  state_file: /root/clawd/data/automation-state.json
+  checkpoint_interval: 100  # 每 100 条数据保存一次

@@ -1,0 +1,40 @@
+{
+  "timestamp": 1774309034.0552983,
+  "platform": "weibo",
+  "count": 3,
+  "items": [
+    {
+      "category": "social",
+      "hot_value": 885800,
+      "label": "沸",
+      "rank": 1,
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E6%9C%BA%E5%9C%BA%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85%23",
+      "word": "美国纽约机场接连发生事故",
+      "platform": "weibo",
+      "priority": "P0",
+      "source": "opencli"
+    },
+    {
+      "category": "social",
+      "hot_value": 631151,
+      "label": "",
+      "rank": 2,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%A9%E5%BA%9C%E6%9C%BA%E5%9C%BA%E5%A4%9A%E5%90%8D%E8%80%81%E4%BA%BA%E6%89%B6%E6%A2%AF%E4%B8%8A%E9%80%86%E8%A1%8C%23",
+      "word": "四川天府机场多名老人扶梯上逆行",
+      "platform": "weibo",
+      "priority": "P0",
+      "source": "opencli"
+    },
+    {
+      "category": "social",
+      "hot_value": 502402,
+      "label": "",
+      "rank": 3,
+      "url": "https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%83%B3%E7%9A%84%E6%8E%A5%E5%8A%9B%E6%9C%80%E7%87%83%23",
+      "word": "梦想的接力最燃",
+      "platform": "weibo",
+      "priority": "P0",
+      "source": "opencli"
+    }
+  ]
+}

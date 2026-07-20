@@ -1,0 +1,1101 @@
+{
+  "timestamp": "2026-06-02 08:15:05",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "The newest Instagram “exploit” is the goofiest I've seen",
+          "score": 1238,
+          "author": "ssiddharth",
+          "comments": 308,
+          "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco"
+        },
+        {
+          "rank": 2,
+          "title": "Debug Project",
+          "score": 129,
+          "author": "Eridanus2",
+          "comments": 51,
+          "url": "https://debug.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://debug.com/"
+        },
+        {
+          "rank": 3,
+          "title": "OpenAI frontier models and Codex are now available on AWS",
+          "score": 57,
+          "author": "typpo",
+          "comments": 17,
+          "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/"
+        },
+        {
+          "rank": 4,
+          "title": "AI Agent Guidelines for CS336 at Stanford",
+          "score": 303,
+          "author": "prakashqwerty",
+          "comments": 108,
+          "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
+        },
+        {
+          "rank": 5,
+          "title": "Should you normalize RGB values by 255 or 256?",
+          "score": 171,
+          "author": "pplanu",
+          "comments": 74,
+          "url": "https://30fps.net/pages/255-vs-256-division/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://30fps.net/pages/255-vs-256-division/"
+        },
+        {
+          "rank": 6,
+          "title": "CS336: Language Modeling from Scratch",
+          "score": 340,
+          "author": "kristianpaul",
+          "comments": 42,
+          "url": "https://cs336.stanford.edu/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://cs336.stanford.edu/"
+        },
+        {
+          "rank": 7,
+          "title": "GrapheneOS Speech Services version 2 released",
+          "score": 84,
+          "author": "pretext",
+          "comments": 14,
+          "url": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released"
+        },
+        {
+          "rank": 8,
+          "title": "What appear to be biochemical processes may be a natural feature of geology",
+          "score": 184,
+          "author": "speckx",
+          "comments": 57,
+          "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/"
+        },
+        {
+          "rank": 9,
+          "title": "Stealing from Biologists to Compile Haskell Faster",
+          "score": 87,
+          "author": "mooreds",
+          "comments": 4,
+          "url": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/"
+        },
+        {
+          "rank": 10,
+          "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
+          "score": 119,
+          "author": "jbk",
+          "comments": 309,
+          "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/"
+        },
+        {
+          "rank": 11,
+          "title": "Nvidia RTX Spark",
+          "score": 311,
+          "author": "shenli3514",
+          "comments": 254,
+          "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://www.nvidia.com/en-us/products/rtx-spark/"
+        },
+        {
+          "rank": 12,
+          "title": "Ask HN: Who is hiring? (June 2026)",
+          "score": 148,
+          "author": "whoishiring",
+          "comments": 213,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011"
+        },
+        {
+          "rank": 13,
+          "title": "I made my phone slow on purpose",
+          "score": 160,
+          "author": "gcampos",
+          "comments": 143,
+          "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/"
+        },
+        {
+          "rank": 14,
+          "title": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
+          "score": 67,
+          "author": "ismaeel_bashir",
+          "comments": 20,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013"
+        },
+        {
+          "rank": 15,
+          "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+          "score": 81,
+          "author": "gregschlom",
+          "comments": 76,
+          "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
+        },
+        {
+          "rank": 16,
+          "title": "The Frame Problem",
+          "score": 5,
+          "author": "rzk",
+          "comments": 0,
+          "url": "https://plato.stanford.edu/entries/frame-problem/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://plato.stanford.edu/entries/frame-problem/"
+        },
+        {
+          "rank": 17,
+          "title": "Anthropic confidentially submits draft S-1 to the SEC",
+          "score": 432,
+          "author": "surprisetalk",
+          "comments": 344,
+          "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.anthropic.com/news/confidential-draft-s1-sec"
+        },
+        {
+          "rank": 18,
+          "title": "Windows GOG DOS Games on M-Series Macs",
+          "score": 135,
+          "author": "f055",
+          "comments": 78,
+          "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/"
+        },
+        {
+          "rank": 19,
+          "title": "Show HN: DepsGuard – one command to harden NPM/pnpm/yarn/bun/uv configs",
+          "score": 9,
+          "author": "eranation",
+          "comments": 0,
+          "url": "https://github.com/arnica/depsguard",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://github.com/arnica/depsguard"
+        },
+        {
+          "rank": 20,
+          "title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
+          "score": 188,
+          "author": "sebg",
+          "comments": 91,
+          "url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/"
+        },
+        {
+          "rank": 21,
+          "title": "Ask HN: Who wants to be hired? (June 2026)",
+          "score": 85,
+          "author": "whoishiring",
+          "comments": 250,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020"
+        },
+        {
+          "rank": 22,
+          "title": "Flipper Zero Zig Template",
+          "score": 125,
+          "author": "Nars088",
+          "comments": 9,
+          "url": "https://github.com/NishantJoshi00/flipper-template",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://github.com/NishantJoshi00/flipper-template"
+        },
+        {
+          "rank": 23,
+          "title": "GitHub and the crime against software",
+          "score": 188,
+          "author": "pplanu",
+          "comments": 83,
+          "url": "https://eblog.fly.dev/githubbad.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://eblog.fly.dev/githubbad.html"
+        },
+        {
+          "rank": 24,
+          "title": "Malicious npm packages detected across Red Hat Cloud Services",
+          "score": 716,
+          "author": "kurmiashish",
+          "comments": 403,
+          "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://github.com/RedHatInsights/javascript-clients/issues/492"
+        },
+        {
+          "rank": 25,
+          "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+          "score": 485,
+          "author": "speckx",
+          "comments": 240,
+          "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/"
+        },
+        {
+          "rank": 26,
+          "title": "Handmade Hawaiian Islands Map",
+          "score": 52,
+          "author": "bovermyer",
+          "comments": 16,
+          "url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html"
+        },
+        {
+          "rank": 27,
+          "title": "Florida sues OpenAI and Sam Altman over AI risks",
+          "score": 172,
+          "author": "cyunker",
+          "comments": 158,
+          "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
+        },
+        {
+          "rank": 28,
+          "title": "Linux Basics for Hackers (2019)",
+          "score": 126,
+          "author": "ibobev",
+          "comments": 26,
+          "url": "https://github.com/ahegazy0/linux-basics-for-hackers-notes",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://github.com/ahegazy0/linux-basics-for-hackers-notes"
+        },
+        {
+          "rank": 29,
+          "title": "Sysadmining Like It's 2009",
+          "score": 87,
+          "author": "yacin",
+          "comments": 37,
+          "url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://lambdacreate.com/posts/sysadmining-like-its-2009"
+        },
+        {
+          "rank": 30,
+          "title": "Show HN: A free Linux adaptation of NETworkManager by BornToBeRoot",
+          "score": 15,
+          "author": "magetriste",
+          "comments": 3,
+          "url": "https://github.com/thongor77/nmlinux",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://github.com/thongor77/nmlinux"
+        }
+      ]
+    },
+    "github": {
+      "count": 17,
+      "items": [
+        {
+          "rank": 1,
+          "title": "microsoft /markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "url": "https://github.com/microsoft/markitdown",
+          "language": "Python",
+          "stars": 138326,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "nesquena /hermes-webui",
+          "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "language": "Python",
+          "stars": 11266,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "supermemoryai /supermemory",
+          "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "language": "TypeScript",
+          "stars": 23959,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "harry0703 /MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "language": "Python",
+          "stars": 76807,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "D4Vinci /Scrapling",
+          "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "language": "Python",
+          "stars": 57999,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "pbakaus /impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "url": "https://github.com/pbakaus/impeccable",
+          "language": "JavaScript",
+          "stars": 32667,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "p-e-w /heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "url": "https://github.com/p-e-w/heretic",
+          "language": "Python",
+          "stars": 23023,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "EveryInc /compound-engineering-plugin",
+          "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "language": "TypeScript",
+          "stars": 19091,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "TauricResearch /TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "language": "Python",
+          "stars": 81748,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "revfactory /harness",
+          "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+          "url": "https://github.com/revfactory/harness",
+          "language": "HTML",
+          "stars": 5131,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "godotengine /godot",
+          "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+          "url": "https://github.com/godotengine/godot",
+          "language": "C++",
+          "stars": 111628,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "can1357 /oh-my-pi",
+          "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+          "url": "https://github.com/can1357/oh-my-pi",
+          "language": "TypeScript",
+          "stars": 9454,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "OpenBMB /VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "language": "Python",
+          "stars": 24213,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 14,
+          "title": "FareedKhan-dev /train-llm-from-scratch",
+          "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "language": "Jupyter Notebook",
+          "stars": 3694,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 15,
+          "title": "stefan-jansen /machine-learning-for-trading",
+          "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+          "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+          "language": "Jupyter Notebook",
+          "stars": 17843,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 16,
+          "title": "dmtrKovalenko /fff",
+          "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+          "url": "https://github.com/dmtrKovalenko/fff",
+          "language": "Rust",
+          "stars": 7162,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 17,
+          "title": "codecrafters-io /build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "language": "Markdown",
+          "stars": 510392,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "v2ex": {
+      "count": 10,
+      "items": [
+        {
+          "rank": 1,
+          "title": "新冠之后，大家有什么后遗症吗？",
+          "replies": 206,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "手贱翻了女朋友手机发现她和很多男的亲密照片，两天了 人还是没缓过来！",
+          "replies": 202,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "你最美好的童年回忆是什么？",
+          "replies": 163,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "各位大龄青年，找对象应该看重什么呢？",
+          "replies": 118,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "能不能有一个不以盈利为目的的外卖平台",
+          "replies": 95,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "qq 英文邮箱三位数还有好多没注册",
+          "replies": 88,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "收到辞退通知，再干一个月，也能领到 6 位数的大礼包了。",
+          "replies": 87,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "站里没人看老黄的新电脑吗",
+          "replies": 85,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "今日， Copilot 正式转向 Token 计费",
+          "replies": 62,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "Codex 账号触发风控，要求手机号验证，但原号码不可用导致无法登录",
+          "replies": 60,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Hermes Agent Burned 603M Tokens Behind My Back — I Cut Background Costs by Up to 125x",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fomw79knqbhrxwxwaq",
+          "url": "https://dev.to/azamat_safarov/hermes-agent-burned-603m-tokens-behind-my-back-i-cut-background-costs-by-up-to-125x-43oi",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "PostgreSQL 0L000 Error: Causes and Solutions Complete Guide",
+          "description": "<h2>\n  \n  \n  PostgreSQL Error 0L000: invalid grantor\n</h2>\n\n<p>The <code>0L000 invalid grantor</code> error in PostgreSQL occurs when a user attempts to grant privileges on a database object without h",
+          "url": "https://dev.to/dbmserror/postgresql-0l000-error-causes-and-solutions-complete-guide-4cbb",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Oracle ORA-00206 Error: Causes and Solutions Complete Guide",
+          "description": "<h2>\n  \n  \n  ORA-00206: Error in Writing Control File – Causes, Fixes &amp; Prevention\n</h2>\n\n<p>ORA-00206 is a critical Oracle database error that occurs when the database fails to write to one or mo",
+          "url": "https://dev.to/dbmserror/oracle-ora-00206-error-causes-and-solutions-complete-guide-2o0g",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "View Transitions API: Frontend Animasyonlarında Yeni Standart mı Geliyor?",
+          "description": "<p><strong>View Transitions API, sayfa geçişlerini daha akıcı ve performanslı hale getiriyor. Modern web uygulamalarında neden öne çıktığını keşfedin.</strong></p>\n\n<h2>\n  \n  \n  View Transitions API: ",
+          "url": "https://dev.to/erhanaky/view-transitions-api-frontend-animasyonlarinda-yeni-standart-mi-geliyor-1p3i",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "AI code review is now a cloud workload",
+          "description": "<p>Code review used to have a very human scaling problem.</p>\n\n<p>The pull request was ready. The tests were green. Then it sat there waiting for someone with enough context, enough patience, and mayb",
+          "url": "https://dev.to/pvgomes/ai-code-review-is-now-a-cloud-workload-237j",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "I Tested DeepSeek V4 Flash and GPT-4o Side by Side — Here's the p99 Latency Truth",
+          "description": "<p>I gotta say, let me tell you a story about the time I almost went bankrupt optimizing for the wrong metric. </p>\n\n<p>It was 3 AM, and my multi-region deployment was melting down. The p99 latency on",
+          "url": "https://dev.to/eagerspark/i-tested-deepseek-v4-flash-and-gpt-4o-side-by-side-heres-the-p99-latency-truth-3jd1",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Web accessibility overlays don't work — here's what actually does",
+          "description": "<p>Accessibility overlay services like accessiBe and UserWay market themselves as a one-click fix for ADA compliance. They promise that a single line of JavaScript will instantly make your website acc",
+          "url": "https://dev.to/vaibhav_jain_3b62a5510248/web-accessibility-overlays-dont-work-heres-what-actually-does-2a9b",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Fixed Before Anyone Notices, Stronger After Every Fix: Self-Healing + Recurrence Prevention (Series Part 4)",
+          "description": "<p>Hi, I'm <a href=\"https://x.com/ryantsuji\" rel=\"noopener noreferrer\">Ryan</a>, CTO at airCloset.</p>\n\n<blockquote>\n<p><strong>Disclaimer</strong>: \"cortex\" in this article is the internal codename f",
+          "url": "https://dev.to/ryantsuji/fixed-before-anyone-notices-stronger-after-every-fix-self-healing-recurrence-prevention-series-1e86",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "What Is an AI Agent Harness?",
+          "description": "<p>This is for people trying to understand the infrastructure around large language models: Claude Code, Codex, Cursor, LangGraph, MCP servers, repo instructions, permissions, hooks, and all the agent",
+          "url": "https://dev.to/cwilkins507/what-is-an-ai-agent-harness-2fce",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Typescript - several sub-projects + schemas (VTS)",
+          "description": "<h1>\n  \n  \n  TypeScript - Several Sub-projects\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Everyone has probably reached a point where a project is so large that it needs to be broken down into parts. ",
+          "url": "https://dev.to/stefanwerfling/typescript-several-sub-projects-schemas-vts-2fa3",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Process Isn't the Enemy",
+          "description": "<blockquote>\n<h3>\n  \n  \n  🤖 AI Summary\n</h3>\n\n<p>Short on time? Ask AI to summarize this article.</p>\n\n<p>Copy the prompt below into <a href=\"https://chatgpt.com\" rel=\"noopener noreferrer\">ChatGPT</a>",
+          "url": "https://dev.to/aaiezza/process-isnt-the-enemy-425p",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "When Every Tool Is Callable, the Chat Becomes the Join Layer",
+          "description": "<p>Every software stack has a hidden layer that no vendor sells: the join. It is the place where two products that do not know about each other are made to work together — where one tool's numbers are",
+          "url": "https://dev.to/lovanaut55/when-every-tool-is-callable-the-chat-becomes-the-join-layer-1jl0",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Announcing Zstandard in Rust",
+          "description": "",
+          "url": "https://trifectatech.org/blog/announcing-zstandard-in-rust/",
+          "score": 67,
+          "comments": 14,
+          "tags": [
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "You Don't Love systemd Timers Enough",
+          "description": "",
+          "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+          "score": 41,
+          "comments": 11,
+          "tags": [
+            "systemd"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "QBE - Compiler Backend: Version 1.3",
+          "description": "",
+          "url": "https://c9x.me/compile/release/qbe-1.3.html",
+          "score": 76,
+          "comments": 13,
+          "tags": [
+            "compilers",
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "github and the crime against software",
+          "description": "",
+          "url": "https://eblog.fly.dev/githubbad.html",
+          "score": 34,
+          "comments": 13,
+          "tags": [
+            "devops",
+            "distributed"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "It's Not Just X. It's Y",
+          "description": "",
+          "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+          "score": 54,
+          "comments": 12,
+          "tags": [
+            "ai",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Should you normalize RGB values by 255 or 256?",
+          "description": "",
+          "url": "https://30fps.net/pages/255-vs-256-division/",
+          "score": 25,
+          "comments": 3,
+          "tags": [
+            "graphics",
+            "math"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen",
+          "description": "",
+          "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+          "score": 9,
+          "comments": 7,
+          "tags": [
+            "security",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Tracing HTTP Requests with Go's net/http/httptrace",
+          "description": "",
+          "url": "https://blainsmith.com/articles/httptrace-with-go/",
+          "score": 20,
+          "comments": 6,
+          "tags": [
+            "debugging",
+            "go"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "The postmodern build system",
+          "description": "",
+          "url": "https://jade.fyi/blog/the-postmodern-build-system/",
+          "score": 17,
+          "comments": 0,
+          "tags": [
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Arch Linux: Breaking changes for all users of `varnish`, which is renamed to `vinyl-cache`",
+          "description": "",
+          "url": "https://archlinux.org/news/breaking-changes-for-all-users-of-varnish-which-is-renamed-to-vinyl-cache/",
+          "score": 17,
+          "comments": 5,
+          "tags": [
+            "linux"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Hating AI is good, actually",
+          "description": "",
+          "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+          "score": 14,
+          "comments": 1,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "What are you doing this week?",
+          "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
+          "url": "",
+          "score": 17,
+          "comments": 46,
+          "tags": [
+            "ask",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "Exploring the Japanese XD FirstClass Network BBS",
+          "description": "",
+          "url": "https://cdrom.ca/games/2026/05/30/xd.html",
+          "score": 8,
+          "comments": 0,
+          "tags": [
+            "historical",
+            "retrocomputing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "My Accessibility Stack and the future on Wayland",
+          "description": "",
+          "url": "https://nocoffei.com/?p=451",
+          "score": 194,
+          "comments": 75,
+          "tags": [
+            "a11y",
+            "linux"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "vibecoding as adhd multiplier",
+          "description": "",
+          "url": "https://thoughts.hmmz.org/2026-05-31.html",
+          "score": 58,
+          "comments": 22,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Arm desktop: so many cores, not enough speed",
+          "description": "",
+          "url": "https://marcin.juszkiewicz.com.pl/2026/06/01/arm-desktop-so-many-cores-not-enough-speed/",
+          "score": 8,
+          "comments": 2,
+          "tags": [
+            "hardware"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "The art and engineering of Silpheed",
+          "description": "",
+          "url": "https://fabiensanglard.net/silpheed/",
+          "score": 6,
+          "comments": 0,
+          "tags": [
+            "retrocomputing",
+            "reversing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Syncing lights with music: estimating precise seek time from truncated timestamps",
+          "description": "",
+          "url": "https://aaronjanse.substack.com/p/syncing-lights-with-music-marzullos",
+          "score": 7,
+          "comments": 1,
+          "tags": [
+            "reversing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Unlawful by design: Exposing the human rights costs of generative AI",
+          "description": "",
+          "url": "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
+          "score": 58,
+          "comments": 9,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "BattleTris: Two-player networked tetris with a twist",
+          "description": "<p>From the README:</p>\n<blockquote>\n<p>BattleTris was written at Brown University as a CS32 final project in spring 1994 by Bryan Cantrill, Charlie Hoecker and Mike Shapiro. It was revived several times between 1994 and 2001, and then exhumed in 2026 by Adam Leventhal. (A fuller history -- including the inspiration for BattleTris in Wesleyan Tetris -- can be found <a href=\"https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/\" rel=\"ugc\">here</a>.)</p>\n</blockquote>\n",
+          "url": "https://github.com/bcantrill/BattleTris",
+          "score": 6,
+          "comments": 0,
+          "tags": [
+            "retrocomputing",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 89,
+    "hackernews": 30,
+    "github": 17,
+    "v2ex": 10,
+    "devto": 12,
+    "lobsters": 20
+  }
+}

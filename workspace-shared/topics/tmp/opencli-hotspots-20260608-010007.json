@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-08 01:00:07",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "The Hard Part of Programming Isn't What You'd Expect",
+          "description": "<p>As a university graduate in Artificial Intelligence, you would think at this point I am programming anything and everything, any side project I can think of from anywhere at anytime. The reality is",
+          "url": "https://dev.to/jamiecropley/the-hard-part-of-programming-isnt-what-youd-expect-5ggf",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "# Anatomia de um C2 invisível: como o malware Steam WordPress engana a detecção tradicional (e como detê-lo por comportamento)",
+          "description": "<p><em>Por Imunno System</em></p>\n\n<p>Em julho de 2025, pesquisadores da GoDaddy Security começaram a rastrear uma campanha que, em poucos meses, infectou cerca de 1.980 sites WordPress. O detalhe que",
+          "url": "https://dev.to/rodrigo_freire/-anatomia-de-um-c2-invisivel-como-o-malware-steam-wordpress-engana-a-deteccao-tradicional-e-4090",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "I Built 67+ Free Browser Developer Tools — No API, No Signup, No Ads",
+          "description": "<p>You're in the middle of debugging a production issue. You need to quickly decode a JWT token. You Google it, click the first result, and — <em>\"Sign up to continue.\"</em></p>\n\n<p>We've all been the",
+          "url": "https://dev.to/mayank_mehra_c244c9d92cc2/i-built-65-free-browser-developer-tools-no-api-no-signup-no-ads-3njp",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Week 12 building Convertify in public (free image converter, Rust + libvips + Next.js SSG)",
+          "description": "<p>What I shipped:</p>\n\n<ul>\n<li>Two new tools live: Resize Image and Crop Image, both on libvips natively</li>\n<li>A long-form guide, \"How to Compress Images Without Losing Quality,\" written to feed ",
+          "url": "https://dev.to/serhii_kalyna_730b636889c/week-12-building-convertify-in-public-free-image-converter-rust-libvips-nextjs-ssg-1g84",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Top 5 Vulnerability Scanners in 2026: Beyond CVE Matching and False Positives",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff0gw04kqextcy9g6r",
+          "url": "https://dev.to/pyshawon/top-5-vulnerability-scanners-in-2026-beyond-cve-matching-and-false-positives-2h34",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "I built a Telegram movie bot template in Python",
+          "description": "<p>I recently built a Telegram bot in Python using aiogram 3 and decided to package it as a developer template for anyone who wants to launch their own movie bot quickly.<br>\nWhat it does:<br>\nThe bot",
+          "url": "https://dev.to/yomnbess/i-built-a-telegram-movie-bot-template-in-python-53dd",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Looking for Ambitious Developers, Engineers, and Builders to Create Something Big 🚀",
+          "description": "<p>The internet is full of people consuming content.</p>\n\n<p>I'm looking for people who would rather build.</p>\n\n<p>Over the past few years, we've seen small teams and even solo developers create prod",
+          "url": "https://dev.to/nish2005karsh/looking-for-ambitious-developers-engineers-and-builders-to-create-something-big-fim",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Getting images actually web-ready: compress, resize, and pick the right format without opening an editor",
+          "description": "<p>A surprising amount of \"my site is slow\" comes down to one thing: someone dropped a 4032x3024 photo straight off their phone into a content block that renders at 800px wide. The browser downloads a",
+          "url": "https://dev.to/xiaomei_lu_85e416d898252c/getting-images-actually-web-ready-compress-resize-and-pick-the-right-format-without-opening-an-o24",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Every \"autonomous AI agent\" is a customer-support ticket waiting to happen",
+          "description": "<p>I'm tired of writing apology emails for my own AI.</p>\n\n<p>Last month an agent I was dogfooding cancelled a calendar event I actually cared about. Two weeks before that, a different one auto-replie",
+          "url": "https://dev.to/k08200/klorn-the-approval-layer-for-ai-agents-builder-log-1o8m",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Building Hybrid Search with PostgreSQL, pgvector, and Citus",
+          "description": "<p>Search looks simple from the outside.</p>\n\n<p>A user types something like:</p>\n\n<blockquote>\n<p>short-range copper module</p>\n</blockquote>\n\n<p>and expects the system to return the right product, m",
+          "url": "https://dev.to/amirsefati/building-hybrid-search-with-postgresql-pgvector-and-citus-299b",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "What Is an ATS & How Does It Parse Your Resume?",
+          "description": "<h1>\n  \n  \n  What Is an ATS?\n</h1>\n\n<p>An applicant tracking system (ATS) is a software platform used by companies to manage the flood of job applications they receive. Think of it as a digital gateke",
+          "url": "https://dev.to/prismresume/what-is-an-ats-how-does-it-parse-your-resume-3j74",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Building EEL: Why I Chose a Native Proof-of-Work Chain Instead of Another ERC-20 Token",
+          "description": "<h1>\n  \n  \n  Building EEL: Why I Chose a Native Proof-of-Work Chain Instead of Another ERC-20 Token\n</h1>\n\n<p>Most new crypto projects today start in a very similar way.</p>\n\n<p>A token contract is de",
+          "url": "https://dev.to/eel_pow/building-eel-why-i-chose-a-native-proof-of-work-chain-instead-of-another-erc-20-token-999",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

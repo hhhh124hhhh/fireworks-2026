@@ -1,0 +1,20 @@
+
+## 9:00 AM 定时任务执行记录
+
+### 1. Quick Report
+- 执行：python3 /root/clawd/scripts/quick-report.py
+- 结果：❌ Slack 失败（配置问题）
+- 错误：clawdbot.json plugin manifest not found
+
+### 2. Full Prompt Workflow  
+- 执行：bash /root/clawd/scripts/full-prompt-workflow.sh
+- 结果：⚠️ 完成但有问题
+- 数据收集：2 条（0 提示词）
+- Skill 转换：0 个
+- Git push：❌ rejected (non-fast-forward)
+- 通知：❌ Slack + Feishu 都失败
+- 报告：/root/clawd/reports/workflow-report-2026-06-19-0900.md
+
+### 待处理
+- Slack/Feishu 通知配置问题（plugin manifest）
+- Git remote 需要 pull --rebase

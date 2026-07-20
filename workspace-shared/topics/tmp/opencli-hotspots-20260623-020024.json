@@ -1,0 +1,890 @@
+{
+  "timestamp": "2026-06-23 02:00:24",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Steam Machine game testing",
+          "score": 35,
+          "author": "LabsLucas",
+          "comments": 13,
+          "url": "https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article"
+        },
+        {
+          "rank": 2,
+          "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+          "score": 116,
+          "author": "DSemba",
+          "comments": 29,
+          "url": "https://hustvl.github.io/Moebius/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://hustvl.github.io/Moebius/"
+        },
+        {
+          "rank": 3,
+          "title": "Deno Desktop",
+          "score": 867,
+          "author": "GeneralMaximus",
+          "comments": 330,
+          "url": "https://docs.deno.com/runtime/desktop/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://docs.deno.com/runtime/desktop/"
+        },
+        {
+          "rank": 4,
+          "title": "Show HN: Oak – Git replacement designed for agents",
+          "score": 32,
+          "author": "zdgeier",
+          "comments": 57,
+          "url": "https://oak.space/oak/oak",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://oak.space/oak/oak"
+        },
+        {
+          "rank": 5,
+          "title": "A Theory of Why Prompt Injection Works",
+          "score": 41,
+          "author": "x312",
+          "comments": 15,
+          "url": "https://role-confusion.github.io",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://role-confusion.github.io"
+        },
+        {
+          "rank": 6,
+          "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
+          "score": 37,
+          "author": "zdw",
+          "comments": 9,
+          "url": "https://www.youtube.com/watch?v=8GZDOpV2OXk",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://www.youtube.com/watch?v=8GZDOpV2OXk"
+        },
+        {
+          "rank": 7,
+          "title": "The text in Claude Code’s “Extended Thinking” output",
+          "score": 195,
+          "author": "0o_MrPatrick_o0",
+          "comments": 135,
+          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/"
+        },
+        {
+          "rank": 8,
+          "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
+          "score": 1,
+          "author": "justicz",
+          "url": "https://jobs.ashbyhq.com/charge-robotics",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://jobs.ashbyhq.com/charge-robotics"
+        },
+        {
+          "rank": 9,
+          "title": "Pledging another $400k to the Zig software foundation",
+          "score": 540,
+          "author": "tosh",
+          "comments": 168,
+          "url": "https://mitchellh.com/writing/zig-donation-2026",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://mitchellh.com/writing/zig-donation-2026"
+        },
+        {
+          "rank": 10,
+          "title": "Blogger defeats photographer's copyright claim",
+          "score": 17,
+          "author": "speckx",
+          "comments": 3,
+          "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm"
+        },
+        {
+          "rank": 11,
+          "title": "Codex logging bug may write TBs to local SSDs",
+          "score": 354,
+          "author": "vantareed",
+          "comments": 194,
+          "url": "https://github.com/openai/codex/issues/28224",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://github.com/openai/codex/issues/28224"
+        },
+        {
+          "rank": 12,
+          "title": "DisplayMate",
+          "score": 25,
+          "author": "skibz",
+          "comments": 7,
+          "url": "https://www.displaymate.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://www.displaymate.com/"
+        },
+        {
+          "rank": 13,
+          "title": "GLM 5.2 vs. Opus",
+          "score": 384,
+          "author": "ritzaco",
+          "comments": 267,
+          "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/"
+        },
+        {
+          "rank": 14,
+          "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
+          "score": 44,
+          "author": "Jimmc414",
+          "comments": 8,
+          "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html"
+        },
+        {
+          "rank": 15,
+          "title": "Finding the Best Dog Treat with Statistics",
+          "score": 5,
+          "author": "wespiser_2018",
+          "comments": 1,
+          "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html"
+        },
+        {
+          "rank": 16,
+          "title": "NSF slashes research programs to support new tech initiative, insiders say",
+          "score": 77,
+          "author": "strangeloops85",
+          "comments": 24,
+          "url": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say"
+        },
+        {
+          "rank": 17,
+          "title": "Steam Machine Launches Today",
+          "score": 40,
+          "author": "no_news_is",
+          "comments": 7,
+          "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245"
+        },
+        {
+          "rank": 18,
+          "title": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+          "score": 17,
+          "author": "ahmadilaiwi",
+          "comments": 0,
+          "url": "https://github.com/Intuned/selector-forge",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://github.com/Intuned/selector-forge"
+        },
+        {
+          "rank": 19,
+          "title": "Help I accidentally a wigglegram",
+          "score": 428,
+          "author": "gregsadetsky",
+          "comments": 100,
+          "url": "https://lmao.center/blog/wiggle-accidents/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://lmao.center/blog/wiggle-accidents/"
+        },
+        {
+          "rank": 20,
+          "title": "Mexico Just Showed Off a New Cheap, Government-Backed EV",
+          "score": 31,
+          "author": "speckx",
+          "comments": 1,
+          "url": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080"
+        },
+        {
+          "rank": 21,
+          "title": "Did my old job only exist because of fraud?",
+          "score": 771,
+          "author": "advisedwang",
+          "comments": 359,
+          "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/"
+        },
+        {
+          "rank": 22,
+          "title": "Alan Greenspan has died",
+          "score": 121,
+          "author": "helsinkiandrew",
+          "comments": 121,
+          "url": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/"
+        },
+        {
+          "rank": 23,
+          "title": "Bain tests software takeover targets by vibecoding AI replicas",
+          "score": 7,
+          "author": "macleginn",
+          "comments": 10,
+          "url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0"
+        },
+        {
+          "rank": 24,
+          "title": "Granularity comes at a cost – Game Theory",
+          "score": 35,
+          "author": "sidhantbansal",
+          "comments": 5,
+          "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/"
+        },
+        {
+          "rank": 25,
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
+          "score": 501,
+          "author": "T-A",
+          "comments": 168,
+          "url": "https://apertvs.ai/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://apertvs.ai/"
+        },
+        {
+          "rank": 26,
+          "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships",
+          "score": 85,
+          "author": "julienchastang",
+          "comments": 33,
+          "url": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0"
+        },
+        {
+          "rank": 27,
+          "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+          "score": 39,
+          "author": "zhubert",
+          "comments": 58,
+          "url": "https://clevercrow.io",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://clevercrow.io"
+        },
+        {
+          "rank": 28,
+          "title": "Steam Machine",
+          "score": 99,
+          "author": "theschwa",
+          "comments": 78,
+          "url": "https://store.steampowered.com/hardware/steammachine",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://store.steampowered.com/hardware/steammachine"
+        },
+        {
+          "rank": 29,
+          "title": "There is minimal downside to switching to open models",
+          "score": 356,
+          "author": "amarble",
+          "comments": 291,
+          "url": "https://www.marble.onl/posts/cancel_claude.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://www.marble.onl/posts/cancel_claude.html"
+        },
+        {
+          "rank": 30,
+          "title": "Munich 1991: The Roots of the Current AI Boom",
+          "score": 187,
+          "author": "tosh",
+          "comments": 83,
+          "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html"
+        }
+      ]
+    },
+    "github": {
+      "count": 16,
+      "items": [
+        {
+          "rank": 1,
+          "title": "calesthio /OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "language": "Python",
+          "stars": 11343,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "palmier-io /palmier-pro",
+          "description": "macOS video editor built for AI",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "language": "Swift",
+          "stars": 7007,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "jamiepine /voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "url": "https://github.com/jamiepine/voicebox",
+          "language": "TypeScript",
+          "stars": 32026,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "mukul975 /Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "language": "Python",
+          "stars": 18442,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "penpot /penpot",
+          "description": "Penpot: The open-source design tool for design and code collaboration",
+          "url": "https://github.com/penpot/penpot",
+          "language": "Clojure",
+          "stars": 52737,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "Stirling-Tools /Stirling-PDF",
+          "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "language": "TypeScript",
+          "stars": 82684,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "garrytan /gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "url": "https://github.com/garrytan/gstack",
+          "language": "TypeScript",
+          "stars": 112930,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "heygen-com /hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "language": "TypeScript",
+          "stars": 29831,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "tursodatabase /turso",
+          "description": "Turso is an in-process SQL database, compatible with SQLite.",
+          "url": "https://github.com/tursodatabase/turso",
+          "language": "Rust",
+          "stars": 21250,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "bytedance /deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+          "url": "https://github.com/bytedance/deer-flow",
+          "language": "Python",
+          "stars": 73099,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "DeusData /codebase-memory-mcp",
+          "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "language": "C",
+          "stars": 11272,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "ZhuLinsen /daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "language": "Python",
+          "stars": 45673,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "firecrawl /firecrawl",
+          "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "language": "TypeScript",
+          "stars": 136963,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 14,
+          "title": "JCodesMore /ai-website-cloner-template",
+          "description": "Clone any website with one command using AI coding agents",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "language": "TypeScript",
+          "stars": 17584,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 15,
+          "title": "lyogavin /airllm",
+          "description": "AirLLM 70B inference with single 4GB GPU",
+          "url": "https://github.com/lyogavin/airllm",
+          "language": "Jupyter Notebook",
+          "stars": 20960,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 16,
+          "title": "mattpocock /skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "url": "https://github.com/mattpocock/skills",
+          "language": "Shell",
+          "stars": 141347,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "help i accidentally a wigglegram",
+          "description": "",
+          "url": "https://lmao.center/blog/wiggle-accidents/",
+          "score": 103,
+          "comments": 24,
+          "tags": [
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Chesterton's middle finger",
+          "description": "",
+          "url": "https://www.arp242.net/chestersons-finger.html",
+          "score": 61,
+          "comments": 18,
+          "tags": [
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers",
+          "description": "",
+          "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
+          "score": 36,
+          "comments": 5,
+          "tags": [
+            "hardware",
+            "linux"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "One year with Codeberg",
+          "description": "",
+          "url": "https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/",
+          "score": 24,
+          "comments": 4,
+          "tags": [
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Deno Desktop apps",
+          "description": "",
+          "url": "https://docs.deno.com/runtime/desktop/",
+          "score": 31,
+          "comments": 16,
+          "tags": [
+            "javascript",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "p99 0ms* autocomplete for 240 million domain names",
+          "description": "",
+          "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+          "score": 35,
+          "comments": 5,
+          "tags": [
+            "javascript",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Nix needs relocatable binaries",
+          "description": "",
+          "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
+          "score": 19,
+          "comments": 11,
+          "tags": [
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "OpenMW 0.51.0 Released",
+          "description": "",
+          "url": "https://openmw.org/2026/openmw-0-51-0-released/",
+          "score": 29,
+          "comments": 2,
+          "tags": [
+            "games",
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "How a Computer Should Work",
+          "description": "",
+          "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
+          "score": 19,
+          "comments": 5,
+          "tags": [
+            "osdev"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "What are you doing this week?",
+          "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
+          "url": "",
+          "score": 9,
+          "comments": 16,
+          "tags": [
+            "ask",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Xfwl4's First Preview Release",
+          "description": "",
+          "url": "https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release",
+          "score": 9,
+          "comments": 1,
+          "tags": [
+            "linux"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Pledging Another $400,000 to the Zig Software Foundation",
+          "description": "",
+          "url": "https://mitchellh.com/writing/zig-donation-2026",
+          "score": 5,
+          "comments": 2,
+          "tags": [
+            "zig"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "British Columbia, Time Zones, and Postgres",
+          "description": "",
+          "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+          "score": 10,
+          "comments": 4,
+          "tags": [
+            "databases"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "postmarketOS v26.06 (Alpen Avocado) released",
+          "description": "",
+          "url": "https://postmarketos.org/blog/2026/06/21/v26.06-release/",
+          "score": 41,
+          "comments": 12,
+          "tags": [
+            "linux",
+            "mobile",
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Is AI ruining our skills? Early results are in and they’re not good",
+          "description": "",
+          "url": "https://www.nature.com/articles/d41586-026-01947-1",
+          "score": 90,
+          "comments": 57,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "What's the advice for LLM poisoning of artwork these days?",
+          "description": "<p>My wife doesn't want to put her artwork online as she does not want it to be used to train LLMs. I wonder if this has culminated in any libraries that makes it feasible for me to build her a custom site where the artwork is processed to defeat LLM training. I don't have a lot of front-end experience, but can cobble together a simple site with a static site generator. (I have used eleventy for my band's website.)</p>\n",
+          "url": "",
+          "score": 32,
+          "comments": 27,
+          "tags": [
+            "ask",
+            "programming",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "nix-build in under 100 lines",
+          "description": "",
+          "url": "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines",
+          "score": 28,
+          "comments": 6,
+          "tags": [
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Linux and Secure Boot certificate expiration (2025)",
+          "description": "",
+          "url": "https://lwn.net/Articles/1029767/",
+          "score": 9,
+          "comments": 0,
+          "tags": [
+            "linux"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Performance improvements in libffi",
+          "description": "",
+          "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+          "score": 28,
+          "comments": 13,
+          "tags": [
+            "programming",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "Web Browsers on PDAs",
+          "description": "",
+          "url": "https://vale.rocks/posts/pda-browsers",
+          "score": 4,
+          "comments": 0,
+          "tags": [
+            "browsers",
+            "retrocomputing",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 66,
+    "hackernews": 30,
+    "github": 16,
+    "lobsters": 20
+  }
+}

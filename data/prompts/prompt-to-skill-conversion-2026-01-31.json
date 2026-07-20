@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-01-31T10:07:38.283099",
+  "stats": {
+    "image_prompts": 41,
+    "video_prompts": 0,
+    "converted_image": 40,
+    "converted_video": 0,
+    "skipped": 1
+  },
+  "total_prompts": 41,
+  "total_converted": 40,
+  "total_skipped": 1,
+  "total_packaged": 40,
+  "output_dir": "/root/clawd/dist/skills"
+}

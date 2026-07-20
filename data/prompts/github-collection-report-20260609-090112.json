@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-06-09T09:01:12.670616",
+  "repositories_processed": 4,
+  "total_prompts_collected": 61,
+  "prompts_by_repository": {
+    "f/awesome-chatgpt-prompts": 9,
+    "dair-ai/Prompt-Engineering-Guide": 23,
+    "microsoft/prompt-engine": 29
+  },
+  "output_file": "/root/clawd/data/prompts/github-prompts.jsonl"
+}

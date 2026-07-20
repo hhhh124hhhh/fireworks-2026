@@ -1,0 +1,161 @@
+
+
+## 📝 记录
+
+**时间**: 2026-04-01 02:00:01
+
+记忆备份清理（20260401-020001）：清理前 4155 tokens，清理后 4155 tokens，节省 0 tokens (0%)，可用上下文从 126845 提升到 126845 tokens（+0%） general
+
+---
+
+## 📝 上午记录 (2026-04-01 09:00-11:39)
+
+### 多 Agent 配置完成 ✅
+
+**背景**：jack 有 14 只"龙虾"（OpenClaw 实例），想配置多 bot 协作
+
+**完成事项**：
+1. Clone intel-officer 工作区到 `/root/clawd/independent-agents/intel-officer/`
+2. 配置 Feishu 多账号模式：
+   - `momo` (cli_a9f30f026b785cc7) → Momo (main agent)
+   - `intel-officer` (cli_a946c6b2a63c1cbd) → intel-officer agent
+3. 创建 bindings：
+   - `feishu:momo` → main
+   - `feishu:intel-officer` → intel-officer
+4. Gateway 重启成功，两个 Feishu bot 同时在线
+
+**踩坑记录**（写入 `/root/clawd/docs/multi-agent-feishu-config-record.md`）：
+- 坑 1：clone workspace ≠ 启动 agent
+- 坑 2：一个 Gateway 只能有一个飞书 AppId（旧版认知，已修正）
+- 坑 3：binding 配置错误导致 Momo 失联
+- 坑 4：独立 Gateway 实例难启动
+- 正确方案：使用 `accounts` 结构 + `binding` 路由
+
+**架构**：
+```
+OpenClaw Gateway (单一实例)
+├── Momo (main) + Feishu Bot cli_a9f30f...
+└── intel-officer + Feishu Bot cli_a946c...
+```
+
+### 飞书写入失败
+- 读取飞书文档正常（wiki: QVbgw2xMziyLwekmXxvcfkminAz）
+- 但创建文档/发送消息返回 400
+- 需要进一步排查权限问题
+
+
+---
+
+## 📝 中午记录 (2026-04-01 11:50-12:18)
+
+### 飞书官方插件安装 ✅
+- jack 执行 `npx -y @larksuite/openclaw-lark install`
+- 安装了 openclaw-lark 2026.3.18 插件
+- 扫码配置成功，飞书读写工具全部可用
+
+### 知识库文档写入成功 ✅
+- 文档：https://www.feishu.cn/wiki/A8FiwIJofiGpIfkbIfzcIyghnQL
+- 标题：【踩坑记录】OpenClaw 多 Agent + 多飞书 Bot 配置实战
+- 已写入「OpenClaw 治理体系」知识库
+
+### Momo 新增 momo2 飞书账号 ✅
+- 新增账号：cli_a9462af372ba5ccf（momo2）
+- 绑定到 main agent
+- 现在 Momo 有两个飞书 bot：momo + momo2
+
+### Agent 关系明确化 ✅
+- jack = 郝文强 = 同一个人
+- Momo (main) 服务 jack
+- intel-officer (bot4) 也服务 jack/郝文强
+- 两个 bot 是同一人的不同分工（通用助手 vs 情报官）
+- 协作方式：通过飞书文档/知识库共享
+
+### GitHub 私有仓库权限 ✅
+- intel-officer 已配置 GitHub Token（hhhh124hhhh 账号）
+- 可以访问 hhhh124hhhh 账号下的所有私有仓库
+- 当前只克隆了 openclaw-workspace-intel-officer
+
+### 待完成
+- jack 想知道 intel-officer 能否访问其他私有仓库
+- 需要确认具体要访问哪些仓库
+
+
+---
+
+## 📝 下午记录 (2026-04-01 12:20-14:00)
+
+### Topics Pool 同步机制完成 ✅
+
+**目标**：本地 intel-officer 和云端 intel-officer 通过 GitHub 双向同步选题池
+
+**完成事项**：
+1. 创建 topics-sync skill：`/root/clawd/independent-agents/intel-officer/skills/topics-sync/`
+2. 配置 GitHub 仓库：`https://github.com/hhhh124hhhh/openclaw-topics-sync.git`
+3. 本地 topics 路径：`/root/clawd/workspace-shared/topics/`
+4. 云端输出命名：`topics-pool-cloud-YYYYMMDD-HHMM.md`（避免与本地冲突）
+
+**同步流程**：
+```
+本地 intel-officer → write topics-pool-local.md → push → GitHub
+云端 intel-officer → pull → merge → write topics-pool-cloud-*.md → push → GitHub
+```
+
+**同步触发机制**：
+1. **Git Post-Commit Hook**（`.git/hooks/post-commit`）- 每次 commit 后自动触发
+2. **inotify 实时监控** - 文件变化立即响应
+3. **cron 定时兜底** - 每 5 分钟检查一次
+
+**冲突解决**：`git pull -X ours` 优先保留本地更改
+
+### 联网技能已配置给 intel-officer ✅
+
+**复制的技能（9个）**：
+- searxng（我偏好的搜索）
+- baidu-search
+- baidu-baike
+- firecrawl-search
+- tavily-search
+- twitter-search-skill
+- ai-insights-generator
+- arxiv-watcher
+- x-prompt-hunter
+
+**已推送到 GitHub**，本地 intel-officer 需要 pull
+
+### systemd 服务部署 ✅
+
+**服务名**：`topics-sync.service`
+
+**功能**：
+- 开机自启
+- 进程守护（崩溃自动重启）
+- 实时监控 `/root/clawd/workspace-shared/topics/` 目录
+- 排除 `.git/` 和 `.log` 文件避免循环触发
+
+**状态**：
+```
+● topics-sync.service - Topics Sync inotify Monitor
+   Active: active (running) ✅
+```
+
+### Gateway Streaming 启用 ✅
+- 执行 `openclaw config set channels.feishu.streaming true`
+- Gateway 已重启（PID 3373797）
+- 飞书消息响应更快
+
+### intel-officer 状态确认 ✅
+- Agent 配置正确：`/root/clawd/independent-agents/intel-officer`
+- Binding 已创建：`feishu accountId=intel-officer` → intel-officer agent
+- 在群里需要 @intel-officer 才能触发回复
+
+---
+
+## 📝 重要规则 (16:06)
+
+### ⚠️ Gateway 重启规则
+**jack 明确要求**：
+- 不要随便重启 Gateway
+- 只有在排查问题时才能重启
+- 重大操作前先确认
+
+这个规则要记在 AGENTS.md 或 TOOLS.md 里作为长期参考。

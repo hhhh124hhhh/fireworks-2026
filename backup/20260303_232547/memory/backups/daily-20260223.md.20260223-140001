@@ -1,0 +1,62 @@
+# 2026-02-23 记忆
+
+## 10:04 定时任务修复
+
+**问题发现**: `full-prompt-workflow` 定时任务陷入无限循环
+- 昨天 9:00-10:00 疯狂运行 50+ 次
+- `nextRunAtMs` 卡住，调度器死循环
+
+**修复操作**:
+1. ✅ 删除异常任务 (旧 jobId: d3748a42-6029-4a04-ab91-f0efb830cbb1)
+2. ✅ 重新创建任务 (新 jobId: e0b2343c-3480-406b-88f0-a852ec99bd1b)
+3. ✅ 配置正确: 每天 9:00 (Asia/Shanghai)
+4. ✅ nextRunAtMs: 1771894800000 (2026-02-24 09:00)
+
+**状态**: 🟢 正常，明天 9:00 将自动推送黄金选题报告！
+
+---
+
+## 11:23 记忆文件位置查询
+
+**jack 询问**: 记忆文件在哪个仓库
+
+**检查发现**:
+- 记忆文件路径: `/root/clawd/memory/`
+- 包含文件:
+  - `MEMORY.md` (长期记忆)
+  - `2026-02-22.md` (昨日)
+  - `2026-02-23.md` (今日)
+  - `backups/` (历史备份)
+
+**状态**: ✅ 记忆文件完整，在本地文件系统
+
+---
+
+## 12:04 GitHub 仓库查询
+
+**jack 询问**: 是否有 GitHub 仓库存放记忆和备份文件
+
+**检查发现**:
+- `fireworks-2026` - 远程: `https://github.com/hhhh124hhhh/fireworks-2026.git`
+- `jack-portfolio` - 远程: `https://github.com/hhhh124hhhh/jack-portfolio.git`
+- 记忆文件在本地，**未 push 到任何远程仓库**
+
+---
+
+## 12:09 记忆仓库确认
+
+**jack 提供**: `hhhh124hhhh/jack-portfolio` 仓库
+
+**检查发现**:
+- ✅ 确认 `jack-portfolio` 仓库存在
+- ✅ 远程 URL: `https://github.com/hhhh124hhhh/jack-portfolio.git`
+- ❌ 记忆文件 **不在** `jack-portfolio` 仓库中
+- 记忆文件仍在 `/root/clawd/memory/` (本地)
+
+**结论**: 
+- `jack-portfolio` 是 portfolio 网站项目
+- 记忆文件目前只在本地，未提交到 `jack-portfolio` 仓库
+- 如果需要，可以将记忆文件 push 到 `jack-portfolio` 仓库
+
+---
+记录时间: 2026-02-23 12:10

@@ -1,0 +1,12 @@
+[2026-02-09T12:00:01+00:00] [INFO] Starting system monitoring
+[2026-02-09T12:00:01+00:00] [INFO] Starting metrics collection
+[2026-02-09T12:00:02+00:00] [INFO] Metrics collected: CPU: 0.0%, Mem: 48.6%, Disk: 84%, SearXNG: running
+[2026-02-09T12:00:02+00:00] [INFO] Monitoring Docker containers
+[2026-02-09T12:00:02+00:00] [INFO] Container searxng: running
+[2026-02-09T12:00:02+00:00] [INFO] Monitoring cron tasks
+[2026-02-09T12:00:02+00:00] [INFO] Last AI Research cron run: tavily.errors.TimeoutError: Request timed out after 60 seconds.
+[2026-02-09T12:00:02+00:00] [INFO] Checking service health
+[2026-02-09T12:00:02+00:00] [INFO] SearXNG health check: OK
+[2026-02-09T12:00:17+00:00] [INFO] OpenClaw Gateway health check: OK
+[2026-02-09T12:00:17+00:00] [INFO] Generating monitoring report
+[2026-02-09T12:00:17+00:00] [INFO] Monitoring completed

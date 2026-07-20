@@ -1,0 +1,147 @@
+[2026-06-11 09:01:34] ========================================
+[2026-06-11 09:01:34] Starting auto-publish skills script
+[2026-06-11 09:01:34] ========================================
+[2026-06-11 09:01:34] Checking authentication status...
+[2026-06-11 09:01:36] Authenticated successfully
+[2026-06-11 09:01:36] Found 21 skill(s) in /root/clawd/dist
+[2026-06-11 09:01:36] Processing skill: ai-from-trueslazac
+[2026-06-11 09:01:36] Skill display name: ai-from-trueslazac
+[2026-06-11 09:01:36] Skill description: AI content from TrueSlazac Twitter account. Use when accessing AI-related prompts, templates, or discussions from social media sources.
+[2026-06-11 09:01:36] Checking if 'ai-from-trueslazac' is already published...
+[2026-06-11 09:01:39] Skill 'ai-from-trueslazac' is not published yet
+[2026-06-11 09:01:39] Publishing ai-from-trueslazac to ClawdHub...
+[2026-06-11 09:01:42] Failed to publish ai-from-trueslazac
+[2026-06-11 09:01:42] Processing skill: ai-genie-3-game-prompts
+[2026-06-11 09:01:42] Skill display name: ai-genie-3-game-prompts
+[2026-06-11 09:01:42] Skill description: Generate AI video games using Google's Genie 3 with specialized prompts. Use when creating game concepts, level designs, or interactive experiences through text prompts for AI game generation. Includes effective prompt patterns and examples from successful Genie 3 games.
+[2026-06-11 09:01:42] Checking if 'ai-genie-3-game-prompts' is already published...
+[2026-06-11 09:01:46] Skill 'ai-genie-3-game-prompts' is not published yet
+[2026-06-11 09:01:46] Publishing ai-genie-3-game-prompts to ClawdHub...
+[2026-06-11 09:01:48] Failed to publish ai-genie-3-game-prompts
+[2026-06-11 09:01:48] Processing skill: ai-music-prompts
+[2026-06-11 09:01:48] Skill display name: ai-music-prompts
+[2026-06-11 09:01:48] Skill description: AI music prompt templates and best practices for generating music with AI tools like Suno, Udio, Mureka, and others. Use when user needs to create music prompts, song ideas, or wants guidance on writing effective prompts for AI music generation. Includes bilingual prompt templates for various genres, mood descriptors, instrumentation guidance, and lyric writing tips. Also provides techniques for crafting specific musical outcomes and examples of well-structured prompts in Chinese and English.
+[2026-06-11 09:01:48] Checking if 'ai-music-prompts' is already published...
+[2026-06-11 09:01:52] Skill 'ai-music-prompts' is not published yet
+[2026-06-11 09:01:52] Publishing ai-music-prompts to ClawdHub...
+[2026-06-11 09:01:54] Failed to publish ai-music-prompts
+[2026-06-11 09:01:54] Processing skill: ai-portrait-generator
+[2026-06-11 09:01:54] Skill display name: ai-portrait-generator
+[2026-06-11 09:01:54] Skill description: Generate AI-powered portrait images using various models and techniques. Use when creating character portraits, avatars, or stylized portrait images.
+[2026-06-11 09:01:54] Checking if 'ai-portrait-generator' is already published...
+[2026-06-11 09:01:58] Skill 'ai-portrait-generator' is not published yet
+[2026-06-11 09:01:58] Publishing ai-portrait-generator to ClawdHub...
+[2026-06-11 09:02:00] Failed to publish ai-portrait-generator
+[2026-06-11 09:02:00] Processing skill: akkadian-noun-analyzer
+[2026-06-11 09:02:00] Skill display name: akkadian-noun-analyzer
+[2026-06-11 09:02:00] Skill description: Akkadian noun analyzer using regex-based feature extraction. Use when working with ancient languages, linguistic analysis, or building morphological analyzers for historical languages.
+[2026-06-11 09:02:00] Checking if 'akkadian-noun-analyzer' is already published...
+[2026-06-11 09:02:06] Skill 'akkadian-noun-analyzer' is not published yet
+[2026-06-11 09:02:06] Publishing akkadian-noun-analyzer to ClawdHub...
+[2026-06-11 09:02:09] Failed to publish akkadian-noun-analyzer
+[2026-06-11 09:02:09] Processing skill: gaussian-process-mlp-hybrid
+[2026-06-11 09:02:09] Skill display name: gaussian-process-mlp-hybrid
+[2026-06-11 09:02:09] Skill description: Discussion on Gaussian Process and MLP hybrid models for uncertainty estimation. Use when exploring machine learning model architectures, uncertainty quantification, or ensemble methods for drug discovery and similar applications.
+[2026-06-11 09:02:09] Checking if 'gaussian-process-mlp-hybrid' is already published...
+[2026-06-11 09:02:12] Skill 'gaussian-process-mlp-hybrid' is not published yet
+[2026-06-11 09:02:12] Publishing gaussian-process-mlp-hybrid to ClawdHub...
+[2026-06-11 09:02:14] Failed to publish gaussian-process-mlp-hybrid
+[2026-06-11 09:02:14] Processing skill: gemini-nano-banana-pro-portraits
+[2026-06-11 09:02:14] Skill display name: gemini-nano-banana-pro-portraits
+[2026-06-11 09:02:14] Skill description: Generate ultra-photorealistic portraits using Gemini Nano Banana Pro with comprehensive JSON configuration templates. Use when creating cinematic quality portraits, fitness photography, or realistic character images. Includes complete JSON structure for prompt configuration, subject details, apparel, pose, environment, lighting, and technical specifications.
+[2026-06-11 09:02:14] Checking if 'gemini-nano-banana-pro-portraits' is already published...
+[2026-06-11 09:02:18] Skill 'gemini-nano-banana-pro-portraits' is not published yet
+[2026-06-11 09:02:18] Publishing gemini-nano-banana-pro-portraits to ClawdHub...
+[2026-06-11 09:02:20] Failed to publish gemini-nano-banana-pro-portraits
+[2026-06-11 09:02:20] Processing skill: google-imagen-3-hyperrealistic-landscape
+[2026-06-11 09:02:20] Skill display name: google-imagen-3-hyperrealistic-landscape
+[2026-06-11 09:02:20] Skill description: Generate hyperrealistic landscape photography using Google Imagen 3. Use when creating breathtaking natural scenes, landscapes, and nature photography with exceptional detail and realism.
+[2026-06-11 09:02:20] Checking if 'google-imagen-3-hyperrealistic-landscape' is already published...
+[2026-06-11 09:02:24] Skill 'google-imagen-3-hyperrealistic-landscape' is not published yet
+[2026-06-11 09:02:24] Publishing google-imagen-3-hyperrealistic-landscape to ClawdHub...
+[2026-06-11 09:02:26] Failed to publish google-imagen-3-hyperrealistic-landscape
+[2026-06-11 09:02:26] Processing skill: google-imagen-3-portrait-photography
+[2026-06-11 09:02:26] Skill display name: google-imagen-3-portrait-photography
+[2026-06-11 09:02:26] Skill description: Generate professional portrait photography using Google Imagen 3. Use when creating realistic portraits, headshots, or artistic character photography with professional lighting and composition.
+[2026-06-11 09:02:26] Checking if 'google-imagen-3-portrait-photography' is already published...
+[2026-06-11 09:02:30] Skill 'google-imagen-3-portrait-photography' is not published yet
+[2026-06-11 09:02:30] Publishing google-imagen-3-portrait-photography to ClawdHub...
+[2026-06-11 09:02:32] Failed to publish google-imagen-3-portrait-photography
+[2026-06-11 09:02:32] Processing skill: google-veo-dynamic-city-nightview
+[2026-06-11 09:02:32] Skill display name: google-veo-dynamic-city-nightview
+[2026-06-11 09:02:32] Skill description: Create dynamic city night view videos using Google Veo. Use when generating cinematic urban scenes, futuristic cityscapes, or nighttime urban video content.
+[2026-06-11 09:02:32] Checking if 'google-veo-dynamic-city-nightview' is already published...
+[2026-06-11 09:02:37] Skill 'google-veo-dynamic-city-nightview' is not published yet
+[2026-06-11 09:02:37] Publishing google-veo-dynamic-city-nightview to ClawdHub...
+[2026-06-11 09:02:39] Failed to publish google-veo-dynamic-city-nightview
+[2026-06-11 09:02:39] Processing skill: langchain-chat-prompt-template
+[2026-06-11 09:02:39] Skill display name: langchain-chat-prompt-template
+[2026-06-11 09:02:39] Skill description: Guide to using ChatPromptTemplate and MessagesPlaceholder in LangChain for conversational AI. Use when building chatbots, conversational interfaces, or AI assistants that need to maintain conversation history.
+[2026-06-11 09:02:39] Checking if 'langchain-chat-prompt-template' is already published...
+[2026-06-11 09:02:42] Skill 'langchain-chat-prompt-template' is not published yet
+[2026-06-11 09:02:42] Publishing langchain-chat-prompt-template to ClawdHub...
+[2026-06-11 09:02:44] Failed to publish langchain-chat-prompt-template
+[2026-06-11 09:02:44] Processing skill: merc-income-guide
+[2026-06-11 09:02:44] Skill display name: merc-income-guide
+[2026-06-11 09:02:44] Skill description: Complete guide to making $42/hr on Mercor platform. Use when you want to start freelancing on Mercor, optimize your profile, or maximize earnings on the platform.
+[2026-06-11 09:02:44] Checking if 'merc-income-guide' is already published...
+[2026-06-11 09:02:50] Skill 'merc-income-guide' is not published yet
+[2026-06-11 09:02:50] Publishing merc-income-guide to ClawdHub...
+[2026-06-11 09:02:53] Failed to publish merc-income-guide
+[2026-06-11 09:02:53] Processing skill: prompt-from-lexx-aura
+[2026-06-11 09:02:53] Skill display name: prompt-from-lexx-aura
+[2026-06-11 09:02:53] Skill description: AI prompt template converted from a Twitter post. Use when creating AI prompts for specific tasks or exploring prompt engineering techniques.
+[2026-06-11 09:02:53] Checking if 'prompt-from-lexx-aura' is already published...
+[2026-06-11 09:02:57] Skill 'prompt-from-lexx-aura' is not published yet
+[2026-06-11 09:02:57] Publishing prompt-from-lexx-aura to ClawdHub...
+[2026-06-11 09:02:59] Failed to publish prompt-from-lexx-aura
+[2026-06-11 09:02:59] Processing skill: reddit-job-posting-templates
+[2026-06-11 09:02:59] Skill display name: reddit-job-posting-templates
+[2026-06-11 09:02:59] Skill description: Templates for job postings and hiring requests on Reddit. Use when posting job opportunities, looking for work, or creating standardized hiring templates for professional communities.
+[2026-06-11 09:02:59] Checking if 'reddit-job-posting-templates' is already published...
+[2026-06-11 09:03:04] Skill 'reddit-job-posting-templates' is not published yet
+[2026-06-11 09:03:04] Publishing reddit-job-posting-templates to ClawdHub...
+[2026-06-11 09:03:07] Failed to publish reddit-job-posting-templates
+[2026-06-11 09:03:07] Processing skill: reddit-nlp-research-problems
+[2026-06-11 09:03:07] Skill display name: reddit-nlp-research-problems
+[2026-06-11 09:03:07] Skill description: Discussion on important NLP research problems in academia and industry. Use when exploring current challenges in natural language processing, low-resource language models, or conversational AI research directions.
+[2026-06-11 09:03:07] Checking if 'reddit-nlp-research-problems' is already published...
+[2026-06-11 09:03:11] Skill 'reddit-nlp-research-problems' is not published yet
+[2026-06-11 09:03:11] Publishing reddit-nlp-research-problems to ClawdHub...
+[2026-06-11 09:03:14] Failed to publish reddit-nlp-research-problems
+[2026-06-11 09:03:14] Processing skill: self-taught-ml-career-path
+[2026-06-11 09:03:14] Skill display name: self-taught-ml-career-path
+[2026-06-11 09:03:14] Skill description: Discussion about self-taught machine learning career paths and success stories. Use when exploring alternative education paths, self-study strategies, or career development in ML without formal PhD training.
+[2026-06-11 09:03:14] Checking if 'self-taught-ml-career-path' is already published...
+[2026-06-11 09:03:17] Skill 'self-taught-ml-career-path' is not published yet
+[2026-06-11 09:03:17] Publishing self-taught-ml-career-path to ClawdHub...
+[2026-06-11 09:03:20] Failed to publish self-taught-ml-career-path
+[2026-06-11 09:03:20] Processing skill: sora-2-futuristic-tech-showcase
+[2026-06-11 09:03:20] Skill display name: sora-2-futuristic-tech-showcase
+[2026-06-11 09:03:20] Skill description: Create futuristic technology showcase videos using OpenAI Sora 2. Use when generating concept videos for AI technology demonstrations, futuristic product showcases, or sci-fi visualizations.
+[2026-06-11 09:03:20] Checking if 'sora-2-futuristic-tech-showcase' is already published...
+[2026-06-11 09:03:25] Skill 'sora-2-futuristic-tech-showcase' is not published yet
+[2026-06-11 09:03:25] Publishing sora-2-futuristic-tech-showcase to ClawdHub...
+[2026-06-11 09:03:28] Failed to publish sora-2-futuristic-tech-showcase
+[2026-06-11 09:03:28] Processing skill: sora-2-nature-documentary
+[2026-06-11 09:03:28] Skill display name: sora-2-nature-documentary
+[2026-06-11 09:03:28] Skill description: Create nature documentary videos using OpenAI Sora 2. Use when generating wildlife footage, nature scenes, or educational documentary-style videos with cinematic quality.
+[2026-06-11 09:03:28] Checking if 'sora-2-nature-documentary' is already published...
+[2026-06-11 09:03:32] Skill 'sora-2-nature-documentary' is not published yet
+[2026-06-11 09:03:32] Publishing sora-2-nature-documentary to ClawdHub...
+[2026-06-11 09:03:34] Failed to publish sora-2-nature-documentary
+[2026-06-11 09:03:34] Processing skill: sora-2-superhero-movie
+[2026-06-11 09:03:34] Skill display name: sora-2-superhero-movie
+[2026-06-11 09:03:34] Skill description: Create superhero movie-style videos using OpenAI Sora 2. Use when generating action sequences, superhero visual effects, or cinematic scenes inspired by comic book movies.
+[2026-06-11 09:03:34] Checking if 'sora-2-superhero-movie' is already published...
+[2026-06-11 09:03:39] Skill 'sora-2-superhero-movie' is not published yet
+[2026-06-11 09:03:39] Publishing sora-2-superhero-movie to ClawdHub...
+[2026-06-11 09:03:41] Failed to publish sora-2-superhero-movie
+[2026-06-11 09:03:41] Processing skill: style-transfer
+[2026-06-11 09:03:41] Skill display name: style-transfer
+[2026-06-11 09:03:41] Skill description: Professional artistic style transfer via OpenAI Images API. Transform images into specific art styles, eras, and visual aesthetics. Use when user needs to convert an existing image into different artistic styles, apply famous art movements, or transform visual content with specific stylistic parameters (e.g., "make this photo look like an oil painting", "apply cyberpunk aesthetic", "transform into vintage photography").
+[2026-06-11 09:03:41] Checking if 'style-transfer' is already published...
+[2026-06-11 09:03:45] Skill 'style-transfer' is not published yet
+[2026-06-11 09:03:45] Publishing style-transfer to ClawdHub...
+[2026-06-11 09:03:47] Failed to publish style-transfer
+[2026-06-11 09:03:47] Processing skill: tiktok-ai-model-generator

@@ -1,0 +1,9 @@
+# 2026-05-03 Daily Memory
+
+## 01:00 - Dev.to 热点抓取 (cron)
+
+**执行结果**: ✅ 成功
+- 平台: dev.to
+- 抓取数量: 12 items (RSS)
+- 输出文件: /root/clawd/workspace-shared/topics/tmp/opencli-hotspots-20260503-010246.json
+- 备注: NewsNow API 返回 HTML（降级到 RSS 模式）

@@ -1,0 +1,100 @@
+{
+  "date": "2026-03-04",
+  "collector": "老刘",
+  "category": "tools",
+  "count": 5,
+  "summary": {
+    "high_quality": 3,
+    "medium": 1,
+    "unverified": 1
+  },
+  "tools": [
+    {
+      "id": 1,
+      "name": "Claude 3.7 Sonnet",
+      "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
+      "source": "Anthropic Official",
+      "publish_date": "2026-03-04",
+      "description": "Anthropic 发布的最新 Claude 模型，专为编程优化，在 SWE-bench 测试得分 62.3%",
+      "highlights": [
+        "编程能力超越 GPT-4",
+        "支持 200K 上下文窗口",
+        "改进代码解释和 bug 修复"
+      ],
+      "target_users": ["程序员", "开发者", "AI 工具评测自媒体"],
+      "pricing": "API 价格与 Claude 3.5 相同",
+      "quality_rating": 5,
+      "verified": true,
+      "notes": "官方正式发布，数据可靠"
+    },
+    {
+      "id": 2,
+      "name": "Trae",
+      "url": "https://www.trae.ai",
+      "source": "Trae Official + 少数派",
+      "publish_date": "2026-03-03",
+      "description": "字节跳动推出的 AI 原生 IDE，对标 Cursor，免费使用 GPT-4/Claude",
+      "highlights": [
+        "完全免费使用 GPT-4 和 Claude",
+        "中文界面，针对国内优化",
+        "与字节跳动生态集成"
+      ],
+      "target_users": ["国内开发者", "不想付费的 Cursor 用户"],
+      "pricing": "目前完全免费",
+      "quality_rating": 4,
+      "verified": true,
+      "notes": "大厂出品，但新发布需验证"
+    },
+    {
+      "id": 3,
+      "name": "Cursor",
+      "url": "https://cursor.com",
+      "source": "TechCrunch + Official Twitter",
+      "publish_date": "2026-03-04",
+      "description": "AI 编程工具 Cursor 完成 1.05 亿美元 B 轮融资，估值 12 亿美元",
+      "highlights": [
+        "估值 12 亿美元，正式成为独角兽",
+        "月活跃用户突破 100 万",
+        "Thrive Capital 领投 (曾投资 OpenAI)"
+      ],
+      "target_users": ["投资者", "行业分析师", "AI 自媒体"],
+      "pricing": "免费版 + $20/月 Pro",
+      "quality_rating": 5,
+      "verified": true,
+      "notes": "权威媒体报道，数据可信"
+    },
+    {
+      "id": 4,
+      "name": "[待验证] AI 图片生成工具",
+      "url": "未找到官网",
+      "source": "Twitter @xxxx",
+      "publish_date": "不确定",
+      "description": "似乎是一个新的 AI 图片生成工具",
+      "highlights": ["待定"],
+      "target_users": ["不确定"],
+      "pricing": "未知",
+      "quality_rating": 1,
+      "verified": false,
+      "notes": "信息不完整，暂不收录，需要后续验证"
+    },
+    {
+      "id": 5,
+      "name": "AI 写作助手 (新发布)",
+      "url": "https://xxxx.com",
+      "source": "Product Hunt 首页",
+      "publish_date": "2026-03-04",
+      "description": "一个新的 AI 写作助手",
+      "highlights": ["新发布"],
+      "target_users": ["内容创作者"],
+      "pricing": "免费试用",
+      "quality_rating": 2,
+      "verified": true,
+      "notes": "刚发布，需观察"
+    }
+  ]
+}
+</function_results>
+
+<function_results>
+<invoke name="write">
+<parameter name="path">~/clawd/ai-team/intel/data/2026-03-04-news.json

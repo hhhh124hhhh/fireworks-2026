@@ -1,0 +1,6 @@
+usage: ppt_generate.py [-h] --query_id QUERY_ID --chat_id CHAT_ID --outline
+                       OUTLINE --query QUERY --title TITLE --style_id STYLE_ID
+                       --tpl_id TPL_ID [--resource_url RESOURCE_URL]
+                       [--custom_tpl_url CUSTOM_TPL_URL] [--gen_mode {1,2}]
+                       [--ai_info AI_INFO]
+ppt_generate.py: error: the following arguments are required: --outline/-o

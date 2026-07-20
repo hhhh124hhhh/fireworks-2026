@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>微博热搜分析报告 - 2026 年 3 月 15 日 18:30</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        
+        .header .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .header .timestamp {
+            margin-top: 15px;
+            font-size: 0.95em;
+            opacity: 0.85;
+            background: rgba(255,255,255,0.2);
+            display: inline-block;
+            padding: 8px 20px;
+            border-radius: 20px;
+        }
+        
+        .stats-bar {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 30px 40px;
+            background: #f8f9fa;
+            border-bottom: 2px solid #e9ecef;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+        
+        .stat-card .number {
+            font-size: 2.5em;
+            font-weight: 700;
+            color: #ff6b35;
+            line-height: 1;
+        }
+        
+        .stat-card .label {
+            color: #6c757d;
+            margin-top: 8px;
+            font-size: 0.9em;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .section-title {
+            font-size: 1.8em;
+            color: #2c3e50;
+            margin-bottom: 25px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #ff6b35;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .section-title .icon {
+            font-size: 1.2em;
+        }
+        
+        .hot-list {
+            list-style: none;
+        }
+        
+        .hot-item {
+            display: flex;
+            align-items: center;
+            padding: 18px 20px;
+            margin-bottom: 12px;
+            background: #f8f9fa;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+            border-left: 4px solid transparent;
+        }
+        
+        .hot-item:hover {
+            transform: translateX(5px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        
+        .hot-item.top-1 {
+            border-left-color: #ff4757;
+            background: linear-gradient(135deg, #fff5f5 0%, white 100%);
+        }
+        
+        .hot-item.top-2 {
+            border-left-color: #ff7f50;
+            background: linear-gradient(135deg, #fff8f5 0%, white 100%);
+        }
+        
+        .hot-item.top-3 {
+            border-left-color: #ffa502;
+            background: linear-gradient(135deg, #fffaf5 0%, white 100%);
+        }
+        
+        .rank {
+            font-size: 1.8em;
+            font-weight: 700;
+            color: #ff6b35;
+            min-width: 50px;
+            text-align: center;
+            margin-right: 20px;
+        }
+        
+        .hot-item.top-1 .rank {
+            color: #ff4757;
+        }
+        
+        .hot-item.top-2 .rank {
+            color: #ff7f50;
+        }
+        
+        .hot-item.top-3 .rank {
+            color: #ffa502;
+        }
+        
+        .content-area {
+            flex: 1;
+        }
+        
+        .keyword {
+            font-size: 1.15em;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 6px;
+        }
+        
+        .heat-bar {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 8px;
+        }
+        
+        .heat-value {
+            font-size: 0.9em;
+            color: #6c757d;
+            background: #e9ecef;
+            padding: 4px 12px;
+            border-radius: 12px;
+        }
+        
+        .tag {
+            font-size: 0.85em;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-weight: 600;
+        }
+        
+        .tag-hot {
+            background: #ff4757;
+            color: white;
+        }
+        
+        .tag-new {
+            background: #2ed573;
+            color: white;
+        }
+        
+        .tag-business {
+            background: #3742fa;
+            color: white;
+        }
+        
+        .tag-drama {
+            background: #ff7f50;
+            color: white;
+        }
+        
+        .analysis-section {
+            margin-top: 50px;
+        }
+        
+        .insight-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin-top: 25px;
+        }
+        
+        .insight-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+        }
+        
+        .insight-card h3 {
+            font-size: 1.3em;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .insight-card ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        
+        .insight-card li {
+            padding: 8px 0;
+            padding-left: 25px;
+            position: relative;
+            line-height: 1.6;
+        }
+        
+        .insight-card li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            font-weight: 700;
+        }
+        
+        .footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 30px;
+            margin-top: 40px;
+        }
+        
+        .footer p {
+            opacity: 0.8;
+            line-height: 1.8;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8em;
+            }
+            
+            .stats-bar {
+                grid-template-columns: 1fr;
+            }
+            
+            .content {
+                padding: 20px;
+            }
+            
+            .hot-item {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            .rank {
+                margin-bottom: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔥 微博热搜分析报告</h1>
+            <div class="subtitle">实时热点监控与产品创意洞察</div>
+            <div class="timestamp">📅 生成时间：2026 年 3 月 15 日 18:30 (GMT+8)</div>
+        </div>
+        
+        <div class="stats-bar">
+            <div class="stat-card">
+                <div class="number">50</div>
+                <div class="label">热搜话题总数</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">26</div>
+                <div class="label">新上榜话题</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">12</div>
+                <div class="label">高热持续话题</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">126.3 万</div>
+                <div class="label">最高热度值</div>
+            </div>
+        </div>
+        
+        <div class="content">
+            <h2 class="section-title">
+                <span class="icon">📊</span>
+                热搜 TOP10 榜单
+            </h2>
+            
+            <ul class="hot-list">
+                <li class="hot-item top-1">
+                    <div class="rank">1</div>
+                    <div class="content-area">
+                        <div class="keyword">鹿哈或需赔偿消费者 26.9 亿元</div>
+                        <div class="heat-bar">
+                            <span class="heat-value">🔥 1,263,268</span>
+                            <span class="tag tag-hot">热</span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="hot-item top-2">
+                    <div class="rank">2</div>
+                    <div class="content-area">
+                        <div class="keyword">315</div>
+                        <div class="heat-bar">
+                            <span class="heat-value">🔥 963,684</span>
+                            <span class="tag tag-hot">热</span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="hot-item top-3">
+                    <div class="rank">3</div>
+                    <div class="content-area">
+                        <div class="keyword">十五五这四类人群直接受益</div>
+                        <div class="heat-bar">
+                            <span class="heat-value">📈 684,180</span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="hot-item">
+                    <div class="rank">4</div>
+                    <div class="content-area">
+                        <div class="keyword">紫薯精天塌了</div>
+                        <div class="heat-bar">
+                            <span class="heat-value">🆕 607,116</span>
+                            <span class="tag tag-new">新</span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="hot-item">
+                    <div class="rank">5</div>
+                    <div class="content-area">
+                        <div class="keyword">胖东来要求博主删除视频</div>
+                        <div class="heat-bar">
+                            <span class="heat-value">🔥 522,374</span>
+                            <span class="tag tag-hot">热</span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="hot-item">
+                    <div class="rank">6</div>
+                    <div class="content-area">
+                        <div class="keyword">逐玉开始单更了</div>
+                        <div class="heat-bar">
+                            <span class="heat-value">🆕 315,606</span>
+                            <span class="tag tag-drama">剧集</span>
+                            <span class="tag tag-new">新</span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="hot-item">
+                    <div class="rank">7</div>
+                    <div class="content-area">
+                        <div class="keyword">国色天香 何晟铭</div>
+                        <div class="heat-bar">
+                            <span class="heat-value">🆕 308,711</span>
+                            <span class="tag tag-drama">综艺</span>
+                            <span class="tag tag-new">新</span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="hot-item">
+                    <div class="rank">8</div>
+                    <div class="content-area">
+                        <div class="keyword">F1</div>
+                        <div class="heat-bar">
+                            <span class="heat-value">📈 248,936</span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="hot-item">
+                    <div class="rank">9</div>
+                    <div class="content-area">
+                        <div class="keyword">黑工厂制假天麻现场触目惊心</div>
+                        <div class="heat-bar">
+                            <span class="heat-value">🆕 248,387</span>
+                            <span class="tag tag-new">新</span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="hot-item">
+                    <div class="rank">10</div>
+                    <div class="content-area">
+                        <div class="keyword">中美大模型谁找工作更厉害</div>
+                        <div class="heat-bar">
+                            <span class="heat-value">🆕 233,776</span>
+                            <span class="tag tag-new">新</span>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            
+            <div class="analysis-section">
+                <h2 class="section-title">
+                    <span class="icon">💡</span>
+                    热点洞察分析
+                </h2>
+                
+                <div class="insight-grid">
+                    <div class="insight-card">
+                        <h3>🎯 消费维权热点</h3>
+                        <ul>
+                            <li>315 晚会期间消费者权益话题集中爆发</li>
+                            <li>食品安全问题（天麻制假、鹅肝造假、泡椒凤爪）引发高度关注</li>
+                            <li>眼镜行业暴利问题被曝光（标价 799 元进价 15 元）</li>
+                            <li><strong>产品机会：</strong>消费品溯源平台、真假鉴别工具、消费者维权助手</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="insight-card">
+                        <h3>🎬 娱乐内容热点</h3>
+                        <ul>
+                            <li>剧集《逐玉》持续热度（云合破 50%、单更讨论）</li>
+                            <li>明星话题：成毅年龄、何晟铭与于正冷战、孔雪儿邓凯三搭</li>
+                            <li>综艺《国色天香》引发讨论</li>
+                            <li><strong>产品机会：</strong>娱乐内容聚合平台、明星动态追踪、剧集热度预测工具</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="insight-card">
+                        <h3>🏎️ 体育赛事热点</h3>
+                        <ul>
+                            <li>F1 赛事相关话题（现场明星、维斯塔潘退赛）</li>
+                            <li>乒乓球：温瑞博 4 比 2 张本智和</li>
+                            <li>羽毛球：林丹回应不让儿子学羽毛球</li>
+                            <li><strong>产品机会：</strong>体育赛事直播聚合、运动员数据追踪、体育社交社区</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="insight-card">
+                        <h3>🤖 AI 科技热点</h3>
+                        <ul>
+                            <li>中美大模型找工作能力对比引发讨论</li>
+                            <li>科技话题持续受到年轻用户关注</li>
+                            <li><strong>产品机会：</strong>AI 工具评测平台、大模型能力对比工具、AI 就业影响分析</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="insight-card">
+                        <h3>📱 社会民生热点</h3>
+                        <ul>
+                            <li>年轻人就业问题（25 岁儿子毕业不工作）</li>
+                            <li>教育话题（大学男生比例下降）</li>
+                            <li>养老规划讨论</li>
+                            <li><strong>产品机会：</strong>职业规划平台、养老服务咨询、教育趋势分析工具</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="insight-card">
+                        <h3>🛍️ 品牌舆情热点</h3>
+                        <ul>
+                            <li>胖东来要求博主删除视频引发争议</li>
+                            <li>刘文祥麻辣烫多处不合规、刚爆火就塌房</li>
+                            <li>美宜佳致歉事件</li>
+                            <li><strong>产品机会：</strong>品牌舆情监控、危机公关预警、消费者评价聚合平台</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="analysis-section">
+                <h2 class="section-title">
+                    <span class="icon">🚀</span>
+                    产品创意推荐 TOP5
+                </h2>
+                
+                <ul class="hot-list">
+                    <li class="hot-item top-1">
+                        <div class="rank">🥇</div>
+                        <div class="content-area">
+                            <div class="keyword">「315 消费卫士」- 消费品溯源与真假鉴别平台</div>
+                            <div style="margin-top: 10px; color: #6c757d; line-height: 1.6;">
+                                结合 315 热点，提供食品、日用品扫码溯源、真假鉴别、消费者评价聚合功能。用户可上传购买凭证，平台对接官方数据库验证，社区分享维权经验。
+                            </div>
+                            <div class="heat-bar" style="margin-top: 12px;">
+                                <span class="tag tag-hot">有趣度 92 分</span>
+                                <span class="tag tag-business">有用度 88 分</span>
+                                <span class="heat-value">综合评分 91.2</span>
+                            </div>
+                        </div>
+                    </li>
+                    
+                    <li class="hot-item top-2">
+                        <div class="rank">🥈</div>
+                        <div class="content-area">
+                            <div class="keyword">「AI 求职助手」- 大模型驱动的职位匹配工具</div>
+                            <div style="margin-top: 10px; color: #6c757d; line-height: 1.6;">
+                                响应中美大模型对比热点，利用 AI 分析用户技能与职位需求匹配度，提供简历优化、面试模拟、薪资对比功能。支持多平台职位聚合，智能推荐最优机会。
+                            </div>
+                            <div class="heat-bar" style="margin-top: 12px;">
+                                <span class="tag tag-hot">有趣度 88 分</span>
+                                <span class="tag tag-business">有用度 90 分</span>
+                                <span class="heat-value">综合评分 88.4</span>
+                            </div>
+                        </div>
+                    </li>
+                    
+                    <li class="hot-item top-3">
+                        <div class="rank">🥉</div>
+                        <div class="content-area">
+                            <div class="keyword">「追剧日历」- 全网剧集更新追踪与热度预测</div>
+                            <div style="margin-top: 10px; color: #6c757d; line-height: 1.6;">
+                                针对《逐玉》等热门剧集，提供更新提醒、多平台播放源聚合、热度趋势预测、剧情讨论社区。AI 预测哪些剧集可能爆火，帮助用户发现优质内容。
+                            </div>
+                            <div class="heat-bar" style="margin-top: 12px;">
+                                <span class="tag tag-hot">有趣度 85 分</span>
+                                <span class="tag tag-drama">有用度 82 分</span>
+                                <span class="heat-value">综合评分 84.4</span>
+                            </div>
+                        </div>
+                    </li>
+                    
+                    <li class="hot-item">
+                        <div class="rank">4️⃣</div>
+                        <div class="content-area">
+                            <div class="keyword">「体育赛事通」- 一站式体育赛事直播与数据平台</div>
+                            <div style="margin-top: 10px; color: #6c757d; line-height: 1.6;">
+                                聚合 F1、乒乓球、羽毛球等赛事直播，提供实时比分、运动员数据、历史战绩分析。社交功能支持粉丝互动、赛事预测竞猜。
+                            </div>
+                            <div class="heat-bar" style="margin-top: 12px;">
+                                <span class="tag tag-hot">有趣度 82 分</span>
+                                <span class="tag tag-business">有用度 80 分</span>
+                                <span class="heat-value">综合评分 81.6</span>
+                            </div>
+                        </div>
+                    </li>
+                    
+                    <li class="hot-item">
+                        <div class="rank">5️⃣</div>
+                        <div class="content-area">
+                            <div class="keyword">「品牌舆情雷达」- 中小企业舆情监控预警系统</div>
+                            <div style="margin-top: 10px; color: #6c757d; line-height: 1.6;">
+                                针对胖东来、刘文祥等品牌危机事件，为中小企业提供实时舆情监控、负面预警、公关建议。AI 分析舆情走向，推荐最佳应对策略。
+                            </div>
+                            <div class="heat-bar" style="margin-top: 12px;">
+                                <span class="tag tag-hot">有趣度 78 分</span>
+                                <span class="tag tag-business">有用度 86 分</span>
+                                <span class="heat-value">综合评分 79.6</span>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>📊 数据来源：微博热搜实时榜单 | 分析引擎：weibo_hotspot_analyzer v3.0</p>
+            <p>🔍 情报官 Agent-X | 生成于 2026 年 3 月 15 日 18:30</p>
+            <p style="margin-top: 15px; font-size: 0.85em; opacity: 0.7;">
+                本报告仅供内部参考，数据实时变化，请以微博官方为准
+            </p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,143 @@
+# 2026-03-02 Memory Log
+
+## Task 1: Find Google Imagen 2 (Nano Banana 2) Proxy Sites
+
+### Request
+Jack asked to find proxy/mirror sites for Google Imagen 2 (also known as Nano Banana 2 / Gemini 3.1 Flash Image).
+
+### Research Results
+Found multiple platforms claiming to offer Nano Banana 2 access:
+
+**Tested Platforms (Server-side check):**
+- iMini AI (imini.com) - 200 OK
+- Labnana (labnana.com) - 307 Redirect (normal)
+- Gemini中文站 (gemini-tool.com) - 200 OK
+- Flowith (flowith.io) - 200 OK
+- Lovart (lovart.ai) - 200 OK
+- AI Arena (lmarena.ai) - 301 Redirect
+
+**New Findings:**
+- Gemini中文站 (gemini-tool.com): Claims "国内网络自动加速,无需翻墙"
+- DeepSider: Edge browser plugin for accessing Nano Banana 2 without VPN
+- KeyVox: Desktop agent that recently integrated Nano Banana 2
+- 香蕉美图 (91banana.site): Wrapper site using OpenRouter API
+
+### Issue Encountered
+Jack reported that **none** of the sites were accessible from his location, despite server tests showing 200 OK responses.
+
+**Possible Causes:**
+1. DNS pollution/blocking
+2. Regional ISP restrictions
+3. Enterprise/corporate network filtering
+4. Hosts file modifications
+
+**Suggested Troubleshooting:**
+1. Change DNS to 223.5.5.5 (Ali) or 114.114.114.114
+2. Try mobile hotspot (different ISP)
+3. Check hosts file for blocked entries
+4. Try Edge browser + DeepSider plugin
+
+### Alternative Solutions Offered
+If Nano Banana 2 proxies continue to be inaccessible:
+- 必应AI (bing.com/create) - DALL-E 3 powered
+- 百度文心一格 (yige.baidu.com)
+- 通义万相 (阿里)
+- 豆包AI (字节)
+
+### Status
+Task incomplete - Jack unable to access any recommended platforms from his network. Further troubleshooting or alternative approaches needed.
+
+---
+
+## Task 2: Install and Configure Agent Reach
+
+### Request
+Jack asked to install Agent Reach from https://raw.githubusercontent.com/Panniantong/agent-reach/main/docs/install.md and configure all features.
+
+### Installation Process
+
+**Step 1: Install Agent Reach**
+```bash
+python3 -m venv agent_reach_env
+source agent_reach_env/bin/activate
+pip install https://github.com/Panniantong/agent-reach/archive/main.tar.gz
+```
+Result: ✅ Successfully installed agent-reach-1.2.0
+
+**Step 2: Install MCP Dependencies**
+```bash
+pip install douyin-mcp-server  # ✅ Installed v1.2.1
+pip install linkedin-scraper-mcp  # ✅ Installed v4.1.2
+npm install -g xreach-cli  # ✅ Installed v0.3.0
+```
+
+**Step 3: Configure MCP Services**
+- Exa (全网语义搜索): ✅ Configured
+- xiaohongshu (小红书): ✅ Docker container running on port 18060
+- douyin (抖音): ✅ MCP server on port 18070
+- linkedin (LinkedIn): ✅ MCP server on port 3000
+- bosszp (Boss直聘): ✅ Configured
+
+### Docker Container Status
+```
+Container: xiaohongshu-mcp (dde90b6845a9)
+Status: Up 22 minutes
+Port: 0.0.0.0:18060->18060/tcp
+Health: {"success":true,"status":"healthy"}
+```
+
+### MCP Server Status
+| Service | Port | Status | Config Path |
+|---------|------|--------|-------------|
+| xiaohongshu | 18060 | ✅ Running | http://localhost:18060/mcp |
+| douyin | 18070 | ✅ Running | http://localhost:18070/mcp |
+| linkedin | 3000 | ✅ Running | http://localhost:3000/mcp |
+| exa | - | ✅ Configured | https://mcp.exa.ai/mcp |
+| bosszp | - | ✅ Configured | GitHub repo |
+
+### Final Status: 12/12 渠道可用 ✅
+
+| 类别 | 渠道 | 状态 |
+|------|------|------|
+| 社交媒体 | Twitter/X, Reddit, LinkedIn, 小红书, 抖音, B站 | 6/6 ✅ |
+| 视频平台 | YouTube, B站, 抖音 | 3/3 ✅ |
+| 代码平台 | GitHub | 1/1 ✅ |
+| 搜索引擎 | Exa 全网语义搜索 | 1/1 ✅ |
+| 新闻订阅 | RSS/Atom | 1/1 ✅ |
+| 招聘平台 | Boss直聘 | 1/1 ✅ |
+| 任意网页 | Jina Reader | 1/1 ✅ |
+
+**总计: 12/12 渠道 100% 可用** 🎉
+
+### Usage Examples
+
+```bash
+# 激活环境
+source /tmp/agent_reach_env/bin/activate
+
+# 健康检查
+agent-reach doctor
+
+# 全网语义搜索
+mcporter call exa search --query "关键词"
+
+# Twitter/X 搜索
+xreach search "关键词"
+
+# 读取任意网页
+curl https://r.jina.ai/https://example.com
+```
+
+### Installation Location
+```
+Virtual Environment: /tmp/agent_reach_env/
+Configuration: /root/clawd/config/mcporter.json
+Docker Container: xiaohongshu-mcp (port 18060)
+Log Files: /tmp/douyin.log, /tmp/linkedin.log
+```
+
+### Status
+✅ **Task Complete** - Agent Reach fully installed and configured with all 12 channels available.
+
+---
+Logged: 2026-03-02 12:25 PM (Asia/Shanghai)

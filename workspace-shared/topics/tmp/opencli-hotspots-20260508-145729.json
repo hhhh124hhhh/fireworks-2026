@@ -1,0 +1,1055 @@
+{
+  "timestamp": "2026-05-08 14:57:29",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+          "score": 538,
+          "author": "stefanpie",
+          "comments": 337,
+          "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach"
+        },
+        {
+          "rank": 2,
+          "title": "Maybe you shouldn't install new software for a bit",
+          "score": 399,
+          "author": "psxuaw",
+          "comments": 196,
+          "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://xeiaso.net/blog/2026/abstain-from-install/"
+        },
+        {
+          "rank": 3,
+          "title": "Cloudflare to cut about 20% workforce",
+          "score": 575,
+          "author": "PriorityLeft",
+          "comments": 341,
+          "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/"
+        },
+        {
+          "rank": 4,
+          "title": "Dirtyfrag: Universal Linux LPE",
+          "score": 571,
+          "author": "flipped",
+          "comments": 229,
+          "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://www.openwall.com/lists/oss-security/2026/05/07/8"
+        },
+        {
+          "rank": 5,
+          "title": "Mojo 1.0 Beta",
+          "score": 65,
+          "author": "sbt567",
+          "comments": 33,
+          "url": "https://mojolang.org/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://mojolang.org/"
+        },
+        {
+          "rank": 6,
+          "title": "Pinocchio is weirder than you remembered",
+          "score": 104,
+          "author": "cemsakarya",
+          "comments": 37,
+          "url": "https://storica.club/blog/pinocchio-in-italian/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://storica.club/blog/pinocchio-in-italian/"
+        },
+        {
+          "rank": 7,
+          "title": "The map that keeps Burning Man honest",
+          "score": 612,
+          "author": "speckx",
+          "comments": 309,
+          "url": "https://www.not-ship.com/burning-man-moop/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://www.not-ship.com/burning-man-moop/"
+        },
+        {
+          "rank": 8,
+          "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+          "score": 25,
+          "author": "peter_d_sherman",
+          "comments": 3,
+          "url": "https://github.com/graemeg/blaise",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://github.com/graemeg/blaise"
+        },
+        {
+          "rank": 9,
+          "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+          "score": 16,
+          "author": "timvisee",
+          "comments": 2,
+          "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/"
+        },
+        {
+          "rank": 10,
+          "title": "Agents need control flow, not more prompts",
+          "score": 427,
+          "author": "bsuh",
+          "comments": 211,
+          "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://bsuh.bearblog.dev/agents-need-control-flow/"
+        },
+        {
+          "rank": 11,
+          "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+          "score": 66,
+          "author": "foltik",
+          "comments": 29,
+          "url": "https://github.com/robertdfrench/ifuncd-up",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://github.com/robertdfrench/ifuncd-up"
+        },
+        {
+          "rank": 12,
+          "title": "How to make SSE token streams resumable, cancellable, and multi-device",
+          "score": 18,
+          "author": "zknill",
+          "comments": 0,
+          "url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/"
+        },
+        {
+          "rank": 13,
+          "title": "Los Alamos and the long path to detecting neutrinos",
+          "score": 26,
+          "author": "LAsteNERD",
+          "comments": 3,
+          "url": "https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger"
+        },
+        {
+          "rank": 14,
+          "title": "Plasticity and language in the anaesthetized human hippocampus",
+          "score": 95,
+          "author": "hhs",
+          "comments": 38,
+          "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain"
+        },
+        {
+          "rank": 15,
+          "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+          "score": 251,
+          "author": "instagraham",
+          "comments": 84,
+          "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://www.anthropic.com/research/natural-language-autoencoders"
+        },
+        {
+          "rank": 16,
+          "title": "Gambling ads on social media reach more than twice as many men as women: study",
+          "score": 52,
+          "author": "hhs",
+          "comments": 39,
+          "url": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women"
+        },
+        {
+          "rank": 17,
+          "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+          "score": 281,
+          "author": "berlianta",
+          "comments": 122,
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://deepmind.google/blog/alphaevolve-impact/"
+        },
+        {
+          "rank": 18,
+          "title": "DeepSeek 4 Flash local inference engine for Metal",
+          "score": 357,
+          "author": "tamnd",
+          "comments": 99,
+          "url": "https://github.com/antirez/ds4",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://github.com/antirez/ds4"
+        },
+        {
+          "rank": 19,
+          "title": "Inventing Cyrillic",
+          "score": 10,
+          "author": "lermontov",
+          "comments": 0,
+          "url": "https://www.historytoday.com/archive/history-matters/inventing-cyrillic",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://www.historytoday.com/archive/history-matters/inventing-cyrillic"
+        },
+        {
+          "rank": 20,
+          "title": "AI slop is killing online communities",
+          "score": 593,
+          "author": "thm",
+          "comments": 532,
+          "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
+        },
+        {
+          "rank": 21,
+          "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
+          "score": 158,
+          "author": "wslh",
+          "comments": 112,
+          "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/"
+        },
+        {
+          "rank": 22,
+          "title": "Singapore introduces caning for boys who bully others at school",
+          "score": 145,
+          "author": "rustoo",
+          "comments": 162,
+          "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies"
+        },
+        {
+          "rank": 23,
+          "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
+          "score": 130,
+          "author": "hhs",
+          "comments": 36,
+          "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants"
+        },
+        {
+          "rank": 24,
+          "title": "Digging into Drama at the Document Foundation",
+          "score": 10,
+          "author": "signa11",
+          "comments": 0,
+          "url": "https://lwn.net/Articles/1066418/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://lwn.net/Articles/1066418/"
+        },
+        {
+          "rank": 25,
+          "title": "Hardening Firefox with Claude Mythos Preview",
+          "score": 150,
+          "author": "HieronymusBosch",
+          "comments": 81,
+          "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/"
+        },
+        {
+          "rank": 26,
+          "title": "I want to live like Costco people",
+          "score": 280,
+          "author": "speckx",
+          "comments": 583,
+          "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://tastecooking.com/i-want-to-live-like-costco-people/"
+        },
+        {
+          "rank": 27,
+          "title": "US will start revoking passports for parents who owe child support",
+          "score": 36,
+          "author": "OutOfHere",
+          "comments": 11,
+          "url": "https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6"
+        },
+        {
+          "rank": 28,
+          "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+          "score": 78,
+          "author": "jruohonen",
+          "comments": 18,
+          "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
+        },
+        {
+          "rank": 29,
+          "title": "Programming Still Sucks",
+          "score": 575,
+          "author": "jeromechoo",
+          "comments": 291,
+          "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp"
+        },
+        {
+          "rank": 30,
+          "title": "Creating for a niche",
+          "score": 55,
+          "author": "snide",
+          "comments": 7,
+          "url": "https://www.davesnider.com/posts/working-in-a-niche",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://www.davesnider.com/posts/working-in-a-niche"
+        }
+      ]
+    },
+    "github": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "anthropics /financial-services",
+          "description": "",
+          "url": "https://github.com/anthropics/financial-services",
+          "language": "Python",
+          "stars": 12653,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "Hmbown /DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "language": "Rust",
+          "stars": 20140,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "z-lab /dflash",
+          "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+          "url": "https://github.com/z-lab/dflash",
+          "language": "Python",
+          "stars": 3591,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "InsForge /InsForge",
+          "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+          "url": "https://github.com/InsForge/InsForge",
+          "language": "TypeScript",
+          "stars": 8966,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "LearningCircuit /local-deep-research",
+          "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp",
+          "url": "https://github.com/LearningCircuit/local-deep-research",
+          "language": "Python",
+          "stars": 6427,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "addyosmani /agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "language": "Shell",
+          "stars": 33481,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "VectifyAI /PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "language": "Python",
+          "stars": 29802,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "vercel-labs /open-agents",
+          "description": "An open source template for building cloud agents.",
+          "url": "https://github.com/vercel-labs/open-agents",
+          "language": "TypeScript",
+          "stars": 5141,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "docusealco /docuseal",
+          "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+          "url": "https://github.com/docusealco/docuseal",
+          "language": "Ruby",
+          "stars": 15759,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "decolua /9router",
+          "description": "🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "url": "https://github.com/decolua/9router",
+          "language": "JavaScript",
+          "stars": 4870,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "PriorLabs /TabPFN",
+          "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+          "url": "https://github.com/PriorLabs/TabPFN",
+          "language": "Python",
+          "stars": 6839,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "aaif-goose /goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "url": "https://github.com/aaif-goose/goose",
+          "language": "Rust",
+          "stars": 44619,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "v2ex": {
+      "count": 10,
+      "items": [
+        {
+          "rank": 1,
+          "title": "# GPT-5.4 / 5.5 / 5.3-codex / image2 中转站，评论送 15 美刀",
+          "replies": 336,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "Opus 自由，限量开抢！ 498 兑换 2000 美金额度（评论就送＄ 20 额度）！",
+          "replies": 224,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "免费送奖品价值超万元：程序员 VIbe Coding 最佳搭子，行走式编程最佳形态！",
+          "replies": 168,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "[压力测试] Codex GPT-5.5 新中转站开业，人人免费领 3 亿 token， 评论立送 300 美刀/月会员",
+          "replies": 109,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "周末双休会选择去爬山吗？",
+          "replies": 89,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "工作其实没那么难找",
+          "replies": 86,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "AI 让事物贬值，各种层面上",
+          "replies": 61,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "[求助] 试用期两个月考核全部合格，公司强行凑低分辞退，已提交劳动仲裁，求建议",
+          "replies": 59,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "求一个稳定梯子， FlowerCloud 延迟老不正常，感觉要跑路了",
+          "replies": 57,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "兄弟们，决赛圈了小米 YU7、理想 i6、方程豹钛 7EV 三选一",
+          "replies": 47,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "deepsec, vercel-openclaw, Next.js Security Releases, Adapters API, portless, shadcn/ui, Vercel Weekly",
+          "description": "<p><a href=\"https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base\" rel=\"noopener noreferrer\"><img src=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfi",
+          "url": "https://dev.to/erfanebrahimnia/deepsec-vercel-openclaw-nextjs-security-releases-adapters-api-portless-shadcnui-vercel-11ap",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "🔒 Stop Exposing Emails, Phones & Cards in Logs — Meet `validata-py`",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzbk1xt6ag86hxziw",
+          "url": "https://dev.to/vishnubytes/stop-exposing-emails-phones-cards-in-logs-meet-validata-py-8b3",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "The MCP Cost Ledger: FinOps Billing for 47 AI Agents Without a Tag Schema",
+          "description": "<p>The 47th agent is when finance shows up. Below 30 agents in production, the Anthropic invoice is one tolerable line item somewhere south of $25,000 a month, and nobody asks who is spending what. Pa",
+          "url": "https://dev.to/muskan_8abedcc7e12/the-mcp-cost-ledger-finops-billing-for-47-ai-agents-without-a-tag-schema-155",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Multi-Region Disaster Recovery: What Your RPO/RTO Decisions Actually Cost",
+          "description": "<p>Every RPO and RTO target in your DR plan has a line item attached to it. A 15-minute RPO costs a specific amount per month. A 5-minute RPO costs roughly twice that. Most <a href=\"https://zop.dev/re",
+          "url": "https://dev.to/muskan_8abedcc7e12/multi-region-disaster-recovery-what-your-rporto-decisions-actually-cost-2kl3",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "CI/CD Infrastructure Cost: The Budget Leak Hidden in Your Pipelines",
+          "description": "<p>Most engineering teams audit their production <a href=\"https://zop.dev/resources/blogs/the-terraform-state-management-challenge-a-deep-dive-into-its-pitfalls-and-solutions-qbwduqt17g7n\" rel=\"noopen",
+          "url": "https://dev.to/muskan_8abedcc7e12/cicd-infrastructure-cost-the-budget-leak-hidden-in-your-pipelines-naj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Kubernetes Network Policies Cut Egress Bills, Not Just Attack Surface",
+          "description": "<p>Most teams add NetworkPolicy to their Kubernetes clusters for security reasons. They want microsegmentation. They want blast radius control. Cost is not part of the conversation.</p>\n\n<p>That is a ",
+          "url": "https://dev.to/muskan_8abedcc7e12/kubernetes-network-policies-cut-egress-bills-not-just-attack-surface-oap",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "I Replaced Datadog With a 10MB Monitoring Tool (Here's What Happened)",
+          "description": "<p>I have 4 servers. Nothing enterprise-grade - a couple of app servers, a database box, and a staging machine. Datadog was costing me $60/month to show me CPU graphs and disk usage.</p>\n\n<p>That felt",
+          "url": "https://dev.to/vikasprogrammer/i-replaced-datadog-with-a-10mb-monitoring-tool-heres-what-happened-471c",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "What Your Agent Will Cost You on a Tuesday",
+          "description": "<p>A field guide to the fragilities the agent dashboard does not show.</p>\n\n<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2",
+          "url": "https://dev.to/praveen_govi_ai/what-your-agent-will-cost-you-on-a-tuesday-2dk8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "I tried simplifying how people start selling online — here’s what I built",
+          "description": "<p>Hey everyone 👋</p>\n\n<p>I kept noticing how complicated it can be for someone to start selling products online.</p>\n\n<p>Between setting up a store, managing listings, and figuring out tools, it feel",
+          "url": "https://dev.to/nelson_macharia_54a2e910f/i-tried-simplifying-how-people-start-selling-online-heres-what-i-built-npj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Astro 4 and React Server Components: The Unexpected benchmark for Security",
+          "description": "<h1>\n  \n  \n  Astro 4 &amp; React Server Components: The Unexpected Security Benchmark\n</h1>\n\n<p>Modern web development frameworks are constantly evolving to balance performance, developer experience, ",
+          "url": "https://dev.to/johalputt/astro-4-and-react-server-components-the-unexpected-benchmark-for-security-e5k",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Zapier Best No-Code Platforms: What No One Tells You",
+          "description": "<p>After auditing 47 no-code workflows across 12 engineering teams in Q3 2024, we found that 68% of Zapier-dependent pipelines silently drop 12-18% of events under load, with 92% of teams unaware of t",
+          "url": "https://dev.to/johalputt/zapier-best-no-code-platforms-what-no-one-tells-you-3cei",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "I Built a React SPA and Tried to Rank on Google. Here Are My Real Numbers After 12 Weeks.",
+          "description": "<p>If you've built a single-page app and wondered whether Google will ever find it, I have 12 weeks of real data for you.</p>\n\n<p>I launched a SaaS tool in February 2026. React + Vite + TypeScript fro",
+          "url": "https://dev.to/prash2026/i-built-a-react-spa-and-tried-to-rank-on-google-here-are-my-real-numbers-after-12-weeks-2626",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Dirty Frag: Universal Linux LPE",
+          "description": "",
+          "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+          "score": 65,
+          "comments": 23,
+          "tags": [
+            "linux",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "jj v0.41.0 is out",
+          "description": "",
+          "url": "https://github.com/jj-vcs/jj/releases/tag/v0.41.0",
+          "score": 46,
+          "comments": 16,
+          "tags": [
+            "release",
+            "vcs"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Ploopy Bean - external trackpoint",
+          "description": "<p>AFAIU this is a wired device even if promotional images seem to suggest different.</p>\n",
+          "url": "https://ploopy.co/bean/",
+          "score": 41,
+          "comments": 17,
+          "tags": [
+            "hardware"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Why Don’t Lowercase Letters Come Right After Uppercase Letters in ASCII?",
+          "description": "",
+          "url": "https://tylerhillery.com/blog/why-dont-lowercase-chars-come-after-upper/",
+          "score": 22,
+          "comments": 2,
+          "tags": [
+            "historical",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "AI Slop is Killing Online Communities",
+          "description": "",
+          "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+          "score": 39,
+          "comments": 44,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+          "description": "",
+          "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+          "score": 35,
+          "comments": 14,
+          "tags": [
+            "browsers",
+            "security",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
+          "description": "",
+          "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+          "score": 19,
+          "comments": 3,
+          "tags": [
+            "ruby"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "A PHP license change is imminent",
+          "description": "",
+          "url": "https://lwn.net/Articles/1063993/",
+          "score": 34,
+          "comments": 4,
+          "tags": [
+            "law",
+            "php"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Copy Fail 2: Electric Boogaloo",
+          "description": "",
+          "url": "https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo",
+          "score": 8,
+          "comments": 1,
+          "tags": [
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Making your own programming language is easier than you think (but also harder)",
+          "description": "",
+          "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+          "score": 30,
+          "comments": 17,
+          "tags": [
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "cuda-oxide: cuda-oxide is an experimental Rust-to-CUDA compiler",
+          "description": "",
+          "url": "https://github.com/NVlabs/cuda-oxide",
+          "score": 6,
+          "comments": 1,
+          "tags": [
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Mojo v1.0.0b1",
+          "description": "",
+          "url": "https://mojolang.org/releases/v1.0.0b1",
+          "score": 12,
+          "comments": 0,
+          "tags": [
+            "ai",
+            "plt",
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "The cuda-oxide Book",
+          "description": "",
+          "url": "https://nvlabs.github.io/cuda-oxide/",
+          "score": 5,
+          "comments": 0,
+          "tags": [
+            "graphics",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "Potential Consequences of Using Postgres as a Job Queue",
+          "description": "",
+          "url": "http://richyen.com/postgres/2026/05/04/postgres_job_queue.html",
+          "score": 19,
+          "comments": 3,
+          "tags": [
+            "databases",
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "From Supabase to Clerk to Better Auth",
+          "description": "",
+          "url": "https://blog.val.town/better-auth",
+          "score": 2,
+          "comments": 0,
+          "tags": [
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Building the deployment tool I wish I had",
+          "description": "",
+          "url": "https://ruuda.nl/2026/deptool",
+          "score": 87,
+          "comments": 20,
+          "tags": [
+            "devops",
+            "release",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Revisiting PQ WireGuard",
+          "description": "",
+          "url": "https://eprint.iacr.org/2025/1758.pdf",
+          "score": 2,
+          "comments": 0,
+          "tags": [
+            "cryptography",
+            "pdf"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Open weights are quietly closing up - and that's a problem",
+          "description": "",
+          "url": "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/",
+          "score": 43,
+          "comments": 20,
+          "tags": [
+            "ai"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Affordances of a screenless writing interface",
+          "description": "",
+          "url": "https://jamesg.blog/2026/05/07/affordances-of-a-screenless-writing-interface",
+          "score": 5,
+          "comments": 2,
+          "tags": [
+            "a11y"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "Additive Blending on the Nintendo 64",
+          "description": "",
+          "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+          "score": 4,
+          "comments": 0,
+          "tags": [
+            "graphics",
+            "retrocomputing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 84,
+    "hackernews": 30,
+    "github": 12,
+    "v2ex": 10,
+    "devto": 12,
+    "lobsters": 20
+  }
+}

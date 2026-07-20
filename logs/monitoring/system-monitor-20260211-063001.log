@@ -1,0 +1,12 @@
+[2026-02-11T06:30:01+00:00] [INFO] Starting system monitoring
+[2026-02-11T06:30:01+00:00] [INFO] Starting metrics collection
+[2026-02-11T06:30:02+00:00] [INFO] Metrics collected: CPU: 4.8%, Mem: 52.7%, Disk: 83%, SearXNG: running
+[2026-02-11T06:30:02+00:00] [INFO] Monitoring Docker containers
+[2026-02-11T06:30:02+00:00] [INFO] Container searxng: running
+[2026-02-11T06:30:02+00:00] [INFO] Monitoring cron tasks
+[2026-02-11T06:30:02+00:00] [INFO] Last AI Research cron run: No data
+[2026-02-11T06:30:02+00:00] [INFO] Checking service health
+[2026-02-11T06:30:02+00:00] [INFO] SearXNG health check: OK
+[2026-02-11T06:30:17+00:00] [INFO] OpenClaw Gateway health check: OK
+[2026-02-11T06:30:17+00:00] [INFO] Generating monitoring report
+[2026-02-11T06:30:17+00:00] [INFO] Monitoring completed

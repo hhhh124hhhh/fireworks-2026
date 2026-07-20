@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "newsnow": {
+      "command": "npx",
+      "args": ["-y", "newsnow-mcp@latest"],
+      "description": "NewsNow MCP Server - 全网热点抓取（知乎/微博/百度/抖音/B 站等）",
+      "disabled": false
+    },
+    "chrome-devtools": {
+      "command": "npx",
+      "args": ["chrome-devtools-mcp@latest", "--browser-url=http://127.0.0.1:9222", "--slim"],
+      "description": "Chrome DevTools MCP - 真实浏览器自动化（CDP 9222 端口）"
+    }
+  },
+  "imports": [],
+  "_notes": {
+    "newsnow": {
+      "api_url": "https://newsnow.busiyi.world/api/hotlist",
+      "api_key_required": false,
+      "platforms": ["zhihu", "weibo", "bilibili", "douyin", "toutiao", "baidu", "thepaper", "cls", "wallstreetcn", "tieba", "hackernews", "github", "v2ex", "arxiv", "producthunt"],
+      "usage": "使用 MCP 工具调用，或通过 opencli 降级",
+      "fallback": "opencli + Chrome DevTools (CDP 9222)"
+    }
+  }
+}

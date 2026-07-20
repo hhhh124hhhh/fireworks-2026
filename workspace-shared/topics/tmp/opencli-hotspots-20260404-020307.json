@@ -1,0 +1,795 @@
+{
+  "timestamp": "2026-04-04 02:03:07",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "iNaturalist",
+          "score": 43,
+          "author": "bookofjoe",
+          "comments": 8,
+          "url": "https://www.inaturalist.org/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://www.inaturalist.org/"
+        },
+        {
+          "rank": 2,
+          "title": "Show HN: I built a frontpage for personal blogs",
+          "score": 433,
+          "author": "ramkarthikk",
+          "comments": 132,
+          "url": "https://text.blogosphere.app/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://text.blogosphere.app/"
+        },
+        {
+          "rank": 3,
+          "title": "Solana Drift Protocol drained of $285M via fake token and governance hijack",
+          "score": 13,
+          "author": "anonhaven",
+          "comments": 0,
+          "url": "https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/"
+        },
+        {
+          "rank": 4,
+          "title": "Understanding young news audiences at a time of rapid change",
+          "score": 18,
+          "author": "giuliomagnifico",
+          "comments": 1,
+          "url": "https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change"
+        },
+        {
+          "rank": 5,
+          "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+          "score": 19,
+          "author": "denssumesh",
+          "comments": 8,
+          "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
+        },
+        {
+          "rank": 6,
+          "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+          "score": 247,
+          "author": "chalmovsky",
+          "comments": 131,
+          "url": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://chalmovsky.com/2026/03/29/samsung-magician.html"
+        },
+        {
+          "rank": 7,
+          "title": "Big-Endian Testing with QEMU",
+          "score": 62,
+          "author": "jandeboevrie",
+          "comments": 42,
+          "url": "https://www.hanshq.net/big-endian-qemu.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://www.hanshq.net/big-endian-qemu.html"
+        },
+        {
+          "rank": 8,
+          "title": "Show HN: TurboQuant for vector search – 2-4 bit compression",
+          "score": 34,
+          "author": "justsomeguy1996",
+          "comments": 2,
+          "url": "https://github.com/RyanCodrai/py-turboquant",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://github.com/RyanCodrai/py-turboquant"
+        },
+        {
+          "rank": 9,
+          "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+          "score": 226,
+          "author": "greenstevester",
+          "comments": 91,
+          "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5"
+        },
+        {
+          "rank": 10,
+          "title": "Go on Embedded Systems and WebAssembly",
+          "score": 12,
+          "author": "uticus",
+          "comments": 0,
+          "url": "https://tinygo.org/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://tinygo.org/"
+        },
+        {
+          "rank": 11,
+          "title": "A Recipe for Steganogravy",
+          "score": 93,
+          "author": "tbrockman",
+          "comments": 20,
+          "url": "https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html"
+        },
+        {
+          "rank": 12,
+          "title": "The Technocracy Movement of the 1930s",
+          "score": 16,
+          "author": "lazydogbrownfox",
+          "comments": 3,
+          "url": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://donotresearch.substack.com/p/welcome-to-the-technocracy"
+        },
+        {
+          "rank": 13,
+          "title": "SSH certificates: the better SSH experience",
+          "score": 132,
+          "author": "jandeboevrie",
+          "comments": 54,
+          "url": "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/"
+        },
+        {
+          "rank": 14,
+          "title": "Build your own Dial-up ISP with a Raspberry Pi",
+          "score": 21,
+          "author": "arjunbajaj",
+          "comments": 3,
+          "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/"
+        },
+        {
+          "rank": 15,
+          "title": "Show HN: Apfel – The free AI already on your Mac",
+          "score": 544,
+          "author": "franze",
+          "comments": 122,
+          "url": "https://apfel.franzai.com",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://apfel.franzai.com"
+        },
+        {
+          "rank": 16,
+          "title": "What Category Theory Teaches Us About DataFrames",
+          "score": 140,
+          "author": "mchav",
+          "comments": 42,
+          "url": "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/"
+        },
+        {
+          "rank": 17,
+          "title": "ESP32-S31: Dual-Core RISC-V SoC with Wi-Fi 6, Bluetooth 5.4, and Advanced HMI",
+          "score": 158,
+          "author": "topspin",
+          "comments": 85,
+          "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.espressif.com/en/news/ESP32_S31_Release"
+        },
+        {
+          "rank": 18,
+          "title": "TDF ejects its core developers",
+          "score": 116,
+          "author": "janvdberg",
+          "comments": 78,
+          "url": "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html"
+        },
+        {
+          "rank": 19,
+          "title": "If you're running OpenClaw, you probably got hacked in the last week",
+          "score": 110,
+          "author": "kykeonaut",
+          "comments": 53,
+          "url": "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/"
+        },
+        {
+          "rank": 20,
+          "title": "Mercurial Dyson – a plan for the disassembly of planet Mercury",
+          "score": 20,
+          "author": "indy",
+          "comments": 10,
+          "url": "https://github.com/RokoMijic/MercurialDyson/blob/main/written_report.md",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://github.com/RokoMijic/MercurialDyson/blob/main/written_report.md"
+        },
+        {
+          "rank": 21,
+          "title": "Solar and batteries can power the world",
+          "score": 206,
+          "author": "edent",
+          "comments": 300,
+          "url": "https://nworbmot.org/blog/solar-battery-world.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://nworbmot.org/blog/solar-battery-world.html"
+        },
+        {
+          "rank": 22,
+          "title": "What we learned building 100 API integrations with OpenCode",
+          "score": 70,
+          "author": "rguldener",
+          "comments": 15,
+          "url": "https://nango.dev/blog/learned-building-200-api-integrations-with-opencode/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://nango.dev/blog/learned-building-200-api-integrations-with-opencode/"
+        },
+        {
+          "rank": 23,
+          "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
+          "score": 253,
+          "author": "chrisjj",
+          "comments": 107,
+          "url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272"
+        },
+        {
+          "rank": 24,
+          "title": "Category Theory Illustrated – Types",
+          "score": 46,
+          "author": "boris_m",
+          "comments": 1,
+          "url": "https://abuseofnotation.github.io/category-theory-illustrated/06_type/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://abuseofnotation.github.io/category-theory-illustrated/06_type/"
+        },
+        {
+          "rank": 25,
+          "title": "Intel Assured Supply Chain Product Brief",
+          "score": 44,
+          "author": "aw-engineer",
+          "comments": 9,
+          "url": "https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html"
+        },
+        {
+          "rank": 26,
+          "title": "Tailscale's new macOS home",
+          "score": 531,
+          "author": "tosh",
+          "comments": 278,
+          "url": "https://tailscale.com/blog/macos-notch-escape",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://tailscale.com/blog/macos-notch-escape"
+        },
+        {
+          "rank": 27,
+          "title": "Google releases Gemma 4 open models",
+          "score": 1684,
+          "author": "jeffmcjunkin",
+          "comments": 446,
+          "url": "https://deepmind.google/models/gemma/gemma-4/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://deepmind.google/models/gemma/gemma-4/"
+        },
+        {
+          "rank": 28,
+          "title": "Cursor 3",
+          "score": 516,
+          "author": "adamfeldman",
+          "comments": 376,
+          "url": "https://cursor.com/blog/cursor-3",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://cursor.com/blog/cursor-3"
+        },
+        {
+          "rank": 29,
+          "title": "Critics say EU risks ceding control of its tech laws under U.S. pressure",
+          "score": 187,
+          "author": "nickslaughter02",
+          "comments": 115,
+          "url": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/"
+        },
+        {
+          "rank": 30,
+          "title": "Artemis II's toilet is a moon mission milestone",
+          "score": 313,
+          "author": "1659447091",
+          "comments": 149,
+          "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/"
+        }
+      ]
+    },
+    "github": {
+      "count": 7,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Yeachan-Heo /oh-my-codex",
+          "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+          "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+          "language": "TypeScript",
+          "stars": 13760,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "onyx-dot-app /onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "language": "Python",
+          "stars": 22995,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "google-research /timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "url": "https://github.com/google-research/timesfm",
+          "language": "Python",
+          "stars": 13944,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "siddharthvaddem /openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "language": "TypeScript",
+          "stars": 17807,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "dmtrKovalenko /fff.nvim",
+          "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+          "url": "https://github.com/dmtrKovalenko/fff.nvim",
+          "language": "Rust",
+          "stars": 3149,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "f /prompts.chat",
+          "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+          "url": "https://github.com/f/prompts.chat",
+          "language": "HTML",
+          "stars": 157045,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "sherlock-project /sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "language": "Python",
+          "stars": 78269,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Slap: Functional Concatenative Language... with a Borrow Checker?",
+          "description": "",
+          "url": "https://taylor.town/slap-000",
+          "score": 29,
+          "comments": 0,
+          "tags": [
+            "concatenative",
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Adobe wrote to my hosts file",
+          "description": "",
+          "url": "https://www.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/",
+          "score": 34,
+          "comments": 12,
+          "tags": [
+            "design"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+          "description": "",
+          "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+          "score": 7,
+          "comments": 4,
+          "tags": [
+            "security",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "SSH certificates: the better SSH experience",
+          "description": "",
+          "url": "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/",
+          "score": 27,
+          "comments": 6,
+          "tags": [
+            "linux"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Every dependency you add is a supply chain attack waiting to happen",
+          "description": "",
+          "url": "https://benhoyt.com/writings/dependencies/",
+          "score": 85,
+          "comments": 45,
+          "tags": [
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "I used AI. It worked. I hated it",
+          "description": "",
+          "url": "https://taggart-tech.com/reckoning/",
+          "score": 55,
+          "comments": 30,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Idiomatic Lisp and the nbody benchmark",
+          "description": "",
+          "url": "https://www.stylewarning.com/posts/nbody/",
+          "score": 16,
+          "comments": 2,
+          "tags": [
+            "lisp",
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "LinkedIn Is Scanning for Browser Extensions",
+          "description": "",
+          "url": "https://browsergate.eu/",
+          "score": 54,
+          "comments": 12,
+          "tags": [
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Baby’s Second Garbage Collector",
+          "description": "",
+          "url": "https://www.matheusmoreira.com/articles/babys-second-garbage-collector",
+          "score": 4,
+          "comments": 0,
+          "tags": [
+            "compsci"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "landdown - Simple sandboxing for shell scripts",
+          "description": "",
+          "url": "https://git.sr.ht/~marcc/landdown",
+          "score": 35,
+          "comments": 4,
+          "tags": [
+            "linux",
+            "show"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "What are you doing this weekend?",
+          "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
+          "url": "",
+          "score": 6,
+          "comments": 9,
+          "tags": [
+            "ask",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "jj v0.40.0 released",
+          "description": "",
+          "url": "https://github.com/jj-vcs/jj/releases/tag/v0.40.0",
+          "score": 62,
+          "comments": 22,
+          "tags": [
+            "release",
+            "vcs"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "A Rave Review of Superpowers (for Claude Code)",
+          "description": "",
+          "url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
+          "score": 15,
+          "comments": 5,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "1SubMl: experimental ML-like programming language with a unified module and value language, and more",
+          "description": "",
+          "url": "https://github.com/Storyyeller/1subml?tab=readme-ov-file",
+          "score": 14,
+          "comments": 4,
+          "tags": [
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "800 Rust terminal projects in 3 years",
+          "description": "",
+          "url": "https://blog.orhun.dev/800-rust-projects/",
+          "score": 6,
+          "comments": 1,
+          "tags": [
+            "rust",
+            "show"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Making a Type Checker/LSP for Nix",
+          "description": "",
+          "url": "https://johns.codes/blog/making-a-type-checker-lsp-for-nix",
+          "score": 2,
+          "comments": 0,
+          "tags": [
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Activating Two Trap Cards at Once, or: A Gentle Response to the Popularity of Vibecoding",
+          "description": "",
+          "url": "https://gist.github.com/MostAwesomeDude/560185c24f959f6fec229739cb5a6735",
+          "score": 26,
+          "comments": 7,
+          "tags": [
+            "ai",
+            "math",
+            "plt",
+            "python",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Lisette — Rust syntax, Go runtime",
+          "description": "",
+          "url": "https://lisette.run",
+          "score": 7,
+          "comments": 1,
+          "tags": [
+            "go",
+            "plt",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "apfel: Free AI already on your Mac",
+          "description": "",
+          "url": "https://apfel.franzai.com",
+          "score": 5,
+          "comments": 3,
+          "tags": [
+            "mac",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "Signals, the push-pull based algorithm",
+          "description": "",
+          "url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm",
+          "score": 4,
+          "comments": 1,
+          "tags": [
+            "javascript",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 57,
+    "hackernews": 30,
+    "github": 7,
+    "lobsters": 20
+  }
+}

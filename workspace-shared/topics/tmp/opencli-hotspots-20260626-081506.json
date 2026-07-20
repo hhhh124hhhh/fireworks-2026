@@ -1,0 +1,1084 @@
+{
+  "timestamp": "2026-06-26 08:15:06",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "An entire Herculaneum scroll has been read for the first time",
+          "score": 899,
+          "author": "verditelabs",
+          "comments": 202,
+          "url": "https://scrollprize.org/firstscroll",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://scrollprize.org/firstscroll"
+        },
+        {
+          "rank": 2,
+          "title": "The 'papers, please' era of the internet will decimate your privacy",
+          "score": 286,
+          "author": "bilsbie",
+          "comments": 129,
+          "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet"
+        },
+        {
+          "rank": 3,
+          "title": "Un-0: Generating Images with Coupled Oscillators",
+          "score": 94,
+          "author": "babelfish",
+          "comments": 23,
+          "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/"
+        },
+        {
+          "rank": 4,
+          "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+          "score": 65,
+          "author": "exploraz",
+          "comments": 15,
+          "url": "https://github.com/plbrault/youre-the-os",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://github.com/plbrault/youre-the-os"
+        },
+        {
+          "rank": 5,
+          "title": "Oxide computer 3D rack guided tour",
+          "score": 273,
+          "author": "darthcloud",
+          "comments": 115,
+          "url": "https://explorer.oxide.computer/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://explorer.oxide.computer/"
+        },
+        {
+          "rank": 6,
+          "title": "An oral history of Bank Python (2021)",
+          "score": 57,
+          "author": "tosh",
+          "comments": 15,
+          "url": "https://calpaterson.com/bank-python.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://calpaterson.com/bank-python.html"
+        },
+        {
+          "rank": 7,
+          "title": "IBM debuts sub-1 nanometer chip technology",
+          "score": 249,
+          "author": "porridgeraisin",
+          "comments": 144,
+          "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology"
+        },
+        {
+          "rank": 8,
+          "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+          "score": 182,
+          "author": "engomez",
+          "comments": 80,
+          "url": "https://github.com/inkeep/open-knowledge",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://github.com/inkeep/open-knowledge"
+        },
+        {
+          "rank": 9,
+          "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+          "score": 12,
+          "author": "teleforce",
+          "comments": 1,
+          "url": "https://gchandbook.org/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://gchandbook.org/"
+        },
+        {
+          "rank": 10,
+          "title": "Om Malik has died",
+          "score": 298,
+          "author": "minimaxir",
+          "comments": 30,
+          "url": "https://om.co/2026/06/24/1966-2026/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://om.co/2026/06/24/1966-2026/"
+        },
+        {
+          "rank": 11,
+          "title": "Migrating from Proxmox to NixOS and Incus",
+          "score": 34,
+          "author": "wasting_time",
+          "comments": 14,
+          "url": "https://www.nijho.lt/post/proxmox-to-nixos/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://www.nijho.lt/post/proxmox-to-nixos/"
+        },
+        {
+          "rank": 12,
+          "title": "Parallel Parentheses Matching",
+          "score": 43,
+          "author": "Athas",
+          "comments": 7,
+          "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://williamdue.github.io/blog/parallel-parentheses-matching"
+        },
+        {
+          "rank": 13,
+          "title": "Show HN: Chess-Inspired Roguelike",
+          "score": 200,
+          "author": "cowboy_henk",
+          "comments": 68,
+          "url": "https://princechazz.com",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://princechazz.com"
+        },
+        {
+          "rank": 14,
+          "title": "The Doorman's Fallacy in action",
+          "score": 39,
+          "author": "rozumem",
+          "comments": 59,
+          "url": "https://rozumem.xyz/posts/17",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://rozumem.xyz/posts/17"
+        },
+        {
+          "rank": 15,
+          "title": "Zig's new bitCast semantics and LLVM back end improvements",
+          "score": 208,
+          "author": "kouosi",
+          "comments": 79,
+          "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://ziglang.org/devlog/2026/#2026-06-25"
+        },
+        {
+          "rank": 16,
+          "title": "OS9Map",
+          "score": 173,
+          "author": "LaSombra",
+          "comments": 25,
+          "url": "https://yllan.org/software/OS9Map/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://yllan.org/software/OS9Map/"
+        },
+        {
+          "rank": 17,
+          "title": "Apple raises prices of MacBooks, iPads",
+          "score": 603,
+          "author": "virgildotcodes",
+          "comments": 868,
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/"
+        },
+        {
+          "rank": 18,
+          "title": "The last Romans are still around",
+          "score": 31,
+          "author": "surprisetalk",
+          "comments": 54,
+          "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/"
+        },
+        {
+          "rank": 19,
+          "title": "Military branches restore flu shot requirement after virus swept through base",
+          "score": 63,
+          "author": "tzs",
+          "comments": 25,
+          "url": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/"
+        },
+        {
+          "rank": 20,
+          "title": "Besimple AI (YC P25) Is Hiring",
+          "score": 1,
+          "author": "yzhong94",
+          "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data"
+        },
+        {
+          "rank": 21,
+          "title": "What is the mechanical world picture?",
+          "score": 4,
+          "author": "danielam",
+          "comments": 0,
+          "url": "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html"
+        },
+        {
+          "rank": 22,
+          "title": "The annotated PyTorch training loop",
+          "score": 55,
+          "author": "smaddrellmander",
+          "comments": 10,
+          "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://idlemachines.co.uk/essays/pytorch-training-loop"
+        },
+        {
+          "rank": 23,
+          "title": "You can't unit test for taste",
+          "score": 238,
+          "author": "kalli",
+          "comments": 116,
+          "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/"
+        },
+        {
+          "rank": 24,
+          "title": "GloriousEggroll's Proton has been rebased on Proton 11",
+          "score": 48,
+          "author": "d3Xt3r",
+          "comments": 20,
+          "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1"
+        },
+        {
+          "rank": 25,
+          "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+          "score": 92,
+          "author": "zdw",
+          "comments": 31,
+          "url": "https://github.com/decrazyo/anes",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://github.com/decrazyo/anes"
+        },
+        {
+          "rank": 26,
+          "title": "RRB-Trees: Efficient Immutable Vectors (2012) [pdf]",
+          "score": 31,
+          "author": "azhenley",
+          "comments": 7,
+          "url": "https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content"
+        },
+        {
+          "rank": 27,
+          "title": "The disappearance of Japan's animators",
+          "score": 139,
+          "author": "andsoitis",
+          "comments": 113,
+          "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators"
+        },
+        {
+          "rank": 28,
+          "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+          "score": 92,
+          "author": "mfiguiere",
+          "comments": 63,
+          "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html"
+        },
+        {
+          "rank": 29,
+          "title": "Political bias in AI: Where the AI models stand",
+          "score": 109,
+          "author": "mektrik",
+          "comments": 218,
+          "url": "https://trakkr.ai/bias",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://trakkr.ai/bias"
+        },
+        {
+          "rank": 30,
+          "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+          "score": 640,
+          "author": "ytkimirti",
+          "comments": 143,
+          "url": "https://hackernewstrends.com",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://hackernewstrends.com"
+        }
+      ]
+    },
+    "github": {
+      "count": 16,
+      "items": [
+        {
+          "rank": 1,
+          "title": "google-labs-code /design.md",
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "url": "https://github.com/google-labs-code/design.md",
+          "language": "TypeScript",
+          "stars": 19149,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "calesthio /OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "language": "Python",
+          "stars": 22031,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "xbtlin /ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial a",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "language": "Python",
+          "stars": 1838,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "mauriceboe /TREK",
+          "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+          "url": "https://github.com/mauriceboe/TREK",
+          "language": "TypeScript",
+          "stars": 6631,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "apple /container",
+          "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+          "url": "https://github.com/apple/container",
+          "language": "Swift",
+          "stars": 43195,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "JCodesMore /ai-website-cloner-template",
+          "description": "Clone any website with one command using AI coding agents",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "language": "TypeScript",
+          "stars": 20406,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "every-app /open-seo",
+          "description": "Open source alternative to Semrush and Ahrefs",
+          "url": "https://github.com/every-app/open-seo",
+          "language": "TypeScript",
+          "stars": 2502,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "garrytan /gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "url": "https://github.com/garrytan/gstack",
+          "language": "TypeScript",
+          "stars": 115780,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "aws /agent-toolkit-for-aws",
+          "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "language": "Python",
+          "stars": 1126,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "mukul975 /Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "language": "Python",
+          "stars": 21212,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "alibaba /page-agent",
+          "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+          "url": "https://github.com/alibaba/page-agent",
+          "language": "TypeScript",
+          "stars": 19791,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "IceWhaleTech /CasaOS",
+          "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "language": "Go",
+          "stars": 34804,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "opendatalab /MinerU",
+          "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+          "url": "https://github.com/opendatalab/MinerU",
+          "language": "Python",
+          "stars": 69550,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 14,
+          "title": "Free-TV /IPTV",
+          "description": "M3U Playlist for free TV channels",
+          "url": "https://github.com/Free-TV/IPTV",
+          "language": "Python",
+          "stars": 18198,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 15,
+          "title": "shanraisshan /claude-code-best-practice",
+          "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "language": "HTML",
+          "stars": 60511,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 16,
+          "title": "NanmiCoder /MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "language": "Python",
+          "stars": 52734,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "v2ex": {
+      "count": 9,
+      "items": [
+        {
+          "rank": 1,
+          "title": "[内测回馈] Brivionix（Codex Pro 池）— GPT-5.5 / 5.4 / 5.3，回帖留 ID 送 $10",
+          "replies": 306,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "[限时赠送] 中转站第二波限时活动, 再送百亿 Token",
+          "replies": 184,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "刚办完父亲丧事难过想抱会，女友怕传染感冒耽误旅行拒绝，是我太敏感吗？",
+          "replies": 112,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "生平第一次拿住翻倍的股票",
+          "replies": 101,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "妹妹高考分数出了，求大学专业、学校推荐",
+          "replies": 96,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "早上 plus 号被杀了",
+          "replies": 90,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "为什么 gpt5.5 连高考英语都能错这么多呢",
+          "replies": 84,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "来吧，推荐出让你心动的鼠标吧，都 2026 年 6 月了，是时候更新一波鼠标了",
+          "replies": 64,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "作为过来的成年人，说说你对晚辈（孩子）的评价",
+          "replies": 60,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Laravel API Development in Morocco: Architecture Guide 2026",
+          "description": "<p>Laravel API Development in Morocco: Architecture Guide 2026 <br>\nLaravel remains the #1 PHP framework for API development in 2026<br>\nLaravel remains the #1 PHP framework for API development in 202",
+          "url": "https://dev.to/aziz_amine_cabdc8e8ed1963/laravel-api-development-in-morocco-architecture-guide-2026-1bh8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Sarout Morocco",
+          "description": "<p>An innovative Moroccan platform for finding, renting, and selling real estate, offering a simple and seamless experience tailored to the local market.</p>\n\n<p>Challenge<br>\nLaunch Sarout.ma, an inn",
+          "url": "https://dev.to/aziz_amine_cabdc8e8ed1963/sarout-morocco-2n9p",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "linux lab",
+          "description": "<h1>\n  \n  \n  Lab 1 – Linux Navigation &amp; Files (20 points)\n</h1>\n\n<h3>\n  \n  \n  Task 1\n</h3>\n\n<p>Create the following structure.<br>\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highl",
+          "url": "https://dev.to/jumptotech/linux-lab-2oa9",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "plugin marketplaces are the new endpoint policy for coding agents",
+          "description": "<p>GitHub added an enterprise setting this week that looks like the kind of thing most developers will never read about unless it breaks their editor.</p>\n\n<p>Enterprise managed settings now support <",
+          "url": "https://dev.to/pvgomes/plugin-marketplaces-are-the-new-endpoint-policy-for-coding-agents-19p6",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Destructuring in JavaScript",
+          "description": "<blockquote>\n<p><em>\"Destructuring is JavaScript's way of letting you unpack what you need and leave the rest behind.\"</em></p>\n</blockquote>\n\n\n\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>You've worked with",
+          "url": "https://dev.to/akash_kumar_50635a0669992/destructuring-in-javascript-43an",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Destructuring in JavaScript",
+          "description": "<blockquote>\n<p><em>\"Destructuring is JavaScript's way of letting you unpack what you need and leave the rest behind.\"</em></p>\n</blockquote>\n\n\n\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>You've worked with",
+          "url": "https://dev.to/akash_kumar_50635a0669992/destructuring-in-javascript-4f6o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "\"macOS: nslookup works but curl and Python \\\"Could not resolve host\\\" — the mDNSResponder zombie\"",
+          "description": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/macos-mdnsresponder-zombie-dns.html\" rel=\"noopener noreferrer\">hexisteme notes</a>.</em></p>\n\n<p>If <code>nslookup</code> reso",
+          "url": "https://dev.to/hexisteme/macos-nslookup-works-but-curl-and-python-could-not-resolve-host-the-mdnsresponder-zombie-3727",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "25 JSON Mistakes Every Developer Makes",
+          "description": "<blockquote>\n<p><strong>A developer's guide to debugging syntax flaws, escaping characters, and parsing data without the headaches.</strong></p>\n</blockquote>\n\n<p>JSON (JavaScript Object Notation) is ",
+          "url": "https://dev.to/jsdevspace/25-json-mistakes-every-developer-makes-36e6",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "GEO: What the Research Says About AI Search",
+          "description": "<p>Three independent research streams — academic, practitioner, and platform — have studied how AI search systems choose which websites to cite. Their findings overlap more than they disagree, and the",
+          "url": "https://dev.to/coppersundev/geo-what-the-research-says-about-ai-search-3f9a",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "I built Zeninvo — free invoicing for freelancers",
+          "description": "<p>Hey dev community 👋</p>\n\n<p>I just launched <strong><a href=\"https://zeninvo.com\" rel=\"noopener noreferrer\">Zeninvo</a></strong> — a free invoicing app for freelancers and small teams who want to s",
+          "url": "https://dev.to/muneebkh2/i-built-zeninvo-free-invoicing-for-freelancers-3n5l",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "(Spanish) El navegador ya no es solo para humanos",
+          "description": "<p><em>Por qué las páginas web públicas son ahora accesibles de formas que antes eran impensables</em></p>\n\n\n\n\n<p>Hubo un tiempo en que \"ver algo en una web\" y \"usar ese dato en código\" eran dos mundo",
+          "url": "https://dev.to/ckomiya/el-navegador-ya-no-es-solo-para-humanos-1e6g",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Don't let your engineering brain rot in the age of AI",
+          "description": "<p>7 years ago we built a small side project over the weekend and it became product of the day on PH, extension is simple, we aggregate coding snippets with explanations and with every new tab you ope",
+          "url": "https://dev.to/djordje_petrovic_f7295eb4/dont-let-your-engineering-brain-rot-in-the-age-of-ai-5d6m",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "The Exhaustion of Talking to a Tool",
+          "description": "",
+          "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
+          "score": 29,
+          "comments": 12,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "font-family recommendations",
+          "description": "",
+          "url": "https://chrismorgan.info/font-family",
+          "score": 35,
+          "comments": 29,
+          "tags": [
+            "css"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "The Xteink X4 E-Ink Reader",
+          "description": "",
+          "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+          "score": 58,
+          "comments": 41,
+          "tags": [
+            "hardware"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "New @bitCast Semantics and LLVM Backend Improvements",
+          "description": "",
+          "url": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
+          "score": 38,
+          "comments": 12,
+          "tags": [
+            "zig"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Vibecoding gets Emacs patch rejected",
+          "description": "",
+          "url": "https://xlii.space/eng/honesty-gets-emacs-patch-rejected/",
+          "score": 21,
+          "comments": 36,
+          "tags": [
+            "emacs",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "OS9Map: OpenStreetMap for Mac OS 9",
+          "description": "",
+          "url": "https://yllan.org/software/OS9Map/",
+          "score": 20,
+          "comments": 1,
+          "tags": [
+            "retrocomputing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Are We GlobalShortcuts Yet?",
+          "description": "",
+          "url": "https://areweglobalshortcutsyet.github.io",
+          "score": 37,
+          "comments": 9,
+          "tags": [
+            "a11y",
+            "linux"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "tropius: detect AI tropes in prose",
+          "description": "",
+          "url": "https://tangled.org/desertthunder.dev/tropius",
+          "score": 18,
+          "comments": 11,
+          "tags": [
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Oxide Rack 3D Explorer",
+          "description": "",
+          "url": "https://explorer.oxide.computer/",
+          "score": 9,
+          "comments": 3,
+          "tags": [
+            "hardware"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Structured Primary Keys",
+          "description": "",
+          "url": "https://modern-sql.com/blog/2026-06/structured-primary-keys",
+          "score": 13,
+          "comments": 0,
+          "tags": [
+            "databases"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Pierre Zemb from Clever Cloud on FoundationDB",
+          "description": "",
+          "url": "https://theconsensus.dev/p/2026/06/18/pierre-zemb-from-clever-cloud.html",
+          "score": 3,
+          "comments": 2,
+          "tags": [
+            "databases",
+            "person"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "UK Wikipedia Workers seek union recognition",
+          "description": "",
+          "url": "https://utaw.tech/news/wikipedia-recognition",
+          "score": 74,
+          "comments": 10,
+          "tags": [
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "Can I texture 3D objects with oil paint?",
+          "description": "",
+          "url": "https://www.youtube.com/watch?v=fdI1ZJtAJmI",
+          "score": 11,
+          "comments": 0,
+          "tags": [
+            "art",
+            "video"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "The Joy and Power of Understanding",
+          "description": "",
+          "url": "https://binaryigor.com/the-joy-and-power-of-understanding.html",
+          "score": 66,
+          "comments": 21,
+          "tags": [
+            "practices",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Announcing Silk: a silky smooth fiber runtime for ClickHouse",
+          "description": "",
+          "url": "https://clickhouse.com/blog/silk",
+          "score": 3,
+          "comments": 1,
+          "tags": [
+            "c++",
+            "databases"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Porting WINE to a new Hobby OS",
+          "description": "",
+          "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
+          "score": 49,
+          "comments": 5,
+          "tags": [
+            "osdev",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "I've gone full Nix: Proxmox to NixOS + Incus",
+          "description": "",
+          "url": "https://www.nijho.lt/post/proxmox-to-nixos/",
+          "score": 3,
+          "comments": 0,
+          "tags": [
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Echoes of the AI Winter",
+          "description": "",
+          "url": "https://netzhansa.com/echoes-of-the-ai-winter/",
+          "score": 3,
+          "comments": 1,
+          "tags": [
+            "ai",
+            "lisp"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "How to Write an Effective Software Design Document",
+          "description": "",
+          "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+          "score": 31,
+          "comments": 5,
+          "tags": [
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "Deno Desktop",
+          "description": "",
+          "url": "https://ankursethi.com/blog/deno-desktop/",
+          "score": 16,
+          "comments": 2,
+          "tags": [
+            "javascript"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 87,
+    "hackernews": 30,
+    "github": 16,
+    "v2ex": 9,
+    "devto": 12,
+    "lobsters": 20
+  }
+}

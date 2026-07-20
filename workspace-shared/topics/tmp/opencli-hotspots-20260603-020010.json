@@ -1,0 +1,839 @@
+{
+  "timestamp": "2026-06-03 02:00:10",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "A walking tour of surveillance infrastructure in Seattle",
+          "score": 205,
+          "author": "eustoria",
+          "comments": 96,
+          "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/"
+        },
+        {
+          "rank": 2,
+          "title": "Three Ways to Get Paid",
+          "score": 59,
+          "author": "nate",
+          "comments": 38,
+          "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://jasonzweig.com/three-ways-to-get-paid/"
+        },
+        {
+          "rank": 3,
+          "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+          "score": 99,
+          "author": "BruceEel",
+          "comments": 31,
+          "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://www.fidonet.org/inet92_Randy_Bush.txt"
+        },
+        {
+          "rank": 4,
+          "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+          "score": 470,
+          "author": "semanser",
+          "comments": 192,
+          "url": "https://blog.adafruit.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://blog.adafruit.com/"
+        },
+        {
+          "rank": 5,
+          "title": "Larry Ellison: \"Citizens will be on their best behavior because we’re recording\"",
+          "score": 50,
+          "author": "CharlesW",
+          "comments": 10,
+          "url": "https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy"
+        },
+        {
+          "rank": 6,
+          "title": "Why Janet? (2023)",
+          "score": 360,
+          "author": "yacin",
+          "comments": 182,
+          "url": "https://ianthehenry.com/posts/why-janet/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://ianthehenry.com/posts/why-janet/"
+        },
+        {
+          "rank": 7,
+          "title": "Coreutils for Windows",
+          "score": 83,
+          "author": "gigel82",
+          "comments": 68,
+          "url": "https://github.com/microsoft/coreutils",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://github.com/microsoft/coreutils"
+        },
+        {
+          "rank": 8,
+          "title": "Expanding Project Glasswing",
+          "score": 97,
+          "author": "surprisetalk",
+          "comments": 106,
+          "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://www.anthropic.com/news/expanding-project-glasswing"
+        },
+        {
+          "rank": 9,
+          "title": "Love systemd timers",
+          "score": 245,
+          "author": "yacin",
+          "comments": 162,
+          "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/"
+        },
+        {
+          "rank": 10,
+          "title": "Preparing for KDE Plasma's Last X11-Supported Release",
+          "score": 92,
+          "author": "jandeboevrie",
+          "comments": 83,
+          "url": "https://blog.davidedmundson.co.uk/blog/596/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://blog.davidedmundson.co.uk/blog/596/"
+        },
+        {
+          "rank": 11,
+          "title": "Rethinking Search as Code Generation",
+          "score": 8,
+          "author": "1zael",
+          "comments": 1,
+          "url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation"
+        },
+        {
+          "rank": 12,
+          "title": "CSS-Native Parallax Effect",
+          "score": 108,
+          "author": "dandep",
+          "comments": 46,
+          "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/"
+        },
+        {
+          "rank": 13,
+          "title": "Stop Ruining It",
+          "score": 165,
+          "author": "herbertl",
+          "comments": 80,
+          "url": "https://seths.blog/2026/06/stop-ruining-it/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://seths.blog/2026/06/stop-ruining-it/"
+        },
+        {
+          "rank": 14,
+          "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+          "score": 618,
+          "author": "1vuio0pswjnm7",
+          "comments": 1063,
+          "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai"
+        },
+        {
+          "rank": 15,
+          "title": "Show HN: Eyeball",
+          "score": 165,
+          "author": "mrroryflint",
+          "comments": 56,
+          "url": "https://eyeball.rory.codes/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://eyeball.rory.codes/"
+        },
+        {
+          "rank": 16,
+          "title": "Reviving Teletext for Ham Radio",
+          "score": 44,
+          "author": "yarapavan",
+          "comments": 20,
+          "url": "https://spectrum.ieee.org/reviving-teletext-for-ham-radio",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://spectrum.ieee.org/reviving-teletext-for-ham-radio"
+        },
+        {
+          "rank": 17,
+          "title": "Why Custom Attributes in .NET Give Me Nightmares",
+          "score": 62,
+          "author": "jandeboevrie",
+          "comments": 20,
+          "url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/"
+        },
+        {
+          "rank": 18,
+          "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
+          "score": 1,
+          "author": "nedwin",
+          "url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern"
+        },
+        {
+          "rank": 19,
+          "title": "Webcam head tracking, webcam to control in‑game FOV",
+          "score": 75,
+          "author": "mwit2023",
+          "comments": 37,
+          "url": "https://www.openfov.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://www.openfov.com/"
+        },
+        {
+          "rank": 20,
+          "title": "Squillions: How money laundering won",
+          "score": 126,
+          "author": "rwmj",
+          "comments": 106,
+          "url": "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions"
+        },
+        {
+          "rank": 21,
+          "title": "Key Chemistry Question Answered, No Quantum Computer Required",
+          "score": 8,
+          "author": "defrost",
+          "comments": 0,
+          "url": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/"
+        },
+        {
+          "rank": 22,
+          "title": "macOS needs its grid back",
+          "score": 363,
+          "author": "ranebo",
+          "comments": 236,
+          "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/"
+        },
+        {
+          "rank": 23,
+          "title": "PCMFlowG722 wideband (HD voice) codec for ESP32",
+          "score": 17,
+          "author": "zdw",
+          "comments": 1,
+          "url": "https://github.com/tanakamasayuki/PCMFlowG722",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://github.com/tanakamasayuki/PCMFlowG722"
+        },
+        {
+          "rank": 24,
+          "title": "The newest Instagram “exploit” is the goofiest I've seen",
+          "score": 2087,
+          "author": "ssiddharth",
+          "comments": 465,
+          "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco"
+        },
+        {
+          "rank": 25,
+          "title": "CQL: Categorical Databases",
+          "score": 87,
+          "author": "noworriesnate",
+          "comments": 31,
+          "url": "https://categoricaldata.net/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://categoricaldata.net/"
+        },
+        {
+          "rank": 26,
+          "title": "Chipotlai Max",
+          "score": 348,
+          "author": "nigelgutzmann",
+          "comments": 60,
+          "url": "https://github.com/cyberpapiii/chipotlai-max",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://github.com/cyberpapiii/chipotlai-max"
+        },
+        {
+          "rank": 27,
+          "title": "OpenAI frontier models and Codex are now available on AWS",
+          "score": 348,
+          "author": "typpo",
+          "comments": 119,
+          "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/"
+        },
+        {
+          "rank": 28,
+          "title": "Apple rejected my dictation app for using the accessibility API",
+          "score": 243,
+          "author": "RZelaya",
+          "comments": 148,
+          "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/"
+        },
+        {
+          "rank": 29,
+          "title": "Promoting Advanced Artificial Intelligence Innovation and Security",
+          "score": 19,
+          "author": "artninja1988",
+          "comments": 7,
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+        },
+        {
+          "rank": 30,
+          "title": "Debug Project",
+          "score": 266,
+          "author": "Eridanus2",
+          "comments": 110,
+          "url": "https://debug.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://debug.com/"
+        }
+      ]
+    },
+    "github": {
+      "count": 11,
+      "items": [
+        {
+          "rank": 1,
+          "title": "chopratejas /headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "url": "https://github.com/chopratejas/headroom",
+          "language": "Python",
+          "stars": 5706,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "microsoft /markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "url": "https://github.com/microsoft/markitdown",
+          "language": "Python",
+          "stars": 140807,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "affaan-m /ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "url": "https://github.com/affaan-m/ECC",
+          "language": "JavaScript",
+          "stars": 203427,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "D4Vinci /Scrapling",
+          "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "language": "Python",
+          "stars": 58981,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "nesquena /hermes-webui",
+          "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "language": "Python",
+          "stars": 12403,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "reconurge /flowsint",
+          "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+          "url": "https://github.com/reconurge/flowsint",
+          "language": "TypeScript",
+          "stars": 4392,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "OpenBMB /VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "language": "Python",
+          "stars": 24987,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "stefan-jansen /machine-learning-for-trading",
+          "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+          "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+          "language": "Jupyter Notebook",
+          "stars": 18319,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "jamwithai /production-agentic-rag-course",
+          "description": "",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "language": "Python",
+          "stars": 6307,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "supermemoryai /supermemory",
+          "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "language": "TypeScript",
+          "stars": 24500,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "Open-LLM-VTuber /Open-LLM-VTuber",
+          "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "language": "Python",
+          "stars": 8221,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Quality in the Age of Slop",
+          "description": "",
+          "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
+          "score": 35,
+          "comments": 10,
+          "tags": [
+            "philosophy",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Vim Classic 8.3 released",
+          "description": "",
+          "url": "https://vim-classic.org/news/vim-8.3-released.html",
+          "score": 43,
+          "comments": 3,
+          "tags": [
+            "editors",
+            "release",
+            "vim"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Memory safety is a matter of life and death",
+          "description": "",
+          "url": "https://joshlf.com/posts/memory-safety-life-and-death/",
+          "score": 15,
+          "comments": 8,
+          "tags": [
+            "rust",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Why Janet? (2023)",
+          "description": "",
+          "url": "https://ianthehenry.com/posts/why-janet/",
+          "score": 51,
+          "comments": 11,
+          "tags": [
+            "lisp"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "You Don't Love systemd Timers Enough",
+          "description": "",
+          "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+          "score": 111,
+          "comments": 40,
+          "tags": [
+            "systemd"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "iddqd, or the hardest kind of unsafe Rust",
+          "description": "",
+          "url": "https://oxide.computer/blog/iddqd-unsafe",
+          "score": 10,
+          "comments": 0,
+          "tags": [
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Preparing for KDE Plasma’s Last X11-Supported Release",
+          "description": "",
+          "url": "https://blog.davidedmundson.co.uk/blog/596/",
+          "score": 11,
+          "comments": 12,
+          "tags": [
+            "linux"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "kelvin versioning",
+          "description": "",
+          "url": "https://wiki.xxiivv.com/site/kelvin_versioning.html",
+          "score": 18,
+          "comments": 6,
+          "tags": [
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Announcing Zstandard in Rust",
+          "description": "",
+          "url": "https://trifectatech.org/blog/announcing-zstandard-in-rust/",
+          "score": 96,
+          "comments": 25,
+          "tags": [
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "github and the crime against software",
+          "description": "",
+          "url": "https://eblog.fly.dev/githubbad.html",
+          "score": 67,
+          "comments": 29,
+          "tags": [
+            "devops",
+            "distributed"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen",
+          "description": "",
+          "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+          "score": 57,
+          "comments": 10,
+          "tags": [
+            "security",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "strace-ui, Bonsai_term, and the TUI renaissance",
+          "description": "",
+          "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+          "score": 24,
+          "comments": 1,
+          "tags": [
+            "linux",
+            "ml"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "Recent improvements to the Swift type checker",
+          "description": "",
+          "url": "https://forums.swift.org/t/recent-improvements-to-the-type-checker/87048",
+          "score": 7,
+          "comments": 0,
+          "tags": [
+            "plt",
+            "swift"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "rustc_codegen_jvm: Rust compiler backend to emit JVM bytecode",
+          "description": "",
+          "url": "https://github.com/IntegralPilot/rustc_codegen_jvm",
+          "score": 13,
+          "comments": 0,
+          "tags": [
+            "java",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Browser identification through header order",
+          "description": "",
+          "url": "https://geocar.sdf1.org/browser-verification.html",
+          "score": 10,
+          "comments": 3,
+          "tags": [
+            "browsers",
+            "privacy"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "BPF support in GCC 16 and beyond",
+          "description": "",
+          "url": "https://lwn.net/SubscriberLink/1071973/19e2866f07249dfb/",
+          "score": 10,
+          "comments": 0,
+          "tags": [
+            "c",
+            "linux",
+            "osdev"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "QBE - Compiler Backend: Version 1.3",
+          "description": "",
+          "url": "https://c9x.me/compile/release/qbe-1.3.html",
+          "score": 91,
+          "comments": 17,
+          "tags": [
+            "compilers",
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Using wavelets and entropy coding to analyze code structure",
+          "description": "",
+          "url": "https://yogthos.net/posts/2026-06-02-wavescope.html",
+          "score": 2,
+          "comments": 0,
+          "tags": [
+            "programming",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Should you normalize RGB values by 255 or 256?",
+          "description": "",
+          "url": "https://30fps.net/pages/255-vs-256-division/",
+          "score": 47,
+          "comments": 17,
+          "tags": [
+            "graphics",
+            "math"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "Making pebble apps in 2026",
+          "description": "",
+          "url": "https://coconauts.net/blog/2026/05/08/pebble-apps/",
+          "score": 14,
+          "comments": 1,
+          "tags": [
+            "hardware",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 61,
+    "hackernews": 30,
+    "github": 11,
+    "lobsters": 20
+  }
+}

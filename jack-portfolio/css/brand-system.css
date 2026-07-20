@@ -1,0 +1,415 @@
+/**
+ * Brand System - 字体系统重构 + 品牌视觉系统
+ * 阶段 1 优化 - 字体与品牌识别
+ * 
+ * 设计决策：
+ * 1. 字体选择：Cormorant Garamond (标题) + DM Sans (正文)
+ *    - Cormorant Garamond：优雅的衬线字体，比 Playfair Display 更具个性和可读性
+ *    - DM Sans：现代几何无衬线字体，比 Inter 更有特色，完美支持中英文
+ *    - 使用 font-display: swap 优化加载性能
+ *    - 设置 unicode-range 只加载需要的字符
+ * 
+ * 2. 品牌 Logo：
+ *    - 首字母 "J" 的几何设计 + AI 电路元素
+ *    - 金色渐变，简洁优雅
+ *    - SVG 格式，可缩放
+ * 
+ * 3. 品牌图形元素：
+ *    - 金色装饰线条（左上角装饰、分隔线）
+ *    - 微妙的几何图案（背景装饰、卡片装饰）
+ *    - 品牌一致的视觉语言
+ * 
+ * 4. 色彩体系：
+ *    - 主色：金色 (#d4af37) - 保持
+ *    - 辅色：微调金色浅色 (#f0d67a) 增加层次
+ *    - 强调色：保留紫色 (#9b59b6) 和蓝色 (#3498db)
+ *    - 新增：科技蓝 (#2E86AB) 突显 AI/科技属性
+ */
+
+/* ========================================
+   字体系统 - 优化加载与回退
+   ======================================== */
+
+/* Google Fonts - 优化版本 */
+@font-face {
+    font-family: 'Cormorant Garamond';
+    font-weight: 400 600;
+    font-display: swap;
+    src: url('https://fonts.gstatic.com/s/cormorantgaramond/v14/co3YmX5slCNuHLi8bLeY9MK7whWMhyjYrEtAhKC4Z44.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond';
+    font-weight: 400 600;
+    font-display: swap;
+    src: url('https://fonts.gstatic.com/s/cormorantgaramond/v14/co3bmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fsw-I1hc.woff2') format('woff2');
+    unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF; /* 中文字符范围 */
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    font-weight: 400 600;
+    font-display: swap;
+    src: url('https://fonts.gstatic.com/s/dmsans/v15/rP2Hp2ywxg089UriCZa4Hz-D.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    font-weight: 400 600;
+    font-display: swap;
+    src: url('https://fonts.gstatic.com/s/dmsans/v15/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2') format('woff2');
+    unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF; /* 中文字符范围 */
+}
+
+/* 字体变量 - 优化回退链 */
+:root {
+    /* 标题字体：Cormorant Garamond + 优雅回退 */
+    --font-display: 'Cormorant Garamond', 'Georgia', 'Times New Roman', serif;
+    
+    /* 正文字体：DM Sans + 现代/系统字体回退 */
+    --font-body: 'DM Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    
+    /* 代码字体（如需要） */
+    --font-mono: 'JetBrains Mono', 'Fira Code', 'Monaco', 'Consolas', monospace;
+}
+
+/* ========================================
+   品牌色彩体系 - 微调与扩展
+   ======================================== */
+
+:root {
+    /* 主色 - 金色系统 */
+    --brand-gold: #d4af37;
+    --brand-gold-light: #f0d67a;
+    --brand-gold-dark: #a88a2c;
+    --brand-gold-alpha-15: rgba(212, 175, 55, 0.15);
+    --brand-gold-alpha-30: rgba(212, 175, 55, 0.3);
+    
+    /* 强调色 - 保留 */
+    --brand-purple: #9b59b6;
+    --brand-purple-light: rgba(155, 89, 182, 0.15);
+    --brand-blue: #3498db;
+    --brand-blue-light: rgba(52, 152, 219, 0.15);
+    
+    /* 新增 - 科技蓝（突显 AI 属性） */
+    --brand-tech: #2E86AB;
+    --brand-tech-light: rgba(46, 134, 171, 0.15);
+    --brand-tech-alpha: rgba(46, 134, 171, 0.08);
+    
+    /* 渐变色 */
+    --gradient-gold: linear-gradient(135deg, #d4af37 0%, #f0d67a 100%);
+    --gradient-brand: linear-gradient(135deg, var(--brand-gold) 0%, var(--brand-purple) 100%);
+    --gradient-tech: linear-gradient(135deg, var(--brand-blue) 0%, var(--brand-tech) 100%);
+}
+
+/* ========================================
+   品牌 Logo 系统
+   ======================================== */
+
+/* Logo 容器 */
+.brand-logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    text-decoration: none;
+    transition: all 0.3s var(--transition-smooth);
+}
+
+/* Logo 图标 */
+.brand-logo-icon {
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.brand-logo-icon svg {
+    width: 100%;
+    height: 100%;
+    transition: transform 0.3s var(--transition-smooth);
+}
+
+/* Logo 文字 */
+.brand-logo-text {
+    font-family: var(--font-display);
+    font-size: clamp(1.2rem, 2vw, 1.5rem);
+    font-weight: 600;
+    color: var(--text-primary);
+    letter-spacing: 0.03em;
+    transition: color 0.3s var(--transition-smooth);
+}
+
+/* Logo 悬停效果 */
+.brand-logo:hover .brand-logo-icon svg {
+    transform: scale(1.1) rotate(5deg);
+}
+
+.brand-logo:hover .brand-logo-text {
+    color: var(--brand-gold);
+}
+
+/* Logo 光晕效果 */
+.brand-logo-icon::after {
+    content: '';
+    position: absolute;
+    inset: -4px;
+    background: radial-gradient(circle, var(--brand-gold-alpha-30) 0%, transparent 70%);
+    border-radius: 50%;
+    opacity: 0;
+    transition: opacity 0.3s var(--transition-smooth);
+    pointer-events: none;
+}
+
+.brand-logo:hover .brand-logo-icon::after {
+    opacity: 1;
+}
+
+/* ========================================
+   品牌装饰元素 - 线条与图案
+   ======================================== */
+
+/* 金色装饰线 - 左上角 */
+.brand-decoration-line {
+    position: absolute;
+    background: var(--brand-gold);
+    opacity: 0.6;
+    pointer-events: none;
+}
+
+.brand-decoration-line.horizontal {
+    width: 80px;
+    height: 2px;
+    left: 50px;
+    top: 30px;
+}
+
+.brand-decoration-line.vertical {
+    width: 2px;
+    height: 60px;
+    left: 30px;
+    top: 30px;
+}
+
+/* 品牌装饰角 - 用于卡片 */
+.brand-corner {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border: 2px solid var(--brand-gold);
+    opacity: 0.3;
+    transition: opacity 0.3s var(--transition-smooth);
+    pointer-events: none;
+}
+
+.brand-corner.top-left {
+    top: 12px;
+    left: 12px;
+    border-right: none;
+    border-bottom: none;
+}
+
+.brand-corner.bottom-right {
+    bottom: 12px;
+    right: 12px;
+    border-left: none;
+    border-top: none;
+}
+
+/* 卡片悬停时装饰角高亮 */
+.skill-card:hover .brand-corner,
+.project-card:hover .brand-corner {
+    opacity: 1;
+}
+
+/* 金色渐变边框装饰 */
+.brand-gradient-border {
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    padding: 1px;
+    background: linear-gradient(135deg, var(--brand-gold) 0%, transparent 50%, var(--brand-purple) 100%);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    opacity: 0;
+    transition: opacity 0.3s var(--transition-smooth);
+    pointer-events: none;
+}
+
+/* ========================================
+   品牌背景装饰
+   ======================================== */
+
+/* 网格背景装饰 */
+.brand-grid-pattern {
+    position: absolute;
+    inset: 0;
+    background-image: 
+        linear-gradient(rgba(212, 175, 55, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(212, 175, 55, 0.03) 1px, transparent 1px);
+    background-size: 60px 60px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.5s var(--transition-smooth);
+}
+
+/* 径向渐变装饰 */
+.brand-radial-gradient {
+    position: absolute;
+    border-radius: 50%;
+    background: radial-gradient(circle, var(--brand-gold-alpha-15) 0%, transparent 70%);
+    pointer-events: none;
+}
+
+/* ========================================
+   品牌分隔线
+   ======================================== */
+
+.brand-divider {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: var(--spacing-lg) 0;
+}
+
+.brand-divider::before,
+.brand-divider::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--brand-gold), transparent);
+    opacity: 0.5;
+}
+
+/* ========================================
+   品牌按钮样式
+   ======================================== */
+
+.brand-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    background: transparent;
+    border: 1px solid var(--brand-gold);
+    color: var(--brand-gold);
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: all 0.3s var(--transition-smooth);
+    position: relative;
+    overflow: hidden;
+    min-height: var(--touch-target);
+}
+
+.brand-button::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--brand-gold);
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.3s var(--transition-smooth);
+    z-index: -1;
+}
+
+.brand-button:hover {
+    color: var(--bg-primary);
+}
+
+.brand-button:hover::before {
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
+/* ========================================
+   品牌标签样式
+   ======================================== */
+
+.brand-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.4rem 0.9rem;
+    background: var(--brand-gold-alpha-15);
+    border: 1px solid var(--brand-gold-alpha-30);
+    color: var(--brand-gold);
+    font-size: 0.8rem;
+    font-weight: 500;
+    border-radius: 20px;
+    transition: all 0.3s var(--transition-smooth);
+}
+
+.brand-tag:hover {
+    background: var(--brand-gold);
+    color: var(--bg-primary);
+}
+
+/* ========================================
+   响应式优化
+   ======================================== */
+
+@media (max-width: 768px) {
+    .brand-logo-icon {
+        width: 36px;
+        height: 36px;
+    }
+    
+    .brand-decoration-line.horizontal {
+        width: 60px;
+        left: 40px;
+    }
+    
+    .brand-decoration-line.vertical {
+        height: 50px;
+    }
+    
+    .brand-corner {
+        width: 16px;
+        height: 16px;
+    }
+}
+
+/* ========================================
+   性能优化 - 字体加载动画
+   ======================================== */
+
+/* 字体加载完成前的样式 */
+body.font-loading {
+    /* 使用系统字体作为临时回退 */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+}
+
+/* 字体加载完成后移除临时样式 */
+body.font-loaded .brand-logo-text {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+body.font-loading .brand-logo-text {
+    opacity: 0.7;
+    transform: translateY(2px);
+}
+
+/* ========================================
+   打印样式
+   ======================================== */
+
+@media print {
+    .brand-logo-icon::after {
+        display: none;
+    }
+    
+    .brand-gradient-border {
+        display: none;
+    }
+    
+    .brand-grid-pattern {
+        display: none;
+    }
+}

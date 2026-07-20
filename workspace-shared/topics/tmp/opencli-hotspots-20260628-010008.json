@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-28 01:00:08",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "I Built a Free Browser-Based Urdu Writing and Design Platform",
+          "description": "<h1>\n  \n  \n  I Built a Free Browser-Based Urdu Writing and Design Platform\n</h1>\n\n<p><em>iloveurdu.com</em></p>\n\n\n\n\n<p>I want to tell you about a tool I built for Urdu writers, students, designers, an",
+          "url": "https://dev.to/anilanawaz_7/i-built-a-free-browser-based-urdu-writing-and-design-platform-3169",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "How to build a production-ready app with Claude Code",
+          "description": "<p>Claude Code can build most of an app in a day. The hard part isn't getting something that runs. It's getting something you'd confidently put in front of real users. The gap between those two is whe",
+          "url": "https://dev.to/grepzero/how-to-build-a-production-ready-app-with-claude-code-me5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "What I Learned About PDAs in a Week of Building on Solana",
+          "description": "<p>I spent a week building a counter program in Anchor. By the end, every<br>\nuser had their own account, a global config singleton controlled whether<br>\nnew counters could be created, and a close in",
+          "url": "https://dev.to/lymah/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n51",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "7 AI-Native Shifts Beyond the Horseless Carriage",
+          "description": "<p>Earlier I wrote about the \"<a href=\"https://dev.to/turtleand/12-radical-ai-ideas-beyond-the-horseless-carriage-2l3d\">horseless carriage</a>\" problem in AI.</p>\n\n<p>The idea is simple: when a new te",
+          "url": "https://dev.to/turtleand/7-ai-native-shifts-beyond-the-horseless-carriage-4kbe",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Monitoring Tools for React Apps — Which One Do You Actually Need?",
+          "description": "<blockquote>\n<p><strong>Read Time: ~14 minutes</strong> | A practical guide to the tools that tell you your app is on fire — before your users do</p>\n\n<p><strong>This article is a bonus companion to t",
+          "url": "https://dev.to/kushang_tailor/monitoring-tools-for-react-apps-which-one-do-you-actually-need-234e",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "I analyzed 500 Upwork proposals with a 95% win rate. Here's the one pattern that decided everything.",
+          "description": "<p>There's a question every freelancer on Upwork asks at some point: why do some people get replies on almost every bid while most people hear nothing?</p>\n\n<p>I've been in the first group for a while",
+          "url": "https://dev.to/yaaver/i-analyzed-500-upwork-proposals-with-a-95-win-rate-heres-the-one-pattern-that-decided-everything-2leh",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Your Terraform Can Be Insecure: A Practical Look at Checkov",
+          "description": "<blockquote>\n<p>Infrastructure as Code makes cloud deployment faster and more consistent, but it also makes mistakes repeatable. A single insecure setting can be deployed again and again if nobody cat",
+          "url": "https://dev.to/kiarazmurillo/your-terraform-can-be-insecure-a-practical-look-at-checkov-4pel",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Authentication vs Authorization in Cloud Security: Understanding the Difference 🔥",
+          "description": "<p>When we use applications like Gmail, Netflix, or online banking, we rarely think about the security processes happening in the background. Yet every login and every action we perform depends on two",
+          "url": "https://dev.to/techie_sprinter/authentication-vs-authorization-in-cloud-security-understanding-the-difference-kli",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "\"Starting My AI/ML Journey in Public — and Backpropagation Already Broke My Brain\"",
+          "description": "<p>Hi, I'm Chakradhar— A 3rd year BTech student trying to become AI/ML engineer right from the 1st year i had wasted all my time, but yeah whatever it is \"I STARTED\" so far i had learned some topics .",
+          "url": "https://dev.to/chakradhar_y_7227/starting-my-aiml-journey-in-public-and-backpropagation-already-broke-my-brain-1763",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "How I Built a JavaScript Age Calculator in 2 Hours",
+          "description": "<h2>\n  \n  \n  The Problem I Faced\n</h2>\n\n<p>A few days ago, I needed to calculate someone's exact age in years, months, and days. I Googled \"age calculator\" and found:</p>\n\n<ul>\n<li>Complicated interfa",
+          "url": "https://dev.to/goru_mohd_6616164f698e79c/how-i-built-a-javascript-age-calculator-in-2-hours-52og",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Why I still use NGINX over everything else",
+          "description": "<p>People keep recommending Caddy. The config is cleaner, automatic HTTPS, three lines and you're done. They're not wrong. For a side project or a small team that doesn't want to think about infrastru",
+          "url": "https://dev.to/mishansavy/why-i-still-use-nginx-over-everything-else-24hj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "From Hype to AI Superpower: A Developer's Roadmap to Real AI Skills",
+          "description": "<p>AI is no longer a futuristic concept—it's part of our daily development workflow. Whether you're using GitHub Copilot, ChatGPT, Claude, or Gemini, AI is changing how we write code, debug applicatio",
+          "url": "https://dev.to/arjunvaradiyil/from-hype-to-ai-superpower-a-developers-roadmap-to-real-ai-skills-2b21",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

@@ -1,0 +1,755 @@
+{
+  "timestamp": "2026-04-03 02:04:27",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Google releases Gemma 4 open models",
+          "score": 440,
+          "author": "jeffmcjunkin",
+          "comments": 113,
+          "url": "https://deepmind.google/models/gemma/gemma-4/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://deepmind.google/models/gemma/gemma-4/"
+        },
+        {
+          "rank": 2,
+          "title": "Qwen3.6-Plus: Towards real world agents",
+          "score": 241,
+          "author": "pretext",
+          "comments": 86,
+          "url": "https://qwen.ai/blog?id=qwen3.6",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://qwen.ai/blog?id=qwen3.6"
+        },
+        {
+          "rank": 3,
+          "title": "A forecast of the fair market value of SpaceX's businesses",
+          "score": 72,
+          "author": "ddp26",
+          "comments": 63,
+          "url": "https://futuresearch.ai/spacex-ipo-valuation/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://futuresearch.ai/spacex-ipo-valuation/"
+        },
+        {
+          "rank": 4,
+          "title": "LinkedIn is illegally searching your computer",
+          "score": 1152,
+          "author": "digitalWestie",
+          "comments": 531,
+          "url": "https://browsergate.eu/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://browsergate.eu/"
+        },
+        {
+          "rank": 5,
+          "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+          "score": 296,
+          "author": "AbuAssar",
+          "comments": 76,
+          "url": "https://lemonade-server.ai",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://lemonade-server.ai"
+        },
+        {
+          "rank": 6,
+          "title": "Inside Nepal's Fake Rescue Racket",
+          "score": 189,
+          "author": "lode",
+          "comments": 74,
+          "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket"
+        },
+        {
+          "rank": 7,
+          "title": "Delve allegedly forked an open-source tool and sold it as its own",
+          "score": 163,
+          "author": "nickvec",
+          "comments": 79,
+          "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/"
+        },
+        {
+          "rank": 8,
+          "title": "Significant Raise of Reports",
+          "score": 218,
+          "author": "stratos123",
+          "comments": 102,
+          "url": "https://lwn.net/Articles/1065620/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://lwn.net/Articles/1065620/"
+        },
+        {
+          "rank": 9,
+          "title": "Even GPT-5.2 Can't Count to Five: Zero-Error Horizons in Trustworthy LLMs",
+          "score": 24,
+          "author": "daigoba66",
+          "comments": 19,
+          "url": "https://arxiv.org/abs/2601.15714",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://arxiv.org/abs/2601.15714"
+        },
+        {
+          "rank": 10,
+          "title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
+          "score": 172,
+          "author": "speckx",
+          "comments": 74,
+          "url": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era"
+        },
+        {
+          "rank": 11,
+          "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+          "score": 568,
+          "author": "novaRom",
+          "comments": 297,
+          "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://undark.org/2026/04/01/sweden-schools-books/"
+        },
+        {
+          "rank": 12,
+          "title": "Renewables reached nearly 50% of global electricity capacity last year",
+          "score": 104,
+          "author": "Growtika",
+          "comments": 46,
+          "url": "https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/"
+        },
+        {
+          "rank": 13,
+          "title": "OpenAI Acquires TBPN",
+          "score": 22,
+          "author": "surprisetalk",
+          "comments": 13,
+          "url": "https://openai.com/index/openai-acquires-tbpn/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://openai.com/index/openai-acquires-tbpn/"
+        },
+        {
+          "rank": 14,
+          "title": "IBM Announces Strategic Collaboration with Arm",
+          "score": 226,
+          "author": "bonzini",
+          "comments": 147,
+          "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing"
+        },
+        {
+          "rank": 15,
+          "title": "An Example of Statistical Investigation of the Text Eugene Onegin – Markov, 1913 [pdf]",
+          "score": 14,
+          "author": "jxmorris12",
+          "comments": 0,
+          "url": "https://alpha60.de/research/markov/DavidLink_AnExampleOfStatistical_MarkovTrans_2007.pdf",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://alpha60.de/research/markov/DavidLink_AnExampleOfStatistical_MarkovTrans_2007.pdf"
+        },
+        {
+          "rank": 16,
+          "title": "'Backrooms' and the Rise of the Institutional Gothic",
+          "score": 94,
+          "author": "anarbadalov",
+          "comments": 44,
+          "url": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/"
+        },
+        {
+          "rank": 17,
+          "title": "Modern SQLite: Features You Didn't Know It Had",
+          "score": 54,
+          "author": "thunderbong",
+          "comments": 5,
+          "url": "https://slicker.me/sqlite/features.htm",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://slicker.me/sqlite/features.htm"
+        },
+        {
+          "rank": 18,
+          "title": "EmDash: A Fresh Take on CMS",
+          "score": 30,
+          "author": "taubek",
+          "comments": 9,
+          "url": "https://maciekpalmowski.dev/blog/emdash-a-fresh-take-on-cms/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://maciekpalmowski.dev/blog/emdash-a-fresh-take-on-cms/"
+        },
+        {
+          "rank": 19,
+          "title": "Bringing Clojure programming to Enterprise (2021)",
+          "score": 160,
+          "author": "smartmic",
+          "comments": 95,
+          "url": "https://blogit.michelin.io/clojure-programming/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://blogit.michelin.io/clojure-programming/"
+        },
+        {
+          "rank": 20,
+          "title": "Gone (Almost) Phishin'",
+          "score": 139,
+          "author": "luu",
+          "comments": 67,
+          "url": "https://ma.tt/2026/03/gone-almost-phishin/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://ma.tt/2026/03/gone-almost-phishin/"
+        },
+        {
+          "rank": 21,
+          "title": "Quadratic Micropass Type Inference",
+          "score": 11,
+          "author": "simvux",
+          "comments": 4,
+          "url": "https://articles.luminalang.com/a/micropass-inference/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://articles.luminalang.com/a/micropass-inference/"
+        },
+        {
+          "rank": 22,
+          "title": "Email obfuscation: What works in 2026?",
+          "score": 295,
+          "author": "jaden",
+          "comments": 86,
+          "url": "https://spencermortensen.com/articles/email-obfuscation/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://spencermortensen.com/articles/email-obfuscation/"
+        },
+        {
+          "rank": 23,
+          "title": "Reinventing the pull request",
+          "score": 64,
+          "author": "bkolobara",
+          "comments": 51,
+          "url": "https://lubeno.dev/blog/reinventing-the-pull-request",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://lubeno.dev/blog/reinventing-the-pull-request"
+        },
+        {
+          "rank": 24,
+          "title": "March heat in American west has left snowpack at record-low levels",
+          "score": 63,
+          "author": "ijidak",
+          "comments": 24,
+          "url": "https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west"
+        },
+        {
+          "rank": 25,
+          "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+          "score": 127,
+          "author": "jackson-mcd",
+          "comments": 36,
+          "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"
+        },
+        {
+          "rank": 26,
+          "title": "Emacs-libgterm: Terminal emulator for Emacs using libghostty-vt",
+          "score": 63,
+          "author": "signa11",
+          "comments": 16,
+          "url": "https://github.com/rwc9u/emacs-libgterm",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://github.com/rwc9u/emacs-libgterm"
+        },
+        {
+          "rank": 27,
+          "title": "Telli (YC F24) is hiring engineers, designers, and more (on-site, Berlin)",
+          "score": 1,
+          "author": "sebselassie",
+          "url": "http://hi.telli.com/join-us",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "http://hi.telli.com/join-us"
+        },
+        {
+          "rank": 28,
+          "title": "Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries",
+          "score": 64,
+          "author": "rdme",
+          "comments": 45,
+          "url": "https://github.com/razvandimescu/numa",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://github.com/razvandimescu/numa"
+        },
+        {
+          "rank": 29,
+          "title": "Enabling Codex to Analyze Two Decades of Hacker News Data",
+          "score": 59,
+          "author": "ronfriedhaber",
+          "comments": 24,
+          "url": "https://modolap.com/publication/hn-analysis-1",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://modolap.com/publication/hn-analysis-1"
+        },
+        {
+          "rank": 30,
+          "title": "On the trail of ancient art, deep in the Sahara",
+          "score": 19,
+          "author": "bookofjoe",
+          "comments": 2,
+          "url": "https://www.ft.com/content/524ed21e-5c35-489e-ae0b-90d40b4cf28a",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://www.ft.com/content/524ed21e-5c35-489e-ae0b-90d40b4cf28a"
+        }
+      ]
+    },
+    "github": {
+      "count": 3,
+      "items": [
+        {
+          "rank": 1,
+          "title": "siddharthvaddem /openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "language": "TypeScript",
+          "stars": 15180,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "asgeirtj /system_prompts_leaks",
+          "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "language": "",
+          "stars": 36042,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "sherlock-project /sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "language": "Python",
+          "stars": 76956,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Every dependency you add is a supply chain attack waiting to happen",
+          "description": "",
+          "url": "https://benhoyt.com/writings/dependencies/",
+          "score": 29,
+          "comments": 15,
+          "tags": [
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Packaging 128 languages with Nix",
+          "description": "",
+          "url": "https://invariant.club/articles/packaging-128-programming-languages-with-nix.html",
+          "score": 27,
+          "comments": 10,
+          "tags": [
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "What Would You See Changed in Haskell?",
+          "description": "",
+          "url": "https://blog.haskell.org/what-would-you-see-changed-in-haskell/",
+          "score": 57,
+          "comments": 21,
+          "tags": [
+            "haskell"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Running out of Disk Space in Production",
+          "description": "",
+          "url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
+          "score": 21,
+          "comments": 4,
+          "tags": [
+            "devops",
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "pGenie – SQL-first code generator for PostgreSQL (Haskell, Rust, Java)",
+          "description": "",
+          "url": "https://pgenie.io/",
+          "score": 10,
+          "comments": 18,
+          "tags": [
+            "databases",
+            "haskell",
+            "java",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "jj v0.40.0 released",
+          "description": "",
+          "url": "https://github.com/jj-vcs/jj/releases/tag/v0.40.0",
+          "score": 16,
+          "comments": 2,
+          "tags": [
+            "release",
+            "vcs"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Email obfuscation: What works in 2026?",
+          "description": "",
+          "url": "https://spencermortensen.com/articles/email-obfuscation/",
+          "score": 53,
+          "comments": 12,
+          "tags": [
+            "email",
+            "privacy",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "LinkedIn Is Scanning for Browser Extensions",
+          "description": "",
+          "url": "https://browsergate.eu/",
+          "score": 9,
+          "comments": 1,
+          "tags": [
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Reverse Engineering Crazy Taxi",
+          "description": "",
+          "url": "https://wretched.computer/post/crazytaxi",
+          "score": 14,
+          "comments": 1,
+          "tags": [
+            "games",
+            "retrocomputing",
+            "reversing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Activating Two Trap Cards at Once, or: A Gentle Response to the Popularity of Vibecoding",
+          "description": "",
+          "url": "https://gist.github.com/MostAwesomeDude/560185c24f959f6fec229739cb5a6735",
+          "score": 5,
+          "comments": 1,
+          "tags": [
+            "ai",
+            "math",
+            "plt",
+            "python",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Python Yet Reforged Entirely",
+          "description": "",
+          "url": "https://pyre-lang.org/",
+          "score": 20,
+          "comments": 16,
+          "tags": [
+            "compilers",
+            "python",
+            "rust",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Evolving the Node.js Release Schedule",
+          "description": "",
+          "url": "https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule",
+          "score": 8,
+          "comments": 1,
+          "tags": [
+            "javascript",
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "I may have solved a long standing problem with Object Oriented systems",
+          "description": "",
+          "url": "https://blog.mempko.com/an-abject-horror/",
+          "score": 2,
+          "comments": 3,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "Linear types proposal for Hare",
+          "description": "",
+          "url": "https://yerinalexey.srht.site/borrow/notes.html",
+          "score": 52,
+          "comments": 20,
+          "tags": [
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "A game with programmable space combat written in Go",
+          "description": "",
+          "url": "https://store.steampowered.com/app/3024370/NebuLeet",
+          "score": 20,
+          "comments": 18,
+          "tags": [
+            "games",
+            "go"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Martian time in Hare",
+          "description": "",
+          "url": "https://harelang.org/blog/2022-08-01-martian-time-in-hare/",
+          "score": 7,
+          "comments": 0,
+          "tags": [
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Indexical: Private, local-first memory for everything you read on the web",
+          "description": "<p>I've picked up a thread from <a href=\"https://lobste.rs/s/ggvvxc/i_checked_if_browsers_could_cache_all#c_tcmcss\" rel=\"ugc\">~2 years ago</a> and hereby pinging <a href=\"https://lobste.rs/~BiteCode\" rel=\"ugc\">@BiteCode</a> for the same.</p>\n",
+          "url": "https://github.com/deejayy/indexical",
+          "score": 15,
+          "comments": 6,
+          "tags": [
+            "browsers",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "git_bayesect: Bayesian git bisect",
+          "description": "",
+          "url": "https://github.com/hauntsaninja/git_bayesect",
+          "score": 34,
+          "comments": 3,
+          "tags": [
+            "debugging"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Quantum computing bombshells that are not April Fools",
+          "description": "",
+          "url": "https://scottaaronson.blog/?p=9665",
+          "score": 15,
+          "comments": 0,
+          "tags": [
+            "cryptography"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "A quick look at __pledge_open(2)",
+          "description": "",
+          "url": "https://dustri.org/b/a-quick-look-at-__pledge_open2.html",
+          "score": 4,
+          "comments": 0,
+          "tags": [
+            "openbsd",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 53,
+    "hackernews": 30,
+    "github": 3,
+    "lobsters": 20
+  }
+}

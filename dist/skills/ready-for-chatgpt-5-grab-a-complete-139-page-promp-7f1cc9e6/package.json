@@ -1,0 +1,28 @@
+{
+  "name": "Ready for ChatGPT-5: Grab a Complete 139 Page Prompting ...",
+  "version": "1.0.0",
+  "description": "s build to fully harness the full power of today",
+  "main": "SKILL.md",
+  "keywords": [
+    "ai",
+    "prompt",
+    "text-prompt"
+  ],
+  "author": "Clawdbot",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "SKILL.md",
+    "assets",
+    "references",
+    "scripts"
+  ],
+  "type": "Text Prompt",
+  "source": "chatgpt",
+  "url": "https://natesnewsletter.substack.com/p/ready-for-chatgpt-5-grab-a-complete",
+  "quality_score": 58,
+  "content_hash": "7f1cc9e6f0e7240a2ea9067733fc6540",
+  "created_at": "2026-02-05T09:43:10.512649"
+}

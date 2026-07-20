@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-02-02T09:03:52.124466",
+  "stats": {
+    "total_processed": 751,
+    "converted": 29,
+    "skipped_invalid": 180,
+    "skipped_duplicate": 0,
+    "skipped_low_quality": 542,
+    "type_text": 197,
+    "type_image": 12,
+    "type_video": 0
+  },
+  "total_processed": 751,
+  "total_converted": 29,
+  "total_skipped": 722,
+  "total_packaged": 29,
+  "type_distribution": {
+    "text_prompt": 197,
+    "image_generation": 12,
+    "video_generation": 0
+  },
+  "output_dir": "/root/clawd/dist/skills",
+  "log_file": "/root/clawd/data/conversion-logs/conversion-20260202_090352.jsonl"
+}

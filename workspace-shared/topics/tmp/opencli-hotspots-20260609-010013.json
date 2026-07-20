@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-09 01:00:13",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Road To KiwiEngine #13: Why I Think The Future Of Computing Is Local-First",
+          "description": "<p>For over a decade, the industry pushed everything toward the cloud.</p>\n\n<p>Applications.<br>\nStorage.<br>\nMedia.<br>\nDevelopment environments.<br>\nInfrastructure.<br>\nIntelligence.</p>\n\n<p>And for",
+          "url": "https://dev.to/stinklewinks/road-to-kiwiengine-13-why-i-think-the-future-of-computing-is-local-first-3g07",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "The 8 Sections That Earned Their Place on a Developer-Tools Site",
+          "description": "<p>I just shipped <a href=\"https://www.shadcnblocks.com/template/meridian\" rel=\"noopener noreferrer\">Meridian</a>, a premium template for developer-tools and observability products. The hard part wasn",
+          "url": "https://dev.to/ausrobdev/the-8-sections-that-earned-their-place-on-a-developer-tools-site-4ik5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Building CRUD API Suites (Playwright + TypeScript, Ch.13)",
+          "description": "<p>With <a href=\"https://github.com/aktibaba/playwright-qa-course\" rel=\"noopener noreferrer\"><code>authedApi</code></a> from Chapter 12,<br>\nauthenticated calls are effortless. Now we test the full li",
+          "url": "https://dev.to/aktibaba/building-crud-api-suites-playwright-typescript-ch13-l03",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "AI Enrichment Pipeline: From Sample Classification to 100K-File Metadata Search with Bedrock and OpenSearch NextGen",
+          "description": "<h2>\n  \n  \n  Quick Recap: What We Built in Part 1\n</h2>\n\n<p>In <a href=\"https://dev.to/aws-builders/from-hours-to-seconds-an-ai-powered-metadata-catalog-for-unstructured-data-on-fsx-for-ontap-5f54\">Pa",
+          "url": "https://dev.to/aws-builders/ai-enrichment-pipeline-from-sample-classification-to-100k-file-metadata-search-with-bedrock-and-1imb",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Secure Config Runner: Execute Python Configs Safely",
+          "description": "<p>I built Secure Config Runner because running arbitrary configuration files, especially those from external sources, can be risky. This Python script aims to mitigate those risks.</p>\n\n<p>It works b",
+          "url": "https://dev.to/itsevilduck/secure-config-runner-execute-python-configs-safely-1gkl",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "TFLite Edge Model Quantizer Snippet",
+          "description": "<p>I've put together a Python snippet for post-training integer quantization of TensorFlow Lite models. This process is key for making machine learning models run efficiently on devices with limited r",
+          "url": "https://dev.to/itsevilduck/tflite-edge-model-quantizer-snippet-1ehi",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "AppQuickSwitch: Keyboard-Driven App Launcher for macOS and Linux",
+          "description": "<p>I've built AppQuickSwitch, a utility for macOS and Linux that lets you launch or switch to applications using your keyboard. On Linux, it can also run commands. The core idea is to type a partial n",
+          "url": "https://dev.to/itsevilduck/appquickswitch-keyboard-driven-app-launcher-for-macos-and-linux-474p",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Verify Rsync Operations with a New Integrity Test Script",
+          "description": "<p>I've built a small script to help verify rsync operations. The goal is to provide a straightforward way to confirm that your rsync commands are working as expected and that data integrity is mainta",
+          "url": "https://dev.to/itsevilduck/verify-rsync-operations-with-a-new-integrity-test-script-4af3",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Defeasible Deontic Logic for Insurance Claims Automation",
+          "description": "<p><a href=\"https://arxiv.org/abs/2506.08899\" rel=\"noopener noreferrer\">Toward Robust Legal Text Formalization into Defeasible Deontic Logic using LLMs</a> is a rule-based non-monotonic formalism for ",
+          "url": "https://dev.to/jhagerer/defeasible-deontic-logic-for-insurance-claims-automation-5cap",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Designing a config-driven agentic RAG platform for customer support",
+          "description": "<p>Customer support is one of the few places where RAG and agents earn their keep immediately: the questions are real, the knowledge changes constantly, and a wrong answer has a cost. I built an open-",
+          "url": "https://dev.to/ahmetozel/designing-a-config-driven-agentic-rag-platform-for-customer-support-abo",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "I Replaced Scrum, Jira, and Our Wiki With 12 AI Agents on a Mac Mini",
+          "description": "<p>A survey last week put it at 54%. More than half the code shipped today is AI-generated.</p>\n\n<p>In my own work the number is probably higher. AI writes the first draft. AI estimates the work. AI g",
+          "url": "https://dev.to/mickyarun/i-replaced-scrum-jira-and-our-wiki-with-12-ai-agents-on-a-mac-mini-o7o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Auth & Sessions for the API Layer (Playwright + TypeScript, Ch.12)",
+          "description": "<p><a href=\"https://github.com/aktibaba/playwright-qa-course\" rel=\"noopener noreferrer\">Chapter 11</a> tested reads, which<br>\nneed no identity. Most of an API is gated behind auth — creating articles",
+          "url": "https://dev.to/aktibaba/auth-sessions-for-the-api-layer-playwright-typescript-ch12-neg",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

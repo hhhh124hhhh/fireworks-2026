@@ -1,0 +1,11 @@
+# Video Prompt Generator - Dependencies
+# 视频提示词生成器 - 依赖项
+
+# HTTP Client
+httpx>=0.25.0
+
+# Optional: For better async support
+# anyio>=3.7.0
+
+# Optional: For better JSON handling
+# pyyaml>=6.0

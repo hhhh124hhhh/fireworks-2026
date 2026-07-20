@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-07-02 01:00:11",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "[Event] Let's catch up at WeAreDevelopers World Congress 2026",
+          "description": "<p>The developer role is shifting fast, and WeAreDevelopers World Congress 2026 in Berlin is one of the best places to have that conversation. We are excited to have our Field CTO Guillaume Moigneu on",
+          "url": "https://dev.to/upsun/event-lets-catch-up-at-wearedevelopers-world-congress-2026-9ni",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "The one-line GitHub Actions cache most repos forget",
+          "description": "<p>The first thing I check on a slow CI run is the cache, and the cache is usually missing. It is the cheapest speedup there is: one line on your setup step, and every run stops re-downloading and reb",
+          "url": "https://dev.to/ace2932/the-one-line-github-actions-cache-most-repos-forget-1ke7",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Stop Writing Custom Auth, Analytics, and Media Pipelines: The Production-Grade SaaS Architecture for 2026",
+          "description": "<p>Every junior developer makes the same architectural mistake when launching a new SaaS: They try to build every single microservice from scratch. </p>\n\n<p>They spend 3 days configuring JWT tokens, a",
+          "url": "https://dev.to/apives_ecosystem/stop-writing-custom-auth-analytics-and-media-pipelines-the-production-grade-saas-architecture-10a3",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "How Switching to Linux Changed the Way I Learn Programming",
+          "description": "<h2>\n  \n  \n  I Thought Linux Was Only for Experts. I Was Wrong.\n</h2>\n\n<p>A few months ago, if someone had asked me to install Linux, my answer would have been a firm <strong>\"No.\"</strong></p>\n\n<p>No",
+          "url": "https://dev.to/lakshmi_sravanyathiru/how-switching-to-linux-changed-the-way-i-learn-programming-329l",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Put AI agents in charge of a Civilization game and they reach for the nukes",
+          "description": "<p>A benchmark called CivBench drops AI agents into the strategy game Civilization VI and scores how well they play — and the agents consistently chose to launch nuclear weapons when they held an adva",
+          "url": "https://dev.to/breachprotocol/put-ai-agents-in-charge-of-a-civilization-game-and-they-reach-for-the-nukes-47cg",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "I Want to Build Things That Save Work",
+          "description": "<p>I have built a lot of websites. I still build them, and honestly, I think I have become pretty good at it. I still enjoy making a page feel fast, clear, polished, and useful.</p>\n\n<p>But websites b",
+          "url": "https://dev.to/vvitovec/i-want-to-build-things-that-save-work-2edi",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "AI Agents Are Learning to Build the Worlds They Train In",
+          "description": "<p>Three research projects released this week demonstrate that AI agents can improve by learning to simulate the digital environments they operate in, rather than only learning which actions to take. ",
+          "url": "https://dev.to/breachprotocol/ai-agents-are-learning-to-build-the-worlds-they-train-in-3lfj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "The Anthropic Engineering Loop That Changes How You Use AI Coding Tools",
+          "description": "<p>You give an AI coding agent a one-line prompt. Ten seconds later you have a hundred lines of code. It feels incredible. It feels like the future.</p>\n\n<p>Then you read it. It's not what you meant. ",
+          "url": "https://dev.to/james_pelton_898cf47b92a5/the-anthropic-engineering-loop-that-changes-how-you-use-ai-coding-tools-1kcd",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Make your systems agent-readable in one command",
+          "description": "<h2>\n  \n  \n  The context problem\n</h2>\n\n<p>Everyone is wiring AI agents into their stack. But an agent is only as smart as<br>\nthe context it's given, and that context — table schemas, join logic, API",
+          "url": "https://dev.to/bushans/make-your-systems-agent-readable-in-one-command-348a",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "The Documentation System Every Startup Should Have",
+          "description": "<p><strong>Key Takeaways</strong></p>\n\n<ul>\n<li>Most documentation advice is written by people whose job is <em>only</em> documentation. This isn't that. This is the system I run as a solo founder shi",
+          "url": "https://dev.to/virginiamwega2svg/the-documentation-system-every-startup-should-have-139e",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "A language model that writes by erasing, and now keeps up with the classics",
+          "description": "<p>iLLaDA, an eight-billion-parameter diffusion language model, demonstrates that generating text by refining a whole passage at once can match conventional left-to-right models at the same scale. The",
+          "url": "https://dev.to/breachprotocol/a-language-model-that-writes-by-erasing-and-now-keeps-up-with-the-classics-101",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Acronyms and Jargon in Development and Open Source",
+          "description": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>You join an open-source project, read a discussion on GitHub, and then... PR, LGTM, WONTFIX, RFC. You nod politely, but you have no idea what any of that means.</p>",
+          "url": "https://dev.to/thomasbnt/acronyms-and-jargon-in-development-and-open-source-45m9",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

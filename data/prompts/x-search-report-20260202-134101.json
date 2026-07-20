@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-02-02T13:41:01.813421",
+  "searched_queries": [
+    "AI prompts (#AIPrompts OR #promptengineering) -is:retweet lang:en",
+    "ChatGPT prompts (#ChatGPT OR #GPT4) -is:retweet lang:en",
+    "Midjourney prompts (#Midjourney OR #AIArt) -is:retweet lang:en",
+    "Claude prompts (#ClaudeAI) -is:retweet lang:en",
+    "AI writing prompts (#AIWriting) -is:retweet lang:en"
+  ],
+  "hashtag_filters": [
+    "#AIPrompts",
+    "#promptengineering",
+    "#ChatGPT",
+    "#GPT4",
+    "#Midjourney",
+    "#AIArt",
+    "#ClaudeAI",
+    "#AIWriting"
+  ],
+  "account_whitelist": [
+    "openai",
+    "AnthropicAI",
+    "midjourney",
+    "firdouskhan",
+    "goodfellow"
+  ],
+  "total_tweets_found": 0,
+  "total_prompts_extracted": 0,
+  "cache_enabled": true,
+  "output_files": {
+    "tweets": "/root/clawd/data/prompts/x-search-results.jsonl",
+    "prompts": "/root/clawd/data/prompts/extracted-prompts.jsonl"
+  }
+}

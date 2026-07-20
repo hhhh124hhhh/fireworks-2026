@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-01-30T21:00:18.691988",
+  "total_data": 137,
+  "unique_prompts": 0,
+  "high_quality": 0,
+  "google_prompts": 0,
+  "sora2_prompts": 0,
+  "google_search_keywords": [
+    "google imagen 3",
+    "google imagen prompt",
+    "google image generation",
+    "veo prompt",
+    "google ai image",
+    "imagen 3",
+    "google veogoogle image model谷歌生图",
+    "Google Imagen",
+    "Google Veo"
+  ],
+  "sora2_search_keywords": [
+    "sora 2",
+    "sora2",
+    "openai sora 2",
+    "sora 2 prompt",
+    "sora 2 video",
+    "sora 2 text to video",
+    "sora 2 vs",
+    "openai sora2",
+    "Sora 2",
+    "Sora 2 提示词",
+    "OpenAI Sora 2"
+  ],
+  "output_file": "/root/clawd/data/prompts/google-sora2-prompts-manual.jsonl"
+}

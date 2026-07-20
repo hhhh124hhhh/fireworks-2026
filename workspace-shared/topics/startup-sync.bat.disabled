@@ -1,0 +1,15 @@
+@echo off
+REM =========================================
+REM Bot4 Startup Sync
+REM 本地开机时自动执行：pull -> merge -> push
+REM =========================================
+
+cd /d "%~dp0"
+
+echo [startup-sync] Bot4 Startup Sync
+echo [startup-sync] Repo: %CD%
+
+REM 使用 node 运行 startup-sync.js
+node startup-sync.js
+
+pause

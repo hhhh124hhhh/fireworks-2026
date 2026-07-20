@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-01-31T00:22:56.270Z",
+  "totalResults": 219,
+  "totalPrompts": 41,
+  "categories": {
+    "image-generation": 9,
+    "writing": 9,
+    "chatgpt": 4,
+    "engineering": 3,
+    "general": 5
+  },
+  "mergedPrompts": 41,
+  "outputFile": "/root/clawd/data/prompts-collection/all-prompts-2026-01-31.jsonl",
+  "outputDir": "/root/clawd/data/prompts-collection"
+}

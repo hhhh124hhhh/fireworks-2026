@@ -1,0 +1,55 @@
+2026-01-31 15:20:33,700 - INFO - ================================================================================
+2026-01-31 15:20:33,700 - INFO - 🔍 测试模式：使用 SearXNG 搜索 AI 提示词（仅 2 个查询）
+2026-01-31 15:20:33,701 - INFO - ================================================================================
+2026-01-31 15:20:33,702 - INFO - 
+[1/2] 搜索: awesome-chatgpt-prompts github
+2026-01-31 15:20:34,317 - INFO - 搜索 'awesome-chatgpt-prompts github': 找到 5 个结果
+2026-01-31 15:20:34,317 - INFO -   [1] 处理: GitHub - f/awesome-chatgpt-prompts: Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+2026-01-31 15:20:35,211 - INFO -   [2] 处理: r/PromptDesign on Reddit: Awesome ChatGPT Prompts (Github)
+2026-01-31 15:20:36,010 - INFO -   [3] 处理: awesome-chatgpt-prompts
+2026-01-31 15:20:36,605 - INFO -   [4] 处理: prompts.chat - AI Prompts Community
+2026-01-31 15:20:39,091 - INFO -       找到 2 个提示词
+2026-01-31 15:20:39,091 - INFO -   [5] 处理: PlexPt/awesome-chatgpt-prompts-zh: ChatGPT 中文调教指南。各种 ...
+2026-01-31 15:20:41,844 - INFO - 
+[2/2] 搜索: prompt engineering tutorial
+2026-01-31 15:20:42,674 - INFO - 搜索 'prompt engineering tutorial': 找到 5 个结果
+2026-01-31 15:20:42,674 - INFO -   [1] 处理: r/PromptEngineering on Reddit: OpenAI Just Dropped Free Prompt Engineering Tutorial Videos (Beginner to Master)
+2026-01-31 15:20:43,464 - INFO -   [2] 处理: Prompt Engineering Guide | Prompt Engineering Guide
+2026-01-31 15:20:43,622 - INFO -       找到 7 个提示词
+2026-01-31 15:20:43,624 - INFO -   [3] 处理: Prompt Engineering Tutorial
+2026-01-31 15:20:43,762 - INFO -       找到 6 个提示词
+2026-01-31 15:20:43,763 - INFO -   [4] 处理: Prompt Engineering for AI Guide | Google Cloud
+2026-01-31 15:20:44,740 - INFO -       找到 10 个提示词
+2026-01-31 15:20:44,741 - INFO -   [5] 处理: Prompt Engineering Author: Lee Boonstra
+2026-01-31 15:22:50,950 - INFO - 
+================================================================================
+2026-01-31 15:22:50,951 - INFO - 📊 测试完成！
+2026-01-31 15:22:50,951 - INFO - ================================================================================
+2026-01-31 15:22:50,951 - INFO - 总共收集: 25 个提示词
+2026-01-31 15:22:50,952 - INFO - 保存到: /root/clawd/data/prompts/collected/test-prompts-20260131-152033.jsonl
+2026-01-31 15:22:50,953 - INFO - 
+类型分布:
+2026-01-31 15:22:50,953 - INFO -   text-generation: 13
+2026-01-31 15:22:50,953 - INFO -   general: 9
+2026-01-31 15:22:50,953 - INFO -   image-generation: 3
+2026-01-31 15:22:50,953 - INFO - 
+质量分布:
+2026-01-31 15:22:50,953 - INFO -   高质量 (≥70): 0
+2026-01-31 15:22:50,953 - INFO -   中等 (50-69): 3
+2026-01-31 15:22:50,953 - INFO -   低质量 (<50): 22
+2026-01-31 15:22:50,953 - INFO - 
+📝 示例提示词（前 3 个）:
+2026-01-31 15:22:50,953 - INFO - 
+1. [general] 分数: 35
+2026-01-31 15:22:50,953 - INFO -    Please suggest improvements for: 1. Code readability and maintainability 2. Performance optimization...
+2026-01-31 15:22:50,953 - INFO -    来源: https://prompts.chat/
+2026-01-31 15:22:50,953 - INFO - 
+2. [image-generation] 分数: 55
+2026-01-31 15:22:50,953 - INFO -    icon designs attached: These specifications define the visual language of premium, modern app icons ...
+2026-01-31 15:22:50,954 - INFO -    来源: https://prompts.chat/
+2026-01-31 15:22:50,954 - INFO - 
+3. [general] 分数: 35
+2026-01-31 15:22:50,954 - INFO -    Engineering Guide | Prompt Engineering Guide 🚀 Master building AI workflows and agents with Claude C...
+2026-01-31 15:22:50,954 - INFO -    来源: https://www.promptingguide.ai/
+2026-01-31 15:22:50,954 - INFO - 
+✅ 测试完成！

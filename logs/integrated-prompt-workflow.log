@@ -1,0 +1,4147 @@
+[2026-02-02 09:36:21] ==========================================
+[2026-02-02 09:36:21] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-02 09:36:21] ==========================================
+[2026-02-02 09:36:21] 
+[2026-02-02 09:36:21] ==========================================
+[2026-02-02 09:36:21] Stage 1: 数据发现（x-prompt-hunter）
+[2026-02-02 09:36:21] ==========================================
+[2026-02-02 09:36:21] 查询: AI prompts
+[2026-02-02 09:36:21] 限制: 每个源 50 个, 评估 30 个
+Traceback (most recent call last):
+  File "/root/clawd/skills/x-prompt-hunter/main.py", line 19, in <module>
+    from semantic_dedup import SemanticDedup
+  File "/root/clawd/skills/x-prompt-hunter/src/semantic_dedup.py", line 13, in <module>
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+[0;31m[ERROR][0m ❌ x-prompt-hunter pipeline 执行失败
+[0;31m[ERROR][0m ❌ Stage 1 失败，终止流程
+[0;32m[INFO][0m 发送通知: ❌ 整合工作流 Stage 1 失败
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+✅ Sent via Slack. Message ID: 1769996192.795529
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+[info]: [ 'client ready' ]
+✅ Sent via Feishu. Message ID: om_x100b58cbb471b4a8b2430f349b72dd5 (chat ou_3bc5290afc1a94f38e23dc17c35f26d6)
+[2026-02-02 09:39:33] ==========================================
+[2026-02-02 09:39:33] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-02 09:39:33] ==========================================
+[2026-02-02 09:39:33] 
+[2026-02-02 09:39:33] ==========================================
+[2026-02-02 09:39:33] Stage 1: 数据发现（x-prompt-hunter）
+[2026-02-02 09:39:33] ==========================================
+[2026-02-02 09:39:33] 查询: AI prompts
+[2026-02-02 09:39:33] 限制: 每个源 50 个, 评估 30 个
+Traceback (most recent call last):
+  File "/root/clawd/skills/x-prompt-hunter/main.py", line 19, in <module>
+    from semantic_dedup import SemanticDedup
+  File "/root/clawd/skills/x-prompt-hunter/src/semantic_dedup.py", line 13, in <module>
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+[0;31m[ERROR][0m ❌ x-prompt-hunter pipeline 执行失败
+[0;31m[ERROR][0m ❌ Stage 1 失败，终止流程
+[0;32m[INFO][0m 发送通知: ❌ 整合工作流 Stage 1 失败
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+✅ Sent via Slack. Message ID: 1769996386.885899
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+[info]: [ 'client ready' ]
+✅ Sent via Feishu. Message ID: om_x100b5734482d8ca4b28d4d70cfdca60 (chat ou_3bc5290afc1a94f38e23dc17c35f26d6)
+[2026-02-02 09:41:18] ==========================================
+[2026-02-02 09:41:18] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-02 09:41:18] ==========================================
+[2026-02-02 09:41:18] 
+[2026-02-02 09:41:18] ==========================================
+[2026-02-02 09:41:18] Stage 1: 数据发现（x-prompt-hunter）
+[2026-02-02 09:41:18] ==========================================
+[2026-02-02 09:41:18] 查询: AI prompts
+[2026-02-02 09:41:18] 限制: 每个源 50 个, 评估 30 个
+Traceback (most recent call last):
+  File "/root/clawd/skills/x-prompt-hunter/main.py", line 19, in <module>
+    from github_hf_fetcher import PromptFetcher
+  File "/root/clawd/skills/x-prompt-hunter/src/github_hf_fetcher.py", line 13, in <module>
+    from datasets import load_dataset
+ModuleNotFoundError: No module named 'datasets'
+[0;31m[ERROR][0m ❌ x-prompt-hunter pipeline 执行失败
+[0;31m[ERROR][0m ❌ Stage 1 失败，终止流程
+[0;32m[INFO][0m 发送通知: ❌ 整合工作流 Stage 1 失败
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+✅ Sent via Slack. Message ID: 1769996489.411859
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+[info]: [ 'client ready' ]
+✅ Sent via Feishu. Message ID: om_x100b5734438a5888b246defcb87e966 (chat ou_3bc5290afc1a94f38e23dc17c35f26d6)
+[2026-02-02 09:42:23] ==========================================
+[2026-02-02 09:42:23] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-02 09:42:23] ==========================================
+[2026-02-02 09:42:23] 
+[2026-02-02 09:42:23] ==========================================
+[2026-02-02 09:42:23] Stage 1: 数据发现（x-prompt-hunter）
+[2026-02-02 09:42:23] ==========================================
+[2026-02-02 09:42:23] 查询: AI prompts
+[2026-02-02 09:42:23] 限制: 每个源 50 个, 评估 30 个
+Traceback (most recent call last):
+  File "/root/clawd/skills/x-prompt-hunter/main.py", line 19, in <module>
+    from github_hf_fetcher import PromptFetcher
+  File "/root/clawd/skills/x-prompt-hunter/src/github_hf_fetcher.py", line 14, in <module>
+    from github import Github, GithubException
+ModuleNotFoundError: No module named 'github'
+[0;31m[ERROR][0m ❌ x-prompt-hunter pipeline 执行失败
+[0;31m[ERROR][0m ❌ Stage 1 失败，终止流程
+[0;32m[INFO][0m 发送通知: ❌ 整合工作流 Stage 1 失败
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+✅ Sent via Slack. Message ID: 1769996557.262829
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+[info]: [ 'client ready' ]
+✅ Sent via Feishu. Message ID: om_x100b57345f4ec8b4b10941770364bc6 (chat ou_3bc5290afc1a94f38e23dc17c35f26d6)
+[2026-02-02 09:44:05] ==========================================
+[2026-02-02 09:44:05] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-02 09:44:05] ==========================================
+[2026-02-02 09:44:05] 
+[2026-02-02 09:44:05] ==========================================
+[2026-02-02 09:44:05] Stage 1: 数据发现（x-prompt-hunter）
+[2026-02-02 09:44:05] ==========================================
+[2026-02-02 09:44:05] 查询: AI prompts
+[2026-02-02 09:44:05] 限制: 每个源 50 个, 评估 30 个
+Traceback (most recent call last):
+  File "/root/clawd/skills/x-prompt-hunter/main.py", line 21, in <module>
+    from langfuse_tracker import LangfuseTracker
+  File "/root/clawd/skills/x-prompt-hunter/src/langfuse_tracker.py", line 211
+    report = {
+    ^^^^^^
+SyntaxError: expected 'except' or 'finally' block
+[0;31m[ERROR][0m ❌ x-prompt-hunter pipeline 执行失败
+[0;31m[ERROR][0m ❌ Stage 1 失败，终止流程
+[0;32m[INFO][0m 发送通知: ❌ 整合工作流 Stage 1 失败
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+✅ Sent via Slack. Message ID: 1769996658.941399
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+[info]: [ 'client ready' ]
+✅ Sent via Feishu. Message ID: om_x100b57345911dcacb4b9bf67045904d (chat ou_3bc5290afc1a94f38e23dc17c35f26d6)
+[2026-02-02 09:58:35] ==========================================
+[2026-02-02 09:58:35] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-02 09:58:35] ==========================================
+[2026-02-02 09:58:35] 
+[2026-02-02 09:58:35] ==========================================
+[2026-02-02 09:58:35] Stage 1: 数据发现（x-prompt-hunter）
+[2026-02-02 09:58:35] ==========================================
+[2026-02-02 09:58:35] 查询: AI prompts
+[2026-02-02 09:58:35] 限制: 每个源 10 个, 评估 5 个
+WARNING:root:Langfuse not installed. Install with: pip install langfuse
+Traceback (most recent call last):
+  File "/root/clawd/skills/x-prompt-hunter/main.py", line 27, in <module>
+    def setup_logging(config: Dict):
+                              ^^^^
+NameError: name 'Dict' is not defined. Did you mean: 'dict'?
+[0;31m[ERROR][0m ❌ x-prompt-hunter pipeline 执行失败
+[0;31m[ERROR][0m ❌ Stage 1 失败，终止流程
+[0;32m[INFO][0m 发送通知: ❌ 整合工作流 Stage 1 失败
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+✅ Sent via Slack. Message ID: 1769997530.043549
+[plugins] clawdbot-supermemory failed during register from /root/.clawdbot/extensions/clawdbot-supermemory/index.ts: Error: supermemory: apiKey is required (set in plugin config or SUPERMEMORY_CLAWDBOT_API_KEY env var)
+[info]: [ 'client ready' ]
+✅ Sent via Feishu. Message ID: om_x100b5734009ab8b4b10276c72416af2 (chat ou_3bc5290afc1a94f38e23dc17c35f26d6)
+[2026-02-02 10:00:12] ==========================================
+[2026-02-02 10:00:12] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-02 10:00:12] ==========================================
+[2026-02-02 10:00:12] 
+[2026-02-02 10:00:12] ==========================================
+[2026-02-02 10:00:12] Stage 1: 数据发现（x-prompt-hunter）
+[2026-02-02 10:00:12] ==========================================
+[2026-02-02 10:00:12] 查询: AI prompts
+[2026-02-02 10:00:12] 限制: 每个源 10 个, 评估 5 个
+WARNING:root:Langfuse not installed. Install with: pip install langfuse
+ERROR:github_hf_fetcher:Error fetching from GitHub: 'NoneType' object has no attribute 'get_repo'
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+WARNING:huggingface_hub.utils._http:Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+============================================================
+STARTING FULL PIPELINE
+============================================================
+
+Step 1: Fetching prompts...
+Generating train split:   0%|          | 0/73718 [00:00<?, ? examples/s]Generating train split: 100%|██████████| 73718/73718 [00:00<00:00, 320115.15 examples/s]Generating train split: 100%|██████████| 73718/73718 [00:00<00:00, 318615.90 examples/s]
+Generating test split:   0%|          | 0/8192 [00:00<?, ? examples/s]Generating test split: 100%|██████████| 8192/8192 [00:00<00:00, 424493.02 examples/s]
+WARNING:github_hf_fetcher:Failed to load dataset prompts/prompts: Dataset 'prompts/prompts' doesn't exist on the Hub or cannot be accessed.
+✓ Fetched 0 prompts
+
+Step 2: Skipping deduplication (disabled in config)
+
+Step 3: Evaluating...
+✓ Evaluated 0 prompts
+
+Step 4: Generating report...
+✓ Report generated
+
+============================================================
+PIPELINE COMPLETED
+============================================================
+[0;32m[INFO][0m ✅ 数据发现完成：评估了 0 个提示词
+[0;32m[INFO][0m 🧪 测试模式：跳过 Stage 2（转换和发布）
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-02-1000.md
+[2026-02-02 10:00:22] 
+[2026-02-02 10:00:22] 提交到 Git...
+To https://github.com/hhhh124hhhh/Clawdbot-Skills-Converter.git
+   223225d..25025f9  master -> master
+[2026-02-02 10:00:24] 
+[2026-02-02 10:00:24] ==========================================
+[2026-02-02 10:00:24] ✅ 整合工作流完成！
+[2026-02-02 10:00:24] ==========================================
+[2026-02-02 10:00:24] 
+[2026-02-02 10:00:24] Stage 1（数据发现）:
+[2026-02-02 10:00:24]   • 查询: AI prompts
+[2026-02-02 10:00:24]   • 评估提示词: 0 个
+[2026-02-02 10:00:24]   • 工具: x-prompt-hunter
+[2026-02-02 10:00:24] 
+[2026-02-02 10:00:24] Stage 2（转换发布）:
+[2026-02-02 10:00:24]   • 转换 Skills: 0 个
+[2026-02-02 10:00:24]   • ClawdHub 发布: 0 成功, 0 失败
+[2026-02-02 10:00:24]   • 工具: prompt-to-skill-converter
+[2026-02-02 10:00:24] 
+[2026-02-02 10:00:24] 报告: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-02-1000.md
+/root/clawd/reports/integrated-workflow-report-2026-02-02-1000.md
+[2026-02-02 10:00:24] 日志: /root/clawd/logs/integrated-prompt-workflow.log
+[0;32m[INFO][0m 没有新数据，跳过通知
+[2026-02-02 10:23:18] ==========================================
+[2026-02-02 10:23:18] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-02 10:23:18] ==========================================
+[2026-02-02 10:23:18] 
+[2026-02-02 10:23:18] ==========================================
+[2026-02-02 10:23:18] Stage 1: 数据发现（x-prompt-hunter）
+[2026-02-02 10:23:18] ==========================================
+[2026-02-02 10:23:18] 查询: AI prompts
+[2026-02-02 10:23:18] 限制: 每个源 50 个, 评估 30 个
+WARNING:root:Langfuse not installed. Install with: pip install langfuse
+ERROR:github_hf_fetcher:Error fetching from GitHub: 'NoneType' object has no attribute 'get_repo'
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+WARNING:huggingface_hub.utils._http:Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+WARNING:github_hf_fetcher:Failed to load dataset prompts/prompts: Dataset 'prompts/prompts' doesn't exist on the Hub or cannot be accessed.
+
+============================================================
+STARTING FULL PIPELINE
+============================================================
+
+Step 1: Fetching prompts...
+✓ Fetched 0 prompts
+
+Step 2: Skipping deduplication (disabled in config)
+
+Step 3: Evaluating...
+✓ Evaluated 0 prompts
+
+Step 4: Generating report...
+✓ Report generated
+
+============================================================
+PIPELINE COMPLETED
+============================================================
+[0;32m[INFO][0m ✅ 数据发现完成：评估了 0 个提示词
+[0;32m[INFO][0m 🧪 测试模式：跳过 Stage 2（转换和发布）
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-02-1023.md
+[2026-02-02 10:23:25] 
+[2026-02-02 10:23:25] 提交到 Git...
+[1;33m[WARN][0m ⚠️  没有变更需要提交
+Everything up-to-date
+[2026-02-02 10:23:26] 
+[2026-02-02 10:23:26] ==========================================
+[2026-02-02 10:23:26] ✅ 整合工作流完成！
+[2026-02-02 10:23:26] ==========================================
+[2026-02-02 10:23:26] 
+[2026-02-02 10:23:26] Stage 1（数据发现）:
+[2026-02-02 10:23:26]   • 查询: AI prompts
+[2026-02-02 10:23:26]   • 评估提示词: 0 个
+[2026-02-02 10:23:26]   • 工具: x-prompt-hunter
+[2026-02-02 10:23:26] 
+[2026-02-02 10:23:26] Stage 2（转换发布）:
+[2026-02-02 10:23:26]   • 转换 Skills: 0 个
+[2026-02-02 10:23:26]   • ClawdHub 发布: 0 成功, 0 失败
+[2026-02-02 10:23:26]   • 工具: prompt-to-skill-converter
+[2026-02-02 10:23:26] 
+[2026-02-02 10:23:26] 报告: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-02-1023.md
+/root/clawd/reports/integrated-workflow-report-2026-02-02-1023.md
+[2026-02-02 10:23:26] 日志: /root/clawd/logs/integrated-prompt-workflow.log
+[0;32m[INFO][0m 没有新数据，跳过通知
+[2026-02-02 10:27:49] ==========================================
+[2026-02-02 10:27:49] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-02 10:27:49] ==========================================
+[2026-02-02 12:41:12] ==========================================
+[2026-02-02 12:41:12] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-02 12:41:12] ==========================================
+[2026-02-02 12:41:12] 
+[2026-02-02 12:41:12] ==========================================
+[2026-02-02 12:41:12] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-02 12:41:12] ==========================================
+[2026-02-02 12:41:12] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260202-1241.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: educational AI prompts teaching
+搜索超时: architecture AI prompts
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: OpenAI prompt engineering guide
+搜索超时: PromptBase marketplace best prompts
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: Veo tutorial professional
+搜索超时: Stable Diffusion LoRA model prompts
+搜索超时: Midjourney best prompts high quality
+搜索超时: legal AI prompts contract
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: finance AI prompts analysis
+搜索超时: DALL-E best prompts professional
+搜索超时: Stable Diffusion best prompts professional
+搜索超时: role-based prompts system instructions
+[2026-02-02 12:43:44] ==========================================
+[2026-02-02 12:43:44] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-02 12:43:44] ==========================================
+[2026-02-02 12:43:44] 
+[2026-02-02 12:43:44] ==========================================
+[2026-02-02 12:43:44] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-02 12:43:44] ==========================================
+[2026-02-02 12:43:44] SearXNG URL: http://localhost:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260202-1243.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+
+搜索: AI 提示词 工程 最佳实践
+  找到 10 个结果
+  处理: 提示工程指南 | Prompt Engineering Guide...
+  处理: AI 提示工程指南 | Google Cloud...
+    找到 1 个提示词
+  处理: 文生文Prompt指南 - 阿里云文档...
+    找到 2 个提示词
+  处理: 提示词工程(Prompt Engineering) 最佳实践 - 千帆大模型平台- 百度...
+    找到 4 个提示词
+  处理: Prompt Engineering：提示词工程最佳实践与应用 - 腾讯云...
+    找到 2 个提示词
+  处理: 一文讲透AI Prompt提示词工程 (上） - 53AI-AI知识库|企业AI知识库|大模型知识库|AIHub...
+    找到 1 个提示词
+  处理: 提示工程（Prompt Engineering）最全综述：本质、技术、最佳实践转载...
+搜索超时: character design AI prompts
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: AI prompts for marketing content
+  处理: 充分释放大模型的潜力——提示词工程的16 种方式...
+  处理: 【绝对干货】AI提示工程(Prompt Engineering)最佳实践 - 百度智能云千帆社区...
+    找到 1 个提示词
+搜索超时: fashion design AI prompts
+搜索超时: Veo tutorial high quality
+搜索超时: AI 绘画 提示词 风格
+  处理: Prompt提示工程从零到一：构建高质量AI提示词技巧与实战 - 知乎...
+
+搜索: Veo best prompts high quality
+  找到 10 个结果
+  处理: Ultimate prompting guide for Veo 3.1 | Google Cloud Blog...
+    找到 3 个提示词
+  处理: How to prompt Veo 3 for the best results – Replicate blog...
+    找到 1 个提示词
+  处理: r/VEO3 on Reddit: Spent 6 hours on this — a full guide to bu...
+  处理: Veo on Vertex AI video generation prompt guide | Generative ...
+    找到 1 个提示词
+  处理: MimicPC - How to Write Veo 3 Prompts for Best Result (10+ Ex...
+    找到 1 个提示词
+  处理: How to create effective prompts with Veo 3 — Google DeepMind...
+  处理: Veo 3 Video Prompt Examples and Best Practices | Powtoon Blo...
+  处理: 18 Best Veo 3 Prompts (2025): High-Performing Prompt Pattern...
+    找到 1 个提示词
+  处理: Best Veo 3 Prompts That Generated Millions of Views (+ Exact...
+
+搜索: negative prompt examples Midjourney
+  找到 10 个结果
+  处理: Multi-Prompts & Weights – Midjourney...
+  处理: r/midjourney on Reddit: Best way to use negative prompts so ...
+  处理: No – Midjourney...
+搜索超时: Veo best prompts professional
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: DALL-E 3 prompt examples guide
+  处理: How to Use Midjourney Negative Prompts + Alternative Ways...
+    找到 1 个提示词
+  处理: Negative Prompt in Midjourney...
+    找到 6 个提示词
+  处理: How to Use Midjourney Negative Prompt - Cheatsheet.md...
+  处理: Midjourney Negative Prompt: How Exactly Do You Use It?...
+    找到 1 个提示词
+  处理: Imagifly | Midjourney tutorial: how to use negative prompts...
+    找到 1 个提示词
+  处理: How to use Negative Prompts in Midjourney (with Examples) - ...
+  处理: Midjourney Negative Prompts: Everything You Need to Know...
+    找到 3 个提示词
+
+搜索: product photography AI prompts
+  找到 10 个结果
+  处理: Discover product photography ideas in our AI prompt gallery ...
+  处理: r/midjourney on Reddit: My 10 most reliable product photogra...
+  处理: 3 ChatGPT's Product Photography Prompts (for eCommerce Store...
+  处理: 60 AI Prompts for Product Photography Content Creation (2026...
+  处理: 30 AI Prompts for Photos to Generate and Edit AI Images...
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: few-shot prompting examples
+  处理: How to write prompts for AI product photos [2026]...
+    找到 1 个提示词
+  处理: How to write prompts for AI product photos [2026]...
+    找到 1 个提示词
+  处理: r/generativeAI on Reddit: The only product photography promp...
+  处理: AI Product Photography Prompts | Best Portrait Comamnds...
+    找到 1 个提示词
+  处理: AI Product photography workflow & MJ prompts - AI for Brands...
+
+搜索: OpenAI prompt engineering guide
+  找到 10 个结果
+  处理: OpenAI's Dec 17th, 2023 Prompt Engineering Guide - Prompting...
+  处理: Best practices for prompt engineering with the OpenAI API | ...
+  处理: GPT-4.1 Prompting Guide...
+    找到 4 个提示词
+  处理: Prompt engineering techniques - Azure OpenAI | Microsoft Lea...
+    找到 1 个提示词
+  处理: GPT-5 prompting guide | OpenAI Cookbook...
+  处理: GPT-4.1 Prompting Guide | OpenAI Cookbook...
+    找到 5 个提示词
+  处理: AI & Large Language Models (LLMs) reading list (Articles, Bl...
+  处理: 30 Days of AI in Testing Challenge: Day 8: Craft a detailed ...
+搜索超时: Claude 提示词 角色扮演
+搜索超时: Midjourney tutorial high quality
+搜索超时: context-aware prompts examples
+  处理: 11 Tips to Take Your ChatGPT Prompts to the Next Level - Now...
+  处理: Prompt engineering | OpenAI API...
+
+搜索: finance AI prompts analysis
+  找到 10 个结果
+  处理: AI Prompts for Finance: 15 Real-World Examples...
+  处理: The 5 Best AI Prompts for Finance Reporting - Lettria...
+    找到 3 个提示词
+  处理: Top AI Prompts for Finance Teams to Save Time and Money - Fo...
+    找到 7 个提示词
+  处理: Proper Generative AI Prompting for Financial Analysis by Dav...
+  处理: r/ChatGPTPromptGenius on Reddit: ChatGPT Prompt of the Day: ...
+  处理: AI Prompts for Financial Goal Planning - AI Tools...
+    找到 2 个提示词
+  处理: 30 AI prompts for finance professionals...
+  处理: 25 AI Prompts for Finance Leaders...
+    找到 3 个提示词
+  处理: 50+ Powerful AI Prompts for Finance Workflows...
+  处理: The Best AI Prompts for Finance & Financial Reporting...
+
+搜索: Veo tutorial professional
+  找到 10 个结果
+  处理: Ultimate Beginner’s Guide to Veo 3 (Tutorial) - Workflows...
+    找到 1 个提示词
+  处理: r/Bard on Reddit: Veo 3 Tutorials or guides?...
+  处理: r/AISEOInsider on Reddit: Google Veo 3 Complete Tutorial: Ma...
+  处理: Veo 3: A Guide With Practical Examples | DataCamp...
+搜索超时: Midjourney tutorial professional
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: Midjourney 提示词 教程 示例
+  处理: r/Bard on Reddit: My 15 slide guide on how to create great v...
+  处理: How to set up your Veo Cam for recording – Veo Help Center...
+  处理: The Ultimate Veo 3.1 Prompt Guide - DreamHost...
+    找到 1 个提示词
+
+搜索: scientific AI prompts research
+  找到 10 个结果
+  处理: 40+ AI Research Prompts To Help You Write Better Papers...
+    找到 2 个提示词
+  处理: Prompt Engineering - AI and Academic Research: A Guide - Lib...
+  处理: How to Craft Prompts - AI-Based Literature Review Tools - Re...
+    找到 4 个提示词
+  处理: r/ChatGPTPromptGenius on Reddit: ChatGPT Prompt of the Day: ...
+  处理: AI Research Prompts: 6 Strategies for Academics...
+  处理: Best AI Prompts for Scientific Research | ClickUp Brain Prom...
+    找到 6 个提示词
+  处理: r/ChatGPTPro on Reddit: Mastering AI-Powered Research: My Gu...
+搜索超时: prompt chaining techniques LLM
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: Midjourney best prompts professional
+  处理: Best AI Prompts for Science Experiments - ClickUp Brain | Ch...
+    找到 9 个提示词
+  处理: Best AI Prompts for Scientific Literature Review - ClickUp B...
+    找到 7 个提示词
+  处理: Best AI Prompts for Scientific Research - ClickUp Brain | Ch...
+    找到 6 个提示词
+
+搜索: Midjourney tutorial professional
+  找到 10 个结果
+  处理: Getting Started Guide – Midjourney...
+  处理: The Complete Guide to Crafting Professional Midjourney ......
+  处理: How to Edit an Image in Midjourney: A Creative Professional'...
+    找到 1 个提示词
+  处理: Prompt Basics – Midjourney...
+  处理: Midjourney V7: A Guide With 8 Practical Examples...
+  处理: Midjourney Tutorials PRO | Enhance Your Skills...
+  处理: Best Midjourney Courses & Certificates [2026]...
+    找到 3 个提示词
+  处理: r/midjourney on Reddit: Beginner’s Guide to Creating AI Art ...
+  处理: Midjourney Documentation and User Guide...
+  处理: Midjourney Ultimate Beginner’s Guide | by Christie C. | Boot...
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: Kling AI prompt guide text to video
+搜索超时: negative prompt examples Midjourney
+
+搜索: AI 绘画 提示词 风格
+  找到 10 个结果
+  处理: 10组AI绘画提示词分享，可一键复制支持且中文语义！-即时设计...
+    找到 1 个提示词
+  处理: AI绘画常用提示词 - UIED用户体验学习平台...
+  处理: AI绘画Prompt_咒语生成器_prompt大全 - 思默AI平台...
+  处理: 每日一句提示词：小白必学的AI绘画10大高阶风格（附提示词模板与生成效果）_ai绘画的八大风格-CSDN博客...
+  处理: Zhihu...
+  处理: AI 绘画提示词生成器...
+  处理: AI作画：prompt提示词综合介绍 | 帮助中心- 一帧秒创官网-AI视频创作,数字人,秒创视频生成,智能内容创作平台...
+  处理: Ai绘画：常见通用提示词（2） - AI有智慧...
+  处理: Ai绘画：常见通用提示词（1） - AI有智慧...
+  处理: GitHub - holmquistc407/ai-tishici: 2025年最好的AI提示词合集：ChatGPT、C...
+
+搜索: site:github.com "AI prompts" repository
+  找到 10 个结果
+  处理: instructa/ai-prompts: Curated AI Prompts for Cursor Rules, C...
+  处理: richardadonnell/AI-Prompts-Tools-and-More: My collection of...
+    找到 8 个提示词
+  处理: WKahnZA/AIPrompts: Prompts to get exceptional results from A...
+搜索超时: DALL-E best prompts high quality
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: Stable Diffusion prompt engineering negative
+  处理: deanpeters/product-manager-prompts: A repository of Generati...
+    找到 3 个提示词
+  处理: instructa/ai-prompts-mcp: Model Context Protocl for AI Promp...
+    找到 1 个提示词
+  处理: AI Prompts & Agents Collection...
+    找到 1 个提示词
+  处理: ai-prompts...
+    找到 1 个提示词
+  处理: ai-prompts...
+  处理: ai-prompt-app...
+    找到 1 个提示词
+  处理: alphatrait/100000-ai-prompts-by-contentifyai...
+
+搜索: 商业 AI 提示词 模板
+  找到 10 个结果
+  处理: 5个强大的AI提示词，可助力任何商业创意...
+  处理: 【黄啊码】上百个AI提示词模板，不用多想，直接收藏【四】 转载...
+  处理: 配置AI提示词模板的参数与示例 - 阿里云文档- Alibaba Cloud...
+  处理: Prompt工程- AI提示词模板库...
+    找到 2 个提示词
+  处理: 电商最佳AI提示词：指南与示例（2026）...
+  处理: N个提示词模板资源，1000余个Nano Banana Pro/即梦/豆包等文生图 ......
+    找到 4 个提示词
+  处理: Best Chinese Prompt 最棒的中文提示词大全...
+搜索超时: scientific AI prompts research
+搜索超时: DALL-E tutorial high quality
+搜索超时: site:github.com "AI prompts" repository
+    找到 5 个提示词
+  处理: 【黄啊码】上百个AI提示词模板，不用多想，直接收藏【五】...
+    找到 4 个提示词
+  处理: 4.4 🔥提示词模板库｜细分应用场景...
+  处理: 市场营销ChatGPT提示词2026｜营销人必备30+Prompt模板...
+    找到 7 个提示词
+
+搜索: site:github.com "提示词" AI
+  找到 10 个结果
+  处理: langgptai/LangGPT...
+    找到 1 个提示词
+  处理: linshenkx/prompt-optimizer: 一款提示词优化器...
+    找到 2 个提示词
+  处理: langgptai/awesome-system-prompts...
+    找到 1 个提示词
+  处理: 【文章自荐】收录了六大sora2提示词技巧的文章，超级实用 · Issue #8479...
+  处理: Acmesec/PromptJailbreakManual: Prompt越狱手册...
+    找到 4 个提示词
+  处理: shareAI-lab/share-best-prompt: 世界上最好的提示词（总计估值超过300 ......
+搜索超时: creative writing AI prompts storytelling
+搜索超时: game asset AI prompts
+搜索超时: business AI prompt templates
+  处理: 【工具推荐】Free AI Prompt Generator to Craft Perfect Prompts 庞大的提...
+  处理: 提示词（prompt）工程指南（六）：对抗提示...
+  处理: 【开源自荐】图像提示词生成器，一键生成令人惊叹的图像提示词#627...
+
+搜索: Midjourney prompt tutorial examples
+  找到 7 个结果
+  处理: Art of Prompting...
+  处理: Best Midjourney Prompts & How to Use Them in 2026...
+    找到 6 个提示词
+  处理: The complete guide to Midjourney prompting frameworks...
+  处理: How To Write Effective Prompts for Midjourney...
+    找到 3 个提示词
+
+搜索: Midjourney 提示词 教程 示例
+  找到 10 个结果
+  处理: Midjourney提示词终极指南(完整版) 原创...
+  处理: AI绘画教程-Midjourney 高级提示词：图片提示词...
+  处理: Midjourney常用指令和提示词表格 - XGF...
+  处理: 《Midjourney中文文档》（2）Prompt提示词...
+  处理: 新手别错过！一定要掌握的Midjourney万能提示词结构...
+搜索超时: product photography AI prompts
+搜索超时: site:github.com "提示词" AI
+搜索超时: Stable Diffusion 提示词 负面
+  处理: Midjourney Prompt 基本结构...
+  处理: 如何写出好的Midjourney V6 提示词 - 小刚的技术探索站...
+  处理: Midjourney提示词编写技巧完全指南- 微光飘渺...
+  处理: Midjourney提示词生成器：激发创意图像...
+  处理: Midjourney Prompt 提示词高级参数设置...
+
+搜索: Veo best prompts professional
+  找到 10 个结果
+  处理: Veo 3.1 Prompting Guide: Direct AI Videos Like a Pro...
+    找到 2 个提示词
+  处理: 20 Best Veo 3 Prompts to Generate Stunning AI Videos from Te...
+    找到 9 个提示词
+  处理: 25 Best Veo Prompts for Stunning AI Video Generation in 2026...
+  处理: How to write effective Veo 3 prompts 👇 My favorite Veo 3 vid...
+搜索超时: Pika Labs prompt examples animation
+搜索超时: medical AI prompts diagnosis
+搜索超时: 商业 AI 提示词 模板
+  处理: Veo 3 Prompt Guide – Tips & Examples...
+  处理: The Beginner's Guide to Writing Veo 3 Prompts That Sell Prod...
+
+搜索: architecture AI prompts
+  找到 8 个结果
+  处理: Best Architecture Prompts for Midjourney and Stable Diffusio...
+    找到 2 个提示词
+  处理: AI Architecture Prompts - From Eskil Steenberg's "Architecti...
+    找到 4 个提示词
+  处理: Prompt Architect V3.0...
+  处理: 30+ Examples of architecture prompts with MidJourney...
+  处理: How Can AI Prompts Elevate Your Architectural Renders to the...
+  处理: Prompt Engineering for Architects: Making AI Speak Architect...
+  处理: The Best 25 Midjourney Prompts for Architecture...
+    找到 1 个提示词
+
+搜索: video generation prompt best practices
+  找到 9 个结果
+  处理: Best practices for video generation prompts...
+    找到 1 个提示词
+  处理: Gen-4 Video Prompting Guide...
+  处理: Amazon Nova Reel prompting best practices...
+搜索超时: Veo best prompts high quality
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: Runway ML prompt tutorial motion
+    找到 2 个提示词
+  处理: How to Write Perfect Prompts for AI Video Generation...
+    找到 7 个提示词
+  处理: 10 Best Practices for Writing Effective AI Video Prompts - P...
+    找到 5 个提示词
+  处理: Crafting Cinematic Sora Video Prompts: A complete guide...
+    找到 3 个提示词
+  处理: Sora 2 Prompting Guide...
+
+搜索: site:dev.to "AI prompts" examples
+  找到 10 个结果
+  处理: 30+ ChatGPT AI Prompts That Are Short, Silly, But Highly EFF...
+    找到 1 个提示词
+  处理: 🧠 Level Up Your AI Chats: 20 Prompts That Actually Work...
+    找到 1 个提示词
+  处理: The Art of Talking to AI: Prompts That Actually Work for Cod...
+    找到 8 个提示词
+  处理: Prompt Posts: Sharing AI Prompts Through Blog Posts...
+    找到 5 个提示词
+  处理: Prompts that work for beginners (small, clear, and testable)...
+    找到 2 个提示词
+  处理: 20 prompts, collection of prompts to increase work efficienc...
+    找到 2 个提示词
+  处理: How to Write AI Prompts That Actually Work: 4 Game-Changing ...
+    找到 1 个提示词
+  处理: Tired of Generic Visuals? These Are the 5 Most-Used AI Promp...
+    找到 1 个提示词
+  处理: Introducing POML: A Structured Way to Build AI Agent Prompts...
+    找到 2 个提示词
+搜索超时: DALL-E tutorial professional
+搜索超时: 视频生成 提示词 Veo Kling
+搜索超时: Midjourney prompt tutorial examples
+  处理: The Art of Talking to AI: Prompts That Actually Work for Cod...
+    找到 2 个提示词
+
+搜索: site:medium.com "prompt engineering" guide
+  找到 10 个结果
+  处理: 2025 Beginner's Guide to Prompt Engineering (Step-by- ......
+  处理: What Is Prompt Engineering? The Ultimate Beginner's Guide...
+  处理: Mastering Prompt Engineering (Complete 2026 Guide)...
+  处理: Prompt engineering for designers: a practical guide (what I ...
+  处理: Prompt Engineering Basics (2026): A Practical Guide...
+  处理: The Complete Prompt Engineering Guide for 2025 - Alonso Agui...
+  处理: Prompt Engineering, The No-BS Guide | by natekali | Dec, 202...
+  处理: Prompting and Prompt Engineering: A Comprehensive Guide to ....
+  处理: The Complete Guide to Prompt Engineering: From Beginner to E...
+
+搜索: context-aware prompts examples
+  找到 9 个结果
+  处理: Context Prompt Engineering Is Growing Up, Faster than Though...
+  处理: Context Engineering: A Guide With Examples...
+  处理: Context-Aware Prompting Strategies...
+    找到 3 个提示词
+  处理: Effective Prompts for AI: The Essentials...
+  处理: Context-Aware Prompt Scaling: Key Concepts - Ghost...
+    找到 2 个提示词
+搜索超时: ChatGPT 提示词 模板
+搜索超时: AI 写作 提示词 文案
+搜索超时: AI 提示词 工程 最佳实践
+  处理: Context-Aware Prompting with LangChain - Newline.co...
+  处理: Example of Context-Aware Prompt. | Download Scientific Diagr...
+  处理: Context aware context for follow-up question - Prompting...
+  处理: Effective context engineering for AI agents...
+
+搜索: creative writing AI prompts storytelling
+  找到 10 个结果
+  处理: Prompt Engineering For storytelling: From Chaos to Character...
+  处理: Please share your writing prompts to get the best prose from...
+  处理: 100 Creative Writing Prompts You Can Use with AI Writing Too...
+    找到 3 个提示词
+  处理: Mastering AI Storytelling: How to Use System Writing Prompts...
+    找到 5 个提示词
+  处理: 20 Creative Writing Prompts to Enhance Your Storytelling Ski...
+    找到 1 个提示词
+  处理: Prompt Engineering for Creative Writing: Unlocking AI's Stor...
+  处理: What are the best prompts when it comes to novel/story writi...
+  处理: Free AI Story Prompt Generator...
+    找到 2 个提示词
+  处理: The Fiction Writing With AI Prompt Library...
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: site:dev.to "AI prompts" examples
+
+搜索: DALL-E tutorial professional
+  找到 8 个结果
+  处理: A beginner's guide to image generation with DALL-E 3...
+  处理: How to use DALL-E 3: a complete guide...
+    找到 1 个提示词
+  处理: Top DALL·E Courses Online - Updated [February 2026]...
+  处理: DALL-E Online Training Courses...
+    找到 3 个提示词
+  处理: DALL-E and GPT-4 Vision Tutorial: Learn to create, edit, and...
+  处理: How to create images with AI? DALL·E 3 guide...
+    找到 1 个提示词
+  处理: DALL-E 3 Tutorial: How to Create Stunning AI Images in 2025...
+  处理: DALL-E: Inside the Artificial Intelligence program that crea...
+    找到 2 个提示词
+
+搜索: AI 写作 提示词 文案
+  找到 9 个结果
+  处理: 新手AI写作必备：20条提示词带你跑通第一篇文章（附详细场景解析）...
+  处理: 50个人工智能写作提示词：释放团队营销潜力...
+  处理: AI写作Prompt丨15个超实用的Prompt提示词#372...
+  处理: AI写作丨这15个常见的Prompt提示词你不得不了解...
+    找到 1 个提示词
+  处理: 50个AI写作提示：为团队解锁营销卓越...
+搜索超时: video generation prompt best practices
+
+================================================================================
+📊 收集完成！
+================================================================================
+总共收集: 0 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260202-1241.jsonl
+
+================================================================================
+✅ 完成！
+================================================================================
+  处理: 专业AI提示词写作全攻略...
+    找到 1 个提示词
+  处理: AI写作：四个写出爆款文章开头的提示词原创...
+  处理: AI写作Prompt丨15个超实用的Prompt提示词...
+  处理: 建议收藏！5个神级提示词网站！ - 磊哥|www.javacn.site...
+
+搜索: Midjourney tutorial high quality
+  找到 7 个结果
+  处理: Quality...
+  处理: Midjourney AI Tutorial 2025 - Beginner to Advanced Course...
+  处理: Video...
+  处理: How to Use Midjourney: A Comprehensive Guide to AI- ......
+  处理: Upscalers...
+  处理: How to Use Midjourney to Create AI Art in 2025 (Detailed Tut...
+    找到 9 个提示词
+
+搜索: Stable Diffusion best prompts professional
+  找到 7 个结果
+  处理: What are the best prompts to use for “realistic” images? : r...
+  处理: The Best 25 Stable Diffusion Prompts for People...
+    找到 1 个提示词
+  处理: 25 Stable Diffusion Prompts for Profile Picture (Artistic Ex...
+    找到 11 个提示词
+  处理: Stable Diffusion: Prompt Guide and Examples...
+    找到 3 个提示词
+  处理: Stable Diffusion prompts...
+  处理: 40 Best Stable Diffusion Prompts For Logos That You Must Try...
+  处理: Prompts For Stable Diffusion: Best Ideas And Techniques...
+    找到 8 个提示词
+
+搜索: Stable Diffusion best prompts high quality
+  找到 10 个结果
+  处理: SDXL - what are the best prompts to give a cleaner appearanc...
+  处理: Top 40 useful prompts for Stable Diffusion XL | by Daria Win...
+  处理: Guide to Create High-Quality Stable Diffusion Images(44+ Bes...
+  处理: 30 Stable Diffusion Prompt Examples You Can Copy & Paste...
+    找到 2 个提示词
+  处理: Best text prompt for creating Stable diffusion prompts throu...
+  处理: Stable Diffusion Prompts to You Must Try for Stunning Result...
+    找到 2 个提示词
+  处理: Top 10 AI Prompts for High-Quality Image Creation...
+    找到 3 个提示词
+  处理: Prompts examples - Stable Diffusion...
+    找到 1 个提示词
+  处理: Gustavosta/Stable-Diffusion-Prompts · Datasets at ......
+    找到 3 个提示词
+
+搜索: DALL-E 3 提示词 指南
+  找到 10 个结果
+  处理: DALL·E 3提示词的艺术之道...
+  处理: Dall E 3 提示词指南: r/OpenAI...
+  处理: Dall E3提示词大全（长期更新） 原创...
+  处理: DALL·E 自动优化提示词...
+    找到 2 个提示词
+  处理: 大大提升DALLE-3画图能力的prompt!...
+  处理: 探索DALL·E 3提示词的奥秘...
+  处理: 45个DALL-E 3 使用案例(附提示词)...
+  处理: ChatGPT绘图指南：DALL.E3玩法大全(二) - 阿里云开发者社区...
+  处理: DALL-E 3 使用案例(附提示词) 转载...
+  处理: dalle3如何写提示词DALL-E3 提示词编写指南 - 月光AI博客...
+
+搜索: site:csdn.net AI 提示词 教程
+  找到 10 个结果
+  处理: AI提示词（Prompt）从入门到精通，非常详细，收藏这一篇就够了！！！...
+  处理: 系统提示词保姆级教程，收藏这篇就够了！一文掌握，让你的Prompt ......
+  处理: 保姆级Prompt教程！从入门到精通，AI提示词看这篇就封神！ 原创...
+  处理: AI提示词技巧：从入门到精通的实用指南...
+  处理: 超详细的AI提示词（prompt）撰写方法，看这一篇就够了！（附详细的案例）...
+  处理: AI大模型系列教程--提示词工程，大模型入门到精通，收藏这篇就足够 ......
+  处理: 提示词工程入门到精通，搞懂这四大核心要素就够了！ 原创...
+  处理: GITHUB 项目推荐：DAIR.AI 提示词工程指南...
+  处理: AI Prompt提示工程实战指南：5 大核心经验总结（附20+ 真实案例） 原创...
+  处理: AI提示词工程完全指南（超详细）从入门到精通，一篇搞定！建议收藏 ......
+
+搜索: medical AI prompts diagnosis
+  找到 10 个结果
+  处理: 26 ChatGPT Prompts for Medical Diagnosis (Malady Mystery Mas...
+  处理: Medical Diagnosis Assistant...
+  处理: joelparkerhenderson/ai-medical-diagnosis-examples...
+  处理: ChatGPT prompts for healthcare professionals...
+  处理: Use AI prompts for coding...
+    找到 2 个提示词
+  处理: Best Medical Diagnosis AI Prompts...
+    找到 1 个提示词
+  处理: AI Prompt For Healthcare Diagnostics...
+  处理: Diagnostic reasoning prompts reveal the potential for large ...
+  处理: ChatGPT Prompts for Medical Professionals...
+  处理: Prompt Engineering in Healthcare AI: Revolutionizing Diagnos...
+
+搜索: ChatGPT 提示词 模板
+  找到 10 个结果
+  处理: langgptai/wonderful-prompts: 🔥中文prompt 精选🔥，ChatGPT 使用指南...
+    找到 4 个提示词
+  处理: 别再瞎写提示词了，OpenAI 官方出了20 个万能模板，建议收藏！...
+  处理: 在ChatGPT中设置通用提示模板原创...
+  处理: 分享一个ChatGPT角色扮演详细提示词模板...
+  处理: GPT-4 提示词冠军如何写prompt：CO-STAR 框架、文本分段、系统提示...
+    找到 2 个提示词
+  处理: 数据分析师ChatGPT提示词2026｜分析师必备30+Prompt模板...
+    找到 7 个提示词
+  处理: 大模型提示词（Prompt）模板推荐- hvker...
+    找到 4 个提示词
+  处理: 【黄啊码】上百个AI提示词模板，不用多想，直接收藏【一】 - 腾讯云...
+    找到 1 个提示词
+  处理: ChatGPT 自定义提示词模板提升使用效率原创...
+  处理: ChatGPT 最全AI500款角色模板提示词清单...
+
+搜索: Stable Diffusion tutorial high quality
+  找到 8 个结果
+  处理: Stable Diffusion Ultimate Guide pt. 3: High Resolution | by ...
+  处理: Comprehensive Stable Diffusion Tutorials: From Beginner to E...
+  处理: How to use Stable Diffusion...
+  处理: Generate High-Quality Image Using Stable Diffusion WebUI | b...
+  处理: High-performance image generation using Stable Diffusion in ...
+    找到 2 个提示词
+  处理: How to Run Stable Diffusion: A Step-by-Step Guide...
+  处理: Stable Diffusion 3 Medium Fine-tuning Tutorial...
+  处理: Stable Diffusion: The Expert Guide...
+    找到 2 个提示词
+
+搜索: few-shot prompting examples
+  找到 9 个结果
+  处理: Few-Shot Prompting...
+  处理: Few-Shot Prompting: Examples, Theory, Use Cases...
+  处理: Provide examples (few-shot prompting) - Amazon Nova...
+    找到 9 个提示词
+  处理: The Few Shot Prompting Guide...
+    找到 5 个提示词
+  处理: Zero-Shot, One-Shot, and Few-Shot Prompting...
+    找到 1 个提示词
+  处理: Exploring Few-Shot Prompts with LangChain | by Donato_TH...
+  处理: Everything you need to know about few shot prompting : r/Pro...
+  处理: What is few shot prompting?...
+  处理: Zero-Shot vs Few-Shot prompting: A Guide with Examples...
+
+搜索: PromptBase marketplace best prompts
+  找到 9 个结果
+  处理: AI Prompts | PromptBase: The #1 Marketplace for AI Prompts...
+    找到 1 个提示词
+  处理: Best AI prompts...
+    找到 1 个提示词
+  处理: I've built a Prompt Marketplace. Buy, Sell, Auction prompts....
+  处理: 11 Intriguing GPT-3 prompts available on PromptBase | by Pra...
+  处理: Prompt Marketplace...
+    找到 1 个提示词
+  处理: Want to sell AI prompts? Here are the best 4 prompt marketpl...
+    找到 1 个提示词
+  处理: PromptBase Scraper...
+
+搜索: 视频生成 提示词 Veo Kling
+  找到 7 个结果
+  处理: Google Veo3：做视频，厉害极了！（附提示词+使用教程）...
+  处理: 原生音画vs. 后期配音：AI视频“声”存之战，Veo 3 对比Kling音频模型评测丨 ......
+    找到 1 个提示词
+  处理: Kling 2.5 AI 提示指南用於電影視頻生成...
+    找到 1 个提示词
+  处理: Veo 3 vs Kling 2.1｜影音創作者必懂的AI 影片製作工具比較...
+    找到 1 个提示词
+  处理: Veo 3、Sora 2 與Kling 最佳7 款AI 空拍影片鏡頭提示詞 - Edimakor...
+    找到 1 个提示词
+  处理: Google Veo 3 vs Kling 2.1 比較: 哪款AI 影片工具最佳？...
+
+搜索: Midjourney best prompts high quality
+  找到 9 个结果
+  处理: I Tested 7 Midjourney Prompts for Realistic Photos — These L...
+  处理: Ultimate ChatGPT Prompts + Midjourney Library (1200+ HD ......
+  处理: Best Midjourney Prompts: an epic list of 644 crazy text to i...
+  处理: The Best 25 Midjourney Prompts for People...
+    找到 1 个提示词
+  处理: 32 Best Midjourney Prompts To Try In 2025...
+  处理: I spent hours testing prompts to make the image look "natura...
+
+搜索: Claude 提示词 角色扮演
+  找到 10 个结果
+  处理: 如果你还没试过和Claude 角色扮演，那你应该试试。 : r/ClaudeAI...
+  处理: 第3章:角色扮演提示-Claude应用开发教程 - 欢迎来到ClaudeAI博客社区...
+  处理: Claude工程师聊prompt：不要把模型当小孩子、不需要角色扮演、实话实说...
+    找到 1 个提示词
+  处理: Claude工程师聊prompt：不要把模型当小孩子、不需要角色扮演、实话实说...
+  处理: 第3章:角色扮演提示-Claude应用开发教程原创...
+  处理: Claude Prompting 指南》完整中文版｜写好Prompt 的终极干货（建议收藏...
+  处理: 第3章:角色扮演提示-Claude应用开发教程...
+  处理: Claude 中文调教指南...
+    找到 3 个提示词
+  处理: 命令区:极致淫荡的人设生成- Prompt模板...
+    找到 3 个提示词
+
+搜索: LearnPrompting guide comprehensive tutorial
+  找到 8 个结果
+  处理: Prompt Engineering Guide: The Ultimate Guide to Generative A...
+  处理: Learn Prompting: Your Guide to Communicating with AI...
+  处理: the Basics Guide to Generative AI and Prompt Engineering!...
+    找到 1 个提示词
+  处理: Prompt Engineering Guide...
+  处理: Prompt Engineering Guide...
+  处理: Learn Prompting: Your Guide to Communicating with AI...
+  处理: 提示工程指南...
+  处理: Learn Prompting: Your Guide to Communicating with AI...
+
+搜索: DALL-E 3 prompt examples guide
+  找到 8 个结果
+  处理: 20+ DALL·E Prompts...
+    找到 3 个提示词
+  处理: Collection of Dall-E 3 prompting tips, issues and bugs...
+  处理: Dall E 3 prompting guide : r/OpenAI...
+  处理: Master DALL-E 3: Complete Guide with Expert Prompt Examples...
+    找到 2 个提示词
+  处理: Collection of Dall-E 3 prompting tips, issues and bugs - Pag...
+[2026-02-02 12:58:07] ==========================================
+[2026-02-02 12:58:07] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-02 12:58:07] ==========================================
+[2026-02-02 12:58:07] 
+[2026-02-02 12:58:07] ==========================================
+[2026-02-02 12:58:07] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-02 12:58:07] ==========================================
+[2026-02-02 12:58:07] SearXNG URL: http://149.13.91.232:8080
+  处理: DALL·E Prompt Examples: Your Guide to Generating Stunning AI...
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260202-1258.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+    找到 3 个提示词
+  处理: Create Striking Images with DALL·E 3 Effortlessly...
+
+搜索: site:zhihu.com "提示词" AI
+  找到 10 个结果
+  处理: 20个AI提示词写作技巧（进阶篇）...
+  处理: 怎么写好一个AI提示词？10个场景与50个技巧+官方100个教程合集...
+  处理: 100+高频AI使用场景Prompt提示词分享...
+  处理: Prompt资源精选|你想要的AI提示词都在这里了...
+  处理: 和AI聊天的“魔法咒语”：谷歌官方提示词指南让你秒变AI沟通大师...
+  处理: 普通程序员vs 提示词高手：同样的AI，差距竟有10 倍...
+  处理: DeepSeek提示词超能手册：5大核心技巧，榨干AI生产力！...
+  处理: 推荐一个万能提示词模板，附完整prompt...
+  处理: 30个超实用的AI编程提示词：小白也能玩转智能开发！...
+
+搜索: Stable Diffusion 提示词 负面
+  找到 10 个结果
+  处理: Stable Diffusion 负面提示词反向提示词negative prompt整理...
+  处理: 关于Stable Diffusion的负面提示词（negative prompt）的原理及应用原创...
+  处理: 如何使用负向提示词Stable Diffusion Prompt part2 + Negative ......
+  处理: 一探负面提示的“里子”：Stable Diffusion最常用的三组负面提示词...
+  处理: 【Stable Diffusion】常用负向提示词Embedding介绍 - AiCC...
+搜索超时: Midjourney best prompts professional
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: LearnPrompting guide comprehensive tutorial
+  处理: 180+ 个最佳Stable Diffusion 负面/反向提示词及示例...
+  处理: 什么是Stable Diffusion 的负面词汇-腾讯云开发者社区-腾讯云...
+  处理: Stable Diffusion提示词权威指南...
+  处理: 有没有一个比较通用的负面提示词清单，你几乎每次都应该用？...
+  处理: 深入理解Stable Diffusion模型中的负面提示词...
+
+搜索: legal AI prompts contract
+  找到 10 个结果
+  处理: 15 Best AI Prompts for Lawyers: How Legal Professionals Use ...
+    找到 4 个提示词
+  处理: Ten Things: 100 Practical Generative AI Prompts for In-House...
+    找到 1 个提示词
+  处理: Mastering AI Prompts for Legal Professionals in 2025 - Contr...
+    找到 1 个提示词
+  处理: The ultimate guide to designing legal prompts and contracts ...
+    找到 1 个提示词
+  处理: 3 Essential AI Prompts to Strengthen Your Contract Review...
+    找到 2 个提示词
+  处理: How to write effective AI prompts for legal tasks...
+  处理: Legal AI Prompt Library | 144 Expert Prompts - HAQQ...
+  处理: AI prompt library: Mitigating legal risks in contractual agr...
+  处理: 9 Best ChatGPT Prompts for Legal Professionals...
+  处理: Top 13 AI Prompts Every Legal Professional Should Master...
+
+搜索: Veo 3 prompt examples video generation
+  找到 9 个结果
+  处理: 18 Veo 3 AI Video Prompt Examples (2025): Cinematic, Vertica...
+  处理: Veo 3 Prompt Hub - AI Video Generation Prompts...
+    找到 1 个提示词
+  处理: jax-explorer/awesome-veo3-videos...
+    找到 1 个提示词
+  处理: Veo Gallery - AI Video Examples...
+    找到 1 个提示词
+  处理: Veo — Google DeepMind...
+
+搜索: DALL-E tutorial high quality
+  找到 7 个结果
+  处理: 🖼️DALL·E: Image Generation Guide for Beginners | by Tahir...
+  处理: DALL·E: Creating images from text...
+  处理: DALL-E Tutorial...
+  处理: DALL·E 3: Creating High-Resolution Images with AI Training C...
+  处理: Dall-E 2...
+  处理: How to Create Amazing AI Images Using DALL-E 3 in U-M GPT...
+    找到 1 个提示词
+
+================================================================================
+📊 收集完成！
+================================================================================
+总共收集: 362 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260202-1243.jsonl
+
+类型分布:
+  image-generation: 138
+  text-generation: 89
+  general: 84
+  video-generation: 35
+  roleplay: 9
+  code-generation: 7
+
+质量分布:
+  高质量 (≥70): 0 (0%)
+  中等 (50-69): 11 (3%)
+  低质量 (<50): 351 (96%)
+
+平均质量分数: 29.5/100
+
+================================================================================
+✅ 完成！
+================================================================================
+[0;32m[INFO][0m ✅ 数据发现完成：收集了 362 个提示词
+[0;32m[INFO][0m 🧪 测试模式：跳过 Stage 2（转换和发布）
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-02-1243.md
+[2026-02-02 12:59:48] 
+[2026-02-02 12:59:48] 提交到 Git...
+[2026-02-04 22:58:59] ==========================================
+[2026-02-04 22:58:59] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-04 22:58:59] ==========================================
+[2026-02-04 22:58:59] 
+[2026-02-04 22:58:59] ==========================================
+[2026-02-04 22:58:59] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-04 22:58:59] ==========================================
+[2026-02-04 22:58:59] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260204-2258.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: architecture AI prompts
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: Midjourney 提示词 教程 示例
+搜索超时: Stable Diffusion LoRA model prompts
+搜索超时: business AI prompt templates
+搜索超时: context-aware prompts examples
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: AI 提示词 工程 最佳实践
+搜索超时: negative prompt examples Midjourney
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: AI prompts for marketing content
+搜索超时: Veo tutorial high quality
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: product photography AI prompts
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: Stable Diffusion best prompts professional
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: Kling AI prompt guide text to video
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: Midjourney best prompts high quality
+搜索超时: Veo tutorial professional
+搜索超时: AI 绘画 提示词 风格
+搜索超时: 商业 AI 提示词 模板
+搜索超时: PromptBase marketplace best prompts
+搜索超时: scientific AI prompts research
+搜索超时: DALL-E best prompts professional
+搜索超时: OpenAI prompt engineering guide
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: Midjourney tutorial high quality
+搜索超时: legal AI prompts contract
+搜索超时: few-shot prompting examples
+搜索超时: role-based prompts system instructions
+搜索超时: Veo best prompts professional
+搜索超时: creative writing AI prompts storytelling
+搜索超时: Midjourney tutorial professional
+搜索超时: 视频生成 提示词 Veo Kling
+搜索超时: Stable Diffusion prompt engineering negative
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: Claude 提示词 角色扮演
+搜索超时: site:github.com "AI prompts" repository
+搜索超时: educational AI prompts teaching
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: Pika Labs prompt examples animation
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: site:dev.to "AI prompts" examples
+搜索超时: character design AI prompts
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: game asset AI prompts
+搜索超时: fashion design AI prompts
+搜索超时: AI 写作 提示词 文案
+搜索超时: site:github.com "提示词" AI
+搜索超时: Midjourney best prompts professional
+搜索超时: ChatGPT 提示词 模板
+搜索超时: video generation prompt best practices
+搜索超时: finance AI prompts analysis
+搜索超时: Runway ML prompt tutorial motion
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: DALL-E tutorial high quality
+搜索超时: medical AI prompts diagnosis
+搜索超时: Veo best prompts high quality
+搜索超时: DALL-E tutorial professional
+搜索超时: prompt chaining techniques LLM
+搜索超时: DALL-E best prompts high quality
+
+================================================================================
+📊 收集完成！
+================================================================================
+总共收集: 0 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260204-2258.jsonl
+
+================================================================================
+✅ 完成！
+================================================================================
+[0;32m[INFO][0m ✅ 数据发现完成：收集了 0 个提示词
+[0;32m[INFO][0m 🧪 测试模式：跳过 Stage 2（转换和发布）
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-04-2258.md
+[2026-02-04 23:10:30] 
+[2026-02-04 23:10:30] 提交到 Git...
+To https://github.com/hhhh124hhhh/Clawdbot-Skills-Converter.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/hhhh124hhhh/Clawdbot-Skills-Converter.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-02-04 23:10:31] 
+[2026-02-04 23:10:31] ==========================================
+[2026-02-04 23:10:31] ✅ 整合工作流完成！
+[2026-02-04 23:10:31] ==========================================
+[2026-02-04 23:10:31] 
+[2026-02-04 23:10:31] Stage 1（数据发现）:
+[2026-02-04 23:10:31]   • 数据源: 整个互联网（通过 SearXNG）
+[2026-02-04 23:10:31]   • 评估提示词: 0 个
+[2026-02-04 23:10:31]   • 工具: SearXNG + collect_prompts_enhanced
+[2026-02-04 23:10:31] 
+[2026-02-04 23:10:31] Stage 2（转换发布）:
+[2026-02-04 23:10:31]   • 转换 Skills: 0 个
+[2026-02-04 23:10:31]   • ClawdHub 发布: 0 成功, 0 失败
+[2026-02-04 23:10:31]   • 工具: prompt-to-skill-converter
+[2026-02-04 23:10:31] 
+[2026-02-04 23:10:31] 报告: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-04-2258.md
+/root/clawd/reports/integrated-workflow-report-2026-02-04-2258.md
+[2026-02-04 23:10:31] 日志: /root/clawd/logs/integrated-prompt-workflow.log
+[0;32m[INFO][0m 没有新数据，跳过通知
+[2026-02-06 09:01:19] ==========================================
+[2026-02-06 09:01:19] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-06 09:01:19] ==========================================
+[2026-02-06 09:01:19] 
+[2026-02-06 09:01:19] ==========================================
+[2026-02-06 09:01:20] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-06 09:01:20] ==========================================
+[2026-02-06 09:01:20] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260206-0901.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: scientific AI prompts research
+搜索超时: AI 写作 提示词 文案
+搜索超时: Midjourney prompt tutorial examples
+[2026-02-08 09:01:07] ==========================================
+[2026-02-08 09:01:07] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-08 09:01:07] ==========================================
+[2026-02-08 09:01:07] 
+[2026-02-08 09:01:07] ==========================================
+[2026-02-08 09:01:07] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-08 09:01:07] ==========================================
+[2026-02-08 09:01:07] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260208-0901.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: business AI prompt templates
+搜索超时: site:dev.to "AI prompts" examples
+搜索超时: Midjourney 提示词 教程 示例
+搜索超时: Midjourney tutorial professional
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: video generation prompt best practices
+搜索超时: Midjourney best prompts professional
+搜索超时: AI prompts for marketing content
+搜索超时: Claude 提示词 角色扮演
+搜索超时: AI 写作 提示词 文案
+搜索超时: AI 绘画 提示词 风格
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: Veo best prompts high quality
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: DALL-E best prompts high quality
+搜索超时: site:github.com "提示词" AI
+搜索超时: Veo tutorial high quality
+搜索超时: character design AI prompts
+搜索超时: AI 提示词 工程 最佳实践
+搜索超时: finance AI prompts analysis
+搜索超时: site:github.com "AI prompts" repository
+搜索超时: Veo tutorial professional
+搜索超时: few-shot prompting examples
+搜索超时: medical AI prompts diagnosis
+搜索超时: legal AI prompts contract
+搜索超时: DALL-E tutorial high quality
+搜索超时: Runway ML prompt tutorial motion
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: Veo best prompts professional
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: PromptBase marketplace best prompts
+搜索超时: OpenAI prompt engineering guide
+搜索超时: 商业 AI 提示词 模板
+搜索超时: Midjourney best prompts high quality
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: Kling AI prompt guide text to video
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: Pika Labs prompt examples animation
+搜索超时: Midjourney tutorial high quality
+搜索超时: Stable Diffusion best prompts professional
+搜索超时: negative prompt examples Midjourney
+搜索超时: Stable Diffusion LoRA model prompts
+搜索超时: educational AI prompts teaching
+搜索超时: scientific AI prompts research
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: DALL-E best prompts professional
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: DALL-E tutorial professional
+搜索超时: creative writing AI prompts storytelling
+搜索超时: context-aware prompts examples
+搜索超时: role-based prompts system instructions
+搜索超时: prompt chaining techniques LLM
+搜索超时: architecture AI prompts
+搜索超时: product photography AI prompts
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: game asset AI prompts
+搜索超时: fashion design AI prompts
+搜索超时: 视频生成 提示词 Veo Kling
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: ChatGPT 提示词 模板
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: Stable Diffusion prompt engineering negative
+
+================================================================================
+📊 收集完成！
+================================================================================
+总共收集: 0 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260208-0901.jsonl
+
+================================================================================
+✅ 完成！
+================================================================================
+[0;32m[INFO][0m ✅ 数据发现完成：收集了 0 个提示词
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] ==========================================
+[2026-02-08 09:12:38] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-08 09:12:38] ==========================================
+[2026-02-08 09:12:38] 质量阈值: 50
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.1] 分类并准备转换数据...
+[2026-02-08 09:12:38] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260208-0901.jsonl
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.2] 转换为 Skills...
+================================================================================
+🔄 转换 Prompts 为 Skills (增强版)
+================================================================================
+
+📝 日志文件: /root/clawd/data/conversion-logs/conversion-20260208_091238.jsonl
+
+[处理中] image prompts: image-prompts.jsonl
+  ✓ 完成
+
+[处理中] video prompts: video-prompts.jsonl
+  ✓ 完成
+
+[处理中] general prompts: general-prompts-v2.jsonl
+  ✓ 完成
+
+[打包] 生成 .skill 文件...
+  ✓ 打包完成: 0 个 .skill 文件
+
+生成统计报告...
+✅ 报告已保存: /root/clawd/data/conversion-logs/conversion-report-20260208_091238.json
+
+================================================================================
+✅ 转换完成！
+================================================================================
+
+📊 统计信息:
+  总计处理: 0 条
+  成功转换: 0 个
+  跳过 (内容无效): 0 条
+  跳过 (重复): 0 条
+  跳过 (低质量): 0 条
+
+  类型分布:
+    Text Prompt: 0
+    Image Generation: 0
+    Video Generation: 0
+
+  打包: 0 个 .skill 文件
+
+📁 输出文件:
+  Skills: /root/clawd/dist/skills
+  日志: /root/clawd/data/conversion-logs/conversion-20260208_091238.jsonl
+  报告: /root/clawd/data/conversion-logs/conversion-report-20260208_091238.json
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.2] 打包 Skills...
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-08-0901.md
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] 提交到 Git...
+[1;33m[WARN][0m ⚠️  没有变更需要提交
+Everything up-to-date
+[2026-02-08 09:12:39] 
+[2026-02-08 09:12:39] ==========================================
+[2026-02-08 09:12:39] ✅ 整合工作流完成！
+[2026-02-08 09:12:39] ==========================================
+[2026-02-08 09:12:39] 
+[2026-02-08 09:12:39] Stage 1（数据发现）:
+[2026-02-08 09:12:39]   • 数据源: 整个互联网（通过 SearXNG）
+[2026-02-08 09:12:39]   • 评估提示词: 0 个
+[2026-02-08 09:12:39]   • 工具: SearXNG + collect_prompts_enhanced
+[2026-02-08 09:12:39] 
+[2026-02-08 09:12:39] Stage 2（转换发布）:
+[2026-02-08 09:12:39]   • 转换 Skills: [2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] ==========================================
+[2026-02-08 09:12:38] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-08 09:12:38] ==========================================
+[2026-02-08 09:12:38] 质量阈值: 50
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.1] 分类并准备转换数据...
+[2026-02-08 09:12:38] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260208-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.2] 打包 Skills...
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill 个
+[2026-02-08 09:12:39]   • ClawdHub 发布: [2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] ==========================================
+[2026-02-08 09:12:38] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-08 09:12:38] ==========================================
+[2026-02-08 09:12:38] 质量阈值: 50
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.1] 分类并准备转换数据...
+[2026-02-08 09:12:38] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260208-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.2] 打包 Skills...
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 成功, [2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] ==========================================
+[2026-02-08 09:12:38] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-08 09:12:38] ==========================================
+[2026-02-08 09:12:38] 质量阈值: 50
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.1] 分类并准备转换数据...
+[2026-02-08 09:12:38] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260208-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.2] 打包 Skills...
+[2026-02-08 09:12:38] 
+[2026-02-08 09:12:38] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 失败
+[2026-02-08 09:12:39]   • 工具: prompt-to-skill-converter
+[2026-02-08 09:12:39] 
+[2026-02-08 09:12:39] 报告: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-08-0901.md
+/root/clawd/reports/integrated-workflow-report-2026-02-08-0901.md
+[2026-02-08 09:12:39] 日志: /root/clawd/logs/integrated-prompt-workflow.log
+[0;32m[INFO][0m 没有新数据，跳过通知
+[2026-02-10 09:01:36] ==========================================
+[2026-02-10 09:01:36] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-10 09:01:36] ==========================================
+[2026-02-10 09:01:36] 
+[2026-02-10 09:01:36] ==========================================
+[2026-02-10 09:01:36] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-10 09:01:36] ==========================================
+[2026-02-10 09:01:36] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260210-0901.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: finance AI prompts analysis
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: AI prompts for marketing content
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: character design AI prompts
+搜索超时: site:github.com "AI prompts" repository
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: business AI prompt templates
+搜索超时: ChatGPT 提示词 模板
+搜索超时: legal AI prompts contract
+搜索超时: AI 写作 提示词 文案
+搜索超时: 商业 AI 提示词 模板
+搜索超时: DALL-E best prompts high quality
+搜索超时: Midjourney best prompts high quality
+搜索超时: DALL-E tutorial high quality
+搜索超时: Veo best prompts professional
+搜索超时: 视频生成 提示词 Veo Kling
+搜索超时: site:github.com "提示词" AI
+搜索超时: Midjourney 提示词 教程 示例
+搜索超时: AI 提示词 工程 最佳实践
+搜索超时: DALL-E best prompts professional
+搜索超时: Veo best prompts high quality
+搜索超时: role-based prompts system instructions
+搜索超时: site:dev.to "AI prompts" examples
+搜索超时: prompt chaining techniques LLM
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: Runway ML prompt tutorial motion
+搜索超时: AI 绘画 提示词 风格
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: OpenAI prompt engineering guide
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: educational AI prompts teaching
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: game asset AI prompts
+搜索超时: creative writing AI prompts storytelling
+搜索超时: architecture AI prompts
+搜索超时: Claude 提示词 角色扮演
+搜索超时: Stable Diffusion best prompts professional
+搜索超时: Stable Diffusion LoRA model prompts
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: fashion design AI prompts
+搜索超时: few-shot prompting examples
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: medical AI prompts diagnosis
+搜索超时: DALL-E tutorial professional
+搜索超时: Veo tutorial professional
+搜索超时: Kling AI prompt guide text to video
+搜索超时: context-aware prompts examples
+搜索超时: Midjourney tutorial professional
+搜索超时: Midjourney tutorial high quality
+搜索超时: PromptBase marketplace best prompts
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: Pika Labs prompt examples animation
+搜索超时: scientific AI prompts research
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: Veo tutorial high quality
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: video generation prompt best practices
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: Midjourney best prompts professional
+搜索超时: Stable Diffusion prompt engineering negative
+搜索超时: negative prompt examples Midjourney
+搜索超时: product photography AI prompts
+搜索超时: site:towardsdatascience.com "prompt" techniques
+
+================================================================================
+📊 收集完成！
+================================================================================
+总共收集: 0 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260210-0901.jsonl
+
+================================================================================
+✅ 完成！
+================================================================================
+[0;32m[INFO][0m ✅ 数据发现完成：收集了 0 个提示词
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] ==========================================
+[2026-02-10 09:13:07] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-10 09:13:07] ==========================================
+[2026-02-10 09:13:07] 质量阈值: 50
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.1] 分类并准备转换数据...
+[2026-02-10 09:13:07] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260210-0901.jsonl
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.2] 转换为 Skills...
+================================================================================
+🔄 转换 Prompts 为 Skills (增强版)
+================================================================================
+
+📝 日志文件: /root/clawd/data/conversion-logs/conversion-20260210_091307.jsonl
+
+[处理中] image prompts: image-prompts.jsonl
+  ✓ 完成
+
+[处理中] video prompts: video-prompts.jsonl
+  ✓ 完成
+
+[处理中] general prompts: general-prompts-v2.jsonl
+  ✓ 完成
+
+[打包] 生成 .skill 文件...
+  ✓ 打包完成: 0 个 .skill 文件
+
+生成统计报告...
+✅ 报告已保存: /root/clawd/data/conversion-logs/conversion-report-20260210_091307.json
+
+================================================================================
+✅ 转换完成！
+================================================================================
+
+📊 统计信息:
+  总计处理: 0 条
+  成功转换: 0 个
+  跳过 (内容无效): 0 条
+  跳过 (重复): 0 条
+  跳过 (低质量): 0 条
+
+  类型分布:
+    Text Prompt: 0
+    Image Generation: 0
+    Video Generation: 0
+
+  打包: 0 个 .skill 文件
+
+📁 输出文件:
+  Skills: /root/clawd/dist/skills
+  日志: /root/clawd/data/conversion-logs/conversion-20260210_091307.jsonl
+  报告: /root/clawd/data/conversion-logs/conversion-report-20260210_091307.json
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.2] 打包 Skills...
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-10-0901.md
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] 提交到 Git...
+To https://github.com/hhhh124hhhh/jack-portfolio.git
+   5e85a17..5fb2227  master -> master
+[2026-02-10 09:13:08] 
+[2026-02-10 09:13:08] ==========================================
+[2026-02-10 09:13:08] ✅ 整合工作流完成！
+[2026-02-10 09:13:08] ==========================================
+[2026-02-10 09:13:08] 
+[2026-02-10 09:13:08] Stage 1（数据发现）:
+[2026-02-10 09:13:08]   • 数据源: 整个互联网（通过 SearXNG）
+[2026-02-10 09:13:08]   • 评估提示词: 0 个
+[2026-02-10 09:13:08]   • 工具: SearXNG + collect_prompts_enhanced
+[2026-02-10 09:13:08] 
+[2026-02-10 09:13:08] Stage 2（转换发布）:
+[2026-02-10 09:13:08]   • 转换 Skills: [2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] ==========================================
+[2026-02-10 09:13:07] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-10 09:13:07] ==========================================
+[2026-02-10 09:13:07] 质量阈值: 50
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.1] 分类并准备转换数据...
+[2026-02-10 09:13:07] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260210-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.2] 打包 Skills...
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill 个
+[2026-02-10 09:13:08]   • ClawdHub 发布: [2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] ==========================================
+[2026-02-10 09:13:07] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-10 09:13:07] ==========================================
+[2026-02-10 09:13:07] 质量阈值: 50
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.1] 分类并准备转换数据...
+[2026-02-10 09:13:07] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260210-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.2] 打包 Skills...
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 成功, [2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] ==========================================
+[2026-02-10 09:13:07] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-10 09:13:07] ==========================================
+[2026-02-10 09:13:07] 质量阈值: 50
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.1] 分类并准备转换数据...
+[2026-02-10 09:13:07] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260210-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.2] 打包 Skills...
+[2026-02-10 09:13:07] 
+[2026-02-10 09:13:07] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 失败
+[2026-02-10 09:13:08]   • 工具: prompt-to-skill-converter
+[2026-02-10 09:13:08] 
+[2026-02-10 09:13:08] 报告: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-10-0901.md
+/root/clawd/reports/integrated-workflow-report-2026-02-10-0901.md
+[2026-02-10 09:13:08] 日志: /root/clawd/logs/integrated-prompt-workflow.log
+[0;32m[INFO][0m 没有新数据，跳过通知
+[2026-02-11 09:02:05] ==========================================
+[2026-02-11 09:02:05] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-11 09:02:05] ==========================================
+[2026-02-11 09:02:05] 
+[2026-02-11 09:02:05] ==========================================
+[2026-02-11 09:02:05] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-11 09:02:05] ==========================================
+[2026-02-11 09:02:05] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260211-0902.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: Midjourney 提示词 教程 示例
+搜索超时: AI 绘画 提示词 风格
+搜索超时: finance AI prompts analysis
+搜索超时: video generation prompt best practices
+搜索超时: Stable Diffusion prompt engineering negative
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: business AI prompt templates
+搜索超时: AI 提示词 工程 最佳实践
+搜索超时: product photography AI prompts
+搜索超时: 视频生成 提示词 Veo Kling
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: scientific AI prompts research
+搜索超时: site:github.com "AI prompts" repository
+搜索超时: negative prompt examples Midjourney
+搜索超时: medical AI prompts diagnosis
+搜索超时: Stable Diffusion LoRA model prompts
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: creative writing AI prompts storytelling
+搜索超时: context-aware prompts examples
+搜索超时: Veo best prompts professional
+搜索超时: Midjourney tutorial professional
+搜索超时: prompt chaining techniques LLM
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: Veo tutorial high quality
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: AI prompts for marketing content
+搜索超时: Veo best prompts high quality
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: ChatGPT 提示词 模板
+搜索超时: game asset AI prompts
+搜索超时: Midjourney best prompts professional
+搜索超时: role-based prompts system instructions
+搜索超时: DALL-E tutorial professional
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: Midjourney tutorial high quality
+搜索超时: Pika Labs prompt examples animation
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: few-shot prompting examples
+搜索超时: legal AI prompts contract
+搜索超时: architecture AI prompts
+搜索超时: AI 写作 提示词 文案
+搜索超时: Veo tutorial professional
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: Runway ML prompt tutorial motion
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: Claude 提示词 角色扮演
+搜索超时: site:github.com "提示词" AI
+搜索超时: DALL-E tutorial high quality
+搜索超时: Stable Diffusion best prompts professional
+搜索超时: 商业 AI 提示词 模板
+搜索超时: DALL-E best prompts professional
+搜索超时: educational AI prompts teaching
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: Kling AI prompt guide text to video
+搜索超时: fashion design AI prompts
+搜索超时: DALL-E best prompts high quality
+搜索超时: PromptBase marketplace best prompts
+搜索超时: OpenAI prompt engineering guide
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: site:dev.to "AI prompts" examples
+搜索超时: Midjourney best prompts high quality
+搜索超时: character design AI prompts
+
+================================================================================
+📊 收集完成！
+================================================================================
+总共收集: 0 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260211-0902.jsonl
+
+================================================================================
+✅ 完成！
+================================================================================
+[0;32m[INFO][0m ✅ 数据发现完成：收集了 0 个提示词
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] ==========================================
+[2026-02-11 09:13:36] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-11 09:13:36] ==========================================
+[2026-02-11 09:13:36] 质量阈值: 50
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.1] 分类并准备转换数据...
+[2026-02-11 09:13:36] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260211-0902.jsonl
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.2] 转换为 Skills...
+================================================================================
+🔄 转换 Prompts 为 Skills (增强版)
+================================================================================
+
+📝 日志文件: /root/clawd/data/conversion-logs/conversion-20260211_091336.jsonl
+
+[处理中] image prompts: image-prompts.jsonl
+  ✓ 完成
+
+[处理中] video prompts: video-prompts.jsonl
+  ✓ 完成
+
+[处理中] general prompts: general-prompts-v2.jsonl
+  ✓ 完成
+
+[打包] 生成 .skill 文件...
+  ✓ 打包完成: 0 个 .skill 文件
+
+生成统计报告...
+✅ 报告已保存: /root/clawd/data/conversion-logs/conversion-report-20260211_091336.json
+
+================================================================================
+✅ 转换完成！
+================================================================================
+
+📊 统计信息:
+  总计处理: 0 条
+  成功转换: 0 个
+  跳过 (内容无效): 0 条
+  跳过 (重复): 0 条
+  跳过 (低质量): 0 条
+
+  类型分布:
+    Text Prompt: 0
+    Image Generation: 0
+    Video Generation: 0
+
+  打包: 0 个 .skill 文件
+
+📁 输出文件:
+  Skills: /root/clawd/dist/skills
+  日志: /root/clawd/data/conversion-logs/conversion-20260211_091336.jsonl
+  报告: /root/clawd/data/conversion-logs/conversion-report-20260211_091336.json
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.2] 打包 Skills...
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-11-0902.md
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] 提交到 Git...
+To https://github.com/hhhh124hhhh/jack-portfolio.git
+   0b7706d..d60ea6d  master -> master
+[2026-02-11 09:13:37] 
+[2026-02-11 09:13:37] ==========================================
+[2026-02-11 09:13:37] ✅ 整合工作流完成！
+[2026-02-11 09:13:37] ==========================================
+[2026-02-11 09:13:37] 
+[2026-02-11 09:13:37] Stage 1（数据发现）:
+[2026-02-11 09:13:37]   • 数据源: 整个互联网（通过 SearXNG）
+[2026-02-11 09:13:37]   • 评估提示词: 0 个
+[2026-02-11 09:13:37]   • 工具: SearXNG + collect_prompts_enhanced
+[2026-02-11 09:13:37] 
+[2026-02-11 09:13:37] Stage 2（转换发布）:
+[2026-02-11 09:13:37]   • 转换 Skills: [2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] ==========================================
+[2026-02-11 09:13:36] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-11 09:13:36] ==========================================
+[2026-02-11 09:13:36] 质量阈值: 50
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.1] 分类并准备转换数据...
+[2026-02-11 09:13:36] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260211-0902.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.2] 打包 Skills...
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill 个
+[2026-02-11 09:13:37]   • ClawdHub 发布: [2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] ==========================================
+[2026-02-11 09:13:36] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-11 09:13:36] ==========================================
+[2026-02-11 09:13:36] 质量阈值: 50
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.1] 分类并准备转换数据...
+[2026-02-11 09:13:36] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260211-0902.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.2] 打包 Skills...
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 成功, [2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] ==========================================
+[2026-02-11 09:13:36] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-11 09:13:36] ==========================================
+[2026-02-11 09:13:36] 质量阈值: 50
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.1] 分类并准备转换数据...
+[2026-02-11 09:13:36] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260211-0902.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.2] 打包 Skills...
+[2026-02-11 09:13:36] 
+[2026-02-11 09:13:36] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 失败
+[2026-02-11 09:13:37]   • 工具: prompt-to-skill-converter
+[2026-02-11 09:13:37] 
+[2026-02-11 09:13:37] 报告: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-11-0902.md
+/root/clawd/reports/integrated-workflow-report-2026-02-11-0902.md
+[2026-02-11 09:13:37] 日志: /root/clawd/logs/integrated-prompt-workflow.log
+[0;32m[INFO][0m 没有新数据，跳过通知
+[2026-02-13 09:00:45] ==========================================
+[2026-02-13 09:00:45] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-13 09:00:45] ==========================================
+[2026-02-13 09:00:45] 
+[2026-02-13 09:00:45] ==========================================
+[2026-02-13 09:00:45] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-13 09:00:45] ==========================================
+[2026-02-13 09:00:45] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260213-0900.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: site:dev.to "AI prompts" examples
+搜索超时: role-based prompts system instructions
+搜索超时: PromptBase marketplace best prompts
+搜索超时: fashion design AI prompts
+搜索超时: Stable Diffusion LoRA model prompts
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: Kling AI prompt guide text to video
+搜索超时: legal AI prompts contract
+搜索超时: OpenAI prompt engineering guide
+搜索超时: scientific AI prompts research
+搜索超时: site:github.com "AI prompts" repository
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: AI 绘画 提示词 风格
+搜索超时: site:github.com "提示词" AI
+搜索超时: context-aware prompts examples
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: DALL-E tutorial professional
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: Veo tutorial professional
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: business AI prompt templates
+搜索超时: Midjourney tutorial high quality
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: AI prompts for marketing content
+搜索超时: architecture AI prompts
+[2026-02-14 09:02:30] ==========================================
+[2026-02-14 09:02:30] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-14 09:02:30] ==========================================
+[2026-02-14 09:02:30] 
+[2026-02-14 09:02:30] ==========================================
+[2026-02-14 09:02:30] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-14 09:02:30] ==========================================
+[2026-02-14 09:02:30] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260214-0902.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: 商业 AI 提示词 模板
+搜索超时: AI prompts for marketing content
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: Veo tutorial high quality
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: site:github.com "AI prompts" repository
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: Midjourney best prompts high quality
+搜索超时: ChatGPT 提示词 模板
+[2026-02-16 09:01:02] ==========================================
+[2026-02-16 09:01:02] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-16 09:01:02] ==========================================
+[2026-02-16 09:01:02] 
+[2026-02-16 09:01:02] ==========================================
+[2026-02-16 09:01:02] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-16 09:01:02] ==========================================
+[2026-02-16 09:01:02] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260216-0901.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: Veo best prompts high quality
+搜索超时: Veo tutorial high quality
+搜索超时: Veo best prompts professional
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: architecture AI prompts
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: site:github.com "提示词" AI
+搜索超时: DALL-E best prompts professional
+搜索超时: Midjourney 提示词 教程 示例
+搜索超时: 商业 AI 提示词 模板
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: negative prompt examples Midjourney
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: Midjourney tutorial professional
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: Runway ML prompt tutorial motion
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: scientific AI prompts research
+搜索超时: creative writing AI prompts storytelling
+搜索超时: AI 绘画 提示词 风格
+搜索超时: finance AI prompts analysis
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: educational AI prompts teaching
+搜索超时: site:github.com "AI prompts" repository
+搜索超时: DALL-E tutorial professional
+搜索超时: product photography AI prompts
+搜索超时: Midjourney tutorial high quality
+搜索超时: Midjourney best prompts professional
+搜索超时: Stable Diffusion best prompts professional
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: context-aware prompts examples
+搜索超时: DALL-E tutorial high quality
+搜索超时: site:dev.to "AI prompts" examples
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: Claude 提示词 角色扮演
+搜索超时: few-shot prompting examples
+搜索超时: Kling AI prompt guide text to video
+搜索超时: business AI prompt templates
+搜索超时: PromptBase marketplace best prompts
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: game asset AI prompts
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: legal AI prompts contract
+搜索超时: AI 提示词 工程 最佳实践
+搜索超时: Midjourney best prompts high quality
+搜索超时: Pika Labs prompt examples animation
+搜索超时: 视频生成 提示词 Veo Kling
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: AI 写作 提示词 文案
+搜索超时: Veo tutorial professional
+搜索超时: prompt chaining techniques LLM
+搜索超时: Stable Diffusion LoRA model prompts
+搜索超时: OpenAI prompt engineering guide
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: character design AI prompts
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: DALL-E best prompts high quality
+搜索超时: AI prompts for marketing content
+搜索超时: video generation prompt best practices
+搜索超时: Stable Diffusion prompt engineering negative
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: fashion design AI prompts
+搜索超时: ChatGPT 提示词 模板
+搜索超时: medical AI prompts diagnosis
+搜索超时: role-based prompts system instructions
+
+================================================================================
+📊 收集完成！
+================================================================================
+总共收集: 0 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260216-0901.jsonl
+
+================================================================================
+✅ 完成！
+================================================================================
+[0;32m[INFO][0m ✅ 数据发现完成：收集了 0 个提示词
+[2026-02-16 09:12:33] 
+[2026-02-16 09:12:33] ==========================================
+[2026-02-16 09:12:33] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-16 09:12:33] ==========================================
+[2026-02-16 09:12:33] 质量阈值: 50
+[2026-02-16 09:12:33] 
+[2026-02-16 09:12:33] [2.1] 分类并准备转换数据...
+[2026-02-16 09:12:33] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260216-0901.jsonl
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-16 09:12:34] 
+[2026-02-16 09:12:34] [2.2] 转换为 Skills...
+================================================================================
+🔄 转换 Prompts 为 Skills (增强版)
+================================================================================
+
+📝 日志文件: /root/clawd/data/conversion-logs/conversion-20260216_091234.jsonl
+
+[处理中] image prompts: image-prompts.jsonl
+  ✓ 完成
+
+[处理中] video prompts: video-prompts.jsonl
+  ✓ 完成
+
+[处理中] general prompts: general-prompts-v2.jsonl
+  ✓ 完成
+
+[打包] 生成 .skill 文件...
+  ✓ 打包完成: 0 个 .skill 文件
+
+生成统计报告...
+✅ 报告已保存: /root/clawd/data/conversion-logs/conversion-report-20260216_091234.json
+
+================================================================================
+✅ 转换完成！
+================================================================================
+
+📊 统计信息:
+  总计处理: 0 条
+  成功转换: 0 个
+  跳过 (内容无效): 0 条
+  跳过 (重复): 0 条
+  跳过 (低质量): 0 条
+
+  类型分布:
+    Text Prompt: 0
+    Image Generation: 0
+    Video Generation: 0
+
+  打包: 0 个 .skill 文件
+
+📁 输出文件:
+  Skills: /root/clawd/dist/skills
+  日志: /root/clawd/data/conversion-logs/conversion-20260216_091234.jsonl
+  报告: /root/clawd/data/conversion-logs/conversion-report-20260216_091234.json
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-16 09:12:34] 
+[2026-02-16 09:12:34] [2.2] 打包 Skills...
+[2026-02-16 09:12:34] 
+[2026-02-16 09:12:34] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-16-0901.md
+[2026-02-16 09:12:34] 
+[2026-02-16 09:12:34] 提交到 Git...
+To https://github.com/hhhh124hhhh/jack-portfolio.git
+   d60ea6d..b4220fa  master -> master
+[2026-02-16 09:12:35] 
+[2026-02-16 09:12:35] ==========================================
+[2026-02-16 09:12:35] ✅ 整合工作流完成！
+[2026-02-16 09:12:35] ==========================================
+[2026-02-16 09:12:35] 
+[2026-02-16 09:12:35] Stage 1（数据发现）:
+[2026-02-16 09:12:35]   • 数据源: 整个互联网（通过 SearXNG）
+[2026-02-16 09:12:35]   • 评估提示词: 0 个
+[2026-02-16 09:12:35]   • 工具: SearXNG + collect_prompts_enhanced
+[2026-02-16 09:12:35] 
+[2026-02-16 09:12:35] Stage 2（转换发布）:
+[2026-02-16 09:12:35]   • 转换 Skills: [2026-02-16 09:12:33] 
+[2026-02-16 09:12:33] ==========================================
+[2026-02-16 09:12:33] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-16 09:12:33] ==========================================
+[2026-02-16 09:12:33] 质量阈值: 50
+[2026-02-16 09:12:33] 
+[2026-02-16 09:12:33] [2.1] 分类并准备转换数据...
+[2026-02-16 09:12:33] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260216-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-16 09:12:34] 
+[2026-02-16 09:12:34] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-16 09:12:34] 
+[2026-02-16 09:12:34] [2.2] 打包 Skills...
+[2026-02-16 09:12:34] 
+[2026-02-16 09:12:34] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill 个
+[2026-02-16 09:12:35]   • ClawdHub 发布: [2026-02-16 09:12:33] 
+[2026-02-16 09:12:33] ==========================================
+[2026-02-16 09:12:33] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-16 09:12:33] ==========================================
+[2026-02-16 09:12:33] 质量阈值: 50
+[2026-02-16 09:12:33] 
+[2026-02-16 09:12:33] [2.1] 分类并准备转换数据...
+[2026-02-16 09:12:33] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260216-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-16 09:12:34] 
+[2026-02-16 09:12:34] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-16 09:12:34] 
+[2026-02-16 09:12:34] [2.2] 打包 Skills...
+[2026-02-16 09:12:34] 
+[2026-02-16 09:12:34] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 成功, [2026-02-16 09:12:33] 
+[2026-02-16 09:12:33] ==========================================
+[2026-02-16 09:12:33] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-16 09:12:33] ==========================================
+[2026-02-16 09:12:33] 质量阈值: 50
+[2026-02-16 09:12:33] 
+[2026-02-16 09:12:33] [2.1] 分类并准备转换数据...
+[2026-02-16 09:12:33] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260216-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-16 09:12:34] 
+[2026-02-16 09:12:34] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-16 09:12:34] 
+[2026-02-16 09:12:34] [2.2] 打包 Skills...
+[2026-02-16 09:12:34] 
+[2026-02-16 09:12:34] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 失败
+[2026-02-16 09:12:35]   • 工具: prompt-to-skill-converter
+[2026-02-16 09:12:35] 
+[2026-02-16 09:12:35] 报告: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-16-0901.md
+/root/clawd/reports/integrated-workflow-report-2026-02-16-0901.md
+[2026-02-16 09:12:35] 日志: /root/clawd/logs/integrated-prompt-workflow.log
+[0;32m[INFO][0m 没有新数据，跳过通知
+[2026-02-17 09:01:04] ==========================================
+[2026-02-17 09:01:04] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-17 09:01:04] ==========================================
+[2026-02-17 09:01:04] 
+[2026-02-17 09:01:04] ==========================================
+[2026-02-17 09:01:04] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-17 09:01:04] ==========================================
+[2026-02-17 09:01:04] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260217-0901.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: Kling AI prompt guide text to video
+搜索超时: video generation prompt best practices
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: prompt chaining techniques LLM
+搜索超时: Stable Diffusion LoRA model prompts
+搜索超时: product photography AI prompts
+搜索超时: Midjourney 提示词 教程 示例
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: Midjourney tutorial professional
+搜索超时: creative writing AI prompts storytelling
+搜索超时: AI 写作 提示词 文案
+搜索超时: Veo tutorial professional
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: Stable Diffusion prompt engineering negative
+搜索超时: Midjourney tutorial high quality
+搜索超时: site:github.com "AI prompts" repository
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: Veo best prompts professional
+搜索超时: Pika Labs prompt examples animation
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: DALL-E tutorial professional
+搜索超时: 商业 AI 提示词 模板
+搜索超时: Stable Diffusion best prompts professional
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: Veo tutorial high quality
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: Claude 提示词 角色扮演
+搜索超时: ChatGPT 提示词 模板
+搜索超时: Veo best prompts high quality
+搜索超时: legal AI prompts contract
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: DALL-E tutorial high quality
+搜索超时: architecture AI prompts
+搜索超时: AI prompts for marketing content
+搜索超时: site:github.com "提示词" AI
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: few-shot prompting examples
+搜索超时: finance AI prompts analysis
+搜索超时: context-aware prompts examples
+搜索超时: scientific AI prompts research
+搜索超时: PromptBase marketplace best prompts
+搜索超时: OpenAI prompt engineering guide
+搜索超时: AI 绘画 提示词 风格
+搜索超时: Runway ML prompt tutorial motion
+搜索超时: 视频生成 提示词 Veo Kling
+搜索超时: game asset AI prompts
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: DALL-E best prompts professional
+搜索超时: business AI prompt templates
+搜索超时: DALL-E best prompts high quality
+搜索超时: educational AI prompts teaching
+搜索超时: fashion design AI prompts
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: character design AI prompts
+搜索超时: negative prompt examples Midjourney
+搜索超时: medical AI prompts diagnosis
+搜索超时: Midjourney best prompts professional
+搜索超时: role-based prompts system instructions
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: Midjourney best prompts high quality
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: AI 提示词 工程 最佳实践
+搜索超时: site:dev.to "AI prompts" examples
+
+================================================================================
+📊 收集完成！
+================================================================================
+总共收集: 0 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260217-0901.jsonl
+
+================================================================================
+✅ 完成！
+================================================================================
+[0;32m[INFO][0m ✅ 数据发现完成：收集了 0 个提示词
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] ==========================================
+[2026-02-17 09:12:35] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-17 09:12:35] ==========================================
+[2026-02-17 09:12:35] 质量阈值: 50
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.1] 分类并准备转换数据...
+[2026-02-17 09:12:35] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260217-0901.jsonl
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.2] 转换为 Skills...
+================================================================================
+🔄 转换 Prompts 为 Skills (增强版)
+================================================================================
+
+📝 日志文件: /root/clawd/data/conversion-logs/conversion-20260217_091235.jsonl
+
+[处理中] image prompts: image-prompts.jsonl
+  ✓ 完成
+
+[处理中] video prompts: video-prompts.jsonl
+  ✓ 完成
+
+[处理中] general prompts: general-prompts-v2.jsonl
+  ✓ 完成
+
+[打包] 生成 .skill 文件...
+  ✓ 打包完成: 0 个 .skill 文件
+
+生成统计报告...
+✅ 报告已保存: /root/clawd/data/conversion-logs/conversion-report-20260217_091235.json
+
+================================================================================
+✅ 转换完成！
+================================================================================
+
+📊 统计信息:
+  总计处理: 0 条
+  成功转换: 0 个
+  跳过 (内容无效): 0 条
+  跳过 (重复): 0 条
+  跳过 (低质量): 0 条
+
+  类型分布:
+    Text Prompt: 0
+    Image Generation: 0
+    Video Generation: 0
+
+  打包: 0 个 .skill 文件
+
+📁 输出文件:
+  Skills: /root/clawd/dist/skills
+  日志: /root/clawd/data/conversion-logs/conversion-20260217_091235.jsonl
+  报告: /root/clawd/data/conversion-logs/conversion-report-20260217_091235.json
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.2] 打包 Skills...
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-17-0901.md
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] 提交到 Git...
+[1;33m[WARN][0m ⚠️  没有变更需要提交
+To https://github.com/hhhh124hhhh/fireworks-2026.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/hhhh124hhhh/fireworks-2026.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-02-17 09:12:36] 
+[2026-02-17 09:12:36] ==========================================
+[2026-02-17 09:12:36] ✅ 整合工作流完成！
+[2026-02-17 09:12:36] ==========================================
+[2026-02-17 09:12:36] 
+[2026-02-17 09:12:36] Stage 1（数据发现）:
+[2026-02-17 09:12:36]   • 数据源: 整个互联网（通过 SearXNG）
+[2026-02-17 09:12:36]   • 评估提示词: 0 个
+[2026-02-17 09:12:36]   • 工具: SearXNG + collect_prompts_enhanced
+[2026-02-17 09:12:36] 
+[2026-02-17 09:12:36] Stage 2（转换发布）:
+[2026-02-17 09:12:36]   • 转换 Skills: [2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] ==========================================
+[2026-02-17 09:12:35] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-17 09:12:35] ==========================================
+[2026-02-17 09:12:35] 质量阈值: 50
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.1] 分类并准备转换数据...
+[2026-02-17 09:12:35] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260217-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.2] 打包 Skills...
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill 个
+[2026-02-17 09:12:36]   • ClawdHub 发布: [2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] ==========================================
+[2026-02-17 09:12:35] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-17 09:12:35] ==========================================
+[2026-02-17 09:12:35] 质量阈值: 50
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.1] 分类并准备转换数据...
+[2026-02-17 09:12:35] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260217-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.2] 打包 Skills...
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 成功, [2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] ==========================================
+[2026-02-17 09:12:35] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-17 09:12:35] ==========================================
+[2026-02-17 09:12:35] 质量阈值: 50
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.1] 分类并准备转换数据...
+[2026-02-17 09:12:35] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260217-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.2] 打包 Skills...
+[2026-02-17 09:12:35] 
+[2026-02-17 09:12:35] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 失败
+[2026-02-17 09:12:36]   • 工具: prompt-to-skill-converter
+[2026-02-17 09:12:36] 
+[2026-02-17 09:12:36] 报告: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-17-0901.md
+/root/clawd/reports/integrated-workflow-report-2026-02-17-0901.md
+[2026-02-17 09:12:36] 日志: /root/clawd/logs/integrated-prompt-workflow.log
+[0;32m[INFO][0m 没有新数据，跳过通知
+[2026-02-18 09:01:50] ==========================================
+[2026-02-18 09:01:50] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-18 09:01:50] ==========================================
+[2026-02-18 09:01:50] 
+[2026-02-18 09:01:50] ==========================================
+[2026-02-18 09:01:50] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-18 09:01:50] ==========================================
+[2026-02-18 09:01:50] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260218-0901.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: Midjourney best prompts high quality
+搜索超时: Midjourney tutorial professional
+搜索超时: game asset AI prompts
+搜索超时: Veo best prompts professional
+搜索超时: Veo best prompts high quality
+搜索超时: Stable Diffusion LoRA model prompts
+[2026-02-20 09:02:03] ==========================================
+[2026-02-20 09:02:03] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-20 09:02:03] ==========================================
+[2026-02-20 09:02:03] 
+[2026-02-20 09:02:03] ==========================================
+[2026-02-20 09:02:03] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-20 09:02:03] ==========================================
+[2026-02-20 09:02:03] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260220-0902.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: site:github.com "AI prompts" repository
+搜索超时: product photography AI prompts
+搜索超时: AI 绘画 提示词 风格
+搜索超时: Midjourney tutorial professional
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: 视频生成 提示词 Veo Kling
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: Pika Labs prompt examples animation
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: 商业 AI 提示词 模板
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: OpenAI prompt engineering guide
+搜索超时: business AI prompt templates
+搜索超时: character design AI prompts
+搜索超时: Stable Diffusion prompt engineering negative
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: Runway ML prompt tutorial motion
+搜索超时: AI prompts for marketing content
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: game asset AI prompts
+搜索超时: legal AI prompts contract
+搜索超时: DALL-E tutorial professional
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: Claude 提示词 角色扮演
+搜索超时: Midjourney 提示词 教程 示例
+搜索超时: architecture AI prompts
+搜索超时: Veo tutorial high quality
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: site:dev.to "AI prompts" examples
+搜索超时: role-based prompts system instructions
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: Midjourney best prompts professional
+搜索超时: Veo best prompts high quality
+搜索超时: Midjourney tutorial high quality
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: Stable Diffusion best prompts professional
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: context-aware prompts examples
+搜索超时: ChatGPT 提示词 模板
+搜索超时: PromptBase marketplace best prompts
+搜索超时: educational AI prompts teaching
+搜索超时: scientific AI prompts research
+搜索超时: DALL-E best prompts high quality
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: Kling AI prompt guide text to video
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: DALL-E tutorial high quality
+搜索超时: negative prompt examples Midjourney
+搜索超时: few-shot prompting examples
+搜索超时: prompt chaining techniques LLM
+搜索超时: finance AI prompts analysis
+搜索超时: video generation prompt best practices
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: medical AI prompts diagnosis
+搜索超时: Stable Diffusion LoRA model prompts
+搜索超时: DALL-E best prompts professional
+搜索超时: Veo best prompts professional
+搜索超时: AI 提示词 工程 最佳实践
+搜索超时: Veo tutorial professional
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: creative writing AI prompts storytelling
+搜索超时: Midjourney best prompts high quality
+搜索超时: AI 写作 提示词 文案
+搜索超时: site:github.com "提示词" AI
+搜索超时: fashion design AI prompts
+
+================================================================================
+📊 收集完成！
+================================================================================
+总共收集: 0 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260220-0902.jsonl
+
+================================================================================
+✅ 完成！
+================================================================================
+[0;32m[INFO][0m ✅ 数据发现完成：收集了 0 个提示词
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] ==========================================
+[2026-02-20 09:13:34] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-20 09:13:34] ==========================================
+[2026-02-20 09:13:34] 质量阈值: 50
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.1] 分类并准备转换数据...
+[2026-02-20 09:13:34] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260220-0902.jsonl
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.2] 转换为 Skills...
+================================================================================
+🔄 转换 Prompts 为 Skills (增强版)
+================================================================================
+
+📝 日志文件: /root/clawd/data/conversion-logs/conversion-20260220_091334.jsonl
+
+[处理中] image prompts: image-prompts.jsonl
+  ✓ 完成
+
+[处理中] video prompts: video-prompts.jsonl
+  ✓ 完成
+
+[处理中] general prompts: general-prompts-v2.jsonl
+  ✓ 完成
+
+[打包] 生成 .skill 文件...
+  ✓ 打包完成: 0 个 .skill 文件
+
+生成统计报告...
+✅ 报告已保存: /root/clawd/data/conversion-logs/conversion-report-20260220_091334.json
+
+================================================================================
+✅ 转换完成！
+================================================================================
+
+📊 统计信息:
+  总计处理: 0 条
+  成功转换: 0 个
+  跳过 (内容无效): 0 条
+  跳过 (重复): 0 条
+  跳过 (低质量): 0 条
+
+  类型分布:
+    Text Prompt: 0
+    Image Generation: 0
+    Video Generation: 0
+
+  打包: 0 个 .skill 文件
+
+📁 输出文件:
+  Skills: /root/clawd/dist/skills
+  日志: /root/clawd/data/conversion-logs/conversion-20260220_091334.jsonl
+  报告: /root/clawd/data/conversion-logs/conversion-report-20260220_091334.json
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.2] 打包 Skills...
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-20-0902.md
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] 提交到 Git...
+To https://github.com/hhhh124hhhh/fireworks-2026.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/hhhh124hhhh/fireworks-2026.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-02-20 09:13:35] 
+[2026-02-20 09:13:35] ==========================================
+[2026-02-20 09:13:35] ✅ 整合工作流完成！
+[2026-02-20 09:13:35] ==========================================
+[2026-02-20 09:13:35] 
+[2026-02-20 09:13:35] Stage 1（数据发现）:
+[2026-02-20 09:13:35]   • 数据源: 整个互联网（通过 SearXNG）
+[2026-02-20 09:13:35]   • 评估提示词: 0 个
+[2026-02-20 09:13:35]   • 工具: SearXNG + collect_prompts_enhanced
+[2026-02-20 09:13:35] 
+[2026-02-20 09:13:35] Stage 2（转换发布）:
+[2026-02-20 09:13:35]   • 转换 Skills: [2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] ==========================================
+[2026-02-20 09:13:34] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-20 09:13:34] ==========================================
+[2026-02-20 09:13:34] 质量阈值: 50
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.1] 分类并准备转换数据...
+[2026-02-20 09:13:34] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260220-0902.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.2] 打包 Skills...
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill 个
+[2026-02-20 09:13:35]   • ClawdHub 发布: [2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] ==========================================
+[2026-02-20 09:13:34] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-20 09:13:34] ==========================================
+[2026-02-20 09:13:34] 质量阈值: 50
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.1] 分类并准备转换数据...
+[2026-02-20 09:13:34] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260220-0902.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.2] 打包 Skills...
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 成功, [2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] ==========================================
+[2026-02-20 09:13:34] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-20 09:13:34] ==========================================
+[2026-02-20 09:13:34] 质量阈值: 50
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.1] 分类并准备转换数据...
+[2026-02-20 09:13:34] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260220-0902.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.2] 打包 Skills...
+[2026-02-20 09:13:34] 
+[2026-02-20 09:13:34] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 失败
+[2026-02-20 09:13:35]   • 工具: prompt-to-skill-converter
+[2026-02-20 09:13:35] 
+[2026-02-20 09:13:35] 报告: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-20-0902.md
+/root/clawd/reports/integrated-workflow-report-2026-02-20-0902.md
+[2026-02-20 09:13:35] 日志: /root/clawd/logs/integrated-prompt-workflow.log
+[0;32m[INFO][0m 没有新数据，跳过通知
+[2026-02-21 09:00:51] ==========================================
+[2026-02-21 09:00:51] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-21 09:00:51] ==========================================
+[2026-02-21 09:00:51] 
+[2026-02-21 09:00:51] ==========================================
+[2026-02-21 09:00:51] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-21 09:00:51] ==========================================
+[2026-02-21 09:00:51] SearXNG URL: http://localhost:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260221-0900.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: educational AI prompts teaching
+搜索超时: video generation prompt best practices
+搜索超时: Midjourney tutorial professional
+[2026-02-26 10:02:30] ==========================================
+[2026-02-26 10:02:30] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-26 10:02:30] ==========================================
+[2026-02-26 10:02:30] 
+[2026-02-26 10:02:30] ==========================================
+[2026-02-26 10:02:30] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-26 10:02:30] ==========================================
+[2026-02-26 10:02:30] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260226-1002.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: Stable Diffusion LoRA model prompts
+搜索超时: 商业 AI 提示词 模板
+搜索超时: Midjourney tutorial professional
+搜索超时: educational AI prompts teaching
+搜索超时: business AI prompt templates
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: site:github.com "提示词" AI
+搜索超时: 视频生成 提示词 Veo Kling
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: context-aware prompts examples
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: Kling AI prompt guide text to video
+搜索超时: Midjourney tutorial high quality
+搜索超时: DALL-E tutorial high quality
+搜索超时: DALL-E tutorial professional
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: DALL-E best prompts professional
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: Veo tutorial high quality
+搜索超时: Runway ML prompt tutorial motion
+搜索超时: AI 提示词 工程 最佳实践
+搜索超时: video generation prompt best practices
+搜索超时: medical AI prompts diagnosis
+搜索超时: Midjourney best prompts professional
+搜索超时: DALL-E best prompts high quality
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: site:github.com "AI prompts" repository
+搜索超时: AI 写作 提示词 文案
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: site:dev.to "AI prompts" examples
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: Stable Diffusion prompt engineering negative
+搜索超时: Midjourney 提示词 教程 示例
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: Claude 提示词 角色扮演
+搜索超时: legal AI prompts contract
+搜索超时: product photography AI prompts
+搜索超时: OpenAI prompt engineering guide
+搜索超时: Midjourney best prompts high quality
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: scientific AI prompts research
+搜索超时: creative writing AI prompts storytelling
+搜索超时: negative prompt examples Midjourney
+搜索超时: AI 绘画 提示词 风格
+搜索超时: PromptBase marketplace best prompts
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: character design AI prompts
+搜索超时: AI prompts for marketing content
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: ChatGPT 提示词 模板
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: architecture AI prompts
+搜索超时: Veo best prompts professional
+搜索超时: game asset AI prompts
+搜索超时: fashion design AI prompts
+搜索超时: prompt chaining techniques LLM
+搜索超时: role-based prompts system instructions
+搜索超时: finance AI prompts analysis
+搜索超时: few-shot prompting examples
+搜索超时: Veo tutorial professional
+搜索超时: Veo best prompts high quality
+搜索超时: Stable Diffusion best prompts professional
+搜索超时: Pika Labs prompt examples animation
+
+================================================================================
+📊 收集完成！
+================================================================================
+总共收集: 0 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260226-1002.jsonl
+
+================================================================================
+✅ 完成！
+================================================================================
+[0;32m[INFO][0m ✅ 数据发现完成：收集了 0 个提示词
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] ==========================================
+[2026-02-26 10:14:01] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-26 10:14:01] ==========================================
+[2026-02-26 10:14:01] 质量阈值: 50
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.1] 分类并准备转换数据...
+[2026-02-26 10:14:01] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260226-1002.jsonl
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.2] 转换为 Skills...
+================================================================================
+🔄 转换 Prompts 为 Skills (增强版)
+================================================================================
+
+📝 日志文件: /root/clawd/data/conversion-logs/conversion-20260226_101401.jsonl
+
+[处理中] image prompts: image-prompts.jsonl
+  ✓ 完成
+
+[处理中] video prompts: video-prompts.jsonl
+  ✓ 完成
+
+[处理中] general prompts: general-prompts-v2.jsonl
+  ✓ 完成
+
+[打包] 生成 .skill 文件...
+  ✓ 打包完成: 0 个 .skill 文件
+
+生成统计报告...
+✅ 报告已保存: /root/clawd/data/conversion-logs/conversion-report-20260226_101401.json
+
+================================================================================
+✅ 转换完成！
+================================================================================
+
+📊 统计信息:
+  总计处理: 0 条
+  成功转换: 0 个
+  跳过 (内容无效): 0 条
+  跳过 (重复): 0 条
+  跳过 (低质量): 0 条
+
+  类型分布:
+    Text Prompt: 0
+    Image Generation: 0
+    Video Generation: 0
+
+  打包: 0 个 .skill 文件
+
+📁 输出文件:
+  Skills: /root/clawd/dist/skills
+  日志: /root/clawd/data/conversion-logs/conversion-20260226_101401.jsonl
+  报告: /root/clawd/data/conversion-logs/conversion-report-20260226_101401.json
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.2] 打包 Skills...
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-26-1002.md
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] 提交到 Git...
+To https://github.com/hhhh124hhhh/fireworks-2026.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/hhhh124hhhh/fireworks-2026.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-02-26 10:14:02] 
+[2026-02-26 10:14:02] ==========================================
+[2026-02-26 10:14:02] ✅ 整合工作流完成！
+[2026-02-26 10:14:02] ==========================================
+[2026-02-26 10:14:02] 
+[2026-02-26 10:14:02] Stage 1（数据发现）:
+[2026-02-26 10:14:02]   • 数据源: 整个互联网（通过 SearXNG）
+[2026-02-26 10:14:02]   • 评估提示词: 0 个
+[2026-02-26 10:14:02]   • 工具: SearXNG + collect_prompts_enhanced
+[2026-02-26 10:14:02] 
+[2026-02-26 10:14:02] Stage 2（转换发布）:
+[2026-02-26 10:14:02]   • 转换 Skills: [2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] ==========================================
+[2026-02-26 10:14:01] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-26 10:14:01] ==========================================
+[2026-02-26 10:14:01] 质量阈值: 50
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.1] 分类并准备转换数据...
+[2026-02-26 10:14:01] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260226-1002.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.2] 打包 Skills...
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill 个
+[2026-02-26 10:14:02]   • ClawdHub 发布: [2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] ==========================================
+[2026-02-26 10:14:01] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-26 10:14:01] ==========================================
+[2026-02-26 10:14:01] 质量阈值: 50
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.1] 分类并准备转换数据...
+[2026-02-26 10:14:01] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260226-1002.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.2] 打包 Skills...
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 成功, [2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] ==========================================
+[2026-02-26 10:14:01] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-02-26 10:14:01] ==========================================
+[2026-02-26 10:14:01] 质量阈值: 50
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.1] 分类并准备转换数据...
+[2026-02-26 10:14:01] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260226-1002.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.2] 打包 Skills...
+[2026-02-26 10:14:01] 
+[2026-02-26 10:14:01] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 失败
+[2026-02-26 10:14:02]   • 工具: prompt-to-skill-converter
+[2026-02-26 10:14:02] 
+[2026-02-26 10:14:02] 报告: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-02-26-1002.md
+/root/clawd/reports/integrated-workflow-report-2026-02-26-1002.md
+[2026-02-26 10:14:02] 日志: /root/clawd/logs/integrated-prompt-workflow.log
+[0;32m[INFO][0m 没有新数据，跳过通知
+[2026-02-28 09:00:57] ==========================================
+[2026-02-28 09:00:57] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-28 09:00:57] ==========================================
+[2026-02-28 09:00:58] 
+[2026-02-28 09:00:58] ==========================================
+[2026-02-28 09:00:58] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-28 09:00:58] ==========================================
+[2026-02-28 09:00:58] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260228-0900.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: game asset AI prompts
+搜索超时: Veo best prompts professional
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: AI 绘画 提示词 风格
+搜索超时: 商业 AI 提示词 模板
+搜索超时: Midjourney best prompts professional
+搜索超时: Pika Labs prompt examples animation
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: Veo tutorial professional
+搜索超时: prompt chaining techniques LLM
+搜索超时: character design AI prompts
+搜索超时: site:dev.to "AI prompts" examples
+搜索超时: Veo best prompts high quality
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: AI prompts for marketing content
+搜索超时: product photography AI prompts
+搜索超时: Midjourney best prompts high quality
+搜索超时: creative writing AI prompts storytelling
+搜索超时: DALL-E best prompts high quality
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: negative prompt examples Midjourney
+搜索超时: Kling AI prompt guide text to video
+搜索超时: Stable Diffusion best prompts professional
+搜索超时: DALL-E tutorial high quality
+搜索超时: Midjourney 提示词 教程 示例
+搜索超时: architecture AI prompts
+搜索超时: PromptBase marketplace best prompts
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: role-based prompts system instructions
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: DALL-E best prompts professional
+搜索超时: OpenAI prompt engineering guide
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: site:github.com "AI prompts" repository
+搜索超时: medical AI prompts diagnosis
+搜索超时: video generation prompt best practices
+搜索超时: Midjourney tutorial high quality
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: Stable Diffusion prompt engineering negative
+搜索超时: context-aware prompts examples
+搜索超时: AI 写作 提示词 文案
+搜索超时: educational AI prompts teaching
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: 视频生成 提示词 Veo Kling
+搜索超时: legal AI prompts contract
+搜索超时: Veo tutorial high quality
+搜索超时: Runway ML prompt tutorial motion
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: Midjourney tutorial professional
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: scientific AI prompts research
+搜索超时: business AI prompt templates
+搜索超时: ChatGPT 提示词 模板
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: DALL-E tutorial professional
+
+⏸️  收到中断信号，正在优雅退出...
+[2026-02-28 09:11:13] ==========================================
+[2026-02-28 09:11:13] 🚀 整合的 AI 提示词自动化流程开始
+[2026-02-28 09:11:13] ==========================================
+[2026-02-28 09:11:13] 
+[2026-02-28 09:11:13] ==========================================
+[2026-02-28 09:11:13] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-02-28 09:11:13] ==========================================
+[2026-02-28 09:11:13] SearXNG URL: http://localhost:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260228-0911.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: OpenAI prompt engineering guide
+搜索超时: Veo best prompts professional
+搜索超时: Claude 提示词 角色扮演
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: site:medium.com "prompt engineering" guide
+
+搜索: Midjourney tutorial high quality
+  找到 10 个结果
+  处理: Quality – Midjourney...
+  处理: Video – Midjourney...
+  处理: Parameter List – Midjourney...
+  处理: Getting Started Guide – Midjourney...
+  处理: r/deepdream on Reddit: How to download high quality mid jour...
+  处理: Midjourney V7: A Guide With 8 Practical Examples | DataCamp...
+  处理: The Easiest Way to Upscale a Midjourney Image Online [2025]...
+    找到 5 个提示词
+  处理: r/midjourney on Reddit: How to upscale Midjourney art to pri...
+  处理: How to Get High-Quality Images in Midjourney 4 Without Splat...
+  处理: How to Use Midjourney to Create High-Quality AI-Generated Im...
+
+搜索: Stable Diffusion tutorial professional
+  找到 10 个结果
+  处理: How to Run Stable Diffusion: A Step-by-Step Guide | DataCamp...
+  处理: Stable Diffusion Tutorials...
+  处理: r/StableDiffusion on Reddit: How to get started with Stable ...
+  处理: Stable Diffusion Art - local AI tutorials & workflows...
+  处理: Stable Diffusion 3 Medium Fine-tuning Tutorial — Stability A...
+  处理: Stable Diffusion Tutorial...
+  处理: Stable Diffusion Online...
+  处理: Learn Think Diffusion - Stable Diffusion video and written t...
+    找到 1 个提示词
+  处理: How to use Stable Diffusion - Stable Diffusion Art...
+  处理: Getting Started with Stable Diffusion: A Beginner's Guide - ...
+
+搜索: Pika Labs prompt examples animation
+  找到 10 个结果
+  处理: Pika AI Prompts | Writing Better AI Video Prompts...
+    找到 2 个提示词
+  处理: Pika 1.0 Prompt Guide - Over 20 Animation Styles! - Ai Video...
+    找到 8 个提示词
+  处理: 50 Pika Art AI Prompt Ideas [+Examples]...
+  处理: Pika 1.0 Prompt Guide - Over 20 Animation Styles! - Ai Video...
+    找到 11 个提示词
+  处理: Pika Labs Video Prompt Guide | PDF...
+  处理: Pika Labs Prompting Guide (Writing Perfect Text to Image or ...
+  处理: Advanced Pika Video Prompts (with Examples) | by Matt Majews...
+  处理: My Experiments with Pika Labs: Creating Videos from Text and...
+    找到 3 个提示词
+  处理: PikaLabsPrompts - Poe...
+
+搜索: Midjourney 提示词 教程 示例
+  找到 10 个结果
+  处理: Midjourney常用提示词汇总...
+    找到 1 个提示词
+  处理: 【Midjourney教程】提示词（Prompts...
+  处理: Midjourney常用提示词与绘图（含提示词指令与示例，复制粘贴即可用...
+  处理: Midjourney提示词编写技巧完全指南- 微光飘渺...
+  处理: 喂饭级Midjourney图文教程06-提示词 - AI学习笔记...
+  处理: Midjourney提示词生成器：激发创意图像...
+  处理: 实例25个Midjourney 高频Prompt 提示词效果展示(一)...
+  处理: GPT +Midjourney提示词-学习资料| PDF...
+  处理: 新手别错过！一定要掌握的Midjourney万能提示词结构...
+  处理: Midjourney19个参数汉化合集...
+
+搜索: ChatGPT 提示词 模板
+  找到 10 个结果
+  处理: ChatGPT 提示词大全：20种提问模板与6个提示词网站...
+  处理: ChatGPT文章创作指令Prompt提示词模板原创...
+  处理: 分享一个ChatGPT角色扮演详细提示词模板...
+  处理: AiShort - AI提示词库| 精选Prompt模板，即刻提升AI效率| AiShort ......
+    找到 1 个提示词
+  处理: 分享10个我最常用的DeepResearch提示词模板和用法。...
+  处理: 外贸人必学的10个高效ChatGPT提示词（Prompts）模板...
+    找到 1 个提示词
+  处理: K-Render/best-chinese-prompt: AI中文提示词秘籍ChatGPT ......
+    找到 4 个提示词
+  处理: 别再瞎写提示词了，OpenAI 官方出了20 个万能模板，建议收藏！...
+  处理: 最强ChatGPT提示词模板！手把手教你如何写出让天花板级提示词！...
+    找到 2 个提示词
+
+搜索: Stable Diffusion 提示词 负面
+  找到 9 个结果
+  处理: Stable Diffusion 负面提示词反向提示词negative prompt整理...
+  处理: 有没有一个比较通用的负面提示词清单，你几乎每次都应该用？...
+  处理: 深入解析Stable Diffusion负面提示词：从原理到代码的究极指南与实践 ......
+  处理: 深入理解Stable Diffusion模型中的负面提示词...
+  处理: 一探负面提示的“里子”：Stable Diffusion最常用的三组 ......
+  处理: 负面提示词...
+  处理: 如何使用负向提示词Stable Diffusion Prompt part2 + Negative ......
+  处理: Stable Diffusion中负向提示词有何作用？...
+  处理: 负面提示是干嘛用的？ : r/StableDiffusion...
+
+搜索: AI 提示词 工程 最佳实践
+  找到 10 个结果
+  处理: ChatGPT 提示词工程最佳实践...
+  处理: 提示词最佳实践- Claude API Docs...
+    找到 2 个提示词
+  处理: 提示词工程最佳实践 - Jimmy Song...
+    找到 2 个提示词
+  处理: 提示工程指南...
+  处理: 高效提示词（prompt）工程指南...
+
+⏸️  收到中断信号，正在优雅退出...
+
+⏸️  收集中断，保存已收集的数据...
+总共收集: 43 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260228-0911.jsonl
+
+类型分布:
+  image-generation: 19
+  video-generation: 11
+  roleplay: 5
+  text-generation: 4
+  general: 4
+
+质量分布:
+  高质量 (≥70): 0 (0%)
+  中等 (50-69): 4 (9%)
+  低质量 (<50): 39 (90%)
+
+平均质量分数: 33.2/100
+
+================================================================================
+✅ 完成！
+================================================================================
+[2026-03-01 09:02:02] ==========================================
+[2026-03-01 09:02:02] 🚀 整合的 AI 提示词自动化流程开始
+[2026-03-01 09:02:02] ==========================================
+[2026-03-01 09:02:02] 
+[2026-03-01 09:02:02] ==========================================
+[2026-03-01 09:02:02] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-03-01 09:02:02] ==========================================
+[2026-03-01 09:02:02] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260301-0902.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: 视频生成 提示词 Veo Kling
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: architecture AI prompts
+搜索超时: DALL-E tutorial professional
+搜索超时: Veo tutorial high quality
+搜索超时: Midjourney tutorial high quality
+搜索超时: OpenAI prompt engineering guide
+搜索超时: scientific AI prompts research
+搜索超时: business AI prompt templates
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: 商业 AI 提示词 模板
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: Pika Labs prompt examples animation
+搜索超时: negative prompt examples Midjourney
+搜索超时: Midjourney tutorial professional
+搜索超时: few-shot prompting examples
+搜索超时: Midjourney best prompts professional
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: legal AI prompts contract
+搜索超时: character design AI prompts
+搜索超时: medical AI prompts diagnosis
+搜索超时: Veo best prompts professional
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: Kling AI prompt guide text to video
+搜索超时: AI prompts for marketing content
+搜索超时: fashion design AI prompts
+搜索超时: role-based prompts system instructions
+搜索超时: context-aware prompts examples
+搜索超时: Midjourney best prompts high quality
+搜索超时: prompt chaining techniques LLM
+搜索超时: game asset AI prompts
+搜索超时: Veo tutorial professional
+搜索超时: DALL-E best prompts professional
+搜索超时: Stable Diffusion prompt engineering negative
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: creative writing AI prompts storytelling
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: ChatGPT 提示词 模板
+搜索超时: site:github.com "提示词" AI
+搜索超时: DALL-E tutorial high quality
+搜索超时: Claude 提示词 角色扮演
+搜索超时: AI 绘画 提示词 风格
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: educational AI prompts teaching
+搜索超时: product photography AI prompts
+搜索超时: AI 提示词 工程 最佳实践
+搜索超时: Stable Diffusion best prompts professional
+
+⏸️  收到中断信号，正在优雅退出...
+[2026-03-05 09:02:12] ==========================================
+[2026-03-05 09:02:12] 🚀 整合的 AI 提示词自动化流程开始
+[2026-03-05 09:02:12] ==========================================
+[2026-03-05 09:02:12] 
+[2026-03-05 09:02:12] ==========================================
+[2026-03-05 09:02:12] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-03-05 09:02:12] ==========================================
+[2026-03-05 09:02:12] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260305-0902.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: business AI prompt templates
+搜索超时: 视频生成 提示词 Veo Kling
+搜索超时: DALL-E tutorial high quality
+搜索超时: Stable Diffusion LoRA model prompts
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: AI 绘画 提示词 风格
+搜索超时: Veo tutorial professional
+搜索超时: role-based prompts system instructions
+搜索超时: site:dev.to "AI prompts" examples
+搜索超时: Veo best prompts high quality
+搜索超时: legal AI prompts contract
+搜索超时: Stable Diffusion best prompts professional
+搜索超时: Midjourney tutorial professional
+搜索超时: DALL-E tutorial professional
+搜索超时: DALL-E best prompts professional
+搜索超时: Midjourney best prompts professional
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: AI 提示词 工程 最佳实践
+搜索超时: few-shot prompting examples
+搜索超时: creative writing AI prompts storytelling
+搜索超时: Veo best prompts professional
+搜索超时: negative prompt examples Midjourney
+搜索超时: context-aware prompts examples
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: 商业 AI 提示词 模板
+搜索超时: character design AI prompts
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: architecture AI prompts
+搜索超时: scientific AI prompts research
+搜索超时: Pika Labs prompt examples animation
+搜索超时: medical AI prompts diagnosis
+搜索超时: PromptBase marketplace best prompts
+搜索超时: AI 写作 提示词 文案
+搜索超时: OpenAI prompt engineering guide
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: Runway ML prompt tutorial motion
+搜索超时: finance AI prompts analysis
+搜索超时: site:github.com "提示词" AI
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: product photography AI prompts
+搜索超时: Stable Diffusion prompt engineering negative
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: fashion design AI prompts
+搜索超时: ChatGPT 提示词 模板
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: game asset AI prompts
+搜索超时: Midjourney tutorial high quality
+搜索超时: prompt chaining techniques LLM
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: site:github.com "AI prompts" repository
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: Midjourney best prompts high quality
+搜索超时: Claude 提示词 角色扮演
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: Kling AI prompt guide text to video
+搜索超时: Veo tutorial high quality
+搜索超时: video generation prompt best practices
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: AI prompts for marketing content
+搜索超时: Midjourney 提示词 教程 示例
+搜索超时: educational AI prompts teaching
+搜索超时: DALL-E best prompts high quality
+
+================================================================================
+📊 收集完成！
+================================================================================
+总共收集: 0 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260305-0902.jsonl
+
+================================================================================
+✅ 完成！
+================================================================================
+[0;32m[INFO][0m ✅ 数据发现完成：收集了 0 个提示词
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] ==========================================
+[2026-03-05 09:13:43] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-03-05 09:13:43] ==========================================
+[2026-03-05 09:13:43] 质量阈值: 50
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.1] 分类并准备转换数据...
+[2026-03-05 09:13:43] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260305-0902.jsonl
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.2] 转换为 Skills...
+================================================================================
+🔄 转换 Prompts 为 Skills (增强版)
+================================================================================
+
+📝 日志文件: /root/clawd/data/conversion-logs/conversion-20260305_091343.jsonl
+
+[处理中] image prompts: image-prompts.jsonl
+  ✓ 完成
+
+[处理中] video prompts: video-prompts.jsonl
+  ✓ 完成
+
+[处理中] general prompts: general-prompts-v2.jsonl
+  ✓ 完成
+
+[打包] 生成 .skill 文件...
+  ✓ 打包完成: 0 个 .skill 文件
+
+生成统计报告...
+✅ 报告已保存: /root/clawd/data/conversion-logs/conversion-report-20260305_091343.json
+
+================================================================================
+✅ 转换完成！
+================================================================================
+
+📊 统计信息:
+  总计处理: 0 条
+  成功转换: 0 个
+  跳过 (内容无效): 0 条
+  跳过 (重复): 0 条
+  跳过 (低质量): 0 条
+
+  类型分布:
+    Text Prompt: 0
+    Image Generation: 0
+    Video Generation: 0
+
+  打包: 0 个 .skill 文件
+
+📁 输出文件:
+  Skills: /root/clawd/dist/skills
+  日志: /root/clawd/data/conversion-logs/conversion-20260305_091343.jsonl
+  报告: /root/clawd/data/conversion-logs/conversion-report-20260305_091343.json
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.2] 打包 Skills...
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-03-05-0902.md
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] 提交到 Git...
+To https://github.com/hhhh124hhhh/fireworks-2026.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/hhhh124hhhh/fireworks-2026.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-03-05 09:13:44] 
+[2026-03-05 09:13:44] ==========================================
+[2026-03-05 09:13:44] ✅ 整合工作流完成！
+[2026-03-05 09:13:44] ==========================================
+[2026-03-05 09:13:44] 
+[2026-03-05 09:13:44] Stage 1（数据发现）:
+[2026-03-05 09:13:44]   • 数据源: 整个互联网（通过 SearXNG）
+[2026-03-05 09:13:44]   • 评估提示词: 0 个
+[2026-03-05 09:13:44]   • 工具: SearXNG + collect_prompts_enhanced
+[2026-03-05 09:13:44] 
+[2026-03-05 09:13:44] Stage 2（转换发布）:
+[2026-03-05 09:13:44]   • 转换 Skills: [2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] ==========================================
+[2026-03-05 09:13:43] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-03-05 09:13:43] ==========================================
+[2026-03-05 09:13:43] 质量阈值: 50
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.1] 分类并准备转换数据...
+[2026-03-05 09:13:43] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260305-0902.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.2] 打包 Skills...
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill 个
+[2026-03-05 09:13:44]   • ClawdHub 发布: [2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] ==========================================
+[2026-03-05 09:13:43] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-03-05 09:13:43] ==========================================
+[2026-03-05 09:13:43] 质量阈值: 50
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.1] 分类并准备转换数据...
+[2026-03-05 09:13:43] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260305-0902.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.2] 打包 Skills...
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 成功, [2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] ==========================================
+[2026-03-05 09:13:43] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-03-05 09:13:43] ==========================================
+[2026-03-05 09:13:43] 质量阈值: 50
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.1] 分类并准备转换数据...
+[2026-03-05 09:13:43] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260305-0902.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.2] 打包 Skills...
+[2026-03-05 09:13:43] 
+[2026-03-05 09:13:43] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 失败
+[2026-03-05 09:13:44]   • 工具: prompt-to-skill-converter
+[2026-03-05 09:13:44] 
+[2026-03-05 09:13:44] 报告: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-03-05-0902.md
+/root/clawd/reports/integrated-workflow-report-2026-03-05-0902.md
+[2026-03-05 09:13:44] 日志: /root/clawd/logs/integrated-prompt-workflow.log
+[0;32m[INFO][0m 没有新数据，跳过通知
+[2026-03-10 09:01:10] ==========================================
+[2026-03-10 09:01:10] 🚀 整合的 AI 提示词自动化流程开始
+[2026-03-10 09:01:10] ==========================================
+[2026-03-10 09:01:10] 
+[2026-03-10 09:01:10] ==========================================
+[2026-03-10 09:01:10] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-03-10 09:01:10] ==========================================
+[2026-03-10 09:01:10] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260310-0901.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: Midjourney tutorial high quality
+搜索超时: Midjourney best prompts high quality
+搜索超时: PromptBase marketplace best prompts
+搜索超时: Veo best prompts high quality
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: Claude 提示词 角色扮演
+搜索超时: prompt chaining techniques LLM
+搜索超时: AI 提示词 工程 最佳实践
+搜索超时: fashion design AI prompts
+搜索超时: site:dev.to "AI prompts" examples
+搜索超时: 视频生成 提示词 Veo Kling
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: 商业 AI 提示词 模板
+搜索超时: medical AI prompts diagnosis
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: product photography AI prompts
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: Stable Diffusion best prompts professional
+搜索超时: DALL-E tutorial high quality
+搜索超时: Veo tutorial professional
+搜索超时: Stable Diffusion LoRA model prompts
+搜索超时: Runway ML prompt tutorial motion
+搜索超时: DALL-E tutorial professional
+搜索超时: video generation prompt best practices
+搜索超时: Midjourney 提示词 教程 示例
+搜索超时: OpenAI prompt engineering guide
+搜索超时: site:github.com "AI prompts" repository
+搜索超时: business AI prompt templates
+搜索超时: game asset AI prompts
+搜索超时: DALL-E best prompts professional
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: Veo best prompts professional
+搜索超时: educational AI prompts teaching
+搜索超时: architecture AI prompts
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: context-aware prompts examples
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: DALL-E best prompts high quality
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: Pika Labs prompt examples animation
+搜索超时: AI 绘画 提示词 风格
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: legal AI prompts contract
+搜索超时: ChatGPT 提示词 模板
+搜索超时: Veo tutorial high quality
+搜索超时: few-shot prompting examples
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: Midjourney tutorial professional
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: character design AI prompts
+搜索超时: role-based prompts system instructions
+搜索超时: finance AI prompts analysis
+搜索超时: AI prompts for marketing content
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: Midjourney best prompts professional
+搜索超时: negative prompt examples Midjourney
+搜索超时: Kling AI prompt guide text to video
+搜索超时: creative writing AI prompts storytelling
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: scientific AI prompts research
+搜索超时: site:github.com "提示词" AI
+搜索超时: Stable Diffusion prompt engineering negative
+搜索超时: AI 写作 提示词 文案
+
+================================================================================
+📊 收集完成！
+================================================================================
+总共收集: 0 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260310-0901.jsonl
+
+================================================================================
+✅ 完成！
+================================================================================
+[0;32m[INFO][0m ✅ 数据发现完成：收集了 0 个提示词
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] ==========================================
+[2026-03-10 09:12:41] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-03-10 09:12:41] ==========================================
+[2026-03-10 09:12:41] 质量阈值: 50
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.1] 分类并准备转换数据...
+[2026-03-10 09:12:41] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260310-0901.jsonl
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.2] 转换为 Skills...
+================================================================================
+🔄 转换 Prompts 为 Skills (增强版)
+================================================================================
+
+📝 日志文件: /root/clawd/data/conversion-logs/conversion-20260310_091241.jsonl
+
+[处理中] image prompts: image-prompts.jsonl
+  ✓ 完成
+
+[处理中] video prompts: video-prompts.jsonl
+  ✓ 完成
+
+[处理中] general prompts: general-prompts-v2.jsonl
+  ✓ 完成
+
+[打包] 生成 .skill 文件...
+  ✓ 打包完成: 0 个 .skill 文件
+
+生成统计报告...
+✅ 报告已保存: /root/clawd/data/conversion-logs/conversion-report-20260310_091241.json
+
+================================================================================
+✅ 转换完成！
+================================================================================
+
+📊 统计信息:
+  总计处理: 0 条
+  成功转换: 0 个
+  跳过 (内容无效): 0 条
+  跳过 (重复): 0 条
+  跳过 (低质量): 0 条
+
+  类型分布:
+    Text Prompt: 0
+    Image Generation: 0
+    Video Generation: 0
+
+  打包: 0 个 .skill 文件
+
+📁 输出文件:
+  Skills: /root/clawd/dist/skills
+  日志: /root/clawd/data/conversion-logs/conversion-20260310_091241.jsonl
+  报告: /root/clawd/data/conversion-logs/conversion-report-20260310_091241.json
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.2] 打包 Skills...
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-03-10-0901.md
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] 提交到 Git...
+[1;33m[WARN][0m ⚠️  没有变更需要提交
+To https://github.com/hhhh124hhhh/fireworks-2026.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/hhhh124hhhh/fireworks-2026.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-03-10 09:12:42] 
+[2026-03-10 09:12:42] ==========================================
+[2026-03-10 09:12:42] ✅ 整合工作流完成！
+[2026-03-10 09:12:42] ==========================================
+[2026-03-10 09:12:42] 
+[2026-03-10 09:12:42] Stage 1（数据发现）:
+[2026-03-10 09:12:42]   • 数据源: 整个互联网（通过 SearXNG）
+[2026-03-10 09:12:42]   • 评估提示词: 0 个
+[2026-03-10 09:12:42]   • 工具: SearXNG + collect_prompts_enhanced
+[2026-03-10 09:12:42] 
+[2026-03-10 09:12:42] Stage 2（转换发布）:
+[2026-03-10 09:12:42]   • 转换 Skills: [2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] ==========================================
+[2026-03-10 09:12:41] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-03-10 09:12:41] ==========================================
+[2026-03-10 09:12:41] 质量阈值: 50
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.1] 分类并准备转换数据...
+[2026-03-10 09:12:41] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260310-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.2] 打包 Skills...
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill 个
+[2026-03-10 09:12:42]   • ClawdHub 发布: [2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] ==========================================
+[2026-03-10 09:12:41] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-03-10 09:12:41] ==========================================
+[2026-03-10 09:12:41] 质量阈值: 50
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.1] 分类并准备转换数据...
+[2026-03-10 09:12:41] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260310-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.2] 打包 Skills...
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 成功, [2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] ==========================================
+[2026-03-10 09:12:41] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-03-10 09:12:41] ==========================================
+[2026-03-10 09:12:41] 质量阈值: 50
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.1] 分类并准备转换数据...
+[2026-03-10 09:12:41] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260310-0901.jsonl
+分类完成: 0 图像, 0 视频, 0 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.2] 打包 Skills...
+[2026-03-10 09:12:41] 
+[2026-03-10 09:12:41] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 失败
+[2026-03-10 09:12:42]   • 工具: prompt-to-skill-converter
+[2026-03-10 09:12:42] 
+[2026-03-10 09:12:42] 报告: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-03-10-0901.md
+/root/clawd/reports/integrated-workflow-report-2026-03-10-0901.md
+[2026-03-10 09:12:42] 日志: /root/clawd/logs/integrated-prompt-workflow.log
+[0;32m[INFO][0m 没有新数据，跳过通知
+[2026-06-04 09:00:59] ==========================================
+[2026-06-04 09:00:59] 🚀 整合的 AI 提示词自动化流程开始
+[2026-06-04 09:00:59] ==========================================
+[2026-06-04 09:00:59] 
+[2026-06-04 09:00:59] ==========================================
+[2026-06-04 09:00:59] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-06-04 09:00:59] ==========================================
+[2026-06-04 09:00:59] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260604-0901.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: game asset AI prompts
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: educational AI prompts teaching
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: DALL-E best prompts high quality
+搜索超时: video generation prompt best practices
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: AI 写作 提示词 文案
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: few-shot prompting examples
+搜索超时: DALL-E 3 提示词 指南
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: AI 绘画 提示词 风格
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: Stable Diffusion best prompts professional
+搜索超时: medical AI prompts diagnosis
+搜索超时: context-aware prompts examples
+搜索超时: OpenAI prompt engineering guide
+搜索超时: fashion design AI prompts
+搜索超时: Midjourney 提示词 教程 示例
+搜索超时: Stable Diffusion LoRA model prompts
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: DALL-E tutorial professional
+搜索超时: Veo tutorial high quality
+搜索超时: AI prompts for marketing content
+搜索超时: Veo best prompts high quality
+搜索超时: scientific AI prompts research
+搜索超时: site:dev.to "AI prompts" examples
+搜索超时: Runway ML prompt tutorial motion
+搜索超时: 商业 AI 提示词 模板
+搜索超时: creative writing AI prompts storytelling
+搜索超时: Pika Labs prompt examples animation
+搜索超时: ChatGPT 提示词 模板
+搜索超时: architecture AI prompts
+搜索超时: Stable Diffusion prompt engineering negative
+搜索超时: role-based prompts system instructions
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: product photography AI prompts
+搜索超时: Claude 提示词 角色扮演
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: DALL-E tutorial high quality
+搜索超时: Veo tutorial professional
+搜索超时: PromptBase marketplace best prompts
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: Midjourney tutorial high quality
+搜索超时: Stable Diffusion tutorial professional
+搜索超时: prompt chaining techniques LLM
+搜索超时: business AI prompt templates
+搜索超时: site:medium.com "prompt engineering" guide
+搜索超时: Midjourney tutorial professional
+搜索超时: character design AI prompts
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: site:github.com "提示词" AI
+搜索超时: negative prompt examples Midjourney
+搜索超时: Stable Diffusion tutorial high quality
+搜索超时: DALL-E best prompts professional
+搜索超时: legal AI prompts contract
+
+⏸️  收到中断信号，正在优雅退出...
+搜索超时: Midjourney best prompts high quality
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: Veo best prompts professional
+
+⏸️  收集中断，保存已收集的数据...
+总共收集: 0 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260604-0901.jsonl
+
+================================================================================
+✅ 完成！
+================================================================================
+[2026-06-28 09:00:57] ==========================================
+[2026-06-28 09:00:57] 🚀 整合的 AI 提示词自动化流程开始
+[2026-06-28 09:00:57] ==========================================
+[2026-06-28 09:00:57] 
+[2026-06-28 09:00:57] ==========================================
+[2026-06-28 09:00:57] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-06-28 09:00:57] ==========================================
+[2026-06-28 09:00:57] SearXNG URL: http://149.13.91.232:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260628-0900.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: legal AI prompts contract
+搜索超时: Kling AI prompt guide text to video
+搜索超时: site:csdn.net AI 提示词 教程
+搜索超时: DALL-E tutorial high quality
+搜索超时: Stable Diffusion best prompts high quality
+搜索超时: Stable Diffusion prompt engineering negative
+搜索超时: architecture AI prompts
+搜索超时: Stable Diffusion 提示词 负面
+搜索超时: site:zhihu.com "提示词" AI
+搜索超时: Pika Labs prompt examples animation
+搜索超时: Claude 提示词 角色扮演
+搜索超时: Veo 3 prompt examples video generation
+搜索超时: Midjourney tutorial professional
+搜索超时: site:hashnode.com "prompt guide" tutorial
+搜索超时: DALL-E tutorial professional
+搜索超时: character design AI prompts
+搜索超时: context-aware prompts examples
+搜索超时: Veo best prompts professional
+搜索超时: PromptBase marketplace best prompts
+搜索超时: DALL-E 3 prompt examples guide
+搜索超时: Midjourney 参数详解 --ar --style --chaos
+搜索超时: DALL-E best prompts professional
+搜索超时: 商业 AI 提示词 模板
+搜索超时: LearnPrompting guide comprehensive tutorial
+搜索超时: site:dev.to "AI prompts" examples
+搜索超时: Runway ML prompt tutorial motion
+搜索超时: Midjourney tutorial high quality
+搜索超时: site:towardsdatascience.com "prompt" techniques
+搜索超时: prompt chaining techniques LLM
+搜索超时: site:github.com "prompt engineering" tutorial
+搜索超时: Midjourney 提示词 教程 示例
+搜索超时: video generation prompt best practices
+搜索超时: negative prompt examples Midjourney
+
+⏸️  收到中断信号，正在优雅退出...
+[2026-06-28 09:06:54] ==========================================
+[2026-06-28 09:06:54] 🚀 整合的 AI 提示词自动化流程开始
+[2026-06-28 09:06:54] ==========================================
+[2026-06-28 09:06:54] 
+[2026-06-28 09:06:54] ==========================================
+[2026-06-28 09:06:54] Stage 1: 数据发现（SearXNG 增强版收集）
+[2026-06-28 09:06:54] ==========================================
+[2026-06-28 09:06:54] SearXNG URL: http://localhost:8080
+================================================================================
+🚀 增强版 AI 提示词收集系统 - Phase 1
+================================================================================
+搜索查询总数: 67
+输出文件: /root/clawd/data/prompts/collected/prompts-enhanced-20260628-0906.jsonl
+================================================================================
+开始执行 67 个搜索查询...
+搜索超时: Pika Labs prompt examples animation
+搜索超时: Midjourney prompt tutorial examples
+搜索超时: Claude 提示词 角色扮演
+搜索超时: product photography AI prompts
+搜索超时: awesome-chatgpt-prompts github repository
+搜索超时: Veo tutorial professional
+
+搜索: LearnPrompting guide comprehensive tutorial
+  找到 10 个结果
+  处理: Prompt Engineering Guide: The Ultimate Guide to Generative A...
+  处理: Learn Prompting: Your Guide to Communicating with AI...
+  处理: LearnPrompt.org : Learn The Art of Prompting...
+    找到 3 个提示词
+  处理: A Free Beginner's Guide to AI and Prompt Engineering...
+    找到 1 个提示词
+  处理: Prompt Engineering Guide | Prompt Engineering Guide<!-- -->...
+  处理: Welcome | Learn Prompt: Your CookBook to Communicating with ...
+  处理: Learn Prompting: Your Guide to Communicating with AI...
+  处理: Interactive Tutorials and Top Resources for Prompt Engineeri...
+  处理: Communicating with AI | Learn Prompting: Your Guide to Commu...
+  处理: GitHub - trigaten/Learn_Prompting: Prompt Engineering, Gener...
+
+搜索: business AI prompt templates
+  找到 10 个结果
+  处理: 17 ChatGPT Prompts for Starting a Business in 2026 - LivePla...
+  处理: AI Prompts for Business | 20,000+ Structured Templates | Pro...
+    找到 2 个提示词
+  处理: Professional AI Prompt Templates for Business Success...
+  处理: Share your System Prompt Instruction Templates...
+  处理: The Top 400 AI Prompts for Business (2025)...
+    找到 8 个提示词
+  处理: 200+ Best AI Prompts Any Business Can Use | WordStream...
+    找到 3 个提示词
+  处理: AI Prompts for Small Business Owners & Entrepreneurs | Googl...
+  处理: Stop Writing Terrible AI Prompts: 25+ Templates That Actuall...
+  处理: AI for Business: 110+ AI Prompts to Power your Organization ...
+    找到 4 个提示词
+
+搜索: educational AI prompts teaching
+  找到 10 个结果
+  处理: Prompt Library — AI for Education...
+  处理: These 10 AI prompts replaced my entire study routine (and sa...
+  处理: AI in Education Guides: Tips and tricks for prompt writing |...
+    找到 2 个提示词
+  处理: Instructor Prompts — More Useful Things: AI Resources...
+    找到 6 个提示词
+  处理: Fifty AI Prompts for Teachers...
+  处理: 56 game-changing AI prompts for teachers for 2026...
+  处理: 7 AI prompts that will instantly upgrade your teaching | Sch...
+    找到 1 个提示词
+  处理: AI-Powered Teaching Prompts for Educators | Gemini - Google ...
+  处理: 11 AI Prompts Every Teacher Should Know – The 74...
+  处理: Game-changing AI Prompts Ideas for Teachers for 2026 | Best ...
+    找到 1 个提示词
+
+================================================================================
+📊 收集完成！
+================================================================================
+总共收集: 31 个提示词
+✅ 保存到: /root/clawd/data/prompts/collected/prompts-enhanced-20260628-0906.jsonl
+
+类型分布:
+  text-generation: 13
+  image-generation: 9
+  general: 9
+
+质量分布:
+  高质量 (≥70): 0 (0%)
+  中等 (50-69): 0 (0%)
+  低质量 (<50): 31 (100%)
+
+平均质量分数: 27.1/100
+
+================================================================================
+✅ 完成！
+================================================================================
+[0;32m[INFO][0m ✅ 数据发现完成：收集了 31 个提示词
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] ==========================================
+[2026-06-28 09:09:01] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-06-28 09:09:01] ==========================================
+[2026-06-28 09:09:01] 质量阈值: 50
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.1] 分类并准备转换数据...
+[2026-06-28 09:09:01] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260628-0906.jsonl
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.2] 转换为 Skills...
+================================================================================
+🔄 转换 Prompts 为 Skills (增强版)
+================================================================================
+
+📝 日志文件: /root/clawd/data/conversion-logs/conversion-20260628_090901.jsonl
+
+[处理中] image prompts: image-prompts.jsonl
+  ✓ 完成
+
+[处理中] video prompts: video-prompts.jsonl
+  ✓ 完成
+
+[处理中] general prompts: general-prompts-v2.jsonl
+  ✓ 完成
+
+[打包] 生成 .skill 文件...
+  ✓ 打包完成: 0 个 .skill 文件
+
+生成统计报告...
+✅ 报告已保存: /root/clawd/data/conversion-logs/conversion-report-20260628_090901.json
+
+================================================================================
+✅ 转换完成！
+================================================================================
+
+📊 统计信息:
+  总计处理: 31 条
+  成功转换: 0 个
+  跳过 (内容无效): 0 条
+  跳过 (重复): 0 条
+  跳过 (低质量): 31 条
+
+  类型分布:
+    Text Prompt: 0
+    Image Generation: 0
+    Video Generation: 0
+
+  打包: 0 个 .skill 文件
+
+📁 输出文件:
+  Skills: /root/clawd/dist/skills
+  日志: /root/clawd/data/conversion-logs/conversion-20260628_090901.jsonl
+  报告: /root/clawd/data/conversion-logs/conversion-report-20260628_090901.json
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.2] 打包 Skills...
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-06-28-0906.md
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] 提交到 Git...
+To https://github.com/hhhh124hhhh/fireworks-2026.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/hhhh124hhhh/fireworks-2026.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2026-06-28 09:09:02] 
+[2026-06-28 09:09:02] ==========================================
+[2026-06-28 09:09:02] ✅ 整合工作流完成！
+[2026-06-28 09:09:02] ==========================================
+[2026-06-28 09:09:02] 
+[2026-06-28 09:09:02] Stage 1（数据发现）:
+[2026-06-28 09:09:02]   • 数据源: 整个互联网（通过 SearXNG）
+[2026-06-28 09:09:02]   • 评估提示词: 31 个
+[2026-06-28 09:09:02]   • 工具: SearXNG + collect_prompts_enhanced
+[2026-06-28 09:09:02] 
+[2026-06-28 09:09:02] Stage 2（转换发布）:
+[2026-06-28 09:09:02]   • 转换 Skills: [2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] ==========================================
+[2026-06-28 09:09:01] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-06-28 09:09:01] ==========================================
+[2026-06-28 09:09:01] 质量阈值: 50
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.1] 分类并准备转换数据...
+[2026-06-28 09:09:01] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260628-0906.jsonl
+分类完成: 9 图像, 0 视频, 22 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.2] 打包 Skills...
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill 个
+[2026-06-28 09:09:02]   • ClawdHub 发布: [2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] ==========================================
+[2026-06-28 09:09:01] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-06-28 09:09:01] ==========================================
+[2026-06-28 09:09:01] 质量阈值: 50
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.1] 分类并准备转换数据...
+[2026-06-28 09:09:01] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260628-0906.jsonl
+分类完成: 9 图像, 0 视频, 22 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.2] 打包 Skills...
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 成功, [2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] ==========================================
+[2026-06-28 09:09:01] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-06-28 09:09:01] ==========================================
+[2026-06-28 09:09:01] 质量阈值: 50
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.1] 分类并准备转换数据...
+[2026-06-28 09:09:01] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260628-0906.jsonl
+分类完成: 9 图像, 0 视频, 22 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.2] 打包 Skills...
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 失败
+[2026-06-28 09:09:02]   • 工具: prompt-to-skill-converter
+[2026-06-28 09:09:02] 
+[2026-06-28 09:09:03] 报告: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-06-28-0906.md
+/root/clawd/reports/integrated-workflow-report-2026-06-28-0906.md
+[2026-06-28 09:09:03] 日志: /root/clawd/logs/integrated-prompt-workflow.log
+[0;32m[INFO][0m 发送通知: ✅ 📊 **整合工作流完成！**
+
+**Stage 1: 数据发现（SearXNG + collect_prompts_enhanced）**
+• 数据源: 整个互联网（通过 SearXNG）
+• 评估提示词: 31 个
+• 特性: SearXNG 搜索 + 质量评分 + 自动分类
+
+**Stage 2: 转换发布（prompt-to-skill-converter）**
+• 质量阈值: 50
+• 转换 Skills: [2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] ==========================================
+[2026-06-28 09:09:01] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-06-28 09:09:01] ==========================================
+[2026-06-28 09:09:01] 质量阈值: 50
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.1] 分类并准备转换数据...
+[2026-06-28 09:09:01] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260628-0906.jsonl
+分类完成: 9 图像, 0 视频, 22 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.2] 打包 Skills...
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill 个
+• ClawdHub 发布: [2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] ==========================================
+[2026-06-28 09:09:01] Stage 2: 转换和发布（prompt-to-skill-converter）
+[2026-06-28 09:09:01] ==========================================
+[2026-06-28 09:09:01] 质量阈值: 50
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.1] 分类并准备转换数据...
+[2026-06-28 09:09:01] 读取数据源: /root/clawd/data/prompts/collected/prompts-enhanced-20260628-0906.jsonl
+分类完成: 9 图像, 0 视频, 22 文本
+[0;32m[INFO][0m ✅ 数据分类完成
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.2] 转换为 Skills...
+[0;32m[INFO][0m ✅ 转换完成：成功转换  个 Skill
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.2] 打包 Skills...
+[2026-06-28 09:09:01] 
+[2026-06-28 09:09:01] [2.3] 发布到 ClawdHub...
+[1;33m[WARN][0m ⚠️  没有需要发布的 Skill
+0 成功
+
+**报告**: [0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/integrated-workflow-report-2026-06-28-0906.md
+/root/clawd/reports/integrated-workflow-report-2026-06-28-0906.md
+**详情**: 查看日志: /root/clawd/logs/integrated-prompt-workflow.log
+🚀 **下一个周期**: 明天 9:00
+📱 **通知**: 已发送到 Feishu 和 Slack
+
+---
+*整合工作流 - 自动化运行*
+Invalid config at /root/.clawdbot/clawdbot.json:\n- plugins: plugin: plugin manifest not found: /root/.clawdbot/extensions/openclaw-lark/clawdbot.plugin.json
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+Config invalid
+File: ~/.clawdbot/clawdbot.json
+Problem:
+  - plugins: plugin: plugin manifest not found: /root/.clawdbot/extensions/openclaw-lark/clawdbot.plugin.json
+
+Run: clawdbot doctor --fix
+[0;31m[ERROR][0m Slack 通知发送失败
+Invalid config at /root/.clawdbot/clawdbot.json:\n- plugins: plugin: plugin manifest not found: /root/.clawdbot/extensions/openclaw-lark/clawdbot.plugin.json
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+Config invalid
+File: ~/.clawdbot/clawdbot.json
+Problem:
+  - plugins: plugin: plugin manifest not found: /root/.clawdbot/extensions/openclaw-lark/clawdbot.plugin.json
+
+Run: clawdbot doctor --fix
+[0;31m[ERROR][0m Feishu 通知发送失败

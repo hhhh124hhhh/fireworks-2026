@@ -1,0 +1,13 @@
+[2026-02-10T09:00:01+00:00] [INFO] Starting daily research push
+[2026-02-10T09:00:01+00:00] [INFO] Date: 2026-02-10
+[2026-02-10T09:00:01+00:00] [INFO] Checking AI Research Hub results...
+[2026-02-10T09:00:02+00:00] [INFO] Found AI Research Hub summary: /root/clawd/memory/ai-research/ai-research-summary-20260210_080001.md
+[2026-02-10T09:00:02+00:00] [INFO] AI Research Hub: 0
+0 topics, 0 results
+[2026-02-10T09:00:02+00:00] [INFO] Checking Content Discovery Assistant results...
+[2026-02-10T09:00:02+00:00] [INFO] Found Content Discovery Assistant report: /root/clawd/projects/info-search/data/hotspots/hotspot-report-20260210_083001.md
+[2026-02-10T09:00:02+00:00] [INFO] Content Discovery Assistant: 10 hotspots
+[2026-02-10T09:00:02+00:00] [INFO] Sending message to Slack channel: C0ABSK92X4G
+error: unknown option '--message-from-stdin'
+[2026-02-10T09:00:20+00:00] [INFO] ✅ Successfully sent to Slack
+[2026-02-10T09:00:20+00:00] [INFO] Daily research push completed

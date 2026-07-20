@@ -1,0 +1,1325 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<!-- Google Analytics (GA4) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E25S3PK9M6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E25S3PK9M6');
+</script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jack - AI 技能开发者 | 自动化工程师</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0e17;
+            --bg-secondary: #111827;
+            --bg-tertiary: #1f2937;
+            --accent-primary: #3b82f6;
+            --accent-secondary: #8b5cf6;
+            --accent-glow: rgba(59, 130, 246, 0.3);
+            --text-primary: #f9fafb;
+            --text-secondary: #9ca3af;
+            --text-muted: #6b7280;
+            --border-color: #374151;
+            --gradient-1: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+            --gradient-2: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Space Grotesk', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        /* Animated Background */
+        .bg-grid {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image:
+                linear-gradient(rgba(59, 130, 246, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(59, 130, 246, 0.03) 1px, transparent 1px);
+            background-size: 60px 60px;
+            animation: gridMove 20s linear infinite;
+            z-index: -2;
+            pointer-events: none;
+        }
+
+        @keyframes gridMove {
+            0% { transform: translate(0, 0); }
+            100% { transform: translate(60px, 60px); }
+        }
+
+        /* 可视化组件样式 */
+        
+        /* 滚动进度条 */
+        #scroll-progress {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 0%;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+            z-index: 9999;
+            transition: width 0.1s ease;
+            box-shadow: 0 0 10px var(--accent-glow);
+        }
+
+        /* 打字机效果 */
+        .typewriter {
+            overflow: hidden;
+            border-right: 3px solid var(--accent-primary);
+            white-space: nowrap;
+            animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+        }
+
+        @keyframes typing {
+            from { width: 0 }
+            to { width: 100% }
+        }
+
+        @keyframes blink-caret {
+            from, to { border-color: transparent }
+            50% { border-color: var(--accent-primary); }
+        }
+
+        /* 光标跟随效果 */
+        #cursor-glow {
+            position: fixed;
+            width: 200px;
+            height: 200px;
+            background: radial-gradient(circle, rgba(59, 130, 246, 0.15) 0%, transparent 70%);
+            border-radius: 50%;
+            pointer-events: none;
+            z-index: 9998;
+            transition: transform 0.1s ease;
+            mix-blend-mode: screen;
+        }
+
+        /* 粒子背景 */
+        #particles {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        .particle {
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            background: var(--accent-primary);
+            border-radius: 50%;
+            opacity: 0.3;
+            animation: float 15s infinite ease-in-out;
+        }
+
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0) translateX(0);
+                opacity: 0.3;
+            }
+            50% {
+                transform: translateY(-100px) translateX(50px);
+                opacity: 0.6;
+            }
+        }
+
+        /* 数字滚动动画 */
+        .count-up {
+            display: inline-block;
+            transition: all 0.3s ease;
+        }
+
+        .count-up.updated {
+            transform: scale(1.2);
+            color: var(--accent-primary);
+        }
+
+        /* 技能雷达图 */
+        .radar-chart {
+            width: 250px;
+            height: 250px;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(59, 130, 246, 0.1) 0%, transparent 70%);
+            border: 1px solid var(--border-color);
+        }
+
+        .radar-point {
+            position: absolute;
+            width: 10px;
+            height: 10px;
+            background: var(--accent-primary);
+            border-radius: 50%;
+            box-shadow: 0 0 15px var(--accent-glow);
+            animation: pulse-point 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse-point {
+            0%, 100% {
+                transform: scale(1);
+                opacity: 1;
+            }
+            50% {
+                transform: scale(1.5);
+                opacity: 0.6;
+            }
+        }
+
+        /* 技能进度条 */
+        .skill-bars {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+
+        .skill-bar-container {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .skill-bar-label {
+            width: 120px;
+            font-weight: 600;
+        }
+
+        .skill-bar {
+            flex: 1;
+            height: 8px;
+            background: var(--bg-tertiary);
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+        .skill-bar-fill {
+            height: 100%;
+            background: var(--gradient-1);
+            border-radius: 4px;
+            width: 0;
+            transition: width 1.5s ease;
+        }
+
+        .skill-bar-fill.animated {
+            animation: fill-bar 1.5s ease-out forwards;
+        }
+
+        @keyframes fill-bar {
+            to { width: var(--target-width); }
+        }
+
+        /* GitHub 贡献图模拟 */
+        .contribution-grid {
+            display: grid;
+            grid-template-columns: repeat(52, 1fr);
+            gap: 3px;
+            padding: 1rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+            margin-top: 2rem;
+        }
+
+        .contribution-cell {
+            width: 12px;
+            height: 12px;
+            background: var(--bg-tertiary);
+            border-radius: 2px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .contribution-cell:hover {
+            transform: scale(1.8);
+            z-index: 10;
+            box-shadow: 0 0 10px var(--accent-glow);
+        }
+
+        .contribution-1 { background: rgba(59, 130, 246, 0.2); }
+        .contribution-2 { background: rgba(59, 130, 246, 0.4); }
+        .contribution-3 { background: rgba(59, 130, 246, 0.6); }
+        .contribution-4 { background: rgba(59, 130, 246, 0.8); }
+        .contribution-5 { background: var(--accent-primary); }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 1.5rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(10, 14, 23, 0.8);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border-color);
+            z-index: 1000;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.875rem;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--accent-primary);
+        }
+
+        /* Hero Section */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 8rem 2rem 4rem;
+            text-align: center;
+            position: relative;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 2rem;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .badge-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--accent-primary);
+            border-radius: 50%;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .hero h1 {
+            font-size: clamp(3rem, 8vw, 6rem);
+            font-weight: 700;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: fadeInUp 0.8s ease-out 0.2s backwards;
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin-bottom: 3rem;
+            animation: fadeInUp 0.8s ease-out 0.4s backwards;
+        }
+
+        .hero-actions {
+            display: flex;
+            gap: 1rem;
+            animation: fadeInUp 0.8s ease-out 0.6s backwards;
+        }
+
+        .btn {
+            padding: 1rem 2rem;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .btn-primary {
+            background: var(--gradient-1);
+            color: white;
+            border: none;
+            box-shadow: 0 0 30px var(--accent-glow);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 0 40px var(--accent-glow);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--text-primary);
+            border: 1px solid var(--border-color);
+        }
+
+        .btn-secondary:hover {
+            background: var(--bg-tertiary);
+            border-color: var(--accent-primary);
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Stats Section */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            padding: 4rem 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .stat-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 1rem;
+            padding: 2rem;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--accent-primary);
+            box-shadow: 0 0 20px var(--accent-glow);
+        }
+
+        .stat-value {
+            font-size: 3rem;
+            font-weight: 700;
+            background: var(--gradient-2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-label {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+
+        /* About Section */
+        .about {
+            padding: 8rem 2rem;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .section-title {
+            font-size: clamp(2rem, 5vw, 3rem);
+            font-weight: 700;
+            margin-bottom: 3rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .section-title::before {
+            content: '';
+            width: 4px;
+            height: 3rem;
+            background: var(--gradient-1);
+            border-radius: 2px;
+        }
+
+        .about-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 3rem;
+            align-items: start;
+        }
+
+        .about-text {
+            color: var(--text-secondary);
+            font-size: 1.125rem;
+            line-height: 1.8;
+        }
+
+        .about-text p {
+            margin-bottom: 1.5rem;
+        }
+
+        .about-traits {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .trait {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            padding: 1rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+            transition: all 0.3s ease;
+        }
+
+        .trait:hover {
+            border-color: var(--accent-primary);
+            transform: translateX(10px);
+        }
+
+        .trait-icon {
+            width: 40px;
+            height: 40px;
+            background: var(--gradient-1);
+            border-radius: 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.25rem;
+        }
+
+        .trait-text {
+            flex: 1;
+        }
+
+        .trait-title {
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 0.25rem;
+        }
+
+        .trait-desc {
+            font-size: 0.875rem;
+            color: var(--text-muted);
+        }
+
+        /* Projects Section */
+        .projects {
+            padding: 8rem 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 2rem;
+        }
+
+        .project-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 1rem;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            transform-style: preserve-3d;
+            perspective: 1000px;
+        }
+
+        .project-card:hover {
+            transform: translateY(-10px) rotateX(5deg);
+            border-color: var(--accent-primary);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .project-header {
+            padding: 1.5rem;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .project-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+        }
+
+        .project-status {
+            padding: 0.25rem 0.75rem;
+            border-radius: 1rem;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .status-active {
+            background: rgba(59, 130, 246, 0.1);
+            color: var(--accent-primary);
+            border: 1px solid var(--accent-primary);
+        }
+
+        .status-planning {
+            background: rgba(139, 92, 246, 0.1);
+            color: var(--accent-secondary);
+            border: 1px solid var(--accent-secondary);
+        }
+
+        .project-body {
+            padding: 1.5rem;
+        }
+
+        .project-description {
+            color: var(--text-secondary);
+            margin-bottom: 1.5rem;
+            font-size: 0.95rem;
+        }
+
+        .project-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .project-tag {
+            padding: 0.25rem 0.75rem;
+            background: var(--bg-tertiary);
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .project-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--accent-primary);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.875rem;
+            transition: color 0.3s ease;
+        }
+
+        .project-link:hover {
+            color: var(--accent-secondary);
+        }
+
+        /* Interests Section */
+        .interests {
+            padding: 8rem 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .interests-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .interest-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 1rem;
+            padding: 2rem;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .interest-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--gradient-1);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            z-index: 0;
+        }
+
+        .interest-card:hover::before {
+            opacity: 0.05;
+        }
+
+        .interest-card:hover {
+            transform: scale(1.05);
+            border-color: var(--accent-primary);
+        }
+
+        .interest-icon {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        .interest-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        .interest-desc {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+            line-height: 1.6;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Contact Section */
+        .contact {
+            padding: 8rem 2rem;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .contact p {
+            color: var(--text-secondary);
+            font-size: 1.25rem;
+            margin-bottom: 2rem;
+        }
+
+        .contact-links {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .contact-link {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 1rem 2rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+            color: var(--text-primary);
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .contact-link:hover {
+            background: var(--bg-tertiary);
+            border-color: var(--accent-primary);
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px var(--accent-glow);
+        }
+
+        .contact-link span {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.875rem;
+        }
+
+        /* Footer */
+        footer {
+            padding: 3rem 2rem;
+            text-align: center;
+            border-top: 1px solid var(--border-color);
+        }
+
+        footer p {
+            color: var(--text-muted);
+            font-size: 0.875rem;
+        }
+
+        footer .mono {
+            color: var(--text-secondary);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .about-content {
+                grid-template-columns: 1fr;
+            }
+
+            .hero-actions {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .btn {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+
+        /* Scroll Reveal */
+        .reveal {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.8s ease;
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <!-- 光标跟随效果 -->
+    <div id="cursor-glow"></div>
+    
+    <!-- 粒子背景 -->
+    <canvas id="particles"></canvas>
+    
+    <!-- 滚动进度条 -->
+    <div id="scroll-progress"></div>
+
+    <div class="bg-grid"></div>
+
+    <nav>
+        <div class="logo">jack</div>
+        <ul class="nav-links">
+            <li><a href="#about">关于</a></li>
+            <li><a href="#projects">项目</a></li>
+            <li><a href="#interests">兴趣</a></li>
+            <li><a href="#contact">联系</a></li>
+        </ul>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-badge">
+            <span class="badge-dot"></span>
+            <span>AI 技能开发者</span>
+        </div>
+        <h1 class="typewriter">jack</h1>
+        <p>探索 AI 自动化边界 · 构建智能技能生态 · 重新定义人机协作</p>
+        <div class="hero-actions">
+            <a href="#projects" class="btn btn-primary">
+                <span>查看项目</span>
+                <span class="mono">→</span>
+            </a>
+            <a href="#contact" class="btn btn-secondary">
+                <span>联系我</span>
+            </a>
+        </div>
+    </section>
+
+    <section class="stats">
+        <div class="stat-card reveal">
+            <div class="stat-value mono count-up">100+</div>
+            <div class="stat-label">AI 技能开发</div>
+        </div>
+        <div class="stat-card reveal">
+            <div class="stat-value mono count-up">50+</div>
+            <div class="stat-label">自动化流程</div>
+        </div>
+        <div class="stat-card reveal">
+            <div class="stat-value mono count-up">30K+</div>
+            <div class="stat-label">Moltbot 社区</div>
+        </div>
+        <div class="stat-card reveal">
+            <div class="stat-value mono">∞</div>
+            <div class="stat-label">技术好奇心</div>
+        </div>
+    </section>
+
+    <section class="about" id="about">
+        <h2 class="section-title reveal">关于我</h2>
+        <div class="about-content">
+            <div class="about-text reveal">
+                <p>我是一个热爱技术探索的 AI 技能开发者，专注于将 AI 能力转化为可复用的自动化工具。我相信真正的 AI 价值在于它如何与人类协作，而不仅仅是自动执行任务。</p>
+                <p>我对自托管、开源和隐私保护有着坚定的信念。我的技术哲学是：简单、高效、可控。每一个项目都是对这一理念的实践。</p>
+                <p>从成就系统到 AI 提示词商业化，我一直在探索 AI 技能的边界和可能性。我相信未来是属于那些能够将 AI 深度集成到工作流中的人。</p>
+            </div>
+            <div class="about-traits reveal">
+                <div class="trait">
+                    <div class="trait-icon">🔧</div>
+                    <div class="trait-text">
+                        <div class="trait-title">务实主义者</div>
+                        <div class="trait-desc">注重实际效果，喜欢能解决问题的工具</div>
+                    </div>
+                </div>
+                <div class="trait">
+                    <div class="trait-icon">🚀</div>
+                    <div class="trait-text">
+                        <div class="trait-title">自动化爱好者</div>
+                        <div class="trait-desc">相信自动化是提高效率的关键</div>
+                    </div>
+                </div>
+                <div class="trait">
+                    <div class="trait-icon">🔒</div>
+                    <div class="trait-text">
+                        <div class="trait-title">隐私捍卫者</div>
+                        <div class="trait-desc">数据应该由用户自己掌控</div>
+                    </div>
+                </div>
+                <div class="trait">
+                    <div class="trait-icon">💡</div>
+                    <div class="trait-text">
+                        <div class="trait-title">商业思维者</div>
+                        <div class="trait-desc">技术需要找到商业价值</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 技能雷达图 -->
+        <div class="reveal" style="text-align: center; margin-top: 3rem;">
+            <h3 style="font-weight: 600; margin-bottom: 1.5rem;">技能分布</h3>
+            <div style="display: flex; justify-content: center; align-items: center; gap: 3rem; flex-wrap: wrap;">
+                <div class="radar-chart">
+                    <div class="radar-point" style="top: 15%; left: 50%;"></div>
+                    <div class="radar-point" style="top: 30%; left: 85%;"></div>
+                    <div class="radar-point" style="top: 55%; left: 80%;"></div>
+                    <div class="radar-point" style="top: 70%; left: 50%;"></div>
+                    <div class="radar-point" style="top: 55%; left: 20%;"></div>
+                    <div class="radar-point" style="top: 30%; left: 15%;"></div>
+                </div>
+                <div class="skill-bars" style="flex: 1; min-width: 300px;">
+                    <div class="skill-bar-container">
+                        <div class="skill-bar-label">Python</div>
+                        <div class="skill-bar">
+                            <div class="skill-bar-fill" style="--target-width: 90%;"></div>
+                        </div>
+                    </div>
+                    <div class="skill-bar-container">
+                        <div class="skill-bar-label">AI/ML</div>
+                        <div class="skill-bar">
+                            <div class="skill-bar-fill" style="--target-width: 85%;"></div>
+                        </div>
+                    </div>
+                    <div class="skill-bar-container">
+                        <div class="skill-bar-label">Automation</div>
+                        <div class="skill-bar">
+                            <div class="skill-bar-fill" style="--target-width: 88%;"></div>
+                        </div>
+                    </div>
+                    <div class="skill-bar-container">
+                        <div class="skill-bar-label">Frontend</div>
+                        <div class="skill-bar">
+                            <div class="skill-bar-fill" style="--target-width: 75%;"></div>
+                        </div>
+                    </div>
+                    <div class="skill-bar-container">
+                        <div class="skill-bar-label">Backend</div>
+                        <div class="skill-bar">
+                            <div class="skill-bar-fill" style="--target-width: 80%;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- GitHub 贡献图模拟 -->
+        <div class="reveal" style="margin-top: 3rem;">
+            <h3 style="font-weight: 600; margin-bottom: 1rem;">活动概览</h3>
+            <div class="contribution-grid" id="contribution-grid"></div>
+        </div>
+    </section>
+
+    <section class="projects" id="projects">
+        <h2 class="section-title reveal">项目作品</h2>
+        <div class="projects-grid">
+            <div class="project-card reveal">
+                <div class="project-header">
+                    <div class="project-title">成就系统</div>
+                    <span class="project-status status-active">开发中</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">终端工具驱动的成就追踪系统，将游戏化机制引入工作流程。支持自定义成就、实时统计和可视化仪表板。</p>
+                    <div class="project-tags">
+                        <span class="project-tag">Python</span>
+                        <span class="project-tag">CLI</span>
+                        <span class="project-tag">Gameification</span>
+                    </div>
+                    <a href="./achievement-system/" class="project-link">
+                        <span>查看详情</span>
+                        <span class="mono">→</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="project-card reveal">
+                <div class="project-header">
+                    <div class="project-title">AI 提示词转 Skill</div>
+                    <span class="project-status status-active">运行中</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">自动化抓取、评估和转换 AI 提示词为 Clawdbot Skills 的完整工作流。包含语义去重、质量评估和自动发布功能。</p>
+                    <div class="project-tags">
+                        <span class="project-tag">Python</span>
+                        <span class="project-tag">Automation</span>
+                        <span class="project-tag">AI</span>
+                    </div>
+                    <a href="./ai-prompt-to-skill/" class="project-link">
+                        <span>查看详情</span>
+                        <span class="mono">→</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="project-card reveal">
+                <div class="project-header">
+                    <div class="project-title">Moltbot 研究</div>
+                    <span class="project-status status-active">持续中</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">深入分析 Moltbot（原 Clawdbot）的生态、用例和最佳实践。整理了 30,000+ Stars 社区的真实使用案例。</p>
+                    <div class="project-tags">
+                        <span class="project-tag">Research</span>
+                        <span class="project-tag">AI</span>
+                        <span class="project-tag">Community</span>
+                    </div>
+                    <a href="./moltbot-research/" class="project-link">
+                        <span>查看详情</span>
+                        <span class="mono">→</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="project-card reveal">
+                <div class="project-header">
+                    <div class="project-title">SearXNG 自建</div>
+                    <span class="project-status status-active">已部署</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">自建的隐私保护搜索引擎服务，支持多源聚合、自定义过滤和 JSON API。完全控制数据，零外部依赖。</p>
+                    <div class="project-tags">
+                        <span class="project-tag">Docker</span>
+                        <span class="project-tag">Privacy</span>
+                        <span class="project-tag">Search</span>
+                    </div>
+                    <a href="./searxng-self-hosted/" class="project-link">
+                        <span>查看详情</span>
+                        <span class="mono">→</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="project-card reveal">
+                <div class="project-header">
+                    <div class="project-title">技能市场探索</div>
+                    <span class="project-status status-planning">规划中</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">探索 AI 技能商业化的可行路径，包括订阅模式、单次购买、企业授权等。研究类似平台（PromptBase）的定价策略。</p>
+                    <div class="project-tags">
+                        <span class="project-tag">Business</span>
+                        <span class="project-tag">AI</span>
+                        <span class="project-tag">Market</span>
+                    </div>
+                    <a href="./skill-market-exploration/" class="project-link">
+                        <span>查看详情</span>
+                        <span class="mono">→</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="project-card reveal">
+                <div class="project-header">
+                    <div class="project-title">自动化工作流</div>
+                    <span class="project-status status-active">持续优化</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">构建完整的 AI 驱动自动化工作流，包括数据收集、处理、分析和报告。从 Twitter 抓取到 GitHub 监控，全流程自动化。</p>
+                    <div class="project-tags">
+                        <span class="project-tag">Automation</span>
+                        <span class="project-tag">API</span>
+                        <span class="project-tag">Cron</span>
+                    </div>
+                    <a href="./automation-workflows/" class="project-link">
+                        <span>查看详情</span>
+                        <span class="mono">→</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="interests" id="interests">
+        <h2 class="section-title reveal">兴趣爱好</h2>
+        <div class="interests-grid">
+            <div class="interest-card reveal">
+                <div class="interest-icon">🤖</div>
+                <h3 class="interest-title">AI 技能开发</h3>
+                <p class="interest-desc">构建能解决实际问题的 AI 技能，探索 LLM 的能力边界</p>
+            </div>
+            <div class="interest-card reveal">
+                <div class="interest-icon">📝</div>
+                <h3 class="interest-title">提示词工程</h3>
+                <p class="interest-desc">研究如何设计更好的提示词，提取 AI 的最大潜力</p>
+            </div>
+            <div class="interest-card reveal">
+                <div class="interest-icon">⚡</div>
+                <h3 class="interest-title">自动化工作流</h3>
+                <p class="interest-desc">让机器处理重复性任务，释放人类创造力</p>
+            </div>
+            <div class="interest-card reveal">
+                <div class="interest-icon">🔬</div>
+                <h3 class="interest-title">技术研究</h3>
+                <p class="interest-desc">深入探索新技术，理解底层原理和应用场景</p>
+            </div>
+            <div class="interest-card reveal">
+                <div class="interest-icon">🎮</div>
+                <h3 class="interest-title">游戏化设计</h3>
+                <p class="interest-desc">用游戏机制激励学习和工作，提升参与度和成就感</p>
+            </div>
+            <div class="interest-card reveal">
+                <div class="interest-icon">🛡️</div>
+                <h3 class="interest-title">数据隐私</h3>
+                <p class="interest-desc">倡导自托管和数据主权，保护个人数字生活</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="contact" id="contact">
+        <h2 class="section-title reveal">联系我</h2>
+        <p class="reveal">如果你对 AI 技能开发、自动化工作流或任何有趣的项目感兴趣，欢迎随时联系我！</p>
+        <div class="contact-links reveal">
+            <a href="mailto:hhhh124hhhh@qq.com" class="contact-link">
+                <span>📧</span>
+                <span class="mono">hhhh124hhhh@qq.com</span>
+            </a>
+            <a href="https://github.com/hhhh124hhhh" class="contact-link">
+                <span>💻</span>
+                <span class="mono">github.com/hhhh124hhhh</span>
+            </a>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 jack · Built with <span class="mono">♥</span> and AI</p>
+    </footer>
+
+    <script>
+        // 滚动进度条
+        window.addEventListener('scroll', () => {
+            const scrollProgress = document.getElementById('scroll-progress');
+            const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+            const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            const progress = (scrollTop / scrollHeight) * 100;
+            scrollProgress.style.width = progress + '%';
+        });
+
+        // 光标跟随效果
+        document.addEventListener('mousemove', (e) => {
+            const cursorGlow = document.getElementById('cursor-glow');
+            cursorGlow.style.transform = `translate(${e.clientX - 100}px, ${e.clientY - 100}px)`;
+        });
+
+        // 粒子背景
+        const canvas = document.getElementById('particles');
+        const ctx = canvas.getContext('2d');
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+
+        const particles = [];
+        const particleCount = 50;
+
+        for (let i = 0; i < particleCount; i++) {
+            particles.push({
+                x: Math.random() * canvas.width,
+                y: Math.random() * canvas.height,
+                size: Math.random() * 3 + 1,
+                speedX: Math.random() * 2 - 1,
+                speedY: Math.random() * 2 - 1
+            });
+        }
+
+        function animateParticles() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            particles.forEach(particle => {
+                particle.x += particle.speedX;
+                particle.y += particle.speedY;
+
+                if (particle.x < 0) particle.x = canvas.width;
+                if (particle.x > canvas.width) particle.x = 0;
+                if (particle.y < 0) particle.y = canvas.height;
+                if (particle.y > canvas.height) particle.y = 0;
+
+                ctx.beginPath();
+                ctx.arc(particle.x, particle.y, particle.size, 0, Math.PI * 2);
+                ctx.fillStyle = 'rgba(59, 130, 246, 0.3)';
+                ctx.fill();
+            });
+
+            requestAnimationFrame(animateParticles);
+        }
+
+        animateParticles();
+
+        // 窗口大小改变时重置画布
+        window.addEventListener('resize', () => {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+        });
+
+        // 数字滚动动画
+        function animateNumbers() {
+            const countUps = document.querySelectorAll('.count-up');
+            
+            countUps.forEach(element => {
+                const finalValue = element.textContent;
+                const numbers = finalValue.match(/\d+/);
+                if (numbers) {
+                    const target = parseInt(numbers[0]);
+                    let current = 0;
+                    const increment = target / 50;
+                    
+                    const interval = setInterval(() => {
+                        current += increment;
+                        if (current >= target) {
+                            current = target;
+                            clearInterval(interval);
+                        }
+                        
+                        let displayValue = Math.floor(current).toString();
+                        if (finalValue.includes('K')) {
+                            displayValue += 'K+';
+                        } else if (finalValue.includes('+')) {
+                            displayValue += '+';
+                        }
+                        element.textContent = displayValue;
+                    }, 30);
+                }
+            });
+        }
+
+        // 技能进度条动画
+        function animateSkillBars() {
+            const skillBars = document.querySelectorAll('.skill-bar-fill');
+            skillBars.forEach(bar => {
+                setTimeout(() => {
+                    bar.classList.add('animated');
+                }, 500);
+            });
+        }
+
+        // 生成 GitHub 贡献图
+        function generateContributionGrid() {
+            const grid = document.getElementById('contribution-grid');
+            if (!grid) return;
+            
+            // 生成 52 周的格子
+            for (let i = 0; i < 364; i++) {
+                const cell = document.createElement('div');
+                cell.className = 'contribution-cell contribution-' + (Math.floor(Math.random() * 5) + 1);
+                grid.appendChild(cell);
+            }
+        }
+
+        // 滚动显现动画
+        function reveal() {
+            const reveals = document.querySelectorAll('.reveal');
+            reveals.forEach(element => {
+                const windowHeight = window.innerHeight;
+                const elementTop = element.getBoundingClientRect().top;
+                const elementVisible = 150;
+
+                if (elementTop < windowHeight - elementVisible) {
+                    element.classList.add('active');
+                }
+            });
+        }
+
+        // 平滑滚动
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // 视差滚动效果
+        window.addEventListener('scroll', () => {
+            const hero = document.querySelector('.hero');
+            if (hero) {
+                const scrolled = window.pageYOffset;
+                hero.style.transform = `translateY(${scrolled * 0.3}px)`;
+            }
+        });
+
+        // 初始化
+        window.addEventListener('load', () => {
+            reveal();
+            animateNumbers();
+            animateSkillBars();
+            generateContributionGrid();
+        });
+
+        window.addEventListener('scroll', reveal);
+    </script>
+</body>
+</html>

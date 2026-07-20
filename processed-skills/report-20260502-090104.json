@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-05-02T09:01:04+08:00",
+  "summary": {
+    "total": 31,
+    "processed": 30,
+    "skipped": 0,
+    "failed": 1
+  },
+  "stats": {
+    "total_size_bytes": 38175,
+    "unique_skills": 76
+  }
+}

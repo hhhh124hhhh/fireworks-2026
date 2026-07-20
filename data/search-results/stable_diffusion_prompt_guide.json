@@ -1,0 +1,603 @@
+{
+  "query": "stable diffusion prompt guide",
+  "results": [
+    {
+      "template": "default.html",
+      "url": "https://stable-diffusion-art.com/prompt-guide/",
+      "title": "Stable Diffusion prompt: a definitive guide - Stable Diffusion Art",
+      "content": "Developing a process to build good prompts is the first step every Stable Diffusion user tackles. This article summarizes the process and techniques developed through experimentations and other users’ inputs. The goal is to write down all I know about prompts so you can know them all in one place.",
+      "publishedDate": "2024-01-04T00:00:00",
+      "thumbnail": null,
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "stable-diffusion-art.com",
+        "/prompt-guide/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave",
+        "google"
+      ],
+      "positions": [
+        1,
+        1
+      ],
+      "score": 4,
+      "category": "general",
+      "pubdate": "2024-01-04 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://strikingloo.github.io/stable-diffusion-vs-dalle-2",
+      "title": "Stable Diffusion: Prompt Guide and Examples",
+      "content": "2022年8月30日 — In this guide, you will learn how to write prompts by example. If you want, you can skip the discussion and examples and just go straight to the prompt ...",
+      "publishedDate": "2022-08-30T00:00:00",
+      "thumbnail": null,
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "strikingloo.github.io",
+        "/stable-diffusion-vs-dalle-2",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave",
+        "google"
+      ],
+      "positions": [
+        4,
+        4
+      ],
+      "score": 1,
+      "category": "general",
+      "pubdate": "2022-08-30 00:00:00"
+    },
+    {
+      "url": "https://github.com/3ee-Games/prompts",
+      "title": "A comprehensive guide to crafting effective prompts in Stable Diffusion",
+      "content": "Effective prompt design for stable diffusion follows these principles: Simplicity: Start with basic prompts that describe the core concept you want to ...",
+      "thumbnail": null,
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "github.com",
+        "/3ee-Games/prompts",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "google"
+      ],
+      "positions": [
+        6
+      ],
+      "score": 0.16666666666666666,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "template": "default.html",
+      "url": "https://stablediffusion3.net/stable-diffusion-prompt",
+      "title": "How to Write Effective Stable Diffusion Prompts: A Guide with Tips and Examples",
+      "content": "This article explains Stable Diffusion technology and its prompts, including definitions, types, and examples. It offers tips for writing effective prompts and recommends stablediffusion3.net for free online prompt resources.",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "stablediffusion3.net",
+        "/stable-diffusion-prompt",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        18
+      ],
+      "score": 0.05555555555555555,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://stabledifffusion.com/guides/prompt-guide",
+      "title": "Stable Diffusion Prompt Guide - Stable Diffusion Online",
+      "content": "A complete guide to writing better Stable Diffusion prompts: Define your topic clearly, choose material and style, include artist references, and add details for sharpness and lighting. Use negative prompts to exclude unwanted features.",
+      "publishedDate": "2024-11-14T00:00:00",
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "stabledifffusion.com",
+        "/guides/prompt-guide",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        19
+      ],
+      "score": 0.05263157894736842,
+      "category": "general",
+      "pubdate": "2024-11-14 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://filmora.wondershare.com/ai-prompt/stable-diffusion-prompt.html",
+      "title": "Stable Diffusion Prompts Made Easy: A Beginner’s Guide to Better Results",
+      "content": "When working with text-to-image tools like Stable Diffusion, getting the prompt just right makes all the difference. That's why we created this Stable Diffusion prompts guide to help new users get started with confidence.",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "filmora.wondershare.com",
+        "/ai-prompt/stable-diffusion-prompt.html",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        20
+      ],
+      "score": 0.05,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.reddit.com/r/sdforall/comments/10woqgs/stable_diffusion_prompt_a_definitive_guide/",
+      "title": "r/sdforall on Reddit: Stable Diffusion prompt: a definitive guide",
+      "content": "A subreddit about Stable Diffusion. ... 日本語Português (Brasil)SuomiไทยBahasa IndonesiaSvenskaNorsk (Bokmål)Italianoதமிழ்EspañolTürkçeDeutschУкраїнська ... You are welcome! ... Interesting, but I think the \"() and [] syntax\" are used incorrectly. Can someone update us on this? ... prompt2:1.2) the weight inside the brackets, also using the same () for less weight (prompt1, prompt2:0.8) not [], [] is used without weight.",
+      "publishedDate": "2023-02-08T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/OHmbvHrVM6Tf51L9wIey2R0INIsHR1Hn8QJo9bBC6as/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9leHRl/cm5hbC1wcmV2aWV3/LnJlZGQuaXQvc3Rh/YmxlLWRpZmZ1c2lv/bi1wcm9tcHQtYS1k/ZWZpbml0aXZlLWd1/aWRlLXYwLURlN0tf/Z3ViN1VmRGxoSWNF/YUNlYXVrdF9ocUth/blZBblZhZnVXZmds/ZG8uanBnP2F1dG89/d2VicCZzPWU3MDc2/ODUyMzBjYmRiMjJh/ZjM5ZWMwMDI0M2Nh/YzA2YjIyZWFjZDc",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.reddit.com",
+        "/r/sdforall/comments/10woqgs/stable_diffusion_prompt_a_definitive_guide/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave",
+        "google"
+      ],
+      "positions": [
+        2,
+        3
+      ],
+      "score": 1.6666666666666665,
+      "category": "general",
+      "pubdate": "2023-02-08 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://stability.ai/learning-hub/stable-diffusion-3-5-prompt-guide",
+      "title": "Stable Diffusion 3.5 Prompt Guide — Stability AI",
+      "content": "2024年11月12日 — This guide offers practical prompting tips for Stable Diffusion 3.5, allowing you to refine image concepts quickly and precisely.",
+      "publishedDate": "2025-05-21T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/1AD9wdLFSqZJWOTDDg4RxaHLUrCD9qtQDiGw-a2iUiI/rs:fit:200:200:1:0/g:ce/aHR0cDovL3N0YXRp/YzEuc3F1YXJlc3Bh/Y2UuY29tL3N0YXRp/Yy82MjEzYzM0MDQ1/M2MzZjUwMjQyNTc3/NmUvNjZmYWRiYTAz/M2I1ZWYxNTg1NDQw/ZWZmLzY3MmEwZWJk/YmFhZjllM2VlY2Fk/MmI2My8xNzQ3ODU5/MTE4MTUxL2luc3Rh/Xy5wbmc_Zm9ybWF0/PTE1MDB3",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "stability.ai",
+        "/learning-hub/stable-diffusion-3-5-prompt-guide",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave",
+        "google"
+      ],
+      "positions": [
+        5,
+        2
+      ],
+      "score": 1.4,
+      "category": "general",
+      "pubdate": "2025-05-21 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/11p2i5d/prompt_guide_v43_updated/",
+      "title": "r/StableDiffusion on Reddit: Prompt Guide v4.3 Updated",
+      "content": "I have updated my Prompt User Guide for RPG v4! Keep sending me prompt gem for this model so I can share them with the community. I have also created a ControlNet to share RPG pose. If you find any good pose that work with ControlNet and this model, share it so I can add it to the official HugginFace folder. Happy Prompting! Guide: https://huggingface.co/Anashel/rpg/resolve/main/RPG-V4-Model-Download/RPG-Guide-v4.pdf Official: https://huggingface.co/Anashel/rpg More on reddit.com",
+      "publishedDate": "2023-03-12T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/J1ZSZRO9dX1bdQ2LIb3N3MI_rUENIQ5ZPk0YgBtUpJA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvcHJvbXB0/LWd1aWRlLXY0LTMt/dXBkYXRlZC12MC11/bzc3NW14b3c3bmEx/LmpwZz93aWR0aD0x/MDI0JmZvcm1hdD1w/anBnJmF1dG89d2Vi/cCZzPWVjOGM1ODVl/MzFmMGM1ZTFjMTZh/ZmVmNGFlNjA5Yjcw/NjQ1MTk0NjA",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.reddit.com",
+        "/r/StableDiffusion/comments/11p2i5d/prompt_guide_v43_updated/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        3,
+        14
+      ],
+      "score": 0.8095238095238095,
+      "category": "general",
+      "pubdate": "2023-03-12 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://medium.com/@micodin0plant/stable-diffusion-prompt-guide-40e57e86d0dd",
+      "title": "Stable Diffusion: Prompt Guide. This article is free for anyone to… | by Michael | Medium",
+      "content": "Describe the scene what is moving, what pose is your subject. What is the surroundings, what is in the foreground, what is in the background. Then angle, how is the scene viewed, top down? tunnel lens?",
+      "publishedDate": "2024-07-21T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/ePfHM-SVk4t5jS_kfQQS_kd5MaJFd3GxHqWm5yye4OM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/MSo2MGxob2tMOTN6/d2JLX2N5MGlqMklR/LnBuZw",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "medium.com",
+        "/@micodin0plant/stable-diffusion-prompt-guide-40e57e86d0dd",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave",
+        "google"
+      ],
+      "positions": [
+        9,
+        5
+      ],
+      "score": 0.6222222222222222,
+      "category": "general",
+      "pubdate": "2024-07-21 00:00:00"
+    },
+    {
+      "url": "https://interactively.info/article/stable-diffusion-prompt-guide",
+      "title": "Stable Diffusion Prompt Guide - Interactively",
+      "content": "To get the most out of Stable Diffusion, an advanced text-to-image generation model, try breaking down your prompts into three components:subject,actionandstyle. By structuring prompts this way, you provide clear and detailed instructions to ...",
+      "thumbnail": "https://imgs.search.brave.com/-OR8CmxkljleY9z-k_SKh4cr10qzvezuhlSyn6IwIm4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbnRl/cmFjdGl2ZWx5Lmlu/Zm8vb2cvb2ctc3Rh/YmxlLWRpZmZ1c2lv/bi1wcm9tdC1ndWlk/ZS5wbmc",
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "interactively.info",
+        "/article/stable-diffusion-prompt-guide",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave",
+        "google"
+      ],
+      "positions": [
+        7,
+        12
+      ],
+      "score": 0.45238095238095233,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "template": "default.html",
+      "url": "https://openart.ai/promptbook",
+      "title": "Stable Diffusion Prompt Book | OpenArt",
+      "content": "Free AI image generator. Free AI art generator. Free AI video generator. 100+ models and styles to choose from. Train your personalized model. Most popular AI apps: sketch to image, image to video, inpainting, outpainting, model fine-tuning, real-time drawing, text to image, image to image, ...",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/3MT-k1bKympPhPpSy-EgQCLCKrjRRMVQljgPZ15kc-8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/b3BlbmFydC5haS9h/c3NldHMvb3BlbmFy/dF9vZ19pbWFnZV8y/MDI1MDUwOS5wbmc",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "openart.ai",
+        "/promptbook",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave",
+        "google"
+      ],
+      "positions": [
+        11,
+        8
+      ],
+      "score": 0.4318181818181818,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://medium.com/the-neuralist/mastering-prompting-in-stable-diffusion-a-guide-to-crafting-effective-prompts-for-text-to-image-e213201fb2f1",
+      "title": "Mastering Prompting in Stable Diffusion: A Guide to Crafting Effective Prompts for Text-to-Image Generation | by Rob Young | The Neuralist | Medium",
+      "content": "Mastering Prompting in Stable Diffusion: A Guide to Crafting Effective Prompts for Text-to-Image Generation The right combination of words can bring your creative vision to life, guiding Stable …",
+      "publishedDate": "2023-08-23T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/AU-mzrZ93RwnNPesMubWSLT9rwGktzwYRty1MzIuATs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/MSpqMVNOanRjMnN5/SGZJWXRhdEpwbWln/LmpwZWc",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "medium.com",
+        "/the-neuralist/mastering-prompting-in-stable-diffusion-a-guide-to-crafting-effective-prompts-for-text-to-image-e213201fb2f1",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        6
+      ],
+      "score": 0.16666666666666666,
+      "category": "general",
+      "pubdate": "2023-08-23 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://mockey.ai/blog/stable-diffusion-prompts-guide/",
+      "title": "Best Stable Diffusion Prompts Guide with Examples",
+      "content": "Use brackets to change how important or influential keywords are in your prompt. Use names of artists or websites to copy their style. These names are like keywords that guide the model to create an image similar to a particular artist. Try different settings. To sum up, we have covered a complete Stable Diffusion prompts guide with 20 examples.",
+      "publishedDate": "2025-09-17T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/9EKwFZNUoNYX-uWpkCx6LtCgUF8nYmS04-70p_bFTII/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tb2Nr/ZXkuYWkvd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzMvMjAy/My8xMi9zdGFibGUt/ZGlmZnVzaW9uLXBy/b21wdHMtZ3VpZGUu/d2VicA",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "mockey.ai",
+        "/blog/stable-diffusion-prompts-guide/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        7
+      ],
+      "score": 0.14285714285714285,
+      "category": "general",
+      "pubdate": "2025-09-17 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.aiarty.com/stable-diffusion-prompts/stable-diffusion-prompt-guide.htm",
+      "title": "Stable Diffusion Prompt Guide: Basic to Advanced & Examples",
+      "content": "Don't forget to detail the preferred ... image, with common prompts like front view, side view, back view, looking back, eye contact, from above, portrait, headshot, close-up, and bird's-eye view to guide the visualization of the ...",
+      "publishedDate": "2025-04-30T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/dLzO1qauamQCyBTxXDx-PCuyMhMKsOz9Tjx7KOWCnsc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWlhcnR5LmNvbS9p/bWFnZXMvc3RhYmxl/LWRpZmZ1c2lvbi1w/cm9tcHRzL3N0YWJs/ZS1kaWZmdXNpb24t/cHJvbXB0LWNvbG9y/LmpwZw",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.aiarty.com",
+        "/stable-diffusion-prompts/stable-diffusion-prompt-guide.htm",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        8
+      ],
+      "score": 0.125,
+      "category": "general",
+      "pubdate": "2025-04-30 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://education.civitai.com/civitais-prompt-crafting-guide-part-1-basics/",
+      "title": "Civitai's Prompt-Crafting Guide: Part 1 - Basics - Civitai Education",
+      "content": "This guide will initially focus on prompting for Stable Diffusion (txt2img), as that’s what we’re known for here at Civitai, but will evolve over time to include strategies for other Generative AI technologies.",
+      "publishedDate": "2025-03-14T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/d3mgNgTCgn8d99pVLp8RPbjAuNcSBdWIAipSd-nkanE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9lZHVj/YXRpb24uY2l2aXRh/aS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjMvMTAvTFRY/Vl8wMDA4Ny53ZWJw",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "education.civitai.com",
+        "/civitais-prompt-crafting-guide-part-1-basics/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        10
+      ],
+      "score": 0.1,
+      "category": "general",
+      "pubdate": "2025-03-14 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://pub.towardsai.net/efficient-strategies-for-effective-stable-diffusion-prompt-a-comprehensive-guide-1964483642bd",
+      "title": "Efficient Strategies for Effective Stable Diffusion Prompt: A Comprehensive Guide | by Youssef Hosni | Towards AI",
+      "content": "Developing a process to build good prompts is the first step every Stable Diffusion user tackles. In this article, we will discuss and explore some techniques to increase the effectiveness of our prompt. Starting from adding certain keywords and composites to the prompt, changing the order of the words and their punctuation, to changing the guidance scale.",
+      "publishedDate": "2023-06-05T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/Yza0Q50AbZhln6BBgjaz84eenUxJrPX9uyaJSB_54vs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/MSpxV09DX0NSSjkt/cThxanF3YzAteThR/LnBuZw",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "pub.towardsai.net",
+        "/efficient-strategies-for-effective-stable-diffusion-prompt-a-comprehensive-guide-1964483642bd",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        15
+      ],
+      "score": 0.06666666666666667,
+      "category": "general",
+      "pubdate": "2023-06-05 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://ai-pro.org/learn-ai/articles/guide-to-creating-stable-diffusion-prompts",
+      "title": "Guide to Creating Stable Diffusion Prompts",
+      "content": "Bring your artistic concepts to life by reading this quick guide on how to create effective Stable Diffusion prompts",
+      "publishedDate": "2024-03-21T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/hcThMy-SNAWDmGeQOtyhkTXA60S9L73ncUgcvkCFA_U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zMy51/cy13ZXN0LTIuYW1h/em9uYXdzLmNvbS9j/bXMuYWktcHJvLm9y/Zy91cGxvYWRzL2xh/cmdlX2FfaGFwcHlf/Y29yZ2lfZG9nX3J1/bm5pbmdfaW5fYV9m/aWVsZF9kZTViZGRh/MDBmLnBuZw",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "ai-pro.org",
+        "/learn-ai/articles/guide-to-creating-stable-diffusion-prompts",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        16
+      ],
+      "score": 0.0625,
+      "category": "general",
+      "pubdate": "2024-03-21 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.fotor.com/blog/stable-diffusion-prompts/",
+      "title": "Best Stable Diffusion Prompts: A Definitive Guide for You to Make Stunning AI Art | Fotor",
+      "content": "In this essay, we will discuss some tips for writing effective stable diffusion prompt, as well as some examples and key words to keep in mind. Before learning the key points of writing prompts, let's look at some examples of good Stable Diffusion prompts.",
+      "publishedDate": "2025-09-18T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/3CDIhXgWxlUcTuslEvHsg1nV0qThpU9d24PpwuTWawY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWd2/My5mb3Rvci5jb20v/aW1hZ2VzL2Jsb2ct/Y292ZXItaW1hZ2Uv/c3RhYmxlLWRpZmZ1/c2lvbi1wcm9tcHRz/LWJhbm5lci5qcGc",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.fotor.com",
+        "/blog/stable-diffusion-prompts/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        17
+      ],
+      "score": 0.058823529411764705,
+      "category": "general",
+      "pubdate": "2025-09-18 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.shopify.com/blog/prompts-for-stable-diffusion",
+      "title": "How To Write Effective Prompts for Stable Diffusion (2025) - Shopify",
+      "content": "Start your free trial with Shopify today—then use these resources to guide you through every step of the process. ... The best Stable Diffusion prompts include guidance on content and stylistic elements like color, composition, and contrast.",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/LRT1N5dGYX1d_X6dALuOZs0FOFHiwjrqmGVi2AMngwo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzAw/NzAvNzAzMi9hcnRp/Y2xlcy9haV8yMHRv/b2xzXzIwZm9yXzIw/ZWNvbW1lcmNlXzE4/NDh4OTcwX2E2ZjAx/ZmRlLTA5NjUtNDUw/YS1hZmMxLWYxNmM5/ZGJmNWRlZC5wbmc_/dj0xNzQ2NjQwMzUx",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.shopify.com",
+        "/blog/prompts-for-stable-diffusion",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        21
+      ],
+      "score": 0.047619047619047616,
+      "category": "general"
+    },
+    {
+      "template": "videos.html",
+      "url": "https://www.youtube.com/watch?v=0Pmfpoi3-A0",
+      "title": "Stable Diffusion Prompt Guide - YouTube",
+      "content": "Step up your AI art game with our guide on mastering Stable Diffusion! Whether you're new or experienced, learn how to refine your prompts to get the exact i... Published May 15, 2024",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/kZ-202szYSLb4eDXeix9ftouOZ31ds3fKTJ274B_yhI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS8w/UG1mcG9pMy1BMC9t/YXhyZXNkZWZhdWx0/LmpwZw",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.youtube.com",
+        "/watch",
+        "",
+        "v=0Pmfpoi3-A0",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        13
+      ],
+      "score": 0.07692307692307693,
+      "category": "general",
+      "iframe_src": "https://www.youtube-nocookie.com/embed/0Pmfpoi3-A0"
+    }
+  ],
+  "totalResults": 21
+}

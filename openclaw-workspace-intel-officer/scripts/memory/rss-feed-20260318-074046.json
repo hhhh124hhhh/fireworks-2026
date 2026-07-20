@@ -1,0 +1,167 @@
+[
+  {
+    "record_id": "46a205a7067ce3e5",
+    "fetch_time": "2026-03-18T07:40:43.727839",
+    "keyword": "RSS:openai",
+    "source": "openai",
+    "title": "Introducing GPT-5.4 mini and nano",
+    "content": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+    "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "published": "2026-03-17T10:00:00+00:00",
+    "author": ""
+  },
+  {
+    "record_id": "1aa36e90adb230fd",
+    "fetch_time": "2026-03-18T07:40:43.727968",
+    "keyword": "RSS:openai",
+    "source": "openai",
+    "title": "Equipping workers with insights about compensation",
+    "content": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+    "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+    "published": "2026-03-17T00:00:00+00:00",
+    "author": ""
+  },
+  {
+    "record_id": "d6d772a75ccd4f3f",
+    "fetch_time": "2026-03-18T07:40:43.727995",
+    "keyword": "RSS:openai",
+    "source": "openai",
+    "title": "Why Codex Security Doesn’t Include a SAST Report",
+    "content": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+    "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "published": "2026-03-16T00:00:00+00:00",
+    "author": ""
+  },
+  {
+    "record_id": "6ba0ce340932231c",
+    "fetch_time": "2026-03-18T07:40:43.974268",
+    "keyword": "RSS:techcrunch",
+    "source": "techcrunch",
+    "title": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
+    "content": "It's the latest salvo in an escalating battle between state regulators and an industry that claims it's not beholden to them.",
+    "link": "https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/",
+    "published": "2026-03-17T21:39:17+00:00",
+    "author": "Lucas Ropek"
+  },
+  {
+    "record_id": "7426bf484a4efa38",
+    "fetch_time": "2026-03-18T07:40:43.974308",
+    "keyword": "RSS:techcrunch",
+    "source": "techcrunch",
+    "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+    "content": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+    "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+    "published": "2026-03-17T21:00:00+00:00",
+    "author": "Anna Heim, Rebecca Bellan"
+  },
+  {
+    "record_id": "08ec7aaf0a2b656a",
+    "fetch_time": "2026-03-18T07:40:43.974326",
+    "keyword": "RSS:techcrunch",
+    "source": "techcrunch",
+    "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+    "content": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+    "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+    "published": "2026-03-17T20:50:04+00:00",
+    "author": "Julie Bort"
+  },
+  {
+    "record_id": "1d14bceb105e3c03",
+    "fetch_time": "2026-03-18T07:40:44.457835",
+    "keyword": "RSS:mit_tech_review",
+    "source": "mit_tech_review",
+    "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+    "content": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#160; AI models like Anthropic&#8217;s Claude are already used to answer questions in classified settings, including for analyzing targets in Iran. But allowing models to train on&#8230;",
+    "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+    "published": "2026-03-17T22:30:46+00:00",
+    "author": "James O'Donnell"
+  },
+  {
+    "record_id": "58d7be2604276a1e",
+    "fetch_time": "2026-03-18T07:40:44.457879",
+    "keyword": "RSS:mit_tech_review",
+    "source": "mit_tech_review",
+    "title": "Where OpenAI’s technology could show up in Iran",
+    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It&#8217;s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s&#8230;",
+    "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+    "published": "2026-03-16T17:06:21+00:00",
+    "author": "James O'Donnell"
+  },
+  {
+    "record_id": "97e3e01f67b2b5a1",
+    "fetch_time": "2026-03-18T07:40:44.457903",
+    "keyword": "RSS:mit_tech_review",
+    "source": "mit_tech_review",
+    "title": "Nurturing agentic AI beyond the toddler stage",
+    "content": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices&#8230;",
+    "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+    "published": "2026-03-16T13:00:00+00:00",
+    "author": "Lynn Comp"
+  },
+  {
+    "record_id": "c6ae668b49d66383",
+    "fetch_time": "2026-03-18T07:40:45.894853",
+    "keyword": "RSS:hacker_news",
+    "source": "hacker_news",
+    "title": "Mistral AI Releases Forge",
+    "content": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 27 # Comments: 0",
+    "link": "https://mistral.ai/news/forge",
+    "published": "2026-03-17T21:04:26+00:00",
+    "author": "pember"
+  },
+  {
+    "record_id": "82e3a4db6c771054",
+    "fetch_time": "2026-03-18T07:40:45.894900",
+    "keyword": "RSS:hacker_news",
+    "source": "hacker_news",
+    "title": "Meta and TikTok let harmful content rise to drove engagement, say whistleblowers",
+    "content": "Article URL: https://www.bbc.com/news/articles/cqj9kgxqjwjo Comments URL: https://news.ycombinator.com/item?id=47417814 Points: 144 # Comments: 79",
+    "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo",
+    "published": "2026-03-17T20:24:33+00:00",
+    "author": "1vuio0pswjnm7"
+  },
+  {
+    "record_id": "918844536cdaa4ec",
+    "fetch_time": "2026-03-18T07:40:45.894923",
+    "keyword": "RSS:hacker_news",
+    "source": "hacker_news",
+    "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+    "content": "Article URL: https://github.com/gsd-build/get-shit-done Comments URL: https://news.ycombinator.com/item?id=47417804 Points: 136 # Comments: 78",
+    "link": "https://github.com/gsd-build/get-shit-done",
+    "published": "2026-03-17T20:23:39+00:00",
+    "author": "stefankuehnel"
+  },
+  {
+    "record_id": "eb036f634e72ae99",
+    "fetch_time": "2026-03-18T07:40:46.000543",
+    "keyword": "RSS:qbitai",
+    "source": "qbitai",
+    "title": "北京养虾er！明晚19点，为你带来9+场养虾干货Talk，来创业大街见",
+    "content": "从用法到应用场景，全流程干货分享",
+    "link": "https://www.qbitai.com/2026/03/388807.html",
+    "published": "2026-03-17T13:56:59+00:00",
+    "author": "林樾"
+  },
+  {
+    "record_id": "60ca5696e7d0733a",
+    "fetch_time": "2026-03-18T07:40:46.000586",
+    "keyword": "RSS:qbitai",
+    "source": "qbitai",
+    "title": "黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元",
+    "content": "所有人都在等老黄掏出新芯片，但他没有掏，先用一小时教全世界CEO看一张图",
+    "link": "https://www.qbitai.com/2026/03/388720.html",
+    "published": "2026-03-17T13:08:23+00:00",
+    "author": "henry"
+  },
+  {
+    "record_id": "e4cf98e49e47f2ca",
+    "fetch_time": "2026-03-18T07:40:46.000605",
+    "keyword": "RSS:qbitai",
+    "source": "qbitai",
+    "title": "从“养虾热”到实体交互：元萝卜推动OpenClaw走向真实世界",
+    "content": "元萝卜让“桌面智能体”有了现实参照",
+    "link": "https://www.qbitai.com/2026/03/388701.html",
+    "published": "2026-03-17T12:12:51+00:00",
+    "author": "十三"
+  }
+]

@@ -1,0 +1,991 @@
+{
+  "timestamp": "2026-04-05 08:15:05",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Show HN: A game where you build a GPU",
+          "score": 456,
+          "author": "Jaso1024",
+          "comments": 126,
+          "url": "https://jaso1024.com/mvidia/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://jaso1024.com/mvidia/"
+        },
+        {
+          "rank": 2,
+          "title": "OpenScreen is an open-source alternative to Screen Studio",
+          "score": 46,
+          "author": "jskopek",
+          "comments": 7,
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://github.com/siddharthvaddem/openscreen"
+        },
+        {
+          "rank": 3,
+          "title": "How many products does Microsoft have named 'Copilot'?",
+          "score": 350,
+          "author": "gpi",
+          "comments": 180,
+          "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html"
+        },
+        {
+          "rank": 4,
+          "title": "LLM Wiki – example of an \"idea file\"",
+          "score": 27,
+          "author": "tamnd",
+          "comments": 4,
+          "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
+        },
+        {
+          "rank": 5,
+          "title": "Embarrassingly simple self-distillation improves code generation",
+          "score": 525,
+          "author": "Anon84",
+          "comments": 162,
+          "url": "https://arxiv.org/abs/2604.01193",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://arxiv.org/abs/2604.01193"
+        },
+        {
+          "rank": 6,
+          "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+          "score": 115,
+          "author": "jrandolf",
+          "comments": 63,
+          "url": "https://sllm.cloud",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://sllm.cloud"
+        },
+        {
+          "rank": 7,
+          "title": "Show HN: I made open source, zero power PCB hackathon badges",
+          "score": 30,
+          "author": "kaipereira",
+          "comments": 2,
+          "url": "https://github.com/KaiPereira/Overglade-Badges",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://github.com/KaiPereira/Overglade-Badges"
+        },
+        {
+          "rank": 8,
+          "title": "Ruckus: Racket for iOS",
+          "score": 56,
+          "author": "nsm",
+          "comments": 2,
+          "url": "https://ruckus.defn.io/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://ruckus.defn.io/"
+        },
+        {
+          "rank": 9,
+          "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+          "score": 129,
+          "author": "teamchong",
+          "comments": 4,
+          "url": "https://github.com/teamchong/turboquant-wasm",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://github.com/teamchong/turboquant-wasm"
+        },
+        {
+          "rank": 10,
+          "title": "German implementation of eIDAS will require an Apple/Google account to function",
+          "score": 26,
+          "author": "DyslexicAtheist",
+          "comments": 14,
+          "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/"
+        },
+        {
+          "rank": 11,
+          "title": "The Indie Internet Index – submit your favorite sites",
+          "score": 89,
+          "author": "freshman_dev",
+          "comments": 15,
+          "url": "https://iii.social",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://iii.social"
+        },
+        {
+          "rank": 12,
+          "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+          "score": 338,
+          "author": "naves",
+          "comments": 151,
+          "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs"
+        },
+        {
+          "rank": 13,
+          "title": "Components of a Coding Agent",
+          "score": 150,
+          "author": "MindGods",
+          "comments": 60,
+          "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent"
+        },
+        {
+          "rank": 14,
+          "title": "Some Unusual Trees",
+          "score": 243,
+          "author": "simplegeek",
+          "comments": 70,
+          "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://thoughts.wyounas.com/p/some-unusual-trees"
+        },
+        {
+          "rank": 15,
+          "title": "Emotion concepts and their function in a large language model",
+          "score": 135,
+          "author": "dnw",
+          "comments": 140,
+          "url": "https://www.anthropic.com/research/emotion-concepts-function",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://www.anthropic.com/research/emotion-concepts-function"
+        },
+        {
+          "rank": 16,
+          "title": "The CMS is dead, long live the CMS",
+          "score": 117,
+          "author": "taubek",
+          "comments": 74,
+          "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms"
+        },
+        {
+          "rank": 17,
+          "title": "Breaking Enigma with Index of Coincidence on a Commodore 64",
+          "score": 17,
+          "author": "saganus",
+          "comments": 2,
+          "url": "https://imapenguin.com/2026/03/breaking-enigma-with-index-of-coincidence-on-a-commodore-64/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://imapenguin.com/2026/03/breaking-enigma-with-index-of-coincidence-on-a-commodore-64/"
+        },
+        {
+          "rank": 18,
+          "title": "Demand for autism care is soaring",
+          "score": 16,
+          "author": "andsoitis",
+          "comments": 15,
+          "url": "https://economist.com/united-states/2026/04/01/demand-for-autism-care-is-soaring-the-system-is-struggling-to-cope",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://economist.com/united-states/2026/04/01/demand-for-autism-care-is-soaring-the-system-is-struggling-to-cope"
+        },
+        {
+          "rank": 19,
+          "title": "Non-Determinism Isn't a Bug. It's Tuesday",
+          "score": 3,
+          "author": "benbeingbin",
+          "comments": 0,
+          "url": "https://www.kasava.dev/blog/why-pms-are-built-for-ai",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://www.kasava.dev/blog/why-pms-are-built-for-ai"
+        },
+        {
+          "rank": 20,
+          "title": "Training mRNA Language Models Across 25 Species for $165",
+          "score": 108,
+          "author": "maziyar",
+          "comments": 27,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019"
+        },
+        {
+          "rank": 21,
+          "title": "Plague Ships (2020)",
+          "score": 35,
+          "author": "bryanrasmussen",
+          "comments": 5,
+          "url": "https://www.afloat.com.au/feature/plague-ships/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://www.afloat.com.au/feature/plague-ships/"
+        },
+        {
+          "rank": 22,
+          "title": "IBM 3270 Information Display System: Color and Programmed Symbols (1979) [pdf]",
+          "score": 30,
+          "author": "hggh",
+          "comments": 8,
+          "url": "https://bitsavers.org/pdf/ibm/3278/GA33-3056-0_3270_Information_Display_System_Color_and_Programmed_Symbols_3278_3279_3287_Sep1979.pdf",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://bitsavers.org/pdf/ibm/3278/GA33-3056-0_3270_Information_Display_System_Color_and_Programmed_Symbols_3278_3279_3287_Sep1979.pdf"
+        },
+        {
+          "rank": 23,
+          "title": "Electrical Transformer Manufacturing Is Throttling the Electrified Future",
+          "score": 56,
+          "author": "toomuchtodo",
+          "comments": 47,
+          "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/"
+        },
+        {
+          "rank": 24,
+          "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
+          "score": 150,
+          "author": "dbreunig",
+          "comments": 54,
+          "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html"
+        },
+        {
+          "rank": 25,
+          "title": "Scientists observe an immune signaling complex forming inside cells",
+          "score": 88,
+          "author": "ohjeez",
+          "comments": 7,
+          "url": "https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research"
+        },
+        {
+          "rank": 26,
+          "title": "Sopwith – 1984 Game (2000)",
+          "score": 72,
+          "author": "elvis70",
+          "comments": 34,
+          "url": "http://www.sopwith.org/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "http://www.sopwith.org/"
+        },
+        {
+          "rank": 27,
+          "title": "Mbodi AI (YC P25) Is Hiring",
+          "score": 1,
+          "author": "chitianhao",
+          "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls"
+        },
+        {
+          "rank": 28,
+          "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+          "score": 1026,
+          "author": "firloop",
+          "comments": 779,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027"
+        },
+        {
+          "rank": 29,
+          "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+          "score": 706,
+          "author": "macleginn",
+          "comments": 471,
+          "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf"
+        },
+        {
+          "rank": 30,
+          "title": "When legal sports betting surges, so do Americans' financial problems",
+          "score": 153,
+          "author": "pseudolus",
+          "comments": 103,
+          "url": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy"
+        }
+      ]
+    },
+    "github": {
+      "count": 8,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Blaizzy /mlx-vlm",
+          "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+          "url": "https://github.com/Blaizzy/mlx-vlm",
+          "language": "Python",
+          "stars": 3590,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "onyx-dot-app /onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "language": "Python",
+          "stars": 24219,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "Yeachan-Heo /oh-my-codex",
+          "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+          "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+          "language": "TypeScript",
+          "stars": 15608,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "siddharthvaddem /openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "language": "TypeScript",
+          "stars": 19732,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "telegramdesktop /tdesktop",
+          "description": "Telegram Desktop messaging app",
+          "url": "https://github.com/telegramdesktop/tdesktop",
+          "language": "C++",
+          "stars": 30830,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "block /goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "url": "https://github.com/block/goose",
+          "language": "Rust",
+          "stars": 35679,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "microsoft /agent-framework",
+          "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+          "url": "https://github.com/microsoft/agent-framework",
+          "language": "Python",
+          "stars": 8694,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "sherlock-project /sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "language": "Python",
+          "stars": 79346,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "v2ex": {
+      "count": 8,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Claude Code 又送了 $100 的 extra balance",
+          "replies": 67,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "现在各个厂家的 coding plan 是不是都抢不到了..",
+          "replies": 47,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "有点好奇，翻墙节点一般都是香港日本新加坡，为什么很少走韩国呢？",
+          "replies": 36,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "死活下载不了 youtube 了",
+          "replies": 36,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "现在 session 是主流还是 jwt + refresh token 是主流？",
+          "replies": 29,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "使用本地模型 Gemma4 来驱动 OpenClaw",
+          "replies": 26,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "facebook 账号太容易被封",
+          "replies": 19,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "2 年以后的硬件和本地大模型",
+          "replies": 19,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "How NodeDB Handles Multi-Model Differently",
+          "description": "<p>In the <a href=\"https://dev.to/nodedb/why-nodedb-might-be-a-better-multi-model-database-4jf5\">previous article</a>, I explained where <strong>NodeDB</strong> stands in the current multi-model lands",
+          "url": "https://dev.to/nodedb/how-nodedb-handles-multi-model-differently-o86",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Fortune 500 AI Disclosure Analysis: How America's Largest Companies Talk About AI in SEC Filings",
+          "description": "<blockquote>\n<p><strong>Full dataset available on GitHub:</strong> <a href=\"https://github.com/pariosur/fortune-500-ai-analysis\" rel=\"noopener noreferrer\">fortune-500-ai-analysis</a></p>\n</blockquote>",
+          "url": "https://dev.to/riospablo/fortune-500-ai-disclosure-analysis-how-americas-largest-companies-talk-about-ai-in-sec-filings-5531",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Best AI Writing Tools for Email Marketing 2026 (Ranked by Use Case)",
+          "description": "<blockquote>\n<p><strong>FTC Disclosure:</strong> This article contains affiliate links. If you purchase through links marked with an asterisk or labeled as affiliate links, we may earn a commission at",
+          "url": "https://dev.to/techsifted/best-ai-writing-tools-for-email-marketing-2026-ranked-by-use-case-1e77",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Oracle, AI, and Who Actually Pays for the Race",
+          "description": "<p>At some point in the last six months or so, we quietly stopped arguing about whether AI was real ot just the next tech bubble waiting to pop.</p>\n\n<p>That shift matters more than most people realiz",
+          "url": "https://dev.to/evanlausier/oracle-ai-and-who-actually-pays-for-the-race-12g9",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Why Are We Still Using Markdown in 2026?",
+          "description": "<h2>\n  \n  \n  The Genius of Markdown's Original Design\n</h2>\n\n<p>To understand why Markdown persists, we need to appreciate what made it revolutionary.</p>\n\n<h3>\n  \n  \n  Simplicity Above All\n</h3>\n\n<p>",
+          "url": "https://dev.to/castillodk/why-are-we-still-using-markdown-in-2026-15db",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Constructing a Station-Level Statistical Manifold with Dual Flat Structure from Pedestrian Trajectories",
+          "description": "<p>Note:I use AI assistance to draft and polish the English, but the analysis, interpretation, and core ideas are my own. Learning to write technical English is itself part of this project.</p>\n\n<h2>\n",
+          "url": "https://dev.to/bonebasket_a3284c91925b56/constructing-a-station-level-statistical-manifold-with-dual-flat-structure-from-pedestrian-5c7g",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "My Last Few Months",
+          "description": "<p>Nobody told me that doing everything at once was going to feel like this.</p>\n\n<p>Exams last month. A hackathon deadline this week. A full technical lead role at Teenovatex. A bootcamp I launched f",
+          "url": "https://dev.to/coder0214h/my-last-few-months-306p",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "x * y = k, and Other Things I Should've Learned Sooner",
+          "description": "<p>Getting into blockchain as a smart contract dev is a different experience than entering almost any other sector. Every field has its niche things, sure, but you mostly learn by understanding well-k",
+          "url": "https://dev.to/ranting_sage/x-y-k-and-other-things-i-shouldve-learned-sooner-ofe",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Qodo AI Test Generation: How It Works with Examples",
+          "description": "<h2>\n  \n  \n  What is Qodo Gen and why test generation matters\n</h2>\n\n<p><strong>Most development teams know they should write more tests, but they never find the time.</strong> Industry surveys consis",
+          "url": "https://dev.to/rahulxsingh/qodo-ai-test-generation-how-it-works-with-examples-4abk",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "How to Get Data Into Power BI as a Newbie",
+          "description": "<h3>\n  \n  \n  <strong>Introduction</strong>\n</h3>\n\n<p>In today's world, companies have data everywhere. Excel sheets, company databases, cloud apps, and websites. As a beginner data analyst, your first",
+          "url": "https://dev.to/mk_shalom/how-to-get-data-into-power-bi-as-a-newbie-5a16",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Why More GPUs Won't Save Your AI Infrastructure",
+          "description": "<p>Every organization building with AI right now is focused on the same thing: ship the model, get it into production, show results. And that urgency is justified. But I keep seeing the same failure p",
+          "url": "https://dev.to/aguptasyr/why-more-gpus-wont-save-your-ai-infrastructure-1o8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "I built a self-hosted alternative to Marker.io - here's how it works under the hood",
+          "description": "<h2>\n  \n  \n  The problem\n</h2>\n\n<p>If you've ever freelanced, you know the feedback loop from hell.</p>\n\n<p>Your client opens the staging site, takes a screenshot, draws a red circle in WhatsApp, and ",
+          "url": "https://dev.to/neosianexus/i-built-a-self-hosted-alternative-to-markerio-heres-how-it-works-under-the-hood-2i7k",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "The nvim-treesitter repository was archived",
+          "description": "<blockquote>\n<p>This repository was archived by the owner on Apr 3, 2026. It is now read-only.</p>\n</blockquote>\n<p>Anyone know what's up?\nThis is a widely used plugin that a lot of people depend on, would be a shame to see it go.</p>\n",
+          "url": "https://github.com/nvim-treesitter/nvim-treesitter",
+          "score": 44,
+          "comments": 17,
+          "tags": [
+            "editors",
+            "programming",
+            "vim"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Your code is worthless",
+          "description": "",
+          "url": "https://nathanielfishel.substack.com/p/your-code-is-worthless",
+          "score": 43,
+          "comments": 11,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Where can I find the old internet?",
+          "description": "<p>It's a very poorly phrased question, sorry. The best I can do is this example:</p>\n<p>I'm reading a book called Phule's Company and got interested in a particular aspect of it and started to research the book then the author. Soon I was knee deep searching why he was in trouble with the IRS and, to my surprise, found answers (The IRS caught him for back taxes and he arranged for only his single-authored works to be garnished. So his later output was all jointly authored).</p>\n<p>During this lovely rabbit hole dig I ran into a page that seems to be a bit like a corner of a four dimensional object sticking out into our (modern internet) universe.</p>\n<p>It seems to be a copy of \"Alt.Fan.Asprin\" which is usenet, which came before my time I think. I can only see that page. I can't go to the top domain.</p>\n<p>It is a whole page full of lovingly organized minutiae about an obscure thing.\nI didn't post the address out of a peculiar fear of invading someone's peace. It's silly, I know.</p>\n<p>It reminded me of an internet that I have begun to miss. It's an internet that often doesn't show up in web searches, it is an internet where the taint and pressure of money is quite minimal. It is an internet driven by quirky people who seem to hyperfocus on one particular thing. They spend their time writing up things/creating things, just for the love of it, and then put it up.</p>\n<p>I liked that internet better, and I kind of pine for it.</p>\n<p>Sorry, I'm rambling, and probably rambling worse than usual, but perhaps someone knows what I'm talking about.</p>\n",
+          "url": "",
+          "score": 38,
+          "comments": 26,
+          "tags": [
+            "ask",
+            "culture"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+          "description": "",
+          "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+          "score": 77,
+          "comments": 20,
+          "tags": [
+            "security",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "The Feature That Has Never Worked · A broken auto-live poller, and what perceived urgency does to Claude Code",
+          "description": "",
+          "url": "https://christophermeiklejohn.com/ai/zabriskie/reliability/2026/04/03/the-feature-that-has-never-worked.html",
+          "score": 14,
+          "comments": 5,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Value numbering",
+          "description": "",
+          "url": "https://bernsteinbear.com/blog/value-numbering/",
+          "score": 7,
+          "comments": 0,
+          "tags": [
+            "compilers"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Slap: Functional Concatenative Language... with a Borrow Checker?",
+          "description": "",
+          "url": "https://taylor.town/slap-000",
+          "score": 87,
+          "comments": 13,
+          "tags": [
+            "concatenative",
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
+          "description": "",
+          "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
+          "score": 4,
+          "comments": 2,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Embarrassingly Simple Self-Distillation Improves Code Generation",
+          "description": "",
+          "url": "https://arxiv.org/abs/2604.01193",
+          "score": 6,
+          "comments": 4,
+          "tags": [
+            "ai"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Why Lean?",
+          "description": "",
+          "url": "https://leodemoura.github.io/blog/2026-4-2-why-lean/",
+          "score": 8,
+          "comments": 2,
+          "tags": [
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Absurd In Production",
+          "description": "",
+          "url": "https://lucumr.pocoo.org/2026/4/4/absurd-in-production/",
+          "score": 7,
+          "comments": 3,
+          "tags": [
+            "databases",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Lisette — Rust syntax, Go runtime",
+          "description": "",
+          "url": "https://lisette.run",
+          "score": 62,
+          "comments": 33,
+          "tags": [
+            "go",
+            "plt",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "Adobe wrote to my hosts file",
+          "description": "",
+          "url": "https://www.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/",
+          "score": 76,
+          "comments": 20,
+          "tags": [
+            "design"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "Making Gamedev Tooling For Windows 3.1 in Turbo C++",
+          "description": "",
+          "url": "https://www.youtube.com/watch?v=-7mc-D5V4L8",
+          "score": 2,
+          "comments": 0,
+          "tags": [
+            "games",
+            "programming",
+            "retrocomputing",
+            "video"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "CVA6-CFI: A First Glance at RISC-V Control-Flow Integrity Extensions",
+          "description": "",
+          "url": "https://arxiv.org/pdf/2602.04991",
+          "score": 3,
+          "comments": 0,
+          "tags": [
+            "hardware",
+            "pdf",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Why Nobody Can Verify What Booted Your Server",
+          "description": "",
+          "url": "https://unmitigatedrisk.com/?p=1231",
+          "score": 24,
+          "comments": 1,
+          "tags": [
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Making a Type Checker/LSP for Nix",
+          "description": "",
+          "url": "https://johns.codes/blog/making-a-type-checker-lsp-for-nix",
+          "score": 22,
+          "comments": 0,
+          "tags": [
+            "nix",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Baby’s Second Garbage Collector",
+          "description": "",
+          "url": "https://www.matheusmoreira.com/articles/babys-second-garbage-collector",
+          "score": 19,
+          "comments": 4,
+          "tags": [
+            "compsci"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Legibility is Ruining You",
+          "description": "",
+          "url": "https://jimmyhmiller.com/legibility-is-ruining-you",
+          "score": 24,
+          "comments": 7,
+          "tags": [
+            "culture"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "Build your own Dial-up ISP with a Raspberry Pi",
+          "description": "",
+          "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
+          "score": 30,
+          "comments": 8,
+          "tags": [
+            "networking",
+            "retrocomputing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 78,
+    "hackernews": 30,
+    "github": 8,
+    "v2ex": 8,
+    "devto": 12,
+    "lobsters": 20
+  }
+}

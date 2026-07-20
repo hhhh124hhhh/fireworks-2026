@@ -1,0 +1,697 @@
+{
+  "query": "effective prompt writing techniques",
+  "results": [
+    {
+      "url": "https://mitsloanedtech.mit.edu/ai/basics/effective-prompts/",
+      "title": "Effective Prompts for AI: The Essentials - MIT Sloan Teaching & Learning Technologies",
+      "content": "Crafting effective prompts can optimize your results. This is because most AI systems—like ChatGPT, Claude, and others—are primarily built on the combination of two technologies: natural language processing and machine learning (Mollick, 2023). This combination enables AI to understand your prompts even if you write them as if you’re having a conversation with another human being.",
+      "thumbnail": "https://imgs.search.brave.com/EGUHvhm-67b_Vc2ImNPVLmGMlCEZWogOGFIKjT9SBVI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXRz/bG9hbmVkdGVjaC5t/aXQuZWR1L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIzLzA4L0Js/b2dfU3luZXJnaXpp/bmdCdXNpbmVzc0Nv/bW11bmljYXRpb25z/X01lbGlzc2FXZWJz/dGVyLTEwMjR4NjU0/LnBuZw",
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "mitsloanedtech.mit.edu",
+        "/ai/basics/effective-prompts/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave",
+        "google"
+      ],
+      "positions": [
+        1,
+        2
+      ],
+      "score": 3,
+      "category": "general",
+      "publishedDate": "2025-05-30T00:00:00",
+      "pubdate": "2025-05-30 00:00:00"
+    },
+    {
+      "url": "https://community.openai.com/t/a-guide-to-crafting-effective-prompts-for-diverse-applications/493914",
+      "title": "A Guide to Crafting Effective Prompts for Diverse Applications - Prompting - OpenAI Developer Community",
+      "content": "Hi everyone, I’m excited to share some insights on creating effective prompts, a skill that is increasingly essential in various AI applications. This guide aims to help you tailor prompts to your specific needs, whethe…",
+      "thumbnail": "https://imgs.search.brave.com/SbMLzpYfJ2n13CV6hh3rH61N8573zCCwW-4MnWT-v88/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91czEu/ZGlzY291cnNlLWNk/bi5jb20vb3BlbmFp/MS9vcmlnaW5hbC80/WC8wLzQvYy8wNGM4/NTQ2ODMzZjA4MjRh/NDlkMjFmNTBlMmIw/OGRkNDRiZmQzZDA1/LnBuZw",
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "community.openai.com",
+        "/t/a-guide-to-crafting-effective-prompts-for-diverse-applications/493914",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave",
+        "google"
+      ],
+      "positions": [
+        3,
+        6
+      ],
+      "score": 1,
+      "category": "general",
+      "publishedDate": "2023-11-10T00:00:00",
+      "pubdate": "2023-11-10 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.atlassian.com/blog/artificial-intelligence/ultimate-guide-writing-ai-prompts",
+      "title": "The ultimate guide to writing effective AI prompts - Work Life by Atlassian",
+      "content": "When writing an AI prompt, tell AI what format you want the response to be in. For example, you could say: “Write an email to [contact] to schedule a meeting on [day]. Use less than 200 words.” · You can also ask AI to provide your results in the form of a list, a table, or any other format you want. Understanding how AI works can help you write effective prompts that generate better results.",
+      "publishedDate": "2025-09-09T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/CyjJJDZtwiuwN-RXQ3K4temeCCBy4BKWdJgi-xuBoCI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdGxh/c3NpYW5ibG9nLndw/ZW5naW5lLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8w/OS9oZXJvLWltYWdl/LnBuZw",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.atlassian.com",
+        "/blog/artificial-intelligence/ultimate-guide-writing-ai-prompts",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        3
+      ],
+      "score": 0.3333333333333333,
+      "category": "general",
+      "pubdate": "2025-09-09 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://aalapdavjekar.medium.com/all-the-wrong-and-right-ways-to-prompt-a-tiny-guide-5bd119d312b3",
+      "title": "All the Wrong (and Right) Ways to Prompt: A Tiny Guide | by Aalap Davjekar | Medium",
+      "content": "Effective prompt engineering is an iterative process. Start with these patterns and adapt them based on your specific needs and the AI model’s capabilities. Remember to: ... Happy prompting! ... Technical writer and web developer based in Goa, India.",
+      "publishedDate": "2024-11-07T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/nA8gENZ7x_D4PN4w2o7jwoVLBzFzb2UyDJOIevvMSzc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/MSpjd3VFZGQ2ZjFC/Ml9UMzRocGw2dFdR/LnBuZw",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "aalapdavjekar.medium.com",
+        "/all-the-wrong-and-right-ways-to-prompt-a-tiny-guide-5bd119d312b3",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        4
+      ],
+      "score": 0.25,
+      "category": "general",
+      "pubdate": "2024-11-07 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.huit.harvard.edu/news/ai-prompts",
+      "title": "Getting started with prompts for text-based Generative AI tools | Harvard University Information Technology",
+      "content": "Start with a basic idea of what you want and ask the AI to expand on it for you, like “What should I ask you to help me write a blog post about AI?”. And simply adding “Tell me what else you need to do this” at the end of any prompt ...",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/PdJDSpljTNYqBG04T9JcwEedy1iuBKfZdH3s4yz9yqs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aHVpdC5oYXJ2YXJk/LmVkdS9zaXRlcy9n/L2ZpbGVzL29tbnV1/bTEwODExL2ZpbGVz/LzIwMjUtMDkvTmV3/cyUyMHRodW1ibmFp/bCUyMDkucG5n",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.huit.harvard.edu",
+        "/news/ai-prompts",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        5
+      ],
+      "score": 0.2,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://learn.microsoft.com/en-us/copilot/security/prompting-tips",
+      "title": "Create effective prompts | Microsoft Learn",
+      "content": "Be specific, clear, and concise as much as you can about what you want to achieve. You can always start simply with your first prompt, but as you get more familiar with Security Copilot, include more details following the elements of an effective ...",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/KxEtqQiadL_R-Mr9_FffhMDYK3gVHrYWjuByaTLSjYg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9sZWFy/bi5taWNyb3NvZnQu/Y29tL2VuLXVzL21l/ZGlhL29wZW4tZ3Jh/cGgtaW1hZ2UucG5n",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "learn.microsoft.com",
+        "/en-us/copilot/security/prompting-tips",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        8
+      ],
+      "score": 0.125,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://blog.alexanderfyoung.com/how-to-craft-the-perfect-prompt/",
+      "title": "How To CRAFT The Perfect Prompt",
+      "content": "You might also then want to specify the tone you want the response to be in and the audience the response is aimed at. For context I usually think Persona Audience Tone or PAT when considering prompt context. So you might say “You are a children’s book writer writing for children aged 10-18 you write in the style of JK Rowling.”",
+      "publishedDate": "2024-07-07T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/93c8-DfdOnKqsnJqEk3W9hXdnUnFw9i2Ohd_V5urMIk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/LmFsZXhhbmRlcmZ5/b3VuZy5jb20vY29u/dGVudC9pbWFnZXMv/c2l6ZS93MTIwMC8y/MDI0LzA3L1lvdVR1/YmUtVGh1bWJuYWls/LTI4LnBuZw",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "blog.alexanderfyoung.com",
+        "/how-to-craft-the-perfect-prompt/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        9
+      ],
+      "score": 0.1111111111111111,
+      "category": "general",
+      "pubdate": "2024-07-07 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://andymatuschak.org/prompts/",
+      "title": "How to write good prompts: using spaced repetition to create understanding",
+      "content": "Spaced repetition systems are designed to facilitate this effect. If you want prompts to reinforce your understanding of some topic, you must learn to write prompts which collectively invoke retrieval practice of all the key details.",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/5YGA_yseZn2-ibSxMKmQy-IPhigebt_GjOXmhi5Hm8g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hbmR5/bWF0dXNjaGFrLm9y/Zy9wcm9tcHRzL3Nv/Y2lhbC5qcGc",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "andymatuschak.org",
+        "/prompts/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        11
+      ],
+      "score": 0.09090909090909091,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://newsdata.io/blog/best-techniques-for-writing-prompts/",
+      "title": "AI Prompts: 5 Best Techniques for Writing Prompts",
+      "content": "For example, if we want a language model to write an article on cybersecurity, we will first prompt the model to generate some facts, types, or techniques for cybersecurity. As a result, the model will generate a more effective response by integrating the provided knowledge before the final ...",
+      "publishedDate": "2025-09-23T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/o5cnNB6xMmuIM-r-bJtXbwanrPA_mxpqn51-chNl7Vw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vbmV3c2Rh/dGEuaW8vYmxvZy93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8w/NS9kYXRhc2V0LTEw/LnBuZz9maXQ9MTQ5/OSUyQzg0MCZzc2w9/MQ",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "newsdata.io",
+        "/blog/best-techniques-for-writing-prompts/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        14
+      ],
+      "score": 0.07142857142857142,
+      "category": "general",
+      "pubdate": "2025-09-23 00:00:00"
+    },
+    {
+      "url": "https://www.promptingguide.ai/introduction/tips",
+      "title": "General Tips for Designing Prompts | Prompt Engineering Guide",
+      "content": "You can design effective prompts for various simple tasks by using commands to instruct the model what you want to achieve, such as \"Write\", \"Classify\", \"Summarize\", \"Translate\", \"Order\", etc.",
+      "thumbnail": "",
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.promptingguide.ai",
+        "/introduction/tips",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave",
+        "google"
+      ],
+      "positions": [
+        2,
+        1
+      ],
+      "score": 3,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://www.reddit.com/r/PromptEngineering/comments/1j5ymik/ai_prompting_tips_from_a_power_user_how_to_get/",
+      "title": "r/PromptEngineering on Reddit: AI Prompting Tips from a Power User: How to Get Way Better Responses",
+      "content": "One of my favorite prompting techniques is to have the AI reference or write a framework first, then use that framework to generate the content.",
+      "thumbnail": "",
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.reddit.com",
+        "/r/PromptEngineering/comments/1j5ymik/ai_prompting_tips_from_a_power_user_how_to_get/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave",
+        "google"
+      ],
+      "positions": [
+        8,
+        7
+      ],
+      "score": 0.5357142857142857,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://libguides.lib.hku.hk/c.php?g=965015&p=7012484",
+      "title": "AI Literacy: Prompt Guide - Hong Kong - LibGuides - HKU",
+      "content": "2026年1月14日 — Keep your prompt focused and brief to avoid confusion. Remove unnecessary details and emphasise the key task. Instead of \"Write a long essay ...",
+      "thumbnail": null,
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "libguides.lib.hku.hk",
+        "/c.php",
+        "",
+        "g=965015&p=7012484",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "google"
+      ],
+      "positions": [
+        4
+      ],
+      "score": 0.25,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://www.ibm.com/think/topics/prompt-engineering-techniques",
+      "title": "Prompt Engineering Techniques",
+      "content": "There are three primary ways to structure the prompt: direct instructions, open-ended instructions and task-specific instructions. Direct instructions are clear ...",
+      "thumbnail": null,
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.ibm.com",
+        "/think/topics/prompt-engineering-techniques",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "google"
+      ],
+      "positions": [
+        5
+      ],
+      "score": 0.2,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://cloud.google.com/discover/what-is-prompt-engineering",
+      "title": "Prompt Engineering for AI Guide",
+      "content": "2026年1月14日 — Strategies for writing better prompts · 1. Set Clear Goals and Objectives: · 2. Provide Context and Background Information: · 3. Use Few-Shot ...",
+      "thumbnail": null,
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "cloud.google.com",
+        "/discover/what-is-prompt-engineering",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "google"
+      ],
+      "positions": [
+        6
+      ],
+      "score": 0.16666666666666666,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://medium.com/the-modern-scientist/best-prompt-techniques-for-best-llm-responses-24d2ff4f6bca",
+      "title": "Best Prompt Techniques for Best LLM Responses | by Jules S. Damji",
+      "content": "Write clear instructions · Provide reference text · Split complex tasks into simpler subtasks · Give the model time to “think”.",
+      "thumbnail": null,
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "medium.com",
+        "/the-modern-scientist/best-prompt-techniques-for-best-llm-responses-24d2ff4f6bca",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "google"
+      ],
+      "positions": [
+        7
+      ],
+      "score": 0.14285714285714285,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://support.huaweicloud.com/intl/en-us/bestpractice-pangulm/pangulm_04_0008.html",
+      "title": "General Tips for Prompt Writing - 华为云",
+      "content": "2025年11月19日 — Standard English prompts tend to work best. · Preferentially use a subject–verb–object (SVO) sentence structure. · Use common vocabulary and ...",
+      "thumbnail": null,
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "support.huaweicloud.com",
+        "/intl/en-us/bestpractice-pangulm/pangulm_04_0008.html",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "google"
+      ],
+      "positions": [
+        9
+      ],
+      "score": 0.1111111111111111,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "template": "default.html",
+      "url": "https://researchguides.library.wisc.edu/c.php?g=1371904&p=10139448",
+      "title": "Prompt Writing - Artificial Intelligence (AI) in the Academic Health Sciences - Research Guides at University of Wisconsin-Madison",
+      "content": "An effective prompt typically includes some (or all) of the following components: ... A command for what you want the model to do. ... Additional, contextual information that can be used to further inform the model's output. When used, this is typically included alongside the instruction.",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "researchguides.library.wisc.edu",
+        "/c.php",
+        "",
+        "g=1371904&p=10139448",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        10
+      ],
+      "score": 0.1,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://learnprompting.org/docs/basics/ai_prompt_tips",
+      "title": "Tips for Writing Better Prompts",
+      "content": "Effective prompts start with being clear and specific. Generative AI only responds to the instructions you provide, so the clearer you are, the better the result. Vague prompts lead to vague answers. Make sure your prompt directly addresses what you need. ... Write something about climate change.",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "learnprompting.org",
+        "/docs/basics/ai_prompt_tips",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        12
+      ],
+      "score": 0.08333333333333333,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://cetl.uconn.edu/resources/teaching-and-learning-assessment/teaching-and-learning-assessment-overview/assessment-design/developing-writing-prompts/",
+      "title": "Developing Writing Prompts | Center for Excellence in Teaching and Learning",
+      "content": "Write an essay that will be posted in your e-portfolio in which you describe your favorite childhood toy. Make sure you provide enough details so your readers can see it and feel what it is like to be there. Narrative writing recounts a personal or fictional experience or tells a story based on real or imagined events. Narrative writing is often characterized by insight, creativity, drama, suspense, humor, and/or fantasy. Narrative prompts use cue terms such as “tell about…”, “tell what happened”, or “write a story.” Similar to descriptive prompts, narrative prompts should avoid asking the students to explain “why.”",
+      "publishedDate": "2021-12-29T00:00:00",
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "cetl.uconn.edu",
+        "/resources/teaching-and-learning-assessment/teaching-and-learning-assessment-overview/assessment-design/developing-writing-prompts/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        13
+      ],
+      "score": 0.07692307692307693,
+      "category": "general",
+      "pubdate": "2021-12-29 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.promptingguide.ai/techniques",
+      "title": "Prompting Techniques | Prompt Engineering Guide",
+      "content": "Prompt Engineering helps to effectively design and improve prompts to get better results on different tasks with LLMs. While the previous basic examples were fun, in this section we cover more advanced prompting engineering techniques that allow us to achieve more complex tasks and improve ...",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.promptingguide.ai",
+        "/techniques",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        15
+      ],
+      "score": 0.06666666666666667,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://helpx.adobe.com/firefly/web/generate-images-with-text-to-image/generate-images-using-text-prompts/writing-effective-text-prompts.html",
+      "title": "Writing effective text prompts",
+      "content": "Prompts are instructions given to AI to perform a task or generate an output. They play a crucial role in guiding AI’s behavior and influencing the quality and relevance of its responses. Write descriptive prompts to generate extraordinary and vibrant images — if you don’t like the results, reword your prompt to get closer to what you want.",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "helpx.adobe.com",
+        "/firefly/web/generate-images-with-text-to-image/generate-images-using-text-prompts/writing-effective-text-prompts.html",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        16
+      ],
+      "score": 0.0625,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://help.welov.io/en/articles/9335562-how-to-create-the-perfect-prompt-a-guide-for-beginners",
+      "title": "How to create the perfect prompt: a guide for beginners | Help & Tips",
+      "content": "Ready to get started? Here are 9 examples of different structures to create your own prompts. We've made it as simple as possible for you. All you have to do is get creative!",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "help.welov.io",
+        "/en/articles/9335562-how-to-create-the-perfect-prompt-a-guide-for-beginners",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        17
+      ],
+      "score": 0.058823529411764705,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.copy.ai/blog/ai-prompt-writing",
+      "title": "7 Prompt Writing Improvements You Can Make Today",
+      "content": "Improve your generative AI results with these prompt writing tips. Learn about the small tweaks you can make to improve the quality of AI outputs.",
+      "publishedDate": "2025-07-04T00:00:00",
+      "thumbnail": "https://imgs.search.brave.com/_6QbLTeE-_gB9e4RStDqWPgC4Rjv5lWNtMshjz3B4wo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/MjgyODhjNWNkM2U4/NDUxMzgwYTM2Yzcv/NjdiNmFlNWQ3NzU5/YjY0NjgzNDFmNzY5/X3Byb21wdCUyMHdy/aXRpbmclMjBpbXBy/b3ZlbWVudHMuYXZp/Zg",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.copy.ai",
+        "/blog/ai-prompt-writing",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        18
+      ],
+      "score": 0.05555555555555555,
+      "category": "general",
+      "pubdate": "2025-07-04 00:00:00"
+    },
+    {
+      "template": "default.html",
+      "url": "https://gpt.space/blog/the-importance-of-writing-effective-prompts-and-how-to-do-it",
+      "title": "The Importance of Writing Effective Prompts and How to Do It",
+      "content": "The secret to writing an effective prompt lies in specificity. Here are some tips: Clarity and Brevity: Your prompt should unmistakably articulate what you expect the writer to do.",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/Tz-AvoxaKfhxpkM1VsEgb2PAleJ8aq47FSh8lzTRMcA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9sYW5k/ZW4uaW1naXgubmV0/L2Jsb2dfd3NVWXFJ/dklnSWllWmdrei9h/c3NldHMvQ2VrWm5F/cU54T013ekxBeS5q/cGc_dz0xMjAwJmFt/cDtoPTYzMCZhbXA7/Zml0PWNyb3A",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "gpt.space",
+        "/blog/the-importance-of-writing-effective-prompts-and-how-to-do-it",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        19
+      ],
+      "score": 0.05263157894736842,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api",
+      "title": "Best practices for prompt engineering with the OpenAI API | OpenAI Help Center",
+      "content": "# Write a simple python function that # 1. Ask me for a number in mile # 2. It converts miles to kilometers import · Developers can use the 'Generate Anything' feature to describe a task or expected natural language output and receive a tailored prompt.",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/jAImN4w8EXYuhxWCfmutDGmdL5P4ukaIdsqqNztJVaE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oZWxw/Lm9wZW5haS5jb20v/b2ctaW1hZ2UucG5n",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "help.openai.com",
+        "/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        20
+      ],
+      "score": 0.05,
+      "category": "general"
+    }
+  ],
+  "totalResults": 25
+}

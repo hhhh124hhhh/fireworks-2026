@@ -1,0 +1,897 @@
+{
+  "timestamp": "2026-06-27 02:01:53",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+          "score": 118,
+          "author": "justincormack",
+          "comments": 57,
+          "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/"
+        },
+        {
+          "rank": 2,
+          "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+          "score": 37,
+          "author": "adchurch",
+          "comments": 28,
+          "url": "https://github.com/workweave/router",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://github.com/workweave/router"
+        },
+        {
+          "rank": 3,
+          "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+          "score": 224,
+          "author": "minimaxir",
+          "comments": 203,
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://openai.com/index/previewing-gpt-5-6-sol/"
+        },
+        {
+          "rank": 4,
+          "title": "Ultrasound imaging of the brain",
+          "score": 131,
+          "author": "rossant",
+          "comments": 45,
+          "url": "https://alephneuro.com/blog/ultrasound-brain",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://alephneuro.com/blog/ultrasound-brain"
+        },
+        {
+          "rank": 5,
+          "title": "A US military exercise to launch a satellite on short notice",
+          "score": 78,
+          "author": "jonbaer",
+          "comments": 38,
+          "url": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/"
+        },
+        {
+          "rank": 6,
+          "title": "Om Malik has died",
+          "score": 1196,
+          "author": "minimaxir",
+          "comments": 140,
+          "url": "https://om.co/2026/06/24/1966-2026/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://om.co/2026/06/24/1966-2026/"
+        },
+        {
+          "rank": 7,
+          "title": "An entire Herculaneum scroll has been read for the first time",
+          "score": 1556,
+          "author": "verditelabs",
+          "comments": 336,
+          "url": "https://scrollprize.org/firstscroll",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://scrollprize.org/firstscroll"
+        },
+        {
+          "rank": 8,
+          "title": "Liva AI (YC S25) Is Hiring",
+          "score": 1,
+          "author": "ashlleymo",
+          "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead"
+        },
+        {
+          "rank": 9,
+          "title": "Springer Nature has removed two studies by Max Planck",
+          "score": 248,
+          "author": "adharmad",
+          "comments": 113,
+          "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted"
+        },
+        {
+          "rank": 10,
+          "title": "Incident CVE-2026-LGTM",
+          "score": 390,
+          "author": "mooreds",
+          "comments": 68,
+          "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html"
+        },
+        {
+          "rank": 11,
+          "title": "Jolla Phone (October 2026)",
+          "score": 177,
+          "author": "mrbn100ful",
+          "comments": 106,
+          "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://commerce.jolla.com/products/jolla-phone-october-2026"
+        },
+        {
+          "rank": 12,
+          "title": "Libre Barcode Project",
+          "score": 251,
+          "author": "luu",
+          "comments": 41,
+          "url": "https://graphicore.github.io/librebarcode/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://graphicore.github.io/librebarcode/"
+        },
+        {
+          "rank": 13,
+          "title": "Bipartite Matching Is in NC",
+          "score": 89,
+          "author": "amichail",
+          "comments": 13,
+          "url": "https://scottaaronson.blog/?p=9851",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://scottaaronson.blog/?p=9851"
+        },
+        {
+          "rank": 14,
+          "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+          "score": 283,
+          "author": "Alupis",
+          "comments": 160,
+          "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/"
+        },
+        {
+          "rank": 15,
+          "title": "What happened after 2k people tried to hack my AI assistant",
+          "score": 307,
+          "author": "cuchoi",
+          "comments": 137,
+          "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://www.fernandoi.cl/posts/hackmyclaw/"
+        },
+        {
+          "rank": 16,
+          "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+          "score": 205,
+          "author": "thunderbong",
+          "comments": 61,
+          "url": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/"
+        },
+        {
+          "rank": 17,
+          "title": "LaTeX.wasm: LaTeX Engines in Browsers",
+          "score": 31,
+          "author": "theanonymousone",
+          "comments": 8,
+          "url": "https://www.swiftlatex.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.swiftlatex.com/"
+        },
+        {
+          "rank": 18,
+          "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+          "score": 55,
+          "author": "ddecoene",
+          "comments": 13,
+          "url": "https://github.com/DDecoene/WebBaseIII",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://github.com/DDecoene/WebBaseIII"
+        },
+        {
+          "rank": 19,
+          "title": "What is a Lithium-ion capacitor?",
+          "score": 5,
+          "author": "ksec",
+          "comments": 0,
+          "url": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html"
+        },
+        {
+          "rank": 20,
+          "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+          "score": 323,
+          "author": "exploraz",
+          "comments": 69,
+          "url": "https://github.com/plbrault/youre-the-os",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://github.com/plbrault/youre-the-os"
+        },
+        {
+          "rank": 21,
+          "title": "The 'papers, please' era of the internet will decimate your privacy",
+          "score": 1000,
+          "author": "bilsbie",
+          "comments": 509,
+          "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet"
+        },
+        {
+          "rank": 22,
+          "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+          "score": 216,
+          "author": "teleforce",
+          "comments": 45,
+          "url": "https://gchandbook.org/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://gchandbook.org/"
+        },
+        {
+          "rank": 23,
+          "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
+          "score": 579,
+          "author": "mmunj",
+          "comments": 252,
+          "url": "https://twitter.com/mfts0/status/2070080422482977095",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://twitter.com/mfts0/status/2070080422482977095"
+        },
+        {
+          "rank": 24,
+          "title": "FEXPRs vs. vtable: how LispE interpreter works",
+          "score": 61,
+          "author": "birdculture",
+          "comments": 6,
+          "url": "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable"
+        },
+        {
+          "rank": 25,
+          "title": "We all depend on open source. We will defend it together",
+          "score": 400,
+          "author": "dhruv3006",
+          "comments": 196,
+          "url": "https://akrites.org/letter/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://akrites.org/letter/"
+        },
+        {
+          "rank": 26,
+          "title": "Oxide computer 3D rack guided tour",
+          "score": 446,
+          "author": "darthcloud",
+          "comments": 195,
+          "url": "https://explorer.oxide.computer/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://explorer.oxide.computer/"
+        },
+        {
+          "rank": 27,
+          "title": "IBM debuts sub-1 nanometer chip technology",
+          "score": 370,
+          "author": "porridgeraisin",
+          "comments": 195,
+          "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology"
+        },
+        {
+          "rank": 28,
+          "title": "Show HN: Chess-Inspired Roguelike",
+          "score": 404,
+          "author": "cowboy_henk",
+          "comments": 134,
+          "url": "https://princechazz.com",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://princechazz.com"
+        },
+        {
+          "rank": 29,
+          "title": "Ask HN: Is \"no source code was copied\" still a sufficient copyright defense?",
+          "score": 11,
+          "author": "oscgam1",
+          "comments": 6,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028"
+        },
+        {
+          "rank": 30,
+          "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+          "score": 347,
+          "author": "engomez",
+          "comments": 164,
+          "url": "https://github.com/inkeep/open-knowledge",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://github.com/inkeep/open-knowledge"
+        }
+      ]
+    },
+    "github": {
+      "count": 17,
+      "items": [
+        {
+          "rank": 1,
+          "title": "simplex-chat /simplex-chat",
+          "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "language": "Haskell",
+          "stars": 12263,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "google-labs-code /design.md",
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "url": "https://github.com/google-labs-code/design.md",
+          "language": "TypeScript",
+          "stars": 20892,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "commaai /openpilot",
+          "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+          "url": "https://github.com/commaai/openpilot",
+          "language": "Python",
+          "stars": 61717,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "kunchenguid /no-mistakes",
+          "description": "git push no-mistakes",
+          "url": "https://github.com/kunchenguid/no-mistakes",
+          "language": "Go",
+          "stars": 3298,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "grafana /grafana",
+          "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+          "url": "https://github.com/grafana/grafana",
+          "language": "TypeScript",
+          "stars": 74822,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "ripienaar /free-for-dev",
+          "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "language": "HTML",
+          "stars": 123628,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "opendatalab /MinerU",
+          "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+          "url": "https://github.com/opendatalab/MinerU",
+          "language": "Python",
+          "stars": 70260,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "alchaincyf /zhangxuefeng-skill",
+          "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+          "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+          "language": "",
+          "stars": 9223,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "mauriceboe /TREK",
+          "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+          "url": "https://github.com/mauriceboe/TREK",
+          "language": "TypeScript",
+          "stars": 7472,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "xbtlin /ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial a",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "language": "Python",
+          "stars": 3012,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "calesthio /OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "language": "Python",
+          "stars": 23347,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "aws /agent-toolkit-for-aws",
+          "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "language": "Python",
+          "stars": 1303,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "NanmiCoder /MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "language": "Python",
+          "stars": 53307,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 14,
+          "title": "garrytan /gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "url": "https://github.com/garrytan/gstack",
+          "language": "TypeScript",
+          "stars": 116475,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 15,
+          "title": "IceWhaleTech /CasaOS",
+          "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "language": "Go",
+          "stars": 35252,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 16,
+          "title": "JCodesMore /ai-website-cloner-template",
+          "description": "Clone any website with one command using AI coding agents",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "language": "TypeScript",
+          "stars": 21199,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 17,
+          "title": "Panniantong /Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "language": "Python",
+          "stars": 42146,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "What are you doing this weekend?",
+          "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
+          "url": "",
+          "score": 24,
+          "comments": 39,
+          "tags": [
+            "ask",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Anatomy of a Failed (Nation-State?) Attack",
+          "description": "",
+          "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+          "score": 16,
+          "comments": 4,
+          "tags": [
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "GuixPkgs: every Guix package, as a Nix flake",
+          "description": "",
+          "url": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
+          "score": 18,
+          "comments": 4,
+          "tags": [
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "All you need is PostgreSQL",
+          "description": "",
+          "url": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
+          "score": 26,
+          "comments": 0,
+          "tags": [
+            "databases",
+            "performance",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "The Exhaustion of Talking to a Tool",
+          "description": "",
+          "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
+          "score": 53,
+          "comments": 21,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Design Patterns Suck",
+          "description": "",
+          "url": "https://luminousmen.com/post/design-patterns-suck/",
+          "score": 9,
+          "comments": 10,
+          "tags": [
+            "design"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "SPIR-V Backend Progress",
+          "description": "",
+          "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+          "score": 25,
+          "comments": 3,
+          "tags": [
+            "graphics",
+            "zig"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Om Malik, 1966-2026",
+          "description": "",
+          "url": "https://om.co/2026/06/24/1966-2026/",
+          "score": 22,
+          "comments": 17,
+          "tags": [
+            "person"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "swsim: A software SIM card",
+          "description": "",
+          "url": "https://github.com/tomasz-lisowski/swsim",
+          "score": 23,
+          "comments": 0,
+          "tags": [
+            "c",
+            "hardware"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "font-family recommendations",
+          "description": "",
+          "url": "https://chrismorgan.info/font-family",
+          "score": 59,
+          "comments": 47,
+          "tags": [
+            "css"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "How PgBouncer Works",
+          "description": "",
+          "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
+          "score": 9,
+          "comments": 0,
+          "tags": [
+            "databases",
+            "devops"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Incident Report: CVE-2026-LGTM",
+          "description": "",
+          "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+          "score": 9,
+          "comments": 0,
+          "tags": [
+            "satire",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "Chatbots vs Ozone",
+          "description": "",
+          "url": "https://blog.dshr.org/2026/05/chatbots-vs-ozone.html",
+          "score": 4,
+          "comments": 4,
+          "tags": [
+            "ai",
+            "science"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "DSPi: A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350)",
+          "description": "",
+          "url": "https://github.com/WeebLabs/DSPi",
+          "score": 13,
+          "comments": 0,
+          "tags": [
+            "hardware"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "New @bitCast Semantics and LLVM Backend Improvements",
+          "description": "",
+          "url": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
+          "score": 53,
+          "comments": 14,
+          "tags": [
+            "zig"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Vibecoding gets Emacs patch rejected",
+          "description": "",
+          "url": "https://xlii.space/eng/honesty-gets-emacs-patch-rejected/",
+          "score": 32,
+          "comments": 91,
+          "tags": [
+            "emacs",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "The Xteink X4 E-Ink Reader",
+          "description": "",
+          "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+          "score": 65,
+          "comments": 44,
+          "tags": [
+            "hardware"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Oxide Rack 3D Explorer",
+          "description": "",
+          "url": "https://explorer.oxide.computer/",
+          "score": 19,
+          "comments": 9,
+          "tags": [
+            "hardware",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "IBM new 'block of flats' design for tiny chips",
+          "description": "",
+          "url": "https://www.bbc.com/news/articles/cvg7vpyn5pxo",
+          "score": 3,
+          "comments": 1,
+          "tags": [
+            "hardware"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "OS9Map: OpenStreetMap for Mac OS 9",
+          "description": "",
+          "url": "https://yllan.org/software/OS9Map/",
+          "score": 35,
+          "comments": 8,
+          "tags": [
+            "retrocomputing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 67,
+    "hackernews": 30,
+    "github": 17,
+    "lobsters": 20
+  }
+}

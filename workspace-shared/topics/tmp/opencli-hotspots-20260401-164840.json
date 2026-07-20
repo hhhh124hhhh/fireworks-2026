@@ -1,0 +1,87 @@
+{
+  "timestamp": "2026-04-01 16:48:40",
+  "platforms": {
+    "v2ex": {
+      "count": 9,
+      "items": [
+        {
+          "rank": 1,
+          "title": "龟男又来发帖了，帮帮我",
+          "replies": 165,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？",
+          "replies": 130,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "想问下大家是如何判断车的安全性",
+          "replies": 125,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "医院的商业化是不是过头了？",
+          "replies": 100,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "中奖了",
+          "replies": 91,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "Claude Code 的源码好像被 Anthropic 自己发出来了",
+          "replies": 79,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "新手开车前准备",
+          "replies": 76,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "这条不是愚人节新闻：中国全国范围内的“后排乘客不系安全带罚款”政策将推行",
+          "replies": 69,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "同事想和你打扑克的话，你们会和同事打扑克吗",
+          "replies": 60,
+          "platform": "v2ex",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 9,
+    "v2ex": 9
+  }
+}

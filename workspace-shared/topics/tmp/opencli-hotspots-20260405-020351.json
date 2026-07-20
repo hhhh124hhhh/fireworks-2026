@@ -1,0 +1,798 @@
+{
+  "timestamp": "2026-04-05 02:03:51",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Show HN: A game where you build a GPU",
+          "score": 114,
+          "author": "Jaso1024",
+          "comments": 25,
+          "url": "https://jaso1024.com/mvidia/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://jaso1024.com/mvidia/"
+        },
+        {
+          "rank": 2,
+          "title": "12,000 AI-generated blog posts added in a single commit",
+          "score": 83,
+          "author": "noslop",
+          "comments": 50,
+          "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849"
+        },
+        {
+          "rank": 3,
+          "title": "Simple self-distillation improves code generation",
+          "score": 371,
+          "author": "Anon84",
+          "comments": 112,
+          "url": "https://arxiv.org/abs/2604.01193",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://arxiv.org/abs/2604.01193"
+        },
+        {
+          "rank": 4,
+          "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+          "score": 56,
+          "author": "teamchong",
+          "comments": 2,
+          "url": "https://github.com/teamchong/turboquant-wasm",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://github.com/teamchong/turboquant-wasm"
+        },
+        {
+          "rank": 5,
+          "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+          "score": 86,
+          "author": "naves",
+          "comments": 20,
+          "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs"
+        },
+        {
+          "rank": 6,
+          "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+          "score": 937,
+          "author": "firloop",
+          "comments": 723,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005"
+        },
+        {
+          "rank": 7,
+          "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+          "score": 33,
+          "author": "jrandolf",
+          "comments": 21,
+          "url": "https://sllm.cloud",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://sllm.cloud"
+        },
+        {
+          "rank": 8,
+          "title": "Some Unusual Trees",
+          "score": 175,
+          "author": "simplegeek",
+          "comments": 52,
+          "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://thoughts.wyounas.com/p/some-unusual-trees"
+        },
+        {
+          "rank": 9,
+          "title": "Components of a Coding Agent",
+          "score": 65,
+          "author": "MindGods",
+          "comments": 22,
+          "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent"
+        },
+        {
+          "rank": 10,
+          "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+          "score": 361,
+          "author": "macleginn",
+          "comments": 250,
+          "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf"
+        },
+        {
+          "rank": 11,
+          "title": "Artemis II crew take “spectacular” image of Earth",
+          "score": 947,
+          "author": "andsoitis",
+          "comments": 319,
+          "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://www.bbc.com/news/articles/ce8jzr423p9o"
+        },
+        {
+          "rank": 12,
+          "title": "Iran's Network of Cameras Bolsters Air Defenses, Expert Says",
+          "score": 25,
+          "author": "uxhacker",
+          "comments": 1,
+          "url": "https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8"
+        },
+        {
+          "rank": 13,
+          "title": "The Indie Internet Index – submit your favorite sites",
+          "score": 17,
+          "author": "freshman_dev",
+          "comments": 1,
+          "url": "https://iii.social",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://iii.social"
+        },
+        {
+          "rank": 14,
+          "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
+          "score": 108,
+          "author": "dbreunig",
+          "comments": 43,
+          "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html"
+        },
+        {
+          "rank": 15,
+          "title": "Training mRNA Language Models Across 25 Species for $165",
+          "score": 55,
+          "author": "maziyar",
+          "comments": 19,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014"
+        },
+        {
+          "rank": 16,
+          "title": "Mbodi AI (YC P25) Is Hiring",
+          "score": 1,
+          "author": "chitianhao",
+          "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls"
+        },
+        {
+          "rank": 17,
+          "title": "Electrical Transformer Manufacturing Is Throttling the Electrified Future",
+          "score": 18,
+          "author": "toomuchtodo",
+          "comments": 4,
+          "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/"
+        },
+        {
+          "rank": 18,
+          "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+          "score": 243,
+          "author": "eichin",
+          "comments": 151,
+          "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://mtlynch.io/claude-code-found-linux-vulnerability/"
+        },
+        {
+          "rank": 19,
+          "title": "What life looks like on the most remote inhabited island",
+          "score": 35,
+          "author": "brightbeige",
+          "comments": 7,
+          "url": "https://apps.npr.org/life-on-tristan-da-cunha/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://apps.npr.org/life-on-tristan-da-cunha/"
+        },
+        {
+          "rank": 20,
+          "title": "The most-disliked people in the publishing industry",
+          "score": 70,
+          "author": "Caiero",
+          "comments": 23,
+          "url": "https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing"
+        },
+        {
+          "rank": 21,
+          "title": "When legal sports betting surges, so do Americans' financial problems",
+          "score": 37,
+          "author": "pseudolus",
+          "comments": 16,
+          "url": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy"
+        },
+        {
+          "rank": 22,
+          "title": "OpenClaw privilege escalation vulnerability",
+          "score": 484,
+          "author": "kykeonaut",
+          "comments": 223,
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579"
+        },
+        {
+          "rank": 23,
+          "title": "iNaturalist",
+          "score": 500,
+          "author": "bookofjoe",
+          "comments": 119,
+          "url": "https://www.inaturalist.org/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://www.inaturalist.org/"
+        },
+        {
+          "rank": 24,
+          "title": "Herbie: Automatically improve imprecise floating point formulas",
+          "score": 183,
+          "author": "summarity",
+          "comments": 33,
+          "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://herbie.uwplse.org/doc/latest/tutorial.html"
+        },
+        {
+          "rank": 25,
+          "title": "Astronomers Find a Third Galaxy Missing Its Dark Matter",
+          "score": 9,
+          "author": "gostsamo",
+          "comments": 1,
+          "url": "https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory"
+        },
+        {
+          "rank": 26,
+          "title": "Run Linux containers on Android, no root required",
+          "score": 197,
+          "author": "politelemon",
+          "comments": 71,
+          "url": "https://github.com/ExTV/Podroid",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://github.com/ExTV/Podroid"
+        },
+        {
+          "rank": 27,
+          "title": "Why the Most Valuable Things You Know Are Things You Cannot Say",
+          "score": 12,
+          "author": "nr378",
+          "comments": 1,
+          "url": "https://deadneurons.substack.com/p/why-the-most-valuable-things-you",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://deadneurons.substack.com/p/why-the-most-valuable-things-you"
+        },
+        {
+          "rank": 28,
+          "title": "The smallest ELF executable (2021)",
+          "score": 32,
+          "author": "michelangelo",
+          "comments": 1,
+          "url": "https://nathanotterness.com/2021/10/tiny_elf_modernized.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://nathanotterness.com/2021/10/tiny_elf_modernized.html"
+        },
+        {
+          "rank": 29,
+          "title": "Improving my focus by giving up my big monitor",
+          "score": 164,
+          "author": "Fudgel",
+          "comments": 161,
+          "url": "https://ounapuu.ee/posts/2026/04/01/focus/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://ounapuu.ee/posts/2026/04/01/focus/"
+        },
+        {
+          "rank": 30,
+          "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+          "score": 377,
+          "author": "denssumesh",
+          "comments": 144,
+          "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
+        }
+      ]
+    },
+    "github": {
+      "count": 8,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Blaizzy /mlx-vlm",
+          "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+          "url": "https://github.com/Blaizzy/mlx-vlm",
+          "language": "Python",
+          "stars": 3484,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "onyx-dot-app /onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "language": "Python",
+          "stars": 24004,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "Yeachan-Heo /oh-my-codex",
+          "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+          "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+          "language": "TypeScript",
+          "stars": 15329,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "siddharthvaddem /openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "language": "TypeScript",
+          "stars": 19259,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "telegramdesktop /tdesktop",
+          "description": "Telegram Desktop messaging app",
+          "url": "https://github.com/telegramdesktop/tdesktop",
+          "language": "C++",
+          "stars": 30772,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "block /goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "url": "https://github.com/block/goose",
+          "language": "Rust",
+          "stars": 35513,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "microsoft /agent-framework",
+          "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+          "url": "https://github.com/microsoft/agent-framework",
+          "language": "Python",
+          "stars": 8627,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "sherlock-project /sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "language": "Python",
+          "stars": 79152,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "What kind of productivity tools do you use, if any?",
+          "description": "<p>This is something I obsess about.\nWhat tools do you use to keep track of things, in projects and so on?\nTasks, notes, calendars, anything to help your mind to remember and learn.</p>\n<p>I am always curious about new tools people may be using, for\ntask management to note taking.</p>\n<p>My current tools are:</p>\n<ul>\n<li>\n<a href=\"https://apps.nextcloud.com/apps/calendar\" rel=\"ugc\">Nextcloud Calendar</a> for basic calendar use</li>\n<li>\n<a href=\"http://todotxt.org/\" rel=\"ugc\">todo.txt</a> with <a href=\"https://flathub.org/en/apps/org.kde.komodo\" rel=\"ugc\">KomoDo</a> and <a href=\"https://github.com/tmaegel/ntodotxt\" rel=\"ugc\">ntodotxt</a>\n</li>\n<li>\n<a href=\"https://apps.kde.org/kate/\" rel=\"ugc\">Kate</a> text editor for notetaking (using it with <a href=\"https://akselmo.dev/posts/how-i-use-kate-editor/#snippets\" rel=\"ugc\">snippets</a> so I have quick links and such that way)</li>\n<li>\n<a href=\"https://remarkable.com/products/remarkable-2\" rel=\"ugc\">reMarkable 2</a> for handwritten notes and journaling, though I don't use it as often as I'd like</li>\n</ul>\n",
+          "url": "",
+          "score": 8,
+          "comments": 12,
+          "tags": [
+            "ask",
+            "practices"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+          "description": "",
+          "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+          "score": 69,
+          "comments": 19,
+          "tags": [
+            "security",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Your code is worthless",
+          "description": "",
+          "url": "https://nathanielfishel.substack.com/p/your-code-is-worthless",
+          "score": 32,
+          "comments": 7,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "The Feature That Has Never Worked · A broken auto-live poller, and what perceived urgency does to Claude Code",
+          "description": "",
+          "url": "https://christophermeiklejohn.com/ai/zabriskie/reliability/2026/04/03/the-feature-that-has-never-worked.html",
+          "score": 11,
+          "comments": 5,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Slap: Functional Concatenative Language... with a Borrow Checker?",
+          "description": "",
+          "url": "https://taylor.town/slap-000",
+          "score": 81,
+          "comments": 12,
+          "tags": [
+            "concatenative",
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Where can I find the old internet?",
+          "description": "<p>It's a very poorly phrased question, sorry. The best I can do is this example:</p>\n<p>I'm reading a book called Phule's Company and got interested in a particular aspect of it and started to research the book then the author. Soon I was knee deep searching why he was in trouble with the IRS and, to my surprise, found answers (The IRS caught him for back taxes and he arranged for only his single-authored works to be garnished. So his later output was all jointly authored).</p>\n<p>During this lovely rabbit hole dig I ran into a page that seems to be a bit like a corner of a four dimensional object sticking out into our (modern internet) universe.</p>\n<p>It seems to be a copy of \"Alt.Fan.Asprin\" which is usenet, which came before my time I think. I can only see that page. I can't go to the top domain.</p>\n<p>It is a whole page full of lovingly organized minutiae about an obscure thing.\nI didn't post the address out of a peculiar fear of invading someone's peace. It's silly, I know.</p>\n<p>It reminded me of an internet that I have begun to miss. It's an internet that often doesn't show up in web searches, it is an internet where the taint and pressure of money is quite minimal. It is an internet driven by quirky people who seem to hyperfocus on one particular thing. They spend their time writing up things/creating things, just for the love of it, and then put it up.</p>\n<p>I liked that internet better, and I kind of pine for it.</p>\n<p>Sorry, I'm rambling, and probably rambling worse than usual, but perhaps someone knows what I'm talking about.</p>\n",
+          "url": "",
+          "score": 14,
+          "comments": 12,
+          "tags": [
+            "ask",
+            "culture"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Lisette — Rust syntax, Go runtime",
+          "description": "",
+          "url": "https://lisette.run",
+          "score": 56,
+          "comments": 30,
+          "tags": [
+            "go",
+            "plt",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Embarrassingly Simple Self-Distillation Improves Code Generation",
+          "description": "",
+          "url": "https://arxiv.org/abs/2604.01193",
+          "score": 5,
+          "comments": 1,
+          "tags": [
+            "ai"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Adobe wrote to my hosts file",
+          "description": "",
+          "url": "https://www.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/",
+          "score": 74,
+          "comments": 18,
+          "tags": [
+            "design"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Why Lean?",
+          "description": "",
+          "url": "https://leodemoura.github.io/blog/2026-4-2-why-lean/",
+          "score": 5,
+          "comments": 2,
+          "tags": [
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Why Nobody Can Verify What Booted Your Server",
+          "description": "",
+          "url": "https://unmitigatedrisk.com/?p=1231",
+          "score": 24,
+          "comments": 1,
+          "tags": [
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Making a Type Checker/LSP for Nix",
+          "description": "",
+          "url": "https://johns.codes/blog/making-a-type-checker-lsp-for-nix",
+          "score": 21,
+          "comments": 0,
+          "tags": [
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "Baby’s Second Garbage Collector",
+          "description": "",
+          "url": "https://www.matheusmoreira.com/articles/babys-second-garbage-collector",
+          "score": 19,
+          "comments": 3,
+          "tags": [
+            "compsci"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "Build your own Dial-up ISP with a Raspberry Pi",
+          "description": "",
+          "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
+          "score": 27,
+          "comments": 8,
+          "tags": [
+            "networking",
+            "retrocomputing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Idiomatic Lisp and the nbody benchmark",
+          "description": "",
+          "url": "https://www.stylewarning.com/posts/nbody/",
+          "score": 44,
+          "comments": 2,
+          "tags": [
+            "lisp",
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "SSH certificates: the better SSH experience",
+          "description": "",
+          "url": "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/",
+          "score": 46,
+          "comments": 8,
+          "tags": [
+            "linux"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Absurd In Production",
+          "description": "",
+          "url": "https://lucumr.pocoo.org/2026/4/4/absurd-in-production/",
+          "score": 3,
+          "comments": 0,
+          "tags": [
+            "databases"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Legibility is Ruining You",
+          "description": "",
+          "url": "https://jimmyhmiller.com/legibility-is-ruining-you",
+          "score": 17,
+          "comments": 4,
+          "tags": [
+            "culture"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Functional Algorithms, Verified",
+          "description": "",
+          "url": "https://www21.in.tum.de/teaching/fds/SS21/assets/book-draft.pdf",
+          "score": 8,
+          "comments": 0,
+          "tags": [
+            "formalmethods",
+            "pdf",
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "Rails on the BEAM",
+          "description": "",
+          "url": "https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html",
+          "score": 9,
+          "comments": 4,
+          "tags": [
+            "elixir",
+            "javascript",
+            "ruby"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 58,
+    "hackernews": 30,
+    "github": 8,
+    "lobsters": 20
+  }
+}

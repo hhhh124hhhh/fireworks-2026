@@ -1,0 +1,23 @@
+# Sync logs
+*.log
+sync.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+
+# OpenClaw runtime (not part of workspace definition)
+tmp/
+chrome-profile*/
+openclaw/
+user-data/
+
+# Backup files
+*.bak.*
+
+# Secrets (never commit)
+config/secrets/

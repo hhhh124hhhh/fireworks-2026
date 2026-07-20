@@ -1,0 +1,860 @@
+{
+  "timestamp": "2026-06-17 02:00:10",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Running local models is good now",
+          "score": 495,
+          "author": "jfb",
+          "comments": 242,
+          "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/"
+        },
+        {
+          "rank": 2,
+          "title": "Claude: Elevated errors across many models",
+          "score": 68,
+          "author": "forks",
+          "comments": 35,
+          "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://status.claude.com/incidents/xmhsglsz3h3w"
+        },
+        {
+          "rank": 3,
+          "title": "SpaceX to buy Cursor for $60B",
+          "score": 468,
+          "author": "itsmarcelg",
+          "comments": 809,
+          "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/"
+        },
+        {
+          "rank": 4,
+          "title": "Mechanical Watch (2022)",
+          "score": 502,
+          "author": "razin",
+          "comments": 93,
+          "url": "https://ciechanow.ski/mechanical-watch/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://ciechanow.ski/mechanical-watch/"
+        },
+        {
+          "rank": 5,
+          "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+          "score": 47,
+          "author": "mrshu",
+          "comments": 24,
+          "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/"
+        },
+        {
+          "rank": 6,
+          "title": "Gamers beware: malicious wallpapers on Steam found stealing accounts",
+          "score": 23,
+          "author": "speckx",
+          "comments": 7,
+          "url": "https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/"
+        },
+        {
+          "rank": 7,
+          "title": "Making ast.walk 220x Faster",
+          "score": 35,
+          "author": "palashawas",
+          "comments": 7,
+          "url": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/"
+        },
+        {
+          "rank": 8,
+          "title": "SubQ 1.1 Small",
+          "score": 66,
+          "author": "EDM115",
+          "comments": 31,
+          "url": "https://subq.ai/subq-1-1-small-technical-report",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://subq.ai/subq-1-1-small-technical-report"
+        },
+        {
+          "rank": 9,
+          "title": "But yak shaving is fun",
+          "score": 78,
+          "author": "parksb",
+          "comments": 20,
+          "url": "https://parksb.github.io/en/article/32.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://parksb.github.io/en/article/32.html"
+        },
+        {
+          "rank": 10,
+          "title": "After AI Takes Everything",
+          "score": 41,
+          "author": "speckx",
+          "comments": 12,
+          "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://ursb.me/en/posts/after-ai-takes-everything/"
+        },
+        {
+          "rank": 11,
+          "title": "Apple's weird anti-nausea dots cured my car sickness",
+          "score": 159,
+          "author": "neilfrndes",
+          "comments": 57,
+          "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work"
+        },
+        {
+          "rank": 12,
+          "title": "Correlated randomness in Slay the Spire 2",
+          "score": 219,
+          "author": "rdmuser",
+          "comments": 65,
+          "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://tck.mn/blog/correlated-randomness-sts2/"
+        },
+        {
+          "rank": 13,
+          "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+          "score": 740,
+          "author": "apitman",
+          "comments": 357,
+          "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226"
+        },
+        {
+          "rank": 14,
+          "title": "Formal Methods and the Future of Programming",
+          "score": 16,
+          "author": "nextos",
+          "comments": 1,
+          "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/"
+        },
+        {
+          "rank": 15,
+          "title": "The octopus architecture for AI agents",
+          "score": 6,
+          "author": "joshbetz",
+          "comments": 1,
+          "url": "https://blog.goodman.dev/blog/octopus-agent-architecture/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://blog.goodman.dev/blog/octopus-agent-architecture/"
+        },
+        {
+          "rank": 16,
+          "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+          "score": 446,
+          "author": "paulmooreparks",
+          "comments": 140,
+          "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419"
+        },
+        {
+          "rank": 17,
+          "title": "Why is Meta destroying its engineering organization?",
+          "score": 63,
+          "author": "throwarayes",
+          "comments": 23,
+          "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering"
+        },
+        {
+          "rank": 18,
+          "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+          "score": 40,
+          "author": "ilreb",
+          "comments": 1,
+          "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://qwen.ai/blog?id=qwen-robotsuite"
+        },
+        {
+          "rank": 19,
+          "title": "An interview with an Apple emoji designer",
+          "score": 70,
+          "author": "nate",
+          "comments": 35,
+          "url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/"
+        },
+        {
+          "rank": 20,
+          "title": "Specs Augmented Reality Glasses",
+          "score": 15,
+          "author": "haberdasher",
+          "comments": 3,
+          "url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses"
+        },
+        {
+          "rank": 21,
+          "title": "'Ghost jobs' could soon be illegal in New York",
+          "score": 32,
+          "author": "toomuchtodo",
+          "comments": 7,
+          "url": "https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york"
+        },
+        {
+          "rank": 22,
+          "title": "Unicorn – The Ultimate CPU Emulator",
+          "score": 65,
+          "author": "tosh",
+          "comments": 19,
+          "url": "https://www.unicorn-engine.org/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://www.unicorn-engine.org/"
+        },
+        {
+          "rank": 23,
+          "title": "Getting Creative with Perlin Noise Fields",
+          "score": 127,
+          "author": "0x000xca0xfe",
+          "comments": 20,
+          "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields"
+        },
+        {
+          "rank": 24,
+          "title": "Banned book library in a wi-fi smart light bulb",
+          "score": 545,
+          "author": "sohkamyung",
+          "comments": 322,
+          "url": "https://www.richardosgood.com/posts/banned-book-library/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://www.richardosgood.com/posts/banned-book-library/"
+        },
+        {
+          "rank": 25,
+          "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
+          "score": 473,
+          "author": "_tk_",
+          "comments": 286,
+          "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827"
+        },
+        {
+          "rank": 26,
+          "title": "The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat",
+          "score": 146,
+          "author": "Cider9986",
+          "comments": 49,
+          "url": "https://www.rferl.org/a/the-manhoff-archive/28359558.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://www.rferl.org/a/the-manhoff-archive/28359558.html"
+        },
+        {
+          "rank": 27,
+          "title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
+          "score": 26,
+          "author": "laxmena",
+          "comments": 8,
+          "url": "https://twitter.com/fguzmanai/status/2065832668172845209",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://twitter.com/fguzmanai/status/2065832668172845209"
+        },
+        {
+          "rank": 28,
+          "title": "I hacked into the worst e-bike and fixed it [video]",
+          "score": 160,
+          "author": "alexis-d",
+          "comments": 80,
+          "url": "https://www.youtube.com/watch?v=hPrtVGimBYs",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://www.youtube.com/watch?v=hPrtVGimBYs"
+        },
+        {
+          "rank": 29,
+          "title": "Making espresso with ultrasound",
+          "score": 57,
+          "author": "darktoto",
+          "comments": 59,
+          "url": "https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso"
+        },
+        {
+          "rank": 30,
+          "title": "A backdoor in a LinkedIn job offer",
+          "score": 1500,
+          "author": "lwhsiao",
+          "comments": 282,
+          "url": "https://roman.pt/posts/linkedin-backdoor/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://roman.pt/posts/linkedin-backdoor/"
+        }
+      ]
+    },
+    "github": {
+      "count": 13,
+      "items": [
+        {
+          "rank": 1,
+          "title": "freeCodeCamp /freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "language": "TypeScript",
+          "stars": 448417,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "swc-project /swc",
+          "description": "Rust-based platform for the Web",
+          "url": "https://github.com/swc-project/swc",
+          "language": "Rust",
+          "stars": 33934,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "teslamate-org /teslamate",
+          "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "language": "Elixir",
+          "stars": 8376,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "iptv-org /iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "url": "https://github.com/iptv-org/iptv",
+          "language": "TypeScript",
+          "stars": 123853,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "puppeteer /puppeteer",
+          "description": "JavaScript API for Chrome and Firefox",
+          "url": "https://github.com/puppeteer/puppeteer",
+          "language": "TypeScript",
+          "stars": 94837,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "meshery /meshery",
+          "description": "Meshery, the cloud native manager",
+          "url": "https://github.com/meshery/meshery",
+          "language": "TypeScript",
+          "stars": 10795,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "cypress-io /cypress",
+          "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+          "url": "https://github.com/cypress-io/cypress",
+          "language": "TypeScript",
+          "stars": 50143,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "music-assistant /server",
+          "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan",
+          "url": "https://github.com/music-assistant/server",
+          "language": "Python",
+          "stars": 2517,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "Universal-Debloater-Alliance /universal-android-debloater-next-generation",
+          "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "language": "Rust",
+          "stars": 7192,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "OpenBMB /VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "language": "Python",
+          "stars": 30055,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "alibaba /zvec",
+          "description": "A lightweight, lightning-fast, in-process vector database",
+          "url": "https://github.com/alibaba/zvec",
+          "language": "C++",
+          "stars": 10372,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "rmyndharis /OpenWA",
+          "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "language": "TypeScript",
+          "stars": 8975,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "n0-computer /iroh",
+          "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+          "url": "https://github.com/n0-computer/iroh",
+          "language": "Rust",
+          "stars": 9188,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "KDE Plasma 6.7 released",
+          "description": "",
+          "url": "https://kde.org/announcements/plasma/6/6.7.0/",
+          "score": 46,
+          "comments": 11,
+          "tags": [
+            "linux",
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "A backdoor in a LinkedIn job offer",
+          "description": "",
+          "url": "https://roman.pt/posts/linkedin-backdoor/",
+          "score": 26,
+          "comments": 3,
+          "tags": [
+            "security",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "FreeBSD 15 on a Laptop",
+          "description": "",
+          "url": "https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/",
+          "score": 56,
+          "comments": 11,
+          "tags": [
+            "freebsd"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "What job interviews taught me about Kubernetes",
+          "description": "",
+          "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+          "score": 36,
+          "comments": 28,
+          "tags": [
+            "devops",
+            "distributed"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "The time the x86 emulator team found code so bad that they fixed it during emulation",
+          "description": "",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+          "score": 28,
+          "comments": 9,
+          "tags": [
+            "historical",
+            "windows"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Banned book library in a Wi-Fi lightbulb",
+          "description": "",
+          "url": "https://www.richardosgood.com/posts/banned-book-library/",
+          "score": 48,
+          "comments": 10,
+          "tags": [
+            "hardware",
+            "reversing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "curl summer of bliss",
+          "description": "",
+          "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+          "score": 255,
+          "comments": 21,
+          "tags": [
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "How memory safety CVEs differ between Rust and C/C++",
+          "description": "",
+          "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+          "score": 11,
+          "comments": 13,
+          "tags": [
+            "c",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Google Chrome's next update will mark the end of popular ad blockers",
+          "description": "",
+          "url": "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/",
+          "score": 8,
+          "comments": 2,
+          "tags": [
+            "browsers"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme",
+          "description": "",
+          "url": "https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/",
+          "score": 25,
+          "comments": 0,
+          "tags": [
+            "design"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Iroh 1.0 - Dial Keys, not IPs",
+          "description": "",
+          "url": "https://www.iroh.computer/blog/v1",
+          "score": 75,
+          "comments": 42,
+          "tags": [
+            "distributed",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Lobsters Interview with Claudius",
+          "description": "<p><a href=\"https://lobste.rs/~Claudius\" rel=\"ugc\">@Claudius</a> maintains <a href=\"https://github.com/naver/lispe\" rel=\"ugc\">LispE</a> and previously <a href=\"https://github.com/naver/tamgu\" rel=\"ugc\">TAMGU</a> at Naver, combining <a href=\"https://github.com/naver/lispe/wiki/5.3-A-la-APL\" rel=\"ugc\">array</a> and logic programming with <a href=\"https://github.com/naver/lispe/wiki/5.4-A-la-Haskell\" rel=\"ugc\">Haskell features</a>. (N.b. the <a href=\"https://github.com/naver/lispe/wiki\" rel=\"ugc\">wiki</a> holds the documentation and articles.)</p>\n<p>In this interview, we discuss Lisp and Prolog implementations, array languages, symbolic (<a href=\"https://en.wikipedia.org/wiki/GOFAI\" rel=\"ugc\">GOFAI</a>) and neuro-symbolic AI.</p>\n<hr>\n<p><strong>How did you discover programming, come to pursue a PhD etc.?</strong></p>\n<p>It's not exactly a recent adventure; I started in 1980 when my father bought a computer for Christmas. Learning Basic, I faced a lot of problems because I didn't really speak English, which most of the documentation was written in. I spent a lot of time trying to understand what the <code>set</code> command did (put a cell on the screen, on this machine.) Then I learned to program the <a href=\"https://en.wikipedia.org/wiki/Zilog_Z80\" rel=\"ugc\">Z80</a> processor in machine language and decided to pursue computer science. I got a masters degree from <a href=\"https://en.wikipedia.org/wiki/Pierre_and_Marie_Curie_University\" rel=\"ugc\">Paris VI</a>. In 1989, I moved to Montreal and started a PhD in computational linguistics. New symbolic ways of implementing grammars were really hot.</p>\n<p>I implemented a parser for my PhD thesis which was weird, because the rule system was not based on pure context-free grammars, but a set of categories which could appear on the right-hand side of your rule. People had been hunting for ways to speed this up and the solution was quite silly: Consider each category as a separate 64-bit vector, a long integer, and for each rule tag categories on the right, replacing the categories by their position on the bit vector where the value would become the index of the rule, so you could find the rule to apply from the index.</p>\n<p>From there, I was recruited by PARC's sister, the Xerox Research Centre Europe (XRCE) in Grenoble, where I still live. I spent 20 years with Xerox and another 10 with <a href=\"https://www.news.xerox.com/news/NAVER-to-acquire-Xerox-Research-Centre-Europe\" rel=\"ugc\">Naver who bought the lab</a>.</p>\n<p><strong>What's it like working as a researcher? You've published many papers, hold patents etc. which isn't a common route in software.</strong></p>\n<p>Companies only evaluate researchers in 3 ways:</p>\n<ul>\n<li>software</li>\n<li>number of papers published</li>\n<li>patents</li>\n</ul>\n<p>Now, patents or intellectual property aren't what most people think of. In industry, they function as tokens traded between companies for access to other technologies. But their importance is decreasing.</p>\n<p>I've implemented a lot of software across these years. With my PhD in linguistics, I worked with linguists to speed tools up. As an example, on top of my PhD I wrote the <a href=\"https://www.slideserve.com/marla/xerox-incremental-parsing\" rel=\"ugc\">Xerox Incremental Parser (XIP)</a> (summarized <a href=\"https://string.hlt.inesc-id.pt/wiki/XIP\" rel=\"ugc\">here</a> and implemented <a href=\"https://github.com/clauderouxster/XIP\" rel=\"ugc\">here</a>) which could parse 3,000 words per second.</p>\n<p><strong>I've been dwelling on a comment of yours:</strong></p>\n<blockquote>\n<p>I worked for more than 30 years on these systems and they could never work. I implemented a very fast NLP symbolic parser, for which the team I worked with created grammars for 8 languages, including Japanese. In 2007, with a grammar of 60,000 rules, we could parse at a speed of 3000 words/s (see <a href=\"https://github.com/clauderouxster/XIP\" rel=\"ugc\">https://github.com/clauderouxster/XIP</a> for the Open Source version). The parser could extract syntactic dependencies, and could use ontologies. But language is like sand, the more you try to grab, the more you leak. There was a kind of <strong>futility in trying to compress languages into rules, nothing actually scaled up</strong>. Still, we managed to win competitions as late as 2016 with SemEval sentiment analysis, and in 2017, we also ranked first in a legal document extraction campaign organized by IBM, but to no avail. It was a lot of work, and the conclusion was very simple. We had to push our grammars as far as possible into lexical grammars, which eventually LMMs managed to really implement. We discovered very early, that context was all that mattered. We tried to create grammars that would apply to a full paragraph instead of sentences, but then the performance would plummet. The reason why LLM work, is that at each step they compress the whole context into a meaningful vector, which they then used to guide the rest of the generation process. I spent my whole life in the pursuit of a perfect parser with very brilliant people, and <strong>I really find hard to say that not only did we fail, but that LLM is the response we were looking for</strong>. - <a href=\"https://lobste.rs/s/y6e06t/ai_is_impressive_because_we_ve_failed_at#c_tot1rn\" rel=\"ugc\">Claude Roux</a></p>\n</blockquote>\n<p>It was a very nice journey, but sometimes you have to accept the reality of the world: Symbolic methods have been replaced. Even 10 years ago, I could only dream of the AI technologies we have today. I wanted to be able to talk to a computer, to create things just by speaking. Now, I'm trying to apply everything I learned to new methods.</p>\n<p>Talking about agents, I'm now implementing <a href=\"https://github.com/naver/lispe/wiki/6.21-PREDIBAG\" rel=\"ugc\">PREDIBAG</a>, a <a href=\"https://en.wikipedia.org/wiki/Retrieval-augmented_generation\" rel=\"ugc\">retrieval-augmented generation</a> system (RAG), in LispE to help harness/constrain LLMs. It's deterministic with restricted unification.</p>\n<p>So, XIP had dependency rules, connecting nodes from a tree into a dependency like a subject or direct-object dependency in the sentence tree. These were implemented on a first order logic engine, which inspired me to add Prolog to <a href=\"https://github.com/naver/tamgu\" rel=\"ugc\">TAMGU</a>. But this was problematic and complicated, with Prolog's true unification process. Prolog has a problem: The closed-world problem. You can only deal with information in the environment, in the knowledge base. So I wanted something simpler with unification, but also back tracking.</p>\n<p>Now, compiling any language, you start with an AST and Lisp is already an AST... TAMGU's grammar required 400 rules (for <code>for</code>, for <code>while</code>, to instantiate a variable...) The more you want to add and experiment, the more the grammar becomes impossible to manage. (This is Python's problem. They have to concoct ever weirder notations to fit more features in.) But you can do anything in Lisp without modifying the parser at all. You just open a parenthesis, use a function and that's it! Some complain about parentheses, but most languages are just sugar coating on top, some complicated program translating another syntax into the AST. So, I wanted to show someone how TAMGU worked and thought Lisp would be a clearer way... And I discovered the joy of Lisp again! I can experiment with <a href=\"https://github.com/naver/lispe/wiki/5.3-A-la-APL\" rel=\"ugc\">APL</a> or <a href=\"https://github.com/naver/lispe/wiki/5.4-A-la-Haskell\" rel=\"ugc\">Haskell</a> in LispE, whatever I want, because I don't have to deal with extra formalisms!</p>\n<p><strong>What sort of projects did you work on before TAMGU?</strong></p>\n<p>Well, it emerged directly from XIP. We had a 20 linguist team building grammars for English (with 60,000 rules), French, Spanish, Japanese... But corpora were terrible back then, with distinct encodings etc. At first, I integrated the Python interpreter into XIP, with rules calling Python functions. Unfortunately, Python's very strict about mixing encodings with a string and would fail all the time, causing me to develop a language just to solve this... And scope crept until you could build rules on the fly or execute them on top of a grammar. I extracted this language from XIP, rewrote the interpreter a few times, renamed it a few times... In 2020, I wanted to incorporate PyTorch and got a trainee, who needed to know how TAMGU worked, leading me to LispE... In TAMGU, every instruction and data structure is an object (an instance of a C++ object), derived from the same class to live in the same vectors. Every function and every data structure has its own <code>eval</code>.</p>\n<p>Going further back, when I started my PhD, Prolog was the way to work with grammars. But its inventor Alain Colmerauer was a friend of my PhD supervisor, so I discovered it from the implementation side first. I learned many tricks from them like indexing rules on the first argument. When you describe your rules, the first argument becomes an index. When you try to execute a new predicate, you try to see if you can use the predicate's first argument to find out which predicate to test (based on the index). When dealing with language, the first argument would often be a word or category (an atom or string); indexing on them speeds selection up a lot. The knowledge base was also implemented with indexes in the background, so instead of trying every element in your knowledge base, you'd only try the ones indexed on the word you were looking at. <a href=\"https://en.wikipedia.org/wiki/WordNet\" rel=\"ugc\">WordNet</a> is an interesting corpus with its own (inefficient) Prolog implementation; someone said it took about 2 minutes to load it into SWI-Prolog but using this technique I could load it into TAMGU in a few seconds! I don't use RDF and public knowledge bases much anymore though.</p>\n<p>I really loved implementing stuff in Prolog but unfortunately, Prolog couldn't efficiently handle my idea of associating every category with a position in a bit vector. I already worked on PREDIBAG with TAMGU (cf. <a href=\"https://github.com/naver/tamgu/wiki/3.4-PREDIBAG:--Building-Modern-AI-Agents-in-Tamgu's-Prolog\" rel=\"ugc\">the wiki</a>) reaching 98% accuracy for the <a href=\"https://huggingface.co/datasets/openai/gsm8k\" rel=\"ugc\">GSM8K</a> math dataset with Prolog and a model only able to reach 60%. The Prolog program would ask an LLM to create then answer a new question (creating knowledge before using capabilities), then output a Python program and test whether it outputs the dataset's expected values. PREDIBAG was all about using predicates to explore the implicit graph computed by the rules themselves. I'm now trying to bring this to the browser via LispE with its lighter, simpler rules.  It's such a nice way of working with rules; backtracking is very powerful. It means that you have a single entry point (the name of your predicate) with different functions sharing that same name, which the system would sequentially try. To enrich them, you just add a new rule/implementation (instead of <code>if</code> <code>else</code> hell.)</p>\n<p><strong>How does LispE fit into the lab and your efforts?</strong></p>\n<p>I give regular presentations to the other researchers, but I have other tasks I get evaluated for. You have to remember you're getting paid by the company, so the trick's matching the company's goals with my own experiments. I made a proposal and management let me work on PREDIBAG. In the past, the goal was mostly machine translation. After the fall of the Berlin wall, machine translation seemed like the solution to welcoming new countries. I must say I hadn't come up with the best solution, but today machine translation's almost solved.</p>\n<p><strong>In the past I played with GOFAI grammars between Esperanto and Interlingua, two conlangs with regularized grammar. You made a conlang <a href=\"https://europe.naverlabs.com/blog/can-made-up-languages-help-computers-translate-real-ones/\" rel=\"ugc\">Lingvata</a> with case endings etc. as a translation target/assist for machine translation. How did that go?</strong></p>\n<p>At XRCE, we made <a href=\"https://www.redalyc.org/pdf/5157/515751735044.pdf\" rel=\"ugc\">finite-state lexical transducers</a> from dictionaries (e.g. from English to French), which were quite compact. (LispE has a <a href=\"https://github.com/naver/lispe/wiki/5.15-Transducer\" rel=\"ugc\">transducer library</a>.) I studied Latin at school and thought declension (marking subject, object etc. at the end of the word) would help here. (In Spanish, for example, you don't have to use pronouns because the ends of the verb carry the meaning.) If the transducer could systematically identify the attributes of a word based on its ending... So I made a system with XIP to generate a Lingvata sentence!</p>\n<p>These transducers are automatons, graphs. A lot of stuff is common to many branches of the graph, which you want to merge, compressing the lexicon into less than a MB. In the LispE transducer directory, you can create a document with surface and lemma forms. Giving that to the transducer compiler, you get a compressed system you can use throughout the library! I have transducers for many natural languages and can parse a sentence, returning e.g. (man plural noun) for \"men\".</p>\n<p><strong>How did you implement LispE's APL/array features? I was really happy to see function conforming (where you can e.g. <code>(+ '(1 2 3) '(1 2 3) 3)</code>).</strong></p>\n<p>In 1984, I was studying computer science and had <a href=\"https://imag.umontpellier.fr/YvesEscoufier/\" rel=\"ugc\">Yves Escoufier</a> as my statistics professor. The largest factory in Montpellier was an IBM factory which collaborated with Escoufier to implement his statistical methods in APL. I joined that team! Now, we were implementing this on a <em>new</em> computer with a <em>floating-point chip!</em> So I implemented matrix multiplication in assembly for its APL version.</p>\n<p>It was possible to make some very interesting programs on top of it and I kept it in the back of my mind. Implementing LispE, I replaced linked lists with vectors via indirection: A list is a pointer to a buffer, shareable by different lists. When sharing a buffer, you can have your own offset (start) of the buffer. Since I had those arrays, I investigated APL operators like rho, reduce etc. which were more complicated to implement, than I expected.</p>\n<p><em>Eh... Cabuchon! It's my cat. He's playing with... Oh no...</em></p>\n<p>Every year, I try to do some Advent of Code and with the APL operators, many problems become trivial. <a href=\"https://github.com/naver/lispe/blob/457a5938807ae1872d098d5f609672bf2d8c5d80/examples/AdventOfCode2021/day13.lisp#L16\" rel=\"ugc\">Rho, rank, iota</a> are so useful! Because it's Lisp and you don't have to deal with specific formalisms, this is all relatively easy. I did the <a href=\"https://github.com/naver/lispe/wiki/6.20-Conway-Game-of-Life-in-LispE\" rel=\"ugc\">Game of Life</a> in this APL-Lisp too.</p>\n<p><strong>You implemented LispE in C++ with classes, what inspired this approach?</strong></p>\n<p>Because C++ provides you with vtables, which let you make an <code>eval</code> function for every different class. There's an isomorphism between Lisp and the subset of C++ I use.</p>\n<p>Instead of trying to implement something complicated, I tried to leverage vtables as much as possible.</p>\n<p>I implemented a <a href=\"https://github.com/naver/lispe/wiki/6.22-Transpiling-Python-into-LispE\" rel=\"ugc\">subset of Python</a> in LispE to execute Python within LispE, so I understand Python well. When Python was first implemented around 1990, C++ wasn't exactly a thing. So Guido reinvented the vtable; Python uses its own (inefficient) vtable-thing. But modern c++ has so many useful features for handling strings, vectors etc. so you don't have to reroll them yourself.</p>\n<p>I do try to steal features from elsewhere too. I find Rust's notion of borrowing very interesting and inspired by this, in the <a href=\"https://github.com/naver/lispe/tree/master/lispetorch\" rel=\"ugc\">LispE Torch</a> implementation, you can check a structure e.g. a list of integers and transform it into a tensor automatically with 0 copy.</p>\n<p><strong>What other sources of inspiration have you found? You have <a href=\"https://github.com/naver/lispe/wiki/5.3-A-la-APL\" rel=\"ugc\">a la APL</a>, <a href=\"https://github.com/naver/lispe/wiki/5.4-A-la-Haskell\" rel=\"ugc\">Haskell</a>...</strong></p>\n<p>Prolog. Lisp, of course. (The naming conventions like <code>setq</code> come from <a href=\"https://www.paulgraham.com/rootsoflisp.html\" rel=\"ugc\">The Roots of Lisp</a>.) <a href=\"https://github.com/naver/lispe/wiki/5.11-Ontologies\" rel=\"ugc\">ontology</a> stuff based on bit-vectors. Many people work on cool things and I understand things better when I implement them myself.</p>\n<p>I also learned from others' mistakes. The Python API is extremely complex (requiring heroic effort to tame), so the core API is very simple: Just isolate description of your function (a string) with a pointer to an object and it just works.</p>\n<p>LibTorch is a gorgeous API, a real work of art. When I started wrapping it in LispE I was amazed by its quality.</p>\n<p><strong>I discovered LispE from an absolutely <a href=\"https://www.youtube.com/watch?v=aeUt0x7EqPY\" rel=\"ugc\">amazing video</a> showing off its <a href=\"https://github.com/naver/lispe/wiki/7.-Shell\" rel=\"ugc\">awesome shell</a> capabilities. I presume this is your day to day shell. How do you develop APIs and chisel them to perfection?</strong></p>\n<p>Through a lot of pain.</p>\n<p>I've used many APIs in my life and my personal adage is \"never trap yourself\". Implementing complicated things, we often hit a point where we suddenly don't understand what we're doing anymore, stuck in a complicated, intertwined blob of code... I've gone through that a lot. I often have the feeling that someone else wrote those messes, but in fact it was just another me with less experience... So I try to keep things simple. \"Will I be able to read it tomorrow?\"</p>\n<p>Now, the shell interface was very complicated. I didn't want to use <code>curses</code> because it doesn't work on all platforms.</p>\n<p>I don't mean to disparage Python at all, but I was very dissatisfied with the Python REPL; after entering some functions and reaching a happy result, I found myself wanting to create a file out of it. So you can do <code>lispe -e &lt;file name&gt;</code> to start an editor within the <code>lispe</code> interface, place breakpoints etc.</p>\n<p>It's really simple, but I love being able to just type <code>!ls</code> to execute UNIX commands or <code>!v=ls -l</code> to bind <code>ls -l</code>'s output to <code>v</code>. I just wanted to do something for myself, to create something I want to use every day.</p>\n<p>An example of how I try not to trap myself is with naming. There's a function <code>link</code> which lets you rename almost anything (e.g. <code>(link 'plus +)</code>.) (<code>let</code> also works.) But in <a href=\"https://github.com/naver/lispe/blob/85be18784f0347be47256d8f2c8443a51b72e8c8/src/lispe.cxx#L378\" rel=\"ugc\">lispe.cxx</a> (the entrance file to the whole language) <code>set_instruction</code> links surface bindings with numerical IDs (which the compiler actually uses). So you can simply change the names there and recompile LispE with new internal and external names.</p>\n<p><strong>What do you think about neuro-symbolic AI?</strong></p>\n<p>Verifiable rewards have become quite popular, where the system generates a solution verified by an external program, not just looking up the value in a table of outputs but actually executing code.</p>\n<p>It's trendy to throw MCP everywhere (exchanging data with an external server.) In the case of <a href=\"https://github.com/naver/lispe/wiki/6.21-PREDIBAG\" rel=\"ugc\">PREDIBAG</a>, instead of the LLM making all decisions, you can use an intermediary layer (implemented with <code>defpred</code> or LispE's pattern matching rules) tagging the decision to send something to an LLM <em>with a callback function</em> to check whether the output is valid, delegate execution to other components etc. If the system's trying to e.g. import curl, you can already intercept it there. And that's something you can only do with rules. Many people are using other LLMs to \"verify\" others, which carries no guarantee. In industry, you need guarantees that something won't crash your whole system and a traceable system.</p>\n<p>Today, the browser offers maximum security (handling auth, token IDs etc.) and you can use <a href=\"https://github.com/naver/lispe/wiki/6.17-A-WebAssembly-version-of-LispE\" rel=\"ugc\">LispE</a> as a WASM library too. The idea's that instead of running Python code in a Docker container etc. so you can just execute code in the browser sandbox directly.</p>\n<p><strong>Where do you think classic symbolic logic's still a good fit?</strong></p>\n<p>For low memory text generation, I like generating via <a href=\"https://github.com/naver/lispe/blob/master/examples/patterns/dcgfr.lisp\" rel=\"ugc\">grammars</a>. Relatedly, LispE supports unicode (and can e.g. rename everything in <a href=\"https://github.com/naver/lispe/wiki/6.15-Programming-is-Greek-to-me...-Literally\" rel=\"ugc\">Greek</a>.) Nowadays, LLMs can generate such a grammar for you but in the past it took a lot of time and linguists. When working on the Japanese grammar, they were very surprised to be able to use Japanese and quickly began to employ Japanese for dependency names, functions, categories etc. and I couldn't read a single thing!</p>\n<p><strong>You started with Basic, how did you learn C(++)?</strong></p>\n<p>At the time of my PhD, C++ was also the only way to access Mac's graphical environment, so I started to learn it then decided to implement my parser in it too. Of course, I avoid nightmares like multiple inheritance in C++, but it's improved a lot over the years.</p>\n<p>When implementing TAMGU, I was able to reduce the interpreter's complexity step by step, by removing C++ features until it became a Lisp. It's always the same story: Lisp is just an AST. If you keep the AST live in your C++ code, transform it into an evaluation tree, don't try to implement it as byte code (trendy in the 90s) but keep a simple tree where each element will evaluate itself, you end up with something so simple and efficient! In fact, you're just compiling stuff into C++ instances which execute as (fast as) C++. There's a real elegance in Lisp here.</p>\n<p>To illustrate this another way, the output of a (LLM) transformer is a list of probabilities (probable tokens), one of which you select. A complicated language like C++ or Rust have more complicated probability distributions than Lisp, where the fewer tokens following an open parenthesis constitute lower entropy. You can have an opening parenthesis, token or closing parenthesis, that's it.</p>\n<p><strong>How do you leverage LLMs these days?</strong></p>\n<p>LLMs have a lot of knowledge but few competencies. If you constrain them to output knowledge and use that to further constrain results, you'll go far. For context management, I have the system generate <code>log.jsonl</code> and <code>log.py</code> (which queries the other document). Whenever an action is processed (an error's corrected etc.) the system adds something to <code>log.jsonl</code>. If it needs to know what happens, it uses <code>log.py</code> to query and display only the relevant/required information (like a date, errors or attempted fixes) reducing tokens.</p>\n<p>I use LLMs to generate JS UIs, but core LispE doesn't have any AI-generated code because I know the code by heart and LLMs would butcher it and work slower than me.</p>\n<p><strong>With infinite time, what would you like to add to LispE?</strong></p>\n<p>I don't see any ways of improving LispE performance right now; I need external eyes to help. After dealing with the same code over and over, it becomes difficult to push through the fog and find new ideas. The reason LispE's faster than Python is very simple: I provide a list of values. In Python, you only have a list of pointers or a dictionary of pointers; you have to use NumPy if you want vector values, but it's not user friendly.</p>\n<p>When using Python, you're working in 2 worlds at the same time. On the one hand, you have the virtual machine with tokens and bytecode. On the other hand, some C++ library will have no relation to that, making it really hard to understand what's going on, because in fact a large part of it is not actually accessible. In LispE, it will derive everything like the language itself. LispE's list of values are a good example - to release a list of pointers in Python, you must traverse the list and release each element individually while in LispE you can just delete the list and that's it. If something in Python was created by an external library, you have to delete the PyObject and the object within it. When creating a Python library or wrapper, for each object you create, you must make a table implementing the pointers to the functions to delete or create elements. I think this is a good way to validate LLM \"thinking\" before exploring a path further.</p>\n<p>PREDIBAG is my main focus at the moment. You have to forgive an old man, but <strong>I love the poetic justice of bringing Prolog back to AI.</strong></p>\n",
+          "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
+          "score": 14,
+          "comments": 0,
+          "tags": [
+            "interview",
+            "person"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "Correlated randomness in Slay the Spire 2",
+          "description": "",
+          "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+          "score": 19,
+          "comments": 5,
+          "tags": [
+            "games",
+            "math"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "Typst 0.15 contains multitudes",
+          "description": "",
+          "url": "https://typst.app/blog/2026/typst-0.15/",
+          "score": 96,
+          "comments": 10,
+          "tags": [
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "zlib-rs in Firefox",
+          "description": "",
+          "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
+          "score": 9,
+          "comments": 3,
+          "tags": [
+            "browsers",
+            "release",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "NetNewsWire Status",
+          "description": "",
+          "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+          "score": 56,
+          "comments": 4,
+          "tags": [
+            "mac",
+            "swift"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "How Developers React to AI-Scented Blog Posts",
+          "description": "",
+          "url": "https://writethatblog.substack.com/p/dev-reaction-to-ai-blog-posts",
+          "score": 16,
+          "comments": 0,
+          "tags": [
+            "culture",
+            "practices",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Async Task Locals From Scratch",
+          "description": "",
+          "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
+          "score": 5,
+          "comments": 0,
+          "tags": [
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "When float division beats integer division",
+          "description": "",
+          "url": "https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division",
+          "score": 9,
+          "comments": 2,
+          "tags": [
+            "assembly"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "Removing my nix flakes vs guix post",
+          "description": "<p>I have known the author personally for quite a while, I am sad they had to go through this.</p>\n",
+          "url": "https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix",
+          "score": 82,
+          "comments": 57,
+          "tags": [
+            "person"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 63,
+    "hackernews": 30,
+    "github": 13,
+    "lobsters": 20
+  }
+}

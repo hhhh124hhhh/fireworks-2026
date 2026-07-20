@@ -1,0 +1,23 @@
+{
+  "name": "topics",
+  "version": "1.0.0",
+  "description": "Location: `D:\\openclaw-data\\.openclaw\\workspace-shared\\topics\\`",
+  "main": "merge-topics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhhh124hhhh/openclaw-topics-sync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhhh124hhhh/openclaw-topics-sync/issues"
+  },
+  "homepage": "https://github.com/hhhh124hhhh/openclaw-topics-sync#readme",
+  "dependencies": {
+    "chokidar": "^5.0.0"
+  }
+}

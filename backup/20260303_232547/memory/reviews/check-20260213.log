@@ -1,0 +1,18 @@
+=== 检查时间: Fri Feb 13 05:02:42 CST 2026 ===
+审查代理状态:
+/root/clawd/scripts/check-review-agent.sh: line 18: sessions_history: command not found
+
+开发代理状态:
+/root/clawd/scripts/check-review-agent.sh: line 24: sessions_history: command not found
+
+-------------------
+
+=== 检查时间: Fri Feb 13 05:32:39 CST 2026 ===
+审查代理状态:
+/root/clawd/scripts/check-review-agent.sh: line 18: sessions_history: command not found
+
+开发代理状态:
+/root/clawd/scripts/check-review-agent.sh: line 24: sessions_history: command not found
+
+-------------------
+

@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<!-- Google Analytics (GA4) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E25S3PK9M6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E25S3PK9M6');
+</script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SearXNG 自建 - jack</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0e17;
+            --bg-secondary: #111827;
+            --bg-tertiary: #1f2937;
+            --accent-primary: #3b82f6;
+            --accent-secondary: #8b5cf6;
+            --accent-glow: rgba(59, 130, 246, 0.3);
+            --text-primary: #f9fafb;
+            --text-secondary: #9ca3af;
+            --text-muted: #6b7280;
+            --border-color: #374151;
+            --gradient-1: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+            --gradient-2: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Space Grotesk', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .bg-grid {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image:
+                linear-gradient(rgba(59, 130, 246, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(59, 130, 246, 0.03) 1px, transparent 1px);
+            background-size: 60px 60px;
+            animation: gridMove 20s linear infinite;
+            z-index: -2;
+            pointer-events: none;
+        }
+
+        @keyframes gridMove {
+            0% { transform: translate(0, 0); }
+            100% { transform: translate(60px, 60px); }
+        }
+
+        #scroll-progress {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 0%;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+            z-index: 9999;
+            transition: width 0.1s ease;
+            box-shadow: 0 0 10px var(--accent-glow);
+        }
+
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 1.5rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(10, 14, 23, 0.8);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border-color);
+            z-index: 1000;
+        }
+
+        .nav-left {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.875rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: color 0.3s ease;
+        }
+
+        .back-link:hover {
+            color: var(--accent-primary);
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.875rem;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--accent-primary);
+        }
+
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 8rem 2rem 4rem;
+            text-align: center;
+            position: relative;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 2rem;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .badge-dot {
+            width: 8px;
+            height: 8px;
+            background: #10b981;
+            border-radius: 50%;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .hero h1 {
+            font-size: clamp(2.5rem, 7vw, 4.5rem);
+            font-weight: 700;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: fadeInUp 0.8s ease-out 0.2s backwards;
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            color: var(--text-secondary);
+            max-width: 700px;
+            margin-bottom: 3rem;
+            animation: fadeInUp 0.8s ease-out 0.4s backwards;
+        }
+
+        .hero-actions {
+            display: flex;
+            gap: 1rem;
+            animation: fadeInUp 0.8s ease-out 0.6s backwards;
+        }
+
+        .btn {
+            padding: 1rem 2rem;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .btn-primary {
+            background: var(--gradient-1);
+            color: white;
+            border: none;
+            box-shadow: 0 0 30px var(--accent-glow);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 0 40px var(--accent-glow);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--text-primary);
+            border: 1px solid var(--border-color);
+        }
+
+        .btn-secondary:hover {
+            background: var(--bg-tertiary);
+            border-color: var(--accent-primary);
+        }
+
+        .section {
+            padding: 8rem 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .section-title {
+            font-size: clamp(2rem, 5vw, 3rem);
+            font-weight: 700;
+            margin-bottom: 3rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .section-title::before {
+            content: '';
+            width: 4px;
+            height: 3rem;
+            background: var(--gradient-1);
+            border-radius: 2px;
+        }
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            margin-bottom: 4rem;
+        }
+
+        .feature-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 1rem;
+            padding: 2rem;
+            transition: all 0.3s ease;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--accent-primary);
+            box-shadow: 0 0 20px var(--accent-glow);
+        }
+
+        .feature-icon {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .feature-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+        }
+
+        .feature-desc {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+        }
+
+        .setup-step {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 1rem;
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .step-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .step-number {
+            width: 48px;
+            height: 48px;
+            background: var(--gradient-1);
+            border-radius: 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+
+        .step-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+        }
+
+        .code-block {
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+            padding: 1.5rem;
+            margin-top: 1rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.875rem;
+            line-height: 1.8;
+            color: var(--text-secondary);
+            overflow-x: auto;
+        }
+
+        .code-command {
+            color: var(--accent-primary);
+        }
+
+        .code-comment {
+            color: #6b7280;
+        }
+
+        .terminal-mock {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.75rem;
+            overflow: hidden;
+            font-family: 'JetBrains Mono', monospace;
+            margin-bottom: 2rem;
+        }
+
+        .terminal-header {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1rem;
+            background: var(--bg-tertiary);
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .terminal-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+
+        .dot-red { background: #ef4444; }
+        .dot-yellow { background: #f59e0b; }
+        .dot-green { background: #10b981; }
+
+        .terminal-title {
+            flex: 1;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.75rem;
+        }
+
+        .terminal-body {
+            padding: 1.5rem;
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+            line-height: 1.8;
+        }
+
+        .terminal-command {
+            color: var(--accent-primary);
+        }
+
+        .terminal-success {
+            color: #10b981;
+        }
+
+        footer {
+            padding: 3rem 2rem;
+            text-align: center;
+            border-top: 1px solid var(--border-color);
+        }
+
+        footer p {
+            color: var(--text-muted);
+            font-size: 0.875rem;
+        }
+
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .section {
+                padding: 4rem 1.5rem;
+            }
+        }
+
+        .reveal {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.8s ease;
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-grid"></div>
+
+    <div id="scroll-progress"></div>
+
+    <nav>
+        <div class="nav-left">
+            <a href="../" class="back-link">
+                <span class="mono">←</span>
+                <span>返回</span>
+            </a>
+            <div class="logo">SearXNG 自建</div>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#features">功能</a></li>
+            <li><a href="#setup">搭建</a></li>
+            <li><a href="#usage">使用</a></li>
+        </ul>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-badge">
+            <span class="badge-dot"></span>
+            <span>已部署</span>
+        </div>
+        <h1>SearXNG 自建</h1>
+        <p>自建的隐私保护搜索引擎服务，支持多源聚合、自定义过滤和 JSON API。完全控制数据，零外部依赖。</p>
+        <div class="hero-actions">
+            <a href="#setup" class="btn btn-primary">
+                <span>开始搭建</span>
+                <span class="mono">→</span>
+            </a>
+            <a href="http://localhost:8080" target="_blank" class="btn btn-secondary">
+                <span>访问搜索</span>
+                <span class="mono">↗</span>
+            </a>
+        </div>
+    </section>
+
+    <section class="section" id="features">
+        <h2 class="section-title reveal">核心功能</h2>
+        
+        <div class="feature-grid reveal">
+            <div class="feature-card">
+                <div class="feature-icon">🔍</div>
+                <h3 class="feature-title">多源聚合</h3>
+                <p class="feature-desc">聚合多个搜索引擎的结果，包括 Google、Bing、DuckDuckGo、Brave 等，一站式获取信息。</p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon">🔒</div>
+                <h3 class="feature-title">隐私保护</h3>
+                <p class="feature-desc">不跟踪用户，不记录搜索历史，不向第三方泄露数据。完全自主可控。</p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon">⚙️</div>
+                <h3 class="feature-title">自定义过滤</h3>
+                <p class="feature-desc">支持自定义搜索引擎、语言偏好、地区设置、安全搜索级别等。</p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon">📡</div>
+                <h3 class="feature-title">JSON API</h3>
+                <p class="feature-desc">提供 RESTful API，支持程序化访问，方便集成到自动化工作流中。</p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon">🐳</div>
+                <h3 class="feature-title">Docker 部署</h3>
+                <p class="feature-desc">使用 Docker 容器化部署，一键启动，易于维护和迁移。</p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon">🌍</div>
+                <h3 class="feature-title">多语言支持</h3>
+                <p class="feature-desc">支持 100+ 种语言，自动识别搜索意图，返回最相关的结果。</p>
+            </div>
+        </div>
+
+        <div style="background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 1rem; padding: 2rem;" class="reveal">
+            <h3 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1.5rem;">优势对比</h3>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem;">
+                <div>
+                    <h4 style="color: #10b981; font-weight: 600; margin-bottom: 0.5rem;">自建 SearXNG</h4>
+                    <ul style="color: var(--text-secondary); line-height: 2; list-style: none;">
+                        <li style="padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: #10b981;">✓</span>
+                            完全控制数据
+                        </li>
+                        <li style="padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: #10b981;">✓</span>
+                            零外部 API 费用
+                        </li>
+                        <li style="padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: #10b981;">✓</span>
+                            可自定义配置
+                        </li>
+                        <li style="padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: #10b981;">✓</span>
+                            隐私保护
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 style="color: #ef4444; font-weight: 600; margin-bottom: 0.5rem;">外部搜索 API</h4>
+                    <ul style="color: var(--text-secondary); line-height: 2; list-style: none;">
+                        <li style="padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: #ef4444;">✗</span>
+                            数据上传到第三方
+                        </li>
+                        <li style="padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: #ef4444;">✗</span>
+                            API 费用和配额限制
+                        </li>
+                        <li style="padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: #ef4444;">✗</span>
+                            配置受限
+                        </li>
+                        <li style="padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: #ef4444;">✗</span>
+                            隐私担忧
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="setup">
+        <h2 class="section-title reveal">搭建步骤</h2>
+        
+        <div class="setup-step reveal">
+            <div class="step-header">
+                <div class="step-number">1</div>
+                <div class="step-title">安装 Docker</div>
+            </div>
+            <div class="code-block">
+                <div class="code-command">$</div> curl -fsSL https://get.docker.com | sh
+                <div class="code-command">$</div> sudo usermod -aG docker $USER
+            </div>
+        </div>
+
+        <div class="setup-step reveal">
+            <div class="step-header">
+                <div class="step-number">2</div>
+                <div class="step-title">拉取 SearXNG 镜像</div>
+            </div>
+            <div class="code-block">
+                <div class="code-command">$</div> docker pull searxng/searxng:latest
+            </div>
+        </div>
+
+        <div class="setup-step reveal">
+            <div class="step-header">
+                <div class="step-number">3</div>
+                <div class="step-title">启动容器</div>
+            </div>
+            <div class="code-block">
+                <div class="code-command">$</div> docker run -d \
+                &nbsp;&nbsp;&nbsp;&nbsp;-p 8080:8080 \
+                &nbsp;&nbsp;&nbsp;&nbsp;-v /path/to/searxng:/etc/searxng \
+                &nbsp;&nbsp;&nbsp;&nbsp;--name searxng \
+                &nbsp;&nbsp;&nbsp;&nbsp;searxng/searxng:latest
+            </div>
+        </div>
+
+        <div class="setup-step reveal">
+            <div class="step-header">
+                <div class="step-number">4</div>
+                <div class="step-title">访问搜索</div>
+            </div>
+            <div class="code-block">
+                <div class="code-command">$</div> curl http://localhost:8080
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="usage">
+        <h2 class="section-title reveal">使用示例</h2>
+        
+        <div class="terminal-mock reveal">
+            <div class="terminal-header">
+                <div class="terminal-dot dot-red"></div>
+                <div class="terminal-dot dot-yellow"></div>
+                <div class="terminal-dot dot-green"></div>
+                <div class="terminal-title">bash — zsh</div>
+            </div>
+            <div class="terminal-body">
+                <div><span class="terminal-command">$</span> curl "http://localhost:8080/search?q=AI+prompts&format=json"</div>
+                <div class="terminal-success" style="margin-top: 0.5rem;">
+                    {
+                        "query": "AI prompts",
+                        "results": [
+                            {
+                                "title": "Best AI Prompts for 2026",
+                                "url": "https://example.com/best-ai-prompts",
+                                "content": "A comprehensive guide to creating effective AI prompts...",
+                                "engine": "google"
+                            }
+                        ]
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div style="background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 1rem; padding: 2rem;" class="reveal">
+            <h3 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1.5rem;">集成到自动化工作流</h3>
+            <p style="color: var(--text-secondary); line-height: 1.8; margin-bottom: 1.5rem;">
+                SearXNG 提供的 JSON API 可以轻松集成到自动化脚本、 cron 任务、AI 工作流中。无需配置 API 密钥，无需担心费用和配额。
+            </p>
+            <div class="code-block">
+                <div class="code-comment"># 在 Python 中使用</div>
+                <div class="code-command">import</div> requests
+                
+                <div class="code-command">response</div> = requests.get(
+                &nbsp;&nbsp;&nbsp;&nbsp;<span class="code-command">"http://localhost:8080/search"</span>,
+                &nbsp;&nbsp;&nbsp;&nbsp;params={<span class="code-command">"q"</span>: <span class="code-command">"AI prompts"</span>, <span class="code-command">"format"</span>: <span class="code-command">"json"</span>}
+                )
+                <div class="code-command">results</div> = response.json()[<span class="code-command">"results"</span>]
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 jack · SearXNG 自建搜索服务</p>
+        <p style="margin-top: 0.5rem;" class="mono">
+            访问地址: <a href="http://localhost:8080" style="color: var(--accent-primary); text-decoration: none;">http://localhost:8080</a>
+        </p>
+    </footer>
+
+    <script>
+        window.addEventListener('scroll', () => {
+            const scrollProgress = document.getElementById('scroll-progress');
+            const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+            const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            const progress = (scrollTop / scrollHeight) * 100;
+            scrollProgress.style.width = progress + '%';
+        });
+
+        function reveal() {
+            const reveals = document.querySelectorAll('.reveal');
+            reveals.forEach(element => {
+                const windowHeight = window.innerHeight;
+                const elementTop = element.getBoundingClientRect().top;
+                const elementVisible = 150;
+
+                if (elementTop < windowHeight - elementVisible) {
+                    element.classList.add('active');
+                }
+            });
+        }
+
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        window.addEventListener('load', reveal);
+        window.addEventListener('scroll', reveal);
+    </script>
+</body>
+</html>

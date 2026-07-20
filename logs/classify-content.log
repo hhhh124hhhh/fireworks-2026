@@ -1,0 +1,365 @@
+2026-02-05 08:01:13,050 - classify-content - INFO - Starting content classification...
+2026-02-05 08:01:13,051 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/latest.jsonl
+2026-02-05 08:01:13,051 - classify-content - INFO - Loaded 4 items
+2026-02-05 08:01:13,054 - classify-content - INFO - Saving 4 classified items to /root/clawd/data/prompts/classified/classified-20260205-080113.jsonl...
+2026-02-05 08:01:13,054 - classify-content - INFO - Saved 4 classified items to /root/clawd/data/prompts/classified/classified-20260205-080113.jsonl
+2026-02-05 08:01:13,054 - classify-content - INFO - Classification completed: 4 items saved to /root/clawd/data/prompts/classified/classified-20260205-080113.jsonl
+2026-02-05 08:01:13,054 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260205-080113.json
+2026-02-05 08:11:01,028 - classify-content - INFO - Starting content classification...
+2026-02-05 08:11:01,029 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/prompts-enhanced-20260205-0759.jsonl
+2026-02-05 08:11:01,029 - classify-content - INFO - Loaded 0 items
+2026-02-05 08:11:01,029 - classify-content - INFO - Saving 0 classified items to /root/clawd/data/prompts/classified/classified-20260205-081101.jsonl...
+2026-02-05 08:11:01,029 - classify-content - INFO - Saved 0 classified items to /root/clawd/data/prompts/classified/classified-20260205-081101.jsonl
+2026-02-05 08:11:01,030 - classify-content - INFO - Classification completed: 0 items saved to /root/clawd/data/prompts/classified/classified-20260205-081101.jsonl
+2026-02-05 08:11:01,030 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260205-081101.json
+2026-02-05 08:17:09,084 - classify-content - INFO - Starting content classification...
+2026-02-05 08:17:09,086 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/latest.jsonl
+2026-02-05 08:17:09,092 - classify-content - INFO - Loaded 362 items
+2026-02-05 08:17:09,151 - classify-content - INFO - Saving 362 classified items to /root/clawd/data/prompts/classified/classified-20260205-081709.jsonl...
+2026-02-05 08:17:09,164 - classify-content - INFO - Saved 362 classified items to /root/clawd/data/prompts/classified/classified-20260205-081709.jsonl
+2026-02-05 08:17:09,164 - classify-content - INFO - Classification completed: 362 items saved to /root/clawd/data/prompts/classified/classified-20260205-081709.jsonl
+2026-02-05 08:17:09,165 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260205-081709.json
+2026-02-05 08:27:17,522 - classify-content - INFO - Starting content classification...
+2026-02-05 08:27:17,523 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/prompts-enhanced-20260205-0815.jsonl
+2026-02-05 08:27:17,523 - classify-content - INFO - Loaded 0 items
+2026-02-05 08:27:17,523 - classify-content - INFO - Saving 0 classified items to /root/clawd/data/prompts/classified/classified-20260205-082717.jsonl...
+2026-02-05 08:27:17,523 - classify-content - INFO - Saved 0 classified items to /root/clawd/data/prompts/classified/classified-20260205-082717.jsonl
+2026-02-05 08:27:17,523 - classify-content - INFO - Classification completed: 0 items saved to /root/clawd/data/prompts/classified/classified-20260205-082717.jsonl
+2026-02-05 08:27:17,524 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260205-082717.json
+2026-02-05 11:17:04,127 - classify-content - INFO - Starting content classification...
+2026-02-05 11:17:04,128 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/prompts-enhanced-20260205-0815.jsonl
+2026-02-05 11:17:04,128 - classify-content - INFO - Loaded 0 items
+2026-02-05 11:17:04,128 - classify-content - INFO - Saving 0 classified items to /root/clawd/data/prompts/classified/classified-20260205-111704.jsonl...
+2026-02-05 11:17:04,128 - classify-content - INFO - Saved 0 classified items to /root/clawd/data/prompts/classified/classified-20260205-111704.jsonl
+2026-02-05 11:17:04,128 - classify-content - INFO - Classification completed: 0 items saved to /root/clawd/data/prompts/classified/classified-20260205-111704.jsonl
+2026-02-05 11:17:04,129 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260205-111704.json
+2026-02-05 11:33:22,017 - classify-content - INFO - Starting content classification...
+2026-02-05 11:33:22,018 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/prompts-enhanced-20260205-0815.jsonl
+2026-02-05 11:33:22,018 - classify-content - INFO - Loaded 0 items
+2026-02-05 11:33:22,018 - classify-content - INFO - Saving 0 classified items to /root/clawd/data/prompts/classified/classified-20260205-113322.jsonl...
+2026-02-05 11:33:22,018 - classify-content - INFO - Saved 0 classified items to /root/clawd/data/prompts/classified/classified-20260205-113322.jsonl
+2026-02-05 11:33:22,018 - classify-content - INFO - Classification completed: 0 items saved to /root/clawd/data/prompts/classified/classified-20260205-113322.jsonl
+2026-02-05 11:33:22,019 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260205-113322.json
+2026-02-05 12:48:54,185 - classify-content - INFO - Starting content classification...
+2026-02-05 12:48:54,186 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/prompts-enhanced-20260205-0815.jsonl
+2026-02-05 12:48:54,186 - classify-content - INFO - Loaded 0 items
+2026-02-05 12:48:54,186 - classify-content - INFO - Saving 0 classified items to /root/clawd/data/prompts/classified/classified-20260205-124854.jsonl...
+2026-02-05 12:48:54,186 - classify-content - INFO - Saved 0 classified items to /root/clawd/data/prompts/classified/classified-20260205-124854.jsonl
+2026-02-05 12:48:54,186 - classify-content - INFO - Classification completed: 0 items saved to /root/clawd/data/prompts/classified/classified-20260205-124854.jsonl
+2026-02-05 12:48:54,186 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260205-124854.json
+2026-02-05 12:57:46,884 - classify-content - INFO - Starting content classification...
+2026-02-05 12:57:46,884 - classify-content - INFO - Using collected.jsonl (newer than files in collected/)
+2026-02-05 12:57:46,885 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected.jsonl
+2026-02-05 12:57:46,893 - classify-content - INFO - Loaded 601 items
+2026-02-05 12:57:46,981 - classify-content - INFO - Saving 601 classified items to /root/clawd/data/prompts/classified/classified-20260205-125746.jsonl...
+2026-02-05 12:57:47,002 - classify-content - INFO - Saved 601 classified items to /root/clawd/data/prompts/classified/classified-20260205-125746.jsonl
+2026-02-05 12:57:47,003 - classify-content - INFO - Classification completed: 601 items saved to /root/clawd/data/prompts/classified/classified-20260205-125746.jsonl
+2026-02-05 12:57:47,003 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260205-125746.json
+2026-02-05 13:03:50,732 - classify-content - INFO - Starting content classification...
+2026-02-05 13:03:50,733 - classify-content - INFO - Using latest file from collected/
+2026-02-05 13:03:50,733 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260205-130350.jsonl
+2026-02-05 13:03:50,752 - classify-content - INFO - Loaded 980 items
+2026-02-05 13:03:51,012 - classify-content - INFO - Saving 980 classified items to /root/clawd/data/prompts/classified/classified-20260205-130351.jsonl...
+2026-02-05 13:03:51,052 - classify-content - INFO - Saved 980 classified items to /root/clawd/data/prompts/classified/classified-20260205-130351.jsonl
+2026-02-05 13:03:51,054 - classify-content - INFO - Classification completed: 980 items saved to /root/clawd/data/prompts/classified/classified-20260205-130351.jsonl
+2026-02-05 13:03:51,054 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260205-130351.json
+2026-02-05 13:05:20,197 - classify-content - INFO - Starting content classification...
+2026-02-05 13:05:20,198 - classify-content - INFO - Using latest file from collected/
+2026-02-05 13:05:20,198 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260205-130515.jsonl
+2026-02-05 13:05:20,216 - classify-content - INFO - Loaded 980 items
+2026-02-05 13:05:20,466 - classify-content - INFO - Saving 980 classified items to /root/clawd/data/prompts/classified/classified-20260205-130520.jsonl...
+2026-02-05 13:05:20,506 - classify-content - INFO - Saved 980 classified items to /root/clawd/data/prompts/classified/classified-20260205-130520.jsonl
+2026-02-05 13:05:20,507 - classify-content - INFO - Classification completed: 980 items saved to /root/clawd/data/prompts/classified/classified-20260205-130520.jsonl
+2026-02-05 13:05:20,508 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260205-130520.json
+2026-02-05 13:21:16,441 - classify-content - INFO - Starting content classification...
+2026-02-05 13:21:16,441 - classify-content - INFO - Using latest file from collected/
+2026-02-05 13:21:16,441 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260205-132116.jsonl
+2026-02-05 13:21:16,463 - classify-content - INFO - Loaded 1030 items
+2026-02-05 13:21:16,772 - classify-content - INFO - Saving 1030 classified items to /root/clawd/data/prompts/classified/classified-20260205-132116.jsonl...
+2026-02-05 13:21:16,816 - classify-content - INFO - Saved 1030 classified items to /root/clawd/data/prompts/classified/classified-20260205-132116.jsonl
+2026-02-05 13:21:16,818 - classify-content - INFO - Classification completed: 1030 items saved to /root/clawd/data/prompts/classified/classified-20260205-132116.jsonl
+2026-02-05 13:21:16,818 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260205-132116.json
+2026-02-05 14:11:52,846 - classify-content - INFO - Starting content classification...
+2026-02-05 14:11:52,847 - classify-content - INFO - Using latest file from collected/
+2026-02-05 14:11:52,847 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260205-141152.jsonl
+2026-02-05 14:11:52,870 - classify-content - INFO - Loaded 1080 items
+2026-02-05 14:11:53,236 - classify-content - INFO - Saving 1080 classified items to /root/clawd/data/prompts/classified/classified-20260205-141153.jsonl...
+2026-02-05 14:11:53,283 - classify-content - INFO - Saved 1080 classified items to /root/clawd/data/prompts/classified/classified-20260205-141153.jsonl
+2026-02-05 14:11:53,285 - classify-content - INFO - Classification completed: 1080 items saved to /root/clawd/data/prompts/classified/classified-20260205-141153.jsonl
+2026-02-05 14:11:53,286 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260205-141153.json
+2026-02-05 14:46:54,384 - classify-content - INFO - Starting content classification...
+2026-02-05 14:46:54,385 - classify-content - INFO - Using latest file from collected/
+2026-02-05 14:46:54,385 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260205-144654.jsonl
+2026-02-05 14:46:54,409 - classify-content - INFO - Loaded 1100 items
+2026-02-05 14:46:54,827 - classify-content - INFO - Saving 1100 classified items to /root/clawd/data/prompts/classified/classified-20260205-144654.jsonl...
+2026-02-05 14:46:54,876 - classify-content - INFO - Saved 1100 classified items to /root/clawd/data/prompts/classified/classified-20260205-144654.jsonl
+2026-02-05 14:46:54,878 - classify-content - INFO - Classification completed: 1100 items saved to /root/clawd/data/prompts/classified/classified-20260205-144654.jsonl
+2026-02-05 14:46:54,878 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260205-144654.json
+2026-02-19 09:12:54,480 - classify-content - INFO - Starting content classification...
+2026-02-19 09:12:54,482 - classify-content - INFO - Using latest file from collected/
+2026-02-19 09:12:54,482 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/prompts-enhanced-20260219-0901.jsonl
+2026-02-19 09:12:54,482 - classify-content - INFO - Loaded 0 items
+2026-02-19 09:12:54,483 - classify-content - INFO - Saving 0 classified items to /root/clawd/data/prompts/classified/classified-20260219-091254.jsonl...
+2026-02-19 09:12:54,483 - classify-content - INFO - Saved 0 classified items to /root/clawd/data/prompts/classified/classified-20260219-091254.jsonl
+2026-02-19 09:12:54,483 - classify-content - INFO - Classification completed: 0 items saved to /root/clawd/data/prompts/classified/classified-20260219-091254.jsonl
+2026-02-19 09:12:54,483 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260219-091254.json
+2026-03-02 09:12:57,782 - classify-content - INFO - Starting content classification...
+2026-03-02 09:12:57,784 - classify-content - INFO - Using latest file from collected/
+2026-03-02 09:12:57,784 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/prompts-enhanced-20260302-0901.jsonl
+2026-03-02 09:12:57,784 - classify-content - INFO - Loaded 0 items
+2026-03-02 09:12:57,784 - classify-content - INFO - Saving 0 classified items to /root/clawd/data/prompts/classified/classified-20260302-091257.jsonl...
+2026-03-02 09:12:57,785 - classify-content - INFO - Saved 0 classified items to /root/clawd/data/prompts/classified/classified-20260302-091257.jsonl
+2026-03-02 09:12:57,785 - classify-content - INFO - Classification completed: 0 items saved to /root/clawd/data/prompts/classified/classified-20260302-091257.jsonl
+2026-03-02 09:12:57,786 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260302-091257.json
+2026-04-02 09:01:25,590 - classify-content - INFO - Starting content classification...
+2026-04-02 09:01:25,591 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260402-090125.jsonl
+2026-04-02 09:01:25,616 - classify-content - INFO - Loaded 1110 items
+2026-04-02 09:01:26,067 - classify-content - INFO - Saving 1110 classified items to /root/clawd/data/prompts/classified/classified-20260402-090126.jsonl...
+2026-04-02 09:01:26,119 - classify-content - INFO - Saved 1110 classified items to /root/clawd/data/prompts/classified/classified-20260402-090126.jsonl
+2026-04-02 09:01:26,121 - classify-content - INFO - Classification completed: 1110 items saved to /root/clawd/data/prompts/classified/classified-20260402-090126.jsonl
+2026-04-02 09:01:26,121 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260402-090126.json
+2026-04-03 09:01:37,568 - classify-content - INFO - Starting content classification...
+2026-04-03 09:01:37,569 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260403-090137.jsonl
+2026-04-03 09:01:37,595 - classify-content - INFO - Loaded 1113 items
+2026-04-03 09:01:38,048 - classify-content - INFO - Saving 1113 classified items to /root/clawd/data/prompts/classified/classified-20260403-090138.jsonl...
+2026-04-03 09:01:38,103 - classify-content - INFO - Saved 1113 classified items to /root/clawd/data/prompts/classified/classified-20260403-090138.jsonl
+2026-04-03 09:01:38,105 - classify-content - INFO - Classification completed: 1113 items saved to /root/clawd/data/prompts/classified/classified-20260403-090138.jsonl
+2026-04-03 09:01:38,106 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260403-090138.json
+2026-04-04 09:01:23,243 - classify-content - INFO - Starting content classification...
+2026-04-04 09:01:23,245 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260404-090123.jsonl
+2026-04-04 09:01:23,271 - classify-content - INFO - Loaded 1117 items
+2026-04-04 09:01:23,739 - classify-content - INFO - Saving 1117 classified items to /root/clawd/data/prompts/classified/classified-20260404-090123.jsonl...
+2026-04-04 09:01:23,789 - classify-content - INFO - Saved 1117 classified items to /root/clawd/data/prompts/classified/classified-20260404-090123.jsonl
+2026-04-04 09:01:23,791 - classify-content - INFO - Classification completed: 1117 items saved to /root/clawd/data/prompts/classified/classified-20260404-090123.jsonl
+2026-04-04 09:01:23,792 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260404-090123.json
+2026-04-07 09:01:32,344 - classify-content - INFO - Starting content classification...
+2026-04-07 09:01:32,346 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260407-090132.jsonl
+2026-04-07 09:01:32,371 - classify-content - INFO - Loaded 1123 items
+2026-04-07 09:01:32,831 - classify-content - INFO - Saving 1123 classified items to /root/clawd/data/prompts/classified/classified-20260407-090132.jsonl...
+2026-04-07 09:01:32,885 - classify-content - INFO - Saved 1123 classified items to /root/clawd/data/prompts/classified/classified-20260407-090132.jsonl
+2026-04-07 09:01:32,886 - classify-content - INFO - Classification completed: 1123 items saved to /root/clawd/data/prompts/classified/classified-20260407-090132.jsonl
+2026-04-07 09:01:32,887 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260407-090132.json
+2026-04-08 09:01:46,570 - classify-content - INFO - Starting content classification...
+2026-04-08 09:01:46,571 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260408-090146.jsonl
+2026-04-08 09:01:46,597 - classify-content - INFO - Loaded 1131 items
+2026-04-08 09:01:47,055 - classify-content - INFO - Saving 1131 classified items to /root/clawd/data/prompts/classified/classified-20260408-090147.jsonl...
+2026-04-08 09:01:47,108 - classify-content - INFO - Saved 1131 classified items to /root/clawd/data/prompts/classified/classified-20260408-090147.jsonl
+2026-04-08 09:01:47,110 - classify-content - INFO - Classification completed: 1131 items saved to /root/clawd/data/prompts/classified/classified-20260408-090147.jsonl
+2026-04-08 09:01:47,110 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260408-090147.json
+2026-04-09 09:01:22,265 - classify-content - INFO - Starting content classification...
+2026-04-09 09:01:22,266 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260409-090122.jsonl
+2026-04-09 09:01:22,295 - classify-content - INFO - Loaded 1133 items
+2026-04-09 09:01:22,755 - classify-content - INFO - Saving 1133 classified items to /root/clawd/data/prompts/classified/classified-20260409-090122.jsonl...
+2026-04-09 09:01:22,812 - classify-content - INFO - Saved 1133 classified items to /root/clawd/data/prompts/classified/classified-20260409-090122.jsonl
+2026-04-09 09:01:22,814 - classify-content - INFO - Classification completed: 1133 items saved to /root/clawd/data/prompts/classified/classified-20260409-090122.jsonl
+2026-04-09 09:01:22,814 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260409-090122.json
+2026-05-03 09:03:06,974 - classify-content - INFO - Starting content classification...
+2026-05-03 09:03:06,976 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260503-090306.jsonl
+2026-05-03 09:03:07,003 - classify-content - INFO - Loaded 1141 items
+2026-05-03 09:03:07,460 - classify-content - INFO - Saving 1141 classified items to /root/clawd/data/prompts/classified/classified-20260503-090307.jsonl...
+2026-05-03 09:03:07,518 - classify-content - INFO - Saved 1141 classified items to /root/clawd/data/prompts/classified/classified-20260503-090307.jsonl
+2026-05-03 09:03:07,520 - classify-content - INFO - Classification completed: 1141 items saved to /root/clawd/data/prompts/classified/classified-20260503-090307.jsonl
+2026-05-03 09:03:07,520 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260503-090307.json
+2026-05-04 09:02:46,486 - classify-content - INFO - Starting content classification...
+2026-05-04 09:02:46,488 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260504-090246.jsonl
+2026-05-04 09:02:46,520 - classify-content - INFO - Loaded 1147 items
+2026-05-04 09:02:47,044 - classify-content - INFO - Saving 1147 classified items to /root/clawd/data/prompts/classified/classified-20260504-090247.jsonl...
+2026-05-04 09:02:47,098 - classify-content - INFO - Saved 1147 classified items to /root/clawd/data/prompts/classified/classified-20260504-090247.jsonl
+2026-05-04 09:02:47,100 - classify-content - INFO - Classification completed: 1147 items saved to /root/clawd/data/prompts/classified/classified-20260504-090247.jsonl
+2026-05-04 09:02:47,103 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260504-090247.json
+2026-05-06 09:01:31,342 - classify-content - INFO - Starting content classification...
+2026-05-06 09:01:31,343 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260506-090131.jsonl
+2026-05-06 09:01:31,372 - classify-content - INFO - Loaded 1157 items
+2026-05-06 09:01:31,844 - classify-content - INFO - Saving 1157 classified items to /root/clawd/data/prompts/classified/classified-20260506-090131.jsonl...
+2026-05-06 09:01:31,901 - classify-content - INFO - Saved 1157 classified items to /root/clawd/data/prompts/classified/classified-20260506-090131.jsonl
+2026-05-06 09:01:31,903 - classify-content - INFO - Classification completed: 1157 items saved to /root/clawd/data/prompts/classified/classified-20260506-090131.jsonl
+2026-05-06 09:01:31,903 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260506-090131.json
+2026-05-07 09:02:36,201 - classify-content - INFO - Starting content classification...
+2026-05-07 09:02:36,204 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260507-090235.jsonl
+2026-05-07 09:02:36,231 - classify-content - INFO - Loaded 1165 items
+2026-05-07 09:02:36,696 - classify-content - INFO - Saving 1165 classified items to /root/clawd/data/prompts/classified/classified-20260507-090236.jsonl...
+2026-05-07 09:02:36,752 - classify-content - INFO - Saved 1165 classified items to /root/clawd/data/prompts/classified/classified-20260507-090236.jsonl
+2026-05-07 09:02:36,754 - classify-content - INFO - Classification completed: 1165 items saved to /root/clawd/data/prompts/classified/classified-20260507-090236.jsonl
+2026-05-07 09:02:36,755 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260507-090236.json
+2026-05-08 09:02:06,307 - classify-content - INFO - Starting content classification...
+2026-05-08 09:02:06,308 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260508-090206.jsonl
+2026-05-08 09:02:06,337 - classify-content - INFO - Loaded 1166 items
+2026-05-08 09:02:06,824 - classify-content - INFO - Saving 1166 classified items to /root/clawd/data/prompts/classified/classified-20260508-090206.jsonl...
+2026-05-08 09:02:06,881 - classify-content - INFO - Saved 1166 classified items to /root/clawd/data/prompts/classified/classified-20260508-090206.jsonl
+2026-05-08 09:02:06,883 - classify-content - INFO - Classification completed: 1166 items saved to /root/clawd/data/prompts/classified/classified-20260508-090206.jsonl
+2026-05-08 09:02:06,884 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260508-090206.json
+2026-05-09 09:01:45,791 - classify-content - INFO - Starting content classification...
+2026-05-09 09:01:45,792 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260509-090145.jsonl
+2026-05-09 09:01:45,821 - classify-content - INFO - Loaded 1178 items
+2026-05-09 09:01:46,307 - classify-content - INFO - Saving 1178 classified items to /root/clawd/data/prompts/classified/classified-20260509-090146.jsonl...
+2026-05-09 09:01:46,365 - classify-content - INFO - Saved 1178 classified items to /root/clawd/data/prompts/classified/classified-20260509-090146.jsonl
+2026-05-09 09:01:46,368 - classify-content - INFO - Classification completed: 1178 items saved to /root/clawd/data/prompts/classified/classified-20260509-090146.jsonl
+2026-05-09 09:01:46,368 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260509-090146.json
+2026-06-02 09:02:03,245 - classify-content - INFO - Starting content classification...
+2026-06-02 09:02:03,247 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260602-090203.jsonl
+2026-06-02 09:02:03,275 - classify-content - INFO - Loaded 1178 items
+2026-06-02 09:02:03,743 - classify-content - INFO - Saving 1178 classified items to /root/clawd/data/prompts/classified/classified-20260602-090203.jsonl...
+2026-06-02 09:02:03,799 - classify-content - INFO - Saved 1178 classified items to /root/clawd/data/prompts/classified/classified-20260602-090203.jsonl
+2026-06-02 09:02:03,801 - classify-content - INFO - Classification completed: 1178 items saved to /root/clawd/data/prompts/classified/classified-20260602-090203.jsonl
+2026-06-02 09:02:03,801 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260602-090203.json
+2026-06-03 09:01:34,516 - classify-content - INFO - Starting content classification...
+2026-06-03 09:01:34,517 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260603-090134.jsonl
+2026-06-03 09:01:34,546 - classify-content - INFO - Loaded 1178 items
+2026-06-03 09:01:35,032 - classify-content - INFO - Saving 1178 classified items to /root/clawd/data/prompts/classified/classified-20260603-090135.jsonl...
+2026-06-03 09:01:35,088 - classify-content - INFO - Saved 1178 classified items to /root/clawd/data/prompts/classified/classified-20260603-090135.jsonl
+2026-06-03 09:01:35,090 - classify-content - INFO - Classification completed: 1178 items saved to /root/clawd/data/prompts/classified/classified-20260603-090135.jsonl
+2026-06-03 09:01:35,090 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260603-090135.json
+2026-06-05 09:01:14,691 - classify-content - INFO - Starting content classification...
+2026-06-05 09:01:14,693 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260605-090114.jsonl
+2026-06-05 09:01:14,722 - classify-content - INFO - Loaded 1178 items
+2026-06-05 09:01:15,205 - classify-content - INFO - Saving 1178 classified items to /root/clawd/data/prompts/classified/classified-20260605-090115.jsonl...
+2026-06-05 09:01:15,262 - classify-content - INFO - Saved 1178 classified items to /root/clawd/data/prompts/classified/classified-20260605-090115.jsonl
+2026-06-05 09:01:15,264 - classify-content - INFO - Classification completed: 1178 items saved to /root/clawd/data/prompts/classified/classified-20260605-090115.jsonl
+2026-06-05 09:01:15,264 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260605-090115.json
+2026-06-06 09:01:23,259 - classify-content - INFO - Starting content classification...
+2026-06-06 09:01:23,261 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260606-090123.jsonl
+2026-06-06 09:01:23,290 - classify-content - INFO - Loaded 1178 items
+2026-06-06 09:01:23,772 - classify-content - INFO - Saving 1178 classified items to /root/clawd/data/prompts/classified/classified-20260606-090123.jsonl...
+2026-06-06 09:01:23,828 - classify-content - INFO - Saved 1178 classified items to /root/clawd/data/prompts/classified/classified-20260606-090123.jsonl
+2026-06-06 09:01:23,830 - classify-content - INFO - Classification completed: 1178 items saved to /root/clawd/data/prompts/classified/classified-20260606-090123.jsonl
+2026-06-06 09:01:23,831 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260606-090123.json
+2026-06-09 09:01:58,651 - classify-content - INFO - Starting content classification...
+2026-06-09 09:01:58,653 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260609-090158.jsonl
+2026-06-09 09:01:58,681 - classify-content - INFO - Loaded 1178 items
+2026-06-09 09:01:59,160 - classify-content - INFO - Saving 1178 classified items to /root/clawd/data/prompts/classified/classified-20260609-090159.jsonl...
+2026-06-09 09:01:59,214 - classify-content - INFO - Saved 1178 classified items to /root/clawd/data/prompts/classified/classified-20260609-090159.jsonl
+2026-06-09 09:01:59,216 - classify-content - INFO - Classification completed: 1178 items saved to /root/clawd/data/prompts/classified/classified-20260609-090159.jsonl
+2026-06-09 09:01:59,217 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260609-090159.json
+2026-06-10 09:01:15,556 - classify-content - INFO - Starting content classification...
+2026-06-10 09:01:15,558 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260610-090115.jsonl
+2026-06-10 09:01:15,594 - classify-content - INFO - Loaded 1178 items
+2026-06-10 09:01:16,085 - classify-content - INFO - Saving 1178 classified items to /root/clawd/data/prompts/classified/classified-20260610-090116.jsonl...
+2026-06-10 09:01:16,144 - classify-content - INFO - Saved 1178 classified items to /root/clawd/data/prompts/classified/classified-20260610-090116.jsonl
+2026-06-10 09:01:16,146 - classify-content - INFO - Classification completed: 1178 items saved to /root/clawd/data/prompts/classified/classified-20260610-090116.jsonl
+2026-06-10 09:01:16,147 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260610-090116.json
+2026-06-11 09:01:32,561 - classify-content - INFO - Starting content classification...
+2026-06-11 09:01:32,562 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260611-090132.jsonl
+2026-06-11 09:01:32,591 - classify-content - INFO - Loaded 1178 items
+2026-06-11 09:01:33,057 - classify-content - INFO - Saving 1178 classified items to /root/clawd/data/prompts/classified/classified-20260611-090133.jsonl...
+2026-06-11 09:01:33,112 - classify-content - INFO - Saved 1178 classified items to /root/clawd/data/prompts/classified/classified-20260611-090133.jsonl
+2026-06-11 09:01:33,114 - classify-content - INFO - Classification completed: 1178 items saved to /root/clawd/data/prompts/classified/classified-20260611-090133.jsonl
+2026-06-11 09:01:33,115 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260611-090133.json
+2026-06-12 09:01:14,117 - classify-content - INFO - Starting content classification...
+2026-06-12 09:01:14,119 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260612-090113.jsonl
+2026-06-12 09:01:14,147 - classify-content - INFO - Loaded 1178 items
+2026-06-12 09:01:14,630 - classify-content - INFO - Saving 1178 classified items to /root/clawd/data/prompts/classified/classified-20260612-090114.jsonl...
+2026-06-12 09:01:14,686 - classify-content - INFO - Saved 1178 classified items to /root/clawd/data/prompts/classified/classified-20260612-090114.jsonl
+2026-06-12 09:01:14,688 - classify-content - INFO - Classification completed: 1178 items saved to /root/clawd/data/prompts/classified/classified-20260612-090114.jsonl
+2026-06-12 09:01:14,688 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260612-090114.json
+2026-06-13 09:00:45,215 - classify-content - INFO - Starting content classification...
+2026-06-13 09:00:45,216 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260613-090045.jsonl
+2026-06-13 09:00:45,244 - classify-content - INFO - Loaded 1188 items
+2026-06-13 09:00:45,710 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260613-090045.jsonl...
+2026-06-13 09:00:45,766 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260613-090045.jsonl
+2026-06-13 09:00:45,768 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260613-090045.jsonl
+2026-06-13 09:00:45,769 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260613-090045.json
+2026-06-14 09:02:10,223 - classify-content - INFO - Starting content classification...
+2026-06-14 09:02:10,225 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260614-090210.jsonl
+2026-06-14 09:02:10,254 - classify-content - INFO - Loaded 1188 items
+2026-06-14 09:02:10,734 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260614-090210.jsonl...
+2026-06-14 09:02:10,793 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260614-090210.jsonl
+2026-06-14 09:02:10,795 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260614-090210.jsonl
+2026-06-14 09:02:10,795 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260614-090210.json
+2026-06-15 09:01:16,303 - classify-content - INFO - Starting content classification...
+2026-06-15 09:01:16,305 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260615-090116.jsonl
+2026-06-15 09:01:16,332 - classify-content - INFO - Loaded 1188 items
+2026-06-15 09:01:16,812 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260615-090116.jsonl...
+2026-06-15 09:01:16,866 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260615-090116.jsonl
+2026-06-15 09:01:16,868 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260615-090116.jsonl
+2026-06-15 09:01:16,868 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260615-090116.json
+2026-06-16 09:01:12,293 - classify-content - INFO - Starting content classification...
+2026-06-16 09:01:12,295 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260616-090112.jsonl
+2026-06-16 09:01:12,324 - classify-content - INFO - Loaded 1188 items
+2026-06-16 09:01:12,810 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260616-090112.jsonl...
+2026-06-16 09:01:12,870 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260616-090112.jsonl
+2026-06-16 09:01:12,872 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260616-090112.jsonl
+2026-06-16 09:01:12,873 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260616-090112.json
+2026-06-17 09:01:28,425 - classify-content - INFO - Starting content classification...
+2026-06-17 09:01:28,427 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260617-090128.jsonl
+2026-06-17 09:01:28,454 - classify-content - INFO - Loaded 1188 items
+2026-06-17 09:01:28,930 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260617-090128.jsonl...
+2026-06-17 09:01:28,985 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260617-090128.jsonl
+2026-06-17 09:01:28,988 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260617-090128.jsonl
+2026-06-17 09:01:28,988 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260617-090128.json
+2026-06-18 09:01:47,780 - classify-content - INFO - Starting content classification...
+2026-06-18 09:01:47,782 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260618-090147.jsonl
+2026-06-18 09:01:47,817 - classify-content - INFO - Loaded 1188 items
+2026-06-18 09:01:48,842 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260618-090148.jsonl...
+2026-06-18 09:01:48,899 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260618-090148.jsonl
+2026-06-18 09:01:48,901 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260618-090148.jsonl
+2026-06-18 09:01:48,902 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260618-090148.json
+2026-06-19 09:01:26,593 - classify-content - INFO - Starting content classification...
+2026-06-19 09:01:26,595 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260619-090126.jsonl
+2026-06-19 09:01:26,627 - classify-content - INFO - Loaded 1188 items
+2026-06-19 09:01:27,087 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260619-090127.jsonl...
+2026-06-19 09:01:27,144 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260619-090127.jsonl
+2026-06-19 09:01:27,147 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260619-090127.jsonl
+2026-06-19 09:01:27,147 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260619-090127.json
+2026-06-20 09:01:15,998 - classify-content - INFO - Starting content classification...
+2026-06-20 09:01:16,000 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260620-090115.jsonl
+2026-06-20 09:01:16,029 - classify-content - INFO - Loaded 1188 items
+2026-06-20 09:01:16,511 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260620-090116.jsonl...
+2026-06-20 09:01:16,567 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260620-090116.jsonl
+2026-06-20 09:01:16,569 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260620-090116.jsonl
+2026-06-20 09:01:16,569 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260620-090116.json
+2026-06-21 09:01:24,015 - classify-content - INFO - Starting content classification...
+2026-06-21 09:01:24,017 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260621-090123.jsonl
+2026-06-21 09:01:24,046 - classify-content - INFO - Loaded 1188 items
+2026-06-21 09:01:24,529 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260621-090124.jsonl...
+2026-06-21 09:01:24,585 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260621-090124.jsonl
+2026-06-21 09:01:24,587 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260621-090124.jsonl
+2026-06-21 09:01:24,588 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260621-090124.json
+2026-06-23 09:01:13,096 - classify-content - INFO - Starting content classification...
+2026-06-23 09:01:13,098 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260623-090112.jsonl
+2026-06-23 09:01:13,126 - classify-content - INFO - Loaded 1188 items
+2026-06-23 09:01:13,605 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260623-090113.jsonl...
+2026-06-23 09:01:13,661 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260623-090113.jsonl
+2026-06-23 09:01:13,662 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260623-090113.jsonl
+2026-06-23 09:01:13,663 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260623-090113.json
+2026-06-24 09:01:27,768 - classify-content - INFO - Starting content classification...
+2026-06-24 09:01:27,770 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260624-090127.jsonl
+2026-06-24 09:01:27,798 - classify-content - INFO - Loaded 1188 items
+2026-06-24 09:01:28,269 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260624-090128.jsonl...
+2026-06-24 09:01:28,325 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260624-090128.jsonl
+2026-06-24 09:01:28,327 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260624-090128.jsonl
+2026-06-24 09:01:28,327 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260624-090128.json
+2026-06-25 09:01:26,167 - classify-content - INFO - Starting content classification...
+2026-06-25 09:01:26,169 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260625-090125.jsonl
+2026-06-25 09:01:26,199 - classify-content - INFO - Loaded 1188 items
+2026-06-25 09:01:26,700 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260625-090126.jsonl...
+2026-06-25 09:01:26,756 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260625-090126.jsonl
+2026-06-25 09:01:26,758 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260625-090126.jsonl
+2026-06-25 09:01:26,759 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260625-090126.json
+2026-06-26 09:01:12,788 - classify-content - INFO - Starting content classification...
+2026-06-26 09:01:12,790 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260626-090112.jsonl
+2026-06-26 09:01:12,821 - classify-content - INFO - Loaded 1188 items
+2026-06-26 09:01:13,343 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260626-090113.jsonl...
+2026-06-26 09:01:13,400 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260626-090113.jsonl
+2026-06-26 09:01:13,402 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260626-090113.jsonl
+2026-06-26 09:01:13,403 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260626-090113.json
+2026-06-30 09:01:20,074 - classify-content - INFO - Starting content classification...
+2026-06-30 09:01:20,076 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260630-090119.jsonl
+2026-06-30 09:01:20,106 - classify-content - INFO - Loaded 1188 items
+2026-06-30 09:01:20,586 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260630-090120.jsonl...
+2026-06-30 09:01:20,641 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260630-090120.jsonl
+2026-06-30 09:01:20,643 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260630-090120.jsonl
+2026-06-30 09:01:20,644 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260630-090120.json
+2026-07-01 09:01:15,729 - classify-content - INFO - Starting content classification...
+2026-07-01 09:01:15,732 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260701-090115.jsonl
+2026-07-01 09:01:15,764 - classify-content - INFO - Loaded 1188 items
+2026-07-01 09:01:16,253 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260701-090116.jsonl...
+2026-07-01 09:01:16,316 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260701-090116.jsonl
+2026-07-01 09:01:16,318 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260701-090116.jsonl
+2026-07-01 09:01:16,318 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260701-090116.json
+2026-07-02 09:01:14,938 - classify-content - INFO - Starting content classification...
+2026-07-02 09:01:14,940 - classify-content - INFO - Reading from /root/clawd/data/prompts/collected/merged-20260702-090114.jsonl
+2026-07-02 09:01:14,969 - classify-content - INFO - Loaded 1188 items
+2026-07-02 09:01:15,445 - classify-content - INFO - Saving 1188 classified items to /root/clawd/data/prompts/classified/classified-20260702-090115.jsonl...
+2026-07-02 09:01:15,502 - classify-content - INFO - Saved 1188 classified items to /root/clawd/data/prompts/classified/classified-20260702-090115.jsonl
+2026-07-02 09:01:15,504 - classify-content - INFO - Classification completed: 1188 items saved to /root/clawd/data/prompts/classified/classified-20260702-090115.jsonl
+2026-07-02 09:01:15,505 - classify-content - INFO - Report saved to /root/clawd/data/prompts/classified/report-20260702-090115.json

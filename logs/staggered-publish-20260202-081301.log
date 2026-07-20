@@ -1,0 +1,52 @@
+[2026-02-02 08:13:01] ==========================================
+[2026-02-02 08:13:01] 📦 逐步发布 Skills 到 ClawdHub（带延迟）
+[2026-02-02 08:13:01] ==========================================
+[2026-02-02 08:13:01] 
+[0;32m[INFO][0m 当前目录: /root/clawd/dist
+[2026-02-02 08:13:01] 
+[0;32m[INFO][0m 运行 clawdhub sync（带延迟）...
+[2026-02-02 08:13:01] 
+┌  ClawdHub sync
+- Scanning for local skills
+
+Roots with skills
+~/clawd
+Agent: main (/root/clawd/skills)
+Shared skills (/root/.clawdbot/skills)
+Skipped duplicate slugs: chatgpt-prompts-skill (2)
+- Parsing local skills
+- Checking registry sync state
+
+To sync
+- ai-reddit-454d672a  NEW  (2 files)
+- chatgpt-prompts-skill  NEW  (2 files)
+- job-interviewer-skill  NEW  (2 files)
+- resume-builder-skill  NEW  (2 files)
+- skills-bundle  NEW  (473 files)
+- test-skill  NEW  (1 files)
+- ai-video-gen  UPDATE 1.0.0 → 1.0.1  (8 files)
+- brand-creative-suite  UPDATE 1.0.0 → 1.0.1  (3 files)
+- coding-agent  UPDATE 1.0.1 → 1.0.2  (2 files)
+- humanizer  UPDATE 1.0.0 → 1.0.1  (3 files)
+- interview-coach  UPDATE 1.0.0 → 1.0.1  (4 files)
+- nano-banana-pro  UPDATE 1.0.1 → 1.0.2  (3 files)
+- prompt-craft  UPDATE 1.0.1 → 1.0.2  (5 files)
+- prompt-master  UPDATE 1.0.0 → 1.0.1  (9 files)
+- prompt-optimizer  UPDATE 1.0.0 → 1.0.1  (4 files)
+- prompt-rewriter  UPDATE 1.0.0 → 1.0.1  (2 files)
+- prompt-to-skill-converter  NEW  (9 files)
+- prompts-workflow  UPDATE 1.0.0 → 1.0.1  (8 files)
+- searxng  UPDATE 1.0.3 → 1.0.4  (6 files)
+- skill-manager  NEW  (19 files)
+- ... +7 more
+Already synced: ad-creative-generator@1.0.0, ai-music-prompts@1.0.2, auto-updater@1.0.0, bird@1.0.0, calendar@1.0.0, clawdbot-filesystem@1.0.2, clawdbot-security-check@2.2.2, creative-illustration@1.0.0, feishu-bridge@1.0.0, firecrawl-search@1.0.0, game-character-gen@1.0.1, gcalcli@0.1.0, kokoro-tts@0.1.0, openai-image-gen@1.0.1, prompt-learning-assistant@1.0.0, skillguard@1.0.1, sql-assistant@1.0.0, style-transfer@1.0.1, summarize@1.0.0, tavily-search@1.0.0, tiktok-ai-model-generator@1.0.0, vap-multimedia-generation@1.0.4, veo@1.0.1, ... +2 more
+- Preparing ai-reddit-454d672a@1.0.0
+✖ Rate limit exceeded
+Error: Rate limit exceeded
+[2026-02-02 08:13:26] 
+[2026-02-02 08:13:26] ==========================================
+[0;31m[ERROR][0m ❌ 发布过程中遇到错误（退出码: 1）
+[2026-02-02 08:13:26] ==========================================
+[2026-02-02 08:13:26] 
+[2026-02-02 08:13:26] 日志文件: /root/clawd/logs/staggered-publish-20260202-081301.log
+[2026-02-02 08:13:26] 

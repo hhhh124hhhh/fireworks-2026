@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-18 01:01:13",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "How to Capture HTTPS Traffic on iPhone Without a Mac",
+          "description": "<p>As a mobile developer, I spend a lot of time debugging API requests.</p>\n\n<p>Most of the time, the workflow looks something like this:</p>\n\n<ul>\n<li>Open Charles Proxy or Proxyman on a Mac</li>\n<li",
+          "url": "https://dev.to/anh_vu/how-to-capture-https-traffic-on-iphone-without-a-mac-45o8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "The API keys you almost shipped to prod — and the free scanner I built to catch them",
+          "description": "<p>I'm a solo maker shipping small apps, often with AI writing most of the code. The thing that kept me up at night: right before launch it's <em>really</em> easy to leave a live API key or an obvious",
+          "url": "https://dev.to/_380617b1d8224a63121651/the-api-keys-you-almost-shipped-to-prod-and-the-free-scanner-i-built-to-catch-them-4737",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Scarab Diagnostic Field Test #032 — QuantConnect Lean Option Target Quote-Side Pricing Boundary",
+          "description": "<p>Target: QuantConnect/Lean</p>\n\n<p>Issue: QuantConnect/Lean#6360</p>\n\n<p>PR: QuantConnect/Lean#9539</p>\n\n<p>Field Lab: <a href=\"https://github.com/scarab-systems/scarab-field-lab\" rel=\"noopener nore",
+          "url": "https://dev.to/scarab-systems/scarab-diagnostic-field-test-031-quantconnect-lean-option-target-quote-side-pricing-boundary-4f94",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "I Built a Clipboard History Extension. chrome.storage Hit Its Limit. Here's What I Learned.",
+          "description": "<p>I built ClipStack to capture and search clipboard history across browser tabs. It worked fine for the first week. Then users with heavy workflows started reporting that their oldest entries were si",
+          "url": "https://dev.to/ktg0215/i-built-a-clipboard-history-extension-chromestorage-hit-its-limit-heres-what-i-learned-4o6g",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "I Built a Fast.com for LLMs: Introducing iamspeed.dev",
+          "description": "<p>In this blog post, we will see how I built <a href=\"https://iamspeed.dev/\" rel=\"noopener noreferrer\">iamspeed.dev</a>, a fast.com-style LLM API speed benchmark tool that measures Time to First Toke",
+          "url": "https://dev.to/qainsights/i-built-a-fastcom-for-llms-introducing-iamspeeddev-54ek",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Stop trusting ‘looks about right’: I gave my AI agent a way to verify its UI against Figma",
+          "description": "<p>I do a lot of UI work, and like a lot of people lately I've been letting an AI agent take the first pass. Point it at a Figma file, let it write the components, come back to something that's 90% th",
+          "url": "https://dev.to/mrwick/stop-trusting-looks-about-right-i-gave-my-ai-agent-a-way-to-verify-its-ui-against-figma-3ppl",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Effortless Data Migration: How to Export from PostgreSQL and Load into S3 as Parquet with Sling",
+          "description": "<blockquote>\n<p>Last updated: June 2026</p>\n</blockquote>\n\n<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>In today's data-driven landscape, efficiently moving data from PostgreSQL databases to cloud storage solu",
+          "url": "https://dev.to/flarco/effortless-data-migration-how-to-export-from-postgresql-and-load-into-s3-as-parquet-with-sling-3mh",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Detección de Plagio",
+          "description": "<h1>\n  \n  \n  Detección de Plagio Automatizada: Una Solución Práctica para la Integridad Académica\n</h1>\n\n<p>La integridad académica está en riesgo debido al aumento del plagio en las instituciones edu",
+          "url": "https://dev.to/leojulieta/deteccion-de-plagio-7ob",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Building a Hermes Memory Plugin for a Voice-Powered Conference Agent with Weaviate Engram🧠",
+          "description": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Recently, I have been attending a lot of conferences where different booths showcase different projects. One thing I kept noticing was how often visitors approached",
+          "url": "https://dev.to/astrodevil/building-a-hermes-memory-plugin-for-a-voice-powered-conference-agent-with-weaviate-engram-39jj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "IA en Investigación",
+          "description": "<h1>\n  \n  \n  Análisis de Tendencias en Investigación Científica con IA y Python\n</h1>\n\n<p>La investigación científica está en constante evolución, y la aplicación de la inteligencia artificial (IA) pu",
+          "url": "https://dev.to/leojulieta/ia-en-investigacion-1607",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Optimiza IA",
+          "description": "<h1>\n  \n  \n  Optimización de Recursos en Proyectos de Inteligencia Artificial: Un Enfoque Práctico\n</h1>\n\n<p>La Inteligencia Artificial (IA) está revolucionando la forma en que vivimos y trabajamos, p",
+          "url": "https://dev.to/leojulieta/optimiza-ia-180h",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "RAG sobre o seu próprio código: o encanamento que separa o protótipo do produto",
+          "description": "<p>\"Vamos colocar uma IA pra responder perguntas sobre o nosso código.\" A frase parece simples, e um protótipo sai numa tarde: joga uns arquivos num embedding, guarda num índice, faz a busca. Funciona",
+          "url": "https://dev.to/felipe_ricartem/rag-sobre-o-seu-proprio-codigo-o-encanamento-que-separa-o-prototipo-do-produto-14kf",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

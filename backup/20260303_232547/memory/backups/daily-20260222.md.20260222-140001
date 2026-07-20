@@ -1,0 +1,204 @@
+你的文件内容
+
+## 11:16 ~ 11:25 百度 API 状态讨论
+
+**jack 询问**: 百度 API 是否能用了？
+
+**Momo 回复**: 测试结果显示百度 API 目前还不能正常工作。
+
+### 百度 API 当前状态
+
+**API Key 已配置** ✅
+```bash
+BAIDU_API_KEY='bce-v3/ALTAK-9XbrsPkGC9yjb37vqXuLw/...'
+```
+
+**测试结果更新** ⚠️
+
+| API 端点 | 状态 | 结果 |
+|----------|------|------|
+| 千帆 API (qianfan.baidubce.com) | ❌ 500 错误 | **端点不正确** |
+| AI 定制搜索 (aip.baidubce.com) | ✅ 200 成功 | **可用！** |
+| 百度统计 API | ✅ 200 成功 | 可用！ |
+
+### 可能的原因
+
+1. API Key 格式问题 - 千帆平台可能需要不同的认证方式
+2. 服务未开通 - 搜索服务可能需要单独申请开通
+3. 权限不足 - API Key 可能没有调用搜索接口的权限
+4. Endpoint 不正确 - 可能需要用其他百度 API 端点
+
+### 建议
+
+暂时先用 Tavily 和 SearXNG（这两个已经工作正常），百度 API 需要进一步排查配置问题。
+
+---
+记录时间: 2026-02-22 11:25
+
+---
+
+## 11:38 ~ 12:45 百度搜索集成完成
+
+**jack 要求**: 百度有搜索skill 吧 你看一下哦，百度有一个搜索skill 你看看怎么集成进来
+
+**Momo 发现**: 找到了百度搜索 Skill (`/root/clawd/skills/baidu-search/`)，测试成功后集成到黄金选题。
+
+### 百度搜索 Skill 信息
+
+**Skill 路径**: `/root/clawd/skills/baidu-search/`
+**脚本路径**: `scripts/search.py`
+**正确端点**: `https://qianfan.baidubce.com/v2/ai_search/web_search`
+**认证方式**: Bearer Token
+
+### 集成过程
+
+1. **找到正确的 API 格式** - 使用 `messages` 数组，不是简单的 `query`
+2. **修改黄金选题脚本** - 更新 `search_baidu` 方法（第 148 行）
+3. **测试验证** - 返回 4 条搜索结果
+
+### 修改内容
+
+```python
+def search_baidu(self, query: str, max_results: int = 5) -> List[Dict[str, Any]]:
+    """使用百度搜索 - 使用 qianfan API（正确格式）"""
+    url = 'https://qianfan.baidubce.com/v2/ai_search/web_search'
+    headers = {
+        'Authorization': f'Bearer {api_key}',
+        'X-Appbuilder-From': 'openclaw',
+        'Content-Type': 'application/json'
+    }
+    payload = {
+        "messages": [{"content": query, "role": "user"}],
+        "edition": "standard",
+        "search_source": "baidu_search_v2",
+        "resource_type_filter": [{"type": "web", "top_k": max_results}],
+        "search_recency_filter": "year",
+        "safe_search": False
+    }
+```
+
+### 测试结果
+
+| 搜索源 | 结果数 | 状态 |
+|---------|---------|------|
+| Tavily | 5 条 | ✅ |
+| SearXNG | 5 条 | ✅ |
+| **百度** | 4 条 | ✅ **成功集成！** |
+| **总计** | 14 条 | ✅ |
+
+### 关键发现
+
+1. ✅ **百度搜索完全可用** - 返回 4 条结果
+2. ✅ **Slack 推送成功** - 消息已发送到 #clawdbot
+3. ✅ **报告生成成功** - Markdown 格式
+4. ✅ **记忆保存成功** - 历史记录
+
+### 明天 9:00 定时任务
+
+定时任务 `full-prompt-workflow` 会自动运行：
+- ✅ 10 个黄金选题主题
+- ✅ 3 个搜索源（Tavily + SearXNG + **百度**）
+- ✅ 自动推送报告到 Slack
+
+---
+记录时间: 2026-02-22 12:45
+
+---
+
+## 12:51 ~ 12:57 AI 分析功能集成完成
+
+**jack 要求**: 最终应该给我选题才对吧 现在这个报告不对，使用编程子代理修改 加入AI功能 使用编程子代理的AI功能就可以
+
+**Momo 操作**: 使用编程子代理修改脚本，加入真正的 AI 分析功能来生成选题建议。
+
+### 问题诊断
+
+**之前的报告问题**:
+- 只有统计数据（搜索源分布、结果数量）
+- 没有真正分析搜索结果的内容
+- 选题建议只是简单的"高热度/中热度/低热度"判断
+- 没有具体的选题建议
+
+### 解决方案
+
+**添加 AI 分析功能**:
+1. 新增 `analyze_with_llm` 方法 - 使用 AI 分析搜索结果
+2. 修改 `generate_insight` 方法 - 集成 AI 分析结果
+3. 更新 `format_markdown` 方法 - 显示 AI 分析的选题建议
+
+### AI 分析功能
+
+**`analyze_with_llm` 方法** (第 269 行):
+- 分析搜索结果的标题和内容
+- 生成核心热点（5 个）
+- 生成选题建议（5 个具体选题）
+- 生成热门关键词（8-10 个）
+- 识别目标受众
+
+**测试结果**:
+```json
+{
+  "core_hotspots": [
+    "AI 自动化工具",
+    "AI 视频生成",
+    "企业 AI 应用",
+    "多模态 AI",
+    "AI 代理系统"
+  ],
+  "topic_recommendations": [
+    {"title": "AI 自动化工作流工具开发教程", "description": "教用户用 AI 自动化日常任务", "trend_score": 88},
+    {"title": "AI 视频生成工具评测与对比", "description": "对比主流 AI 视频生成工具", "trend_score": 85},
+    {"title": "企业 AI 落地案例分析", "description": "分析 AI 在企业中的应用场景", "trend_score": 82},
+    {"title": "多模态 AI 内容创作指南", "description": "教用户用 AI 生成图文音视频", "trend_score": 80},
+    {"title": "AI 代理系统架构设计", "description": "讲解如何构建 AI 代理系统", "trend_score": 78}
+  ],
+  "trend_keywords": [
+    "AI automation",
+    "video generation",
+    "enterprise AI",
+    "multimodal",
+    "AI agents",
+    "workflow automation",
+    "content creation",
+    "no-code AI"
+  ],
+  "target_audience": "AI 开发者、内容创作者、企业决策者、技术爱好者"
+}
+```
+
+### 最终测试结果
+
+**完整报告测试** (12:56):
+- ✅ 搜索主题: AI automation, AI video generation (2 个)
+- ✅ 搜索源: Tavily (6 条) + SearXNG (6 条) + 百度 (6 条) = 18 条
+- ✅ AI 分析成功 - 生成了具体选题建议
+- ✅ Slack 推送成功 - 1172 字符
+- ✅ 报告格式化成功
+
+### 新报告格式
+
+**包含真正的选题建议**:
+1. 🔥 **核心热点** - AI 识别的热门话题（5 个）
+2. 🎯 **选题建议** - 具体的黄金选题（5 个，带热度评分）
+3. 🔑 **热门关键词** - 提取的关键词（8-10 个）
+4. 👥 **目标受众** - 潜在受众分析
+
+### 关键成就
+
+1. ✅ **百度搜索成功集成** - 使用 qianfan API，返回 6 条结果
+2. ✅ **AI 分析功能完成** - 生成真正的选题建议
+3. ✅ **Slack 推送成功** - 推送到 #clawdbot
+4. ✅ **报告格式化成功** - Markdown 格式，包含完整的选题建议
+
+### 明天 9:00 定时任务
+
+会自动运行：
+- ✅ 10 个黄金选题主题
+- ✅ 3 个搜索源（Tavily + SearXNG + 百度）
+- ✅ AI 分析生成具体选题建议
+- ✅ 自动推送报告到 Slack
+
+**黄金选题 Skill 现在完全可用，能生成真正的选题建议了！**
+
+---
+记录时间: 2026-02-22 12:57

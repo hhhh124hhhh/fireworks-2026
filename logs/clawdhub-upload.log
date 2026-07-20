@@ -1,0 +1,488 @@
+[2026-01-30 17:27:47] ==========================================
+[2026-01-30 17:27:47] 📦 ClawdHub Skill 上传
+[2026-01-30 17:27:47] ==========================================
+[2026-01-30 17:27:47] 
+[0;32m[INFO][0m 配置信息:
+[2026-01-30 17:27:47]   Registry: https://www.clawhub.ai/api
+[2026-01-30 17:27:47]   Workdir: /root/clawd/generated-skills
+[2026-01-30 17:27:47] 
+[0;32m[INFO][0m 找到 7 个 Skill 文件
+[2026-01-30 17:27:47] 
+[0;32m[INFO][0m 📦 处理 Skill: ai-from-trueslazac
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✅ 成功发布: ai-from-trueslazac
+[0;32m[INFO][0m 📦 处理 Skill: prompt-from-lexx-aura
+error: missing required argument 'path'
+
+Usage: clawdhub publish [options] <path>
+
+Publish skill from folder
+
+Arguments:
+  path                        Skill folder path
+
+Options:
+  --slug <slug>               Skill slug
+  --name <name>               Display name
+  --version <version>         Version (semver)
+  --fork-of <slug[@version]>  Mark as a fork of an existing skill
+  --changelog <text>          Changelog text
+  --tags <tags>               Comma-separated tags (default: "latest")
+  -h, --help                  display help for command
+[0;32m[INFO][0m ✅ 成功发布: prompt-from-lexx-aura
+[2026-01-30 17:27:50] 
+[2026-01-30 17:27:50] ==========================================
+[2026-01-30 17:27:50] 📊 上传统计
+[2026-01-30 17:27:50] ==========================================
+[0;32m[INFO][0m ✅ 成功: 2
+[0;31m[ERROR][0m ❌ 失败: 0
+[2026-01-30 17:27:50] 
+[0;32m[INFO][0m 所有 Skills 上传成功！
+[2026-01-30 17:27:50] 
+[2026-01-30 17:27:50] 发送 Slack 通知...
+✅ Sent via Slack. Message ID: 1769765281.080439
+[2026-01-30 17:28:01] 
+[2026-01-30 17:28:01] ==========================================
+[2026-01-30 17:28:01] ✅ 脚本完成
+[2026-01-30 17:28:01] ==========================================
+[2026-01-30 17:28:01] 
+[2026-01-30 17:28:01] 日志文件: /root/clawd/logs/clawdhub-upload.log
+[2026-01-30 21:14:12] ==========================================
+[2026-01-30 21:14:12] 📦 批量上传 Skills 到 ClawdHub（完全修复版）
+[2026-01-30 21:14:12] ==========================================
+[2026-01-30 21:14:12] 
+[0;32m[INFO][0m 配置信息:
+[2026-01-30 21:14:12]   Skills 目录: /root/clawd/dist/skills
+[2026-01-30 21:14:12]   Registry: https://www.clawhub.ai/api
+[2026-01-30 21:14:12] 
+[0;32m[INFO][0m 找到 16 个 .skill 文件
+[2026-01-30 21:14:13] 
+[0;32m[INFO][0m 📦 处理: ai 编码-reddit-454d672a
+[2026-01-30 21:45:28] Starting batch upload...
+Found 16 .skill files
+Processing: ai 编码-reddit-454d672a
+  Publishing from: /tmp/skill-upload-165648-ai 编码-reddit-454d672a/ai 编码-reddit-454d672a
+- Preparing ai 编码-reddit-454d672a@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published ai 编码-reddit-454d672a
+Processing: ai 编码-reddit-96d5680b
+  Publishing from: /tmp/skill-upload-165648-ai 编码-reddit-96d5680b/ai 编码-reddit-96d5680b
+- Preparing ai 编码-reddit-96d5680b@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published ai 编码-reddit-96d5680b
+Processing: ai 编码-unknown-165657c2
+  Publishing from: /tmp/skill-upload-165648-ai 编码-unknown-165657c2/ai 编码-unknown-165657c2
+- Preparing ai 编码-unknown-165657c2@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published ai 编码-unknown-165657c2
+Processing: ai-from-trueslazac
+  Publishing from: /tmp/skill-upload-165648-ai-from-trueslazac/ai-from-trueslazac
+- Preparing ai-from-trueslazac@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published ai-from-trueslazac
+Processing: ai-portrait-generator
+  Publishing from: /tmp/skill-upload-165648-ai-portrait-generator/ai-portrait-generator
+- Preparing ai-portrait-generator@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published ai-portrait-generator
+Processing: merc-income-guide
+  Publishing from: /tmp/skill-upload-165648-merc-income-guide/merc-income-guide
+- Preparing merc-income-guide@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published merc-income-guide
+Processing: prompt-from-lexx-aura
+  Publishing from: /tmp/skill-upload-165648-prompt-from-lexx-aura/prompt-from-lexx-aura
+- Preparing prompt-from-lexx-aura@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published prompt-from-lexx-aura
+Processing: sora 2-sora-2---未来科技展示-b95f8b89
+  Publishing from: /tmp/skill-upload-165648-sora 2-sora-2---未来科技展示-b95f8b89
+- Preparing sora 2-sora-2---未来科技展示-b95f8b89@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published sora 2-sora-2---未来科技展示-b95f8b89
+Processing: sora 2-sora-2---自然纪录片-ff4894c1
+  Publishing from: /tmp/skill-upload-165648-sora 2-sora-2---自然纪录片-ff4894c1
+- Preparing sora 2-sora-2---自然纪录片-ff4894c1@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published sora 2-sora-2---自然纪录片-ff4894c1
+Processing: sora 2-sora-2---超级英雄电影-bcb42152
+  Publishing from: /tmp/skill-upload-165648-sora 2-sora-2---超级英雄电影-bcb42152
+- Preparing sora 2-sora-2---超级英雄电影-bcb42152@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published sora 2-sora-2---超级英雄电影-bcb42152
+Processing: 提示词工程-reddit-bee10779
+  Publishing from: /tmp/skill-upload-165648-提示词工程-reddit-bee10779/提示词工程-reddit-bee10779
+- Preparing 提示词工程-reddit-bee10779@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published 提示词工程-reddit-bee10779
+Processing: 谷歌生图-google-imagen-3---人像摄影-aa1d47e0
+  Publishing from: /tmp/skill-upload-165648-谷歌生图-google-imagen-3---人像摄影-aa1d47e0
+- Preparing 谷歌生图-google-imagen-3---人像摄影-aa1d47e0@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published 谷歌生图-google-imagen-3---人像摄影-aa1d47e0
+Processing: 谷歌生图-google-imagen-3---超写实风景-c1d838ac
+  Publishing from: /tmp/skill-upload-165648-谷歌生图-google-imagen-3---超写实风景-c1d838ac
+- Preparing 谷歌生图-google-imagen-3---超写实风景-c1d838ac@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published 谷歌生图-google-imagen-3---超写实风景-c1d838ac
+Processing: 谷歌生图-google-veo---动态城市夜景-162c3fd9
+  Publishing from: /tmp/skill-upload-165648-谷歌生图-google-veo---动态城市夜景-162c3fd9
+- Preparing 谷歌生图-google-veo---动态城市夜景-162c3fd9@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published 谷歌生图-google-veo---动态城市夜景-162c3fd9
+Processing: 通用-reddit-e34899f0
+  Publishing from: /tmp/skill-upload-165648-通用-reddit-e34899f0/通用-reddit-e34899f0
+- Preparing 通用-reddit-e34899f0@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published 通用-reddit-e34899f0
+Processing: 通用-reddit-e806778a
+  Publishing from: /tmp/skill-upload-165648-通用-reddit-e806778a/通用-reddit-e806778a
+- Preparing 通用-reddit-e806778a@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published 通用-reddit-e806778a
+
+========================================
+Upload Statistics
+========================================
+Success: 16
+Failed: 0
+
+[clawdbot] Failed to start CLI: Error: ENOENT: no such file or directory, uv_cwd
+    at process.wrappedCwd (node:internal/bootstrap/switches/does_own_process_state:142:28)
+    at process.cwd (/usr/lib/node_modules/clawdbot/node_modules/graceful-fs/polyfills.js:10:19)
+    at file:///usr/lib/node_modules/clawdbot/node_modules/@mariozechner/pi-coding-agent/dist/core/tools/bash.js:225:48
+    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:665:26)
+[clawdbot] Failed to start CLI: Error: ENOENT: no such file or directory, uv_cwd
+    at process.wrappedCwd (node:internal/bootstrap/switches/does_own_process_state:142:28)
+    at process.cwd (/usr/lib/node_modules/clawdbot/node_modules/graceful-fs/polyfills.js:10:19)
+    at file:///usr/lib/node_modules/clawdbot/node_modules/@mariozechner/pi-coding-agent/dist/core/tools/bash.js:225:48
+    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:665:26)
+
+========================================
+Upload Complete
+========================================
+Log: /root/clawd/logs/clawdhub-upload.log
+[2026-01-31 09:07:46] Starting batch upload...
+Found 56 .skill files
+Processing: ai 编码-reddit-454d672a
+  Publishing from: /tmp/skill-upload-176417-ai 编码-reddit-454d672a/ai 编码-reddit-454d672a
+- Preparing ai 编码-reddit-454d672a@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published ai 编码-reddit-454d672a
+Processing: ai 编码-reddit-96d5680b
+  Publishing from: /tmp/skill-upload-176417-ai 编码-reddit-96d5680b/ai 编码-reddit-96d5680b
+- Preparing ai 编码-reddit-96d5680b@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published ai 编码-reddit-96d5680b
+Processing: ai 编码-unknown-165657c2
+  Publishing from: /tmp/skill-upload-176417-ai 编码-unknown-165657c2/ai 编码-unknown-165657c2
+- Preparing ai 编码-unknown-165657c2@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published ai 编码-unknown-165657c2
+Processing: ai-from-trueslazac
+  Publishing from: /tmp/skill-upload-176417-ai-from-trueslazac/ai-from-trueslazac
+- Preparing ai-from-trueslazac@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published ai-from-trueslazac
+Processing: ai-portrait-generator
+  Publishing from: /tmp/skill-upload-176417-ai-portrait-generator/ai-portrait-generator
+- Preparing ai-portrait-generator@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published ai-portrait-generator
+Processing: image generation-05e5faa9
+  Publishing from: /tmp/skill-upload-176417-image generation-05e5faa9
+- Preparing image generation-05e5faa9@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-05e5faa9
+Processing: image generation-0d857478
+  Publishing from: /tmp/skill-upload-176417-image generation-0d857478
+- Preparing image generation-0d857478@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-0d857478
+Processing: image generation-1a601e99
+  Publishing from: /tmp/skill-upload-176417-image generation-1a601e99
+- Preparing image generation-1a601e99@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-1a601e99
+Processing: image generation-222d9418
+  Publishing from: /tmp/skill-upload-176417-image generation-222d9418
+- Preparing image generation-222d9418@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-222d9418
+Processing: image generation-279e77b3
+  Publishing from: /tmp/skill-upload-176417-image generation-279e77b3
+- Preparing image generation-279e77b3@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-279e77b3
+Processing: image generation-335a199b
+  Publishing from: /tmp/skill-upload-176417-image generation-335a199b
+- Preparing image generation-335a199b@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-335a199b
+Processing: image generation-35ee588c
+  Publishing from: /tmp/skill-upload-176417-image generation-35ee588c
+- Preparing image generation-35ee588c@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-35ee588c
+Processing: image generation-3991f149
+  Publishing from: /tmp/skill-upload-176417-image generation-3991f149
+- Preparing image generation-3991f149@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-3991f149
+Processing: image generation-49f1ea7f
+  Publishing from: /tmp/skill-upload-176417-image generation-49f1ea7f
+- Preparing image generation-49f1ea7f@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-49f1ea7f
+Processing: image generation-4a296dff
+  Publishing from: /tmp/skill-upload-176417-image generation-4a296dff
+- Preparing image generation-4a296dff@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-4a296dff
+Processing: image generation-4a7e73bd
+  Publishing from: /tmp/skill-upload-176417-image generation-4a7e73bd
+- Preparing image generation-4a7e73bd@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-4a7e73bd
+Processing: image generation-4ac228ab
+  Publishing from: /tmp/skill-upload-176417-image generation-4ac228ab
+- Preparing image generation-4ac228ab@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-4ac228ab
+Processing: image generation-545d62aa
+  Publishing from: /tmp/skill-upload-176417-image generation-545d62aa
+- Preparing image generation-545d62aa@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-545d62aa
+Processing: image generation-558bdbec
+  Publishing from: /tmp/skill-upload-176417-image generation-558bdbec
+- Preparing image generation-558bdbec@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-558bdbec
+Processing: image generation-61f443e2
+  Publishing from: /tmp/skill-upload-176417-image generation-61f443e2
+- Preparing image generation-61f443e2@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-61f443e2
+Processing: image generation-647441e3
+  Publishing from: /tmp/skill-upload-176417-image generation-647441e3
+- Preparing image generation-647441e3@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-647441e3
+Processing: image generation-65c2a3a3
+  Publishing from: /tmp/skill-upload-176417-image generation-65c2a3a3
+- Preparing image generation-65c2a3a3@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-65c2a3a3
+Processing: image generation-6e800b2c
+  Publishing from: /tmp/skill-upload-176417-image generation-6e800b2c
+- Preparing image generation-6e800b2c@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-6e800b2c
+Processing: image generation-70fa4961
+  Publishing from: /tmp/skill-upload-176417-image generation-70fa4961
+- Preparing image generation-70fa4961@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-70fa4961
+Processing: image generation-750475b1
+  Publishing from: /tmp/skill-upload-176417-image generation-750475b1
+- Preparing image generation-750475b1@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-750475b1
+Processing: image generation-78b0897e
+  Publishing from: /tmp/skill-upload-176417-image generation-78b0897e
+- Preparing image generation-78b0897e@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-78b0897e
+Processing: image generation-90af51ce
+  Publishing from: /tmp/skill-upload-176417-image generation-90af51ce
+- Preparing image generation-90af51ce@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-90af51ce
+Processing: image generation-9142af54
+  Publishing from: /tmp/skill-upload-176417-image generation-9142af54
+- Preparing image generation-9142af54@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-9142af54
+Processing: image generation-94ff76c5
+  Publishing from: /tmp/skill-upload-176417-image generation-94ff76c5
+- Preparing image generation-94ff76c5@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-94ff76c5
+Processing: image generation-9f5dbedd
+  Publishing from: /tmp/skill-upload-176417-image generation-9f5dbedd
+- Preparing image generation-9f5dbedd@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-9f5dbedd
+Processing: image generation-aefb3d26
+  Publishing from: /tmp/skill-upload-176417-image generation-aefb3d26
+- Preparing image generation-aefb3d26@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-aefb3d26
+Processing: image generation-b2e80920
+  Publishing from: /tmp/skill-upload-176417-image generation-b2e80920
+- Preparing image generation-b2e80920@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-b2e80920
+Processing: image generation-b5765981
+  Publishing from: /tmp/skill-upload-176417-image generation-b5765981
+- Preparing image generation-b5765981@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-b5765981
+Processing: image generation-b5e23001
+  Publishing from: /tmp/skill-upload-176417-image generation-b5e23001
+- Preparing image generation-b5e23001@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-b5e23001
+Processing: image generation-cad7c366
+  Publishing from: /tmp/skill-upload-176417-image generation-cad7c366
+- Preparing image generation-cad7c366@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-cad7c366
+Processing: image generation-cd3cd6fd
+  Publishing from: /tmp/skill-upload-176417-image generation-cd3cd6fd
+- Preparing image generation-cd3cd6fd@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-cd3cd6fd
+Processing: image generation-d5f6c66e
+  Publishing from: /tmp/skill-upload-176417-image generation-d5f6c66e
+- Preparing image generation-d5f6c66e@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-d5f6c66e
+Processing: image generation-d6362a24
+  Publishing from: /tmp/skill-upload-176417-image generation-d6362a24
+- Preparing image generation-d6362a24@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-d6362a24
+Processing: image generation-d97f99e2
+  Publishing from: /tmp/skill-upload-176417-image generation-d97f99e2
+- Preparing image generation-d97f99e2@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-d97f99e2
+Processing: image generation-e2cf1489
+  Publishing from: /tmp/skill-upload-176417-image generation-e2cf1489
+- Preparing image generation-e2cf1489@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-e2cf1489
+Processing: image generation-e33e853e
+  Publishing from: /tmp/skill-upload-176417-image generation-e33e853e
+- Preparing image generation-e33e853e@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-e33e853e
+Processing: image generation-e41bb853
+  Publishing from: /tmp/skill-upload-176417-image generation-e41bb853
+- Preparing image generation-e41bb853@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-e41bb853
+Processing: image generation-e7b5d316
+  Publishing from: /tmp/skill-upload-176417-image generation-e7b5d316
+- Preparing image generation-e7b5d316@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-e7b5d316
+Processing: image generation-ee46eff2
+  Publishing from: /tmp/skill-upload-176417-image generation-ee46eff2
+- Preparing image generation-ee46eff2@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-ee46eff2
+Processing: image generation-f26e9557
+  Publishing from: /tmp/skill-upload-176417-image generation-f26e9557
+- Preparing image generation-f26e9557@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published image generation-f26e9557
+Processing: merc-income-guide
+  Publishing from: /tmp/skill-upload-176417-merc-income-guide/merc-income-guide
+- Preparing merc-income-guide@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published merc-income-guide
+Processing: prompt-from-lexx-aura
+  Publishing from: /tmp/skill-upload-176417-prompt-from-lexx-aura/prompt-from-lexx-aura
+- Preparing prompt-from-lexx-aura@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published prompt-from-lexx-aura
+Processing: sora 2-sora-2---未来科技展示-b95f8b89
+  Publishing from: /tmp/skill-upload-176417-sora 2-sora-2---未来科技展示-b95f8b89
+- Preparing sora 2-sora-2---未来科技展示-b95f8b89@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published sora 2-sora-2---未来科技展示-b95f8b89
+Processing: sora 2-sora-2---自然纪录片-ff4894c1
+  Publishing from: /tmp/skill-upload-176417-sora 2-sora-2---自然纪录片-ff4894c1
+- Preparing sora 2-sora-2---自然纪录片-ff4894c1@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published sora 2-sora-2---自然纪录片-ff4894c1
+Processing: sora 2-sora-2---超级英雄电影-bcb42152
+  Publishing from: /tmp/skill-upload-176417-sora 2-sora-2---超级英雄电影-bcb42152
+- Preparing sora 2-sora-2---超级英雄电影-bcb42152@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published sora 2-sora-2---超级英雄电影-bcb42152
+Processing: 提示词工程-reddit-bee10779
+  Publishing from: /tmp/skill-upload-176417-提示词工程-reddit-bee10779/提示词工程-reddit-bee10779
+- Preparing 提示词工程-reddit-bee10779@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published 提示词工程-reddit-bee10779
+Processing: 谷歌生图-google-imagen-3---人像摄影-aa1d47e0
+  Publishing from: /tmp/skill-upload-176417-谷歌生图-google-imagen-3---人像摄影-aa1d47e0
+- Preparing 谷歌生图-google-imagen-3---人像摄影-aa1d47e0@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published 谷歌生图-google-imagen-3---人像摄影-aa1d47e0
+Processing: 谷歌生图-google-imagen-3---超写实风景-c1d838ac
+  Publishing from: /tmp/skill-upload-176417-谷歌生图-google-imagen-3---超写实风景-c1d838ac
+- Preparing 谷歌生图-google-imagen-3---超写实风景-c1d838ac@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published 谷歌生图-google-imagen-3---超写实风景-c1d838ac
+Processing: 谷歌生图-google-veo---动态城市夜景-162c3fd9
+  Publishing from: /tmp/skill-upload-176417-谷歌生图-google-veo---动态城市夜景-162c3fd9
+- Preparing 谷歌生图-google-veo---动态城市夜景-162c3fd9@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published 谷歌生图-google-veo---动态城市夜景-162c3fd9
+Processing: 通用-reddit-e34899f0
+  Publishing from: /tmp/skill-upload-176417-通用-reddit-e34899f0/通用-reddit-e34899f0
+- Preparing 通用-reddit-e34899f0@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published 通用-reddit-e34899f0
+Processing: 通用-reddit-e806778a
+  Publishing from: /tmp/skill-upload-176417-通用-reddit-e806778a/通用-reddit-e806778a
+- Preparing 通用-reddit-e806778a@1.0.0
+Error: SKILL.md required
+  SUCCESS: Published 通用-reddit-e806778a
+
+========================================
+Upload Statistics
+========================================
+Success: 56
+Failed: 0
+
+[clawdbot] Failed to start CLI: Error: ENOENT: no such file or directory, uv_cwd
+    at process.wrappedCwd (node:internal/bootstrap/switches/does_own_process_state:142:28)
+    at process.cwd (/usr/lib/node_modules/clawdbot/node_modules/graceful-fs/polyfills.js:10:19)
+    at file:///usr/lib/node_modules/clawdbot/node_modules/@mariozechner/pi-coding-agent/dist/core/tools/bash.js:225:48
+    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:665:26)
+[clawdbot] Failed to start CLI: Error: ENOENT: no such file or directory, uv_cwd
+    at process.wrappedCwd (node:internal/bootstrap/switches/does_own_process_state:142:28)
+    at process.cwd (/usr/lib/node_modules/clawdbot/node_modules/graceful-fs/polyfills.js:10:19)
+    at file:///usr/lib/node_modules/clawdbot/node_modules/@mariozechner/pi-coding-agent/dist/core/tools/bash.js:225:48
+    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:665:26)
+
+========================================
+Upload Complete
+========================================
+Log: /root/clawd/logs/clawdhub-upload.log

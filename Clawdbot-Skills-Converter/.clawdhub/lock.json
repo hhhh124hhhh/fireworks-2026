@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "twitter-search-skill": {
+      "version": "0.1.1",
+      "installedAt": 1769599487721
+    },
+    "x-trends": {
+      "version": "1.2.1",
+      "installedAt": 1769599490580
+    },
+    "calendar": {
+      "version": "1.0.0",
+      "installedAt": 1769599492821
+    },
+    "clawdbot-security-check": {
+      "version": "2.2.2",
+      "installedAt": 1769599495219
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-01-27",
+  "media": [
+    {
+      "id": "youtube-channels",
+      "type": "video",
+      "name": "YouTube AI 频道",
+      "description": "AI 相关的 YouTube 频道",
+      "sources": [
+        {
+          "name": "AI Grid",
+          "url": "https://www.youtube.com/@AI_Grid",
+          "tags": ["AI新闻", "工具评测"]
+        },
+        {
+          "name": "Matt Wolfe",
+          "url": "https://www.youtube.com/@mattwolfe",
+          "tags": ["AI工具", "评测"]
+        },
+        {
+          "name": "The AI Show",
+          "url": "https://www.youtube.com/@TheAIShow",
+          "tags": ["AI讨论", "新闻"]
+        },
+        {
+          "name": "AI Explained",
+          "url": "https://www.youtube.com/@AIExplained",
+          "tags": ["教程", "技术讲解"]
+        },
+        {
+          "name": "Two Minute Papers",
+          "url": "https://www.youtube.com/@TwoMinutePapers",
+          "tags": ["论文", "研究"]
+        }
+      ]
+    },
+    {
+      "id": "blogs",
+      "type": "blog",
+      "name": "AI 相关博客",
+      "description": "AI 技术博客和文章",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/blog",
+          "tags": ["官方博客", "更新"]
+        },
+        {
+          "name": "Anthropic Blog",
+          "url": "https://www.anthropic.com/blog",
+          "tags": ["官方博客", "研究"]
+        },
+        {
+          "name": "Google AI Blog",
+          "url": "https://ai.googleblog.com",
+          "tags": ["官方博客", "研究"]
+        },
+        {
+          "name": "DeepMind Blog",
+          "url": "https://deepmind.google/discover/blog",
+          "tags": ["官方博客", "研究"]
+        },
+        {
+          "name": "Towards Data Science",
+          "url": "https://towardsdatascience.com",
+          "tags": ["教程", "技术文章"]
+        },
+        {
+          "name": "Machine Learning Mastery",
+          "url": "https://machinelearningmastery.com",
+          "tags": ["教程", "学习"]
+        },
+        {
+          "name": "The Batch",
+          "url": "https://www.deeplearning.ai/the-batch",
+          "tags": ["新闻", "总结"]
+        }
+      ]
+    },
+    {
+      "id": "tool-websites",
+      "type": "tool",
+      "name": "AI 工具网站",
+      "description": "AI 工具和产品网站",
+      "sources": [
+        {
+          "name": "FuturePedia",
+          "url": "https://www.futurepedia.io",
+          "tags": ["工具目录", "更新"]
+        },
+        {
+          "name": "There's An AI For That",
+          "url": "https://theresanaiforthat.com",
+          "tags": ["工具目录", "搜索"]
+        },
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co",
+          "tags": ["模型", "数据集"]
+        },
+        {
+          "name": "Papers With Code",
+          "url": "https://paperswithcode.com",
+          "tags": ["论文", "代码"]
+        },
+        {
+          "name": "GitHub Trending AI",
+          "url": "https://github.com/trending/ai",
+          "tags": ["开源", "趋势"]
+        }
+      ]
+    },
+    {
+      "id": "research-sites",
+      "type": "research",
+      "name": "AI 研究网站",
+      "description": "AI 研究和论文网站",
+      "sources": [
+        {
+          "name": "arXiv AI",
+          "url": "https://arxiv.org/list/cs.AI/recent",
+          "tags": ["论文", "预印本"]
+        },
+        {
+          "name": "Papers With Code",
+          "url": "https://paperswithcode.com",
+          "tags": ["论文", "代码"]
+        },
+        {
+          "name": "Semantic Scholar",
+          "url": "https://www.semanticscholar.org",
+          "tags": ["论文", "搜索"]
+        },
+        {
+          "name": "Google Scholar AI",
+          "url": "https://scholar.google.com",
+          "tags": ["论文", "搜索"]
+        }
+      ]
+    },
+    {
+      "id": "news-sites",
+      "type": "news",
+      "name": "AI 新闻网站",
+      "description": "AI 新闻和资讯网站",
+      "sources": [
+        {
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/topic/artificial-intelligence",
+          "tags": ["新闻", "深度"]
+        },
+        {
+          "name": "VentureBeat AI",
+          "url": "https://venturebeat.com/category/ai",
+          "tags": ["新闻", "商业"]
+        },
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/category/artificial-intelligence",
+          "tags": ["新闻", "初创"]
+        },
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "tags": ["新闻", "消费"]
+        }
+      ]
+    },
+    {
+      "id": "communities",
+      "type": "community",
+      "name": "AI 社区",
+      "description": "AI 相关社区和论坛",
+      "sources": [
+        {
+          "name": "r/artificial",
+          "url": "https://www.reddit.com/r/artificial",
+          "tags": ["Reddit", "讨论"]
+        },
+        {
+          "name": "r/MachineLearning",
+          "url": "https://www.reddit.com/r/MachineLearning",
+          "tags": ["Reddit", "讨论"]
+        },
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.ycombinator.com",
+          "tags": ["新闻", "讨论"]
+        },
+        {
+          "name": "Discord AI Servers",
+          "url": "https://discord.com",
+          "tags": ["Discord", "实时"]
+        }
+      ]
+    }
+  ],
+  "configuration": {
+    "fetchInterval": "daily",
+    "maxItemsPerSource": 20,
+    "enableTwitter": true,
+    "enableYouTube": false,
+    "enableBlogs": true,
+    "enableTools": true,
+    "enableResearch": true,
+    "enableNews": true,
+    "enableCommunities": false
+  }
+}

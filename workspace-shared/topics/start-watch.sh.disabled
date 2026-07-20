@@ -1,0 +1,14 @@
+#!/bin/bash
+# =========================================
+# 启动文件监控 + 自动同步
+# =========================================
+
+REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
+
+echo "Starting file watcher with auto-sync..."
+echo "Repo: $REPO_DIR"
+echo "Press Ctrl+C to stop"
+echo ""
+
+cd "$REPO_DIR"
+node watch-sync.js

@@ -1,0 +1,751 @@
+{
+  "query": "\"#提示词\" OR \"#ChatGPT技巧\" OR \"#Claude技巧\"",
+  "query_type": "Top",
+  "fetched_at": "2026-01-28T12:20:50.928093Z",
+  "total_tweets": 19,
+  "statistics": {
+    "total_tweets": 19,
+    "total_engagement": {
+      "likes": 314,
+      "retweets": 101,
+      "replies": 19,
+      "quotes": 6,
+      "views": 42539
+    },
+    "averages": {
+      "likes_per_tweet": 16.53,
+      "retweets_per_tweet": 5.32,
+      "replies_per_tweet": 1.0
+    },
+    "language_distribution": {
+      "zh": 18,
+      "qme": 1
+    },
+    "top_hashtags": {
+      "提示词": 19,
+      "AI": 9,
+      "刘亦菲": 3,
+      "ai": 3,
+      "副业": 3,
+      "美女": 2,
+      "Prompt": 2,
+      "豆包": 1,
+      "赵露思": 1,
+      "模板": 1,
+      "鱼尾纹": 1,
+      "oii": 1,
+      "oiioii": 1,
+      "处女座": 1,
+      "星座": 1,
+      "AI提示词": 1,
+      "马上转运": 1,
+      "一马当先": 1,
+      "马上发财": 1,
+      "suno": 1
+    },
+    "top_mentions": {},
+    "reply_ratio": 0.0,
+    "top_authors_by_followers": [
+      {
+        "username": "aigclink",
+        "name": "AIGCLINK",
+        "followers": 33703,
+        "verified": true,
+        "tweet_count": 2
+      },
+      {
+        "username": "xiidongdong915",
+        "name": "全能资源分享站",
+        "followers": 6786,
+        "verified": false,
+        "tweet_count": 1
+      },
+      {
+        "username": "amiaoapp",
+        "name": "APP喵",
+        "followers": 2871,
+        "verified": true,
+        "tweet_count": 2
+      },
+      {
+        "username": "ZenHuifer",
+        "name": "ZenHuifer",
+        "followers": 1792,
+        "verified": false,
+        "tweet_count": 1
+      },
+      {
+        "username": "vuser2007",
+        "name": "热搜资源免费分享🤪🤣💋",
+        "followers": 1085,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "hank_aibtc",
+        "name": "Hank 互fo",
+        "followers": 917,
+        "verified": true,
+        "tweet_count": 3
+      },
+      {
+        "username": "paipiange",
+        "name": "paipiange",
+        "followers": 795,
+        "verified": true,
+        "tweet_count": 6
+      },
+      {
+        "username": "maiyaer11",
+        "name": "万物皆可平替",
+        "followers": 794,
+        "verified": false,
+        "tweet_count": 2
+      },
+      {
+        "username": "aigjml",
+        "name": "AI工具目录",
+        "followers": 22,
+        "verified": false,
+        "tweet_count": 1
+      }
+    ],
+    "most_active_authors": [
+      {
+        "username": "paipiange",
+        "name": "paipiange",
+        "followers": 795,
+        "verified": true,
+        "tweet_count": 6
+      },
+      {
+        "username": "hank_aibtc",
+        "name": "Hank 互fo",
+        "followers": 917,
+        "verified": true,
+        "tweet_count": 3
+      },
+      {
+        "username": "maiyaer11",
+        "name": "万物皆可平替",
+        "followers": 794,
+        "verified": false,
+        "tweet_count": 2
+      },
+      {
+        "username": "amiaoapp",
+        "name": "APP喵",
+        "followers": 2871,
+        "verified": true,
+        "tweet_count": 2
+      },
+      {
+        "username": "aigclink",
+        "name": "AIGCLINK",
+        "followers": 33703,
+        "verified": true,
+        "tweet_count": 2
+      },
+      {
+        "username": "vuser2007",
+        "name": "热搜资源免费分享🤪🤣💋",
+        "followers": 1085,
+        "verified": true,
+        "tweet_count": 1
+      },
+      {
+        "username": "xiidongdong915",
+        "name": "全能资源分享站",
+        "followers": 6786,
+        "verified": false,
+        "tweet_count": 1
+      },
+      {
+        "username": "ZenHuifer",
+        "name": "ZenHuifer",
+        "followers": 1792,
+        "verified": false,
+        "tweet_count": 1
+      },
+      {
+        "username": "aigjml",
+        "name": "AI工具目录",
+        "followers": 22,
+        "verified": false,
+        "tweet_count": 1
+      }
+    ]
+  },
+  "tweets": [
+    {
+      "id": "1968238956442685797",
+      "url": "https://x.com/vuser2007/status/1968238956442685797",
+      "text": "#美女 #AI 炼丹 #提示词 模型 内含工作流 用 #豆包 AI生成\n\nhttps://t.co/nQludgaZyo https://t.co/a228phZHnc",
+      "created_at": "Wed Sep 17 09:01:49 +0000 2025",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 0,
+        "likes": 1,
+        "quotes": 0,
+        "views": 667,
+        "bookmarks": 2
+      },
+      "author": {
+        "username": "vuser2007",
+        "name": "热搜资源免费分享🤪🤣💋",
+        "followers": 1085,
+        "verified": true
+      },
+      "hashtags": [
+        "美女",
+        "AI",
+        "提示词",
+        "豆包"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "1968238956442685797"
+    },
+    {
+      "id": "2000754143955157046",
+      "url": "https://x.com/paipiange/status/2000754143955157046",
+      "text": "#提示词 #AI #赵露思 https://t.co/39qiYZpZv6",
+      "created_at": "Tue Dec 16 02:25:34 +0000 2025",
+      "lang": "qme",
+      "metrics": {
+        "retweets": 0,
+        "replies": 0,
+        "likes": 0,
+        "quotes": 0,
+        "views": 493,
+        "bookmarks": 0
+      },
+      "author": {
+        "username": "paipiange",
+        "name": "paipiange",
+        "followers": 795,
+        "verified": true
+      },
+      "hashtags": [
+        "提示词",
+        "AI",
+        "赵露思"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "2000754143955157046"
+    },
+    {
+      "id": "1902181863885885694",
+      "url": "https://x.com/xiidongdong915/status/1902181863885885694",
+      "text": "名称：最新AI生成美女图片提示词大全\n\n描述：详细提示词和描述大全，助你生成想要的图片\n\n📁 大小：/\n🏷 标签：#美女 #AI #提示词 #模板 https://t.co/nNr6eaecsN",
+      "created_at": "Wed Mar 19 02:14:31 +0000 2025",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 0,
+        "likes": 7,
+        "quotes": 0,
+        "views": 3090,
+        "bookmarks": 3
+      },
+      "author": {
+        "username": "xiidongdong915",
+        "name": "全能资源分享站",
+        "followers": 6786,
+        "verified": false
+      },
+      "hashtags": [
+        "美女",
+        "AI",
+        "提示词",
+        "模板"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "1902181863885885694"
+    },
+    {
+      "id": "2003668901566226869",
+      "url": "https://x.com/paipiange/status/2003668901566226869",
+      "text": "刘亦菲的粉丝会不会锤我啊 生成的视频神仙姐姐都有鱼尾纹了\n\n#刘亦菲 #鱼尾纹 #提示词 #oii #oiioii https://t.co/QGM6FKejSM",
+      "created_at": "Wed Dec 24 03:27:47 +0000 2025",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 0,
+        "likes": 0,
+        "quotes": 0,
+        "views": 480,
+        "bookmarks": 0
+      },
+      "author": {
+        "username": "paipiange",
+        "name": "paipiange",
+        "followers": 795,
+        "verified": true
+      },
+      "hashtags": [
+        "刘亦菲",
+        "鱼尾纹",
+        "提示词",
+        "oii",
+        "oiioii"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "2003668901566226869"
+    },
+    {
+      "id": "1845653374022373464",
+      "url": "https://x.com/maiyaer11/status/1845653374022373464",
+      "text": "最近cursor AI很火，很多非程序员借助这个工具写网站、app，这里是国外大神分享的cursor提示词～\n\nhttps://t.co/nBzNbuSC8X\n\n#AI #提示词 https://t.co/iiDeFNK9fM",
+      "created_at": "Mon Oct 14 02:30:29 +0000 2024",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 0,
+        "likes": 1,
+        "quotes": 0,
+        "views": 798,
+        "bookmarks": 1
+      },
+      "author": {
+        "username": "maiyaer11",
+        "name": "万物皆可平替",
+        "followers": 794,
+        "verified": false
+      },
+      "hashtags": [
+        "AI",
+        "提示词"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "1845653374022373464"
+    },
+    {
+      "id": "1998727425245802587",
+      "url": "https://x.com/paipiange/status/1998727425245802587",
+      "text": "处女座 #提示词 #处女座 #星座 #AI提示词 https://t.co/9zu9pyBiU7",
+      "created_at": "Wed Dec 10 12:12:07 +0000 2025",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 1,
+        "likes": 0,
+        "quotes": 0,
+        "views": 604,
+        "bookmarks": 0
+      },
+      "author": {
+        "username": "paipiange",
+        "name": "paipiange",
+        "followers": 795,
+        "verified": true
+      },
+      "hashtags": [
+        "提示词",
+        "处女座",
+        "星座",
+        "AI提示词"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "1998727425245802587"
+    },
+    {
+      "id": "2008437488881463380",
+      "url": "https://x.com/paipiange/status/2008437488881463380",
+      "text": "提示词:\n\n看评论:\n\n#提示词 #刘亦菲 #马上转运 #一马当先 #马上发财 https://t.co/dZJHunt6mF",
+      "created_at": "Tue Jan 06 07:16:26 +0000 2026",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 1,
+        "likes": 1,
+        "quotes": 0,
+        "views": 269,
+        "bookmarks": 0
+      },
+      "author": {
+        "username": "paipiange",
+        "name": "paipiange",
+        "followers": 795,
+        "verified": true
+      },
+      "hashtags": [
+        "提示词",
+        "刘亦菲",
+        "马上转运",
+        "一马当先",
+        "马上发财"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "2008437488881463380"
+    },
+    {
+      "id": "1787721417880113590",
+      "url": "https://x.com/amiaoapp/status/1787721417880113590",
+      "text": "Suno AI 提示词生成器，音乐创作辅助工具\n\n🏷标签：#AI #提示词 #suno #音乐\n\n👉链接：https://t.co/fkVs6yr927 https://t.co/GqEsh1Af8L",
+      "created_at": "Tue May 07 05:49:34 +0000 2024",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 1,
+        "likes": 0,
+        "quotes": 0,
+        "views": 775,
+        "bookmarks": 0
+      },
+      "author": {
+        "username": "amiaoapp",
+        "name": "APP喵",
+        "followers": 2871,
+        "verified": true
+      },
+      "hashtags": [
+        "AI",
+        "提示词",
+        "suno",
+        "音乐"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "1787721417880113590"
+    },
+    {
+      "id": "2000207130092007909",
+      "url": "https://x.com/hank_aibtc/status/2000207130092007909",
+      "text": "云海之上，一座"四川"化作漂浮仙境。雪峰环抱，古寺错落，竹林与梯田如翡翠铺展，清泉蜿蜒、瀑布倾泻。佛像静坐山崖，熊猫点缀其间，烟火与禅意并存。这里既有山河壮阔，也有人间温度，仿佛把千年巴蜀的灵魂，轻轻托在天空。\n#提示词 #ai #副业 https://t.co/rRR3okn3Dw",
+      "created_at": "Sun Dec 14 14:11:56 +0000 2025",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 3,
+        "replies": 5,
+        "likes": 15,
+        "quotes": 2,
+        "views": 8130,
+        "bookmarks": 10
+      },
+      "author": {
+        "username": "hank_aibtc",
+        "name": "Hank 互fo",
+        "followers": 917,
+        "verified": true
+      },
+      "hashtags": [
+        "提示词",
+        "ai",
+        "副业"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "2000207130092007909"
+    },
+    {
+      "id": "2000834315727622579",
+      "url": "https://x.com/hank_aibtc/status/2000834315727622579",
+      "text": "一卷山水里，慢慢展开，像是在翻一段历史。雪山、白云、宫殿层层叠起，庄严却不遥远。金顶在阳光下发亮，仿佛还能听见风声和脚步声。这里不只是风景，更是一种信仰和时间的沉淀，让人看一眼就安静下来，心也跟着放慢了\n#ai #提示词 #副业 #vibe https://t.co/z76X3LsK5F",
+      "created_at": "Tue Dec 16 07:44:09 +0000 2025",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 1,
+        "likes": 3,
+        "quotes": 0,
+        "views": 685,
+        "bookmarks": 2
+      },
+      "author": {
+        "username": "hank_aibtc",
+        "name": "Hank 互fo",
+        "followers": 917,
+        "verified": true
+      },
+      "hashtags": [
+        "ai",
+        "提示词",
+        "副业",
+        "vibe"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "2000834315727622589"
+    },
+    {
+      "id": "1831887881985728730",
+      "url": "https://x.com/maiyaer11/status/1831887881985728730",
+      "text": "一份非常全的AI提示词模版，是目前见过的站里最全、分类最详细，可以提升AI回答的质量，建议收藏下～\n\nhttps://t.co/7ZKiXNGCU2\n\n#AI #提示词 https://t.co/ejRuOzCbRo",
+      "created_at": "Fri Sep 06 02:51:20 +0000 2024",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 0,
+        "likes": 1,
+        "quotes": 0,
+        "views": 698,
+        "bookmarks": 1
+      },
+      "author": {
+        "username": "maiyaer11",
+        "name": "万物皆可平替",
+        "followers": 794,
+        "verified": false
+      },
+      "hashtags": [
+        "AI",
+        "提示词"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "1831887881985728730"
+    },
+    {
+      "id": "1968855364087976272",
+      "url": "https://x.com/amiaoapp/status/1968855364087976272",
+      "text": "Free Prompt Generator：免费AI提示生成器，支持 写作、编程、市场营销、图像创作等多场景应用。\n\n可以将你的 简单想法一键转化为专业高效的 AI 指令，自动补充细节、设定角色、明确格式、添加约束条件，生成结构完整的提示词。\n\n🏷标签：#网站 #提示词 #AI #PROMPT\n\n☁链接：https://t.co/bR8w4b1OCI https://t.co/PNG2wVtQhm",
+      "created_at": "Fri Sep 19 01:51:13 +0000 2025",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 0,
+        "likes": 0,
+        "quotes": 0,
+        "views": 1233,
+        "bookmarks": 0
+      },
+      "author": {
+        "username": "amiaoapp",
+        "name": "APP喵",
+        "followers": 2871,
+        "verified": true
+      },
+      "hashtags": [
+        "网站",
+        "提示词",
+        "AI",
+        "PROMPT"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "1968855364087976272"
+    },
+    {
+      "id": "2000220222783975885",
+      "url": "https://x.com/hank_aibtc/status/2000220222783975885",
+      "text": "一颗贡柑，从春日花开开始书写故事。雨露滋养，花香盈枝；夏日幼果悄然挂头，青涩却满含期待；金秋时节，果实饱满，采摘入篓，甜香四溢。经匠心分选与精制，方成典藏佳品。山水滋养，岁月沉淀，只为这一口清甜润喉、回甘悠长。左边nanop，右边某包\n#AIart #ai #提示词 #副业 https://t.co/wbXkfVeJ0Y",
+      "created_at": "Sun Dec 14 15:03:58 +0000 2025",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 0,
+        "likes": 1,
+        "quotes": 1,
+        "views": 603,
+        "bookmarks": 0
+      },
+      "author": {
+        "username": "hank_aibtc",
+        "name": "Hank 互fo",
+        "followers": 917,
+        "verified": true
+      },
+      "hashtags": [
+        "AIart",
+        "ai",
+        "提示词",
+        "副业"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "2000220222783975885"
+    },
+    {
+      "id": "2003660620949049600",
+      "url": "https://x.com/paipiange/status/2003660620949049600",
+      "text": "提示词看评论\n#提示词 #AI #刘亦菲 #马年 #马上有钱 #过年了 #壁纸 https://t.co/388N70YLFQ",
+      "created_at": "Wed Dec 24 02:54:52 +0000 2025",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 2,
+        "likes": 0,
+        "quotes": 0,
+        "views": 863,
+        "bookmarks": 0
+      },
+      "author": {
+        "username": "paipiange",
+        "name": "paipiange",
+        "followers": 795,
+        "verified": true
+      },
+      "hashtags": [
+        "提示词",
+        "AI",
+        "刘亦菲",
+        "马年",
+        "马上有钱",
+        "过年了",
+        "壁纸"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "2003660620949049600"
+    },
+    {
+      "id": "1809882184180019452",
+      "url": "https://x.com/aigclink/status/1809882184180019452",
+      "text": "一款提示词创建和评估的工具：QualityPrompts \n\n1、支持58种提示技术\n2、提供了可以快速评估不同提示技术的功能，以测试和优化提示词\ngithub：https://t.co/VZSRF0cmYd\n\n#QualityPrompts #提示词 #提示词优化 #提示词创建",
+      "created_at": "Sun Jul 07 09:28:33 +0000 2024",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 59,
+        "replies": 4,
+        "likes": 165,
+        "quotes": 2,
+        "views": 12628,
+        "bookmarks": 131
+      },
+      "author": {
+        "username": "aigclink",
+        "name": "AIGCLINK",
+        "followers": 33703,
+        "verified": true
+      },
+      "hashtags": [
+        "QualityPrompts",
+        "提示词",
+        "提示词优化",
+        "提示词创建"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "1809882184180019452"
+    },
+    {
+      "id": "1922054995806961867",
+      "url": "https://x.com/ZenHuifer/status/1922054995806961867",
+      "text": "Google 出的提示词指南太干货，不好查？🤔 别担心！\n我已经把它做成了方便检索的【问答库】，助你随时查阅、快速上手 Google 官方 Prompt 技巧！✅\n立刻访问： https://t.co/PYPyYyMmRB\n#提示词 #AI #Google #Prompt #AIGC #效率提升",
+      "created_at": "Mon May 12 22:23:15 +0000 2025",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 5,
+        "replies": 0,
+        "likes": 17,
+        "quotes": 1,
+        "views": 1899,
+        "bookmarks": 7
+      },
+      "author": {
+        "username": "ZenHuifer",
+        "name": "ZenHuifer",
+        "followers": 1792,
+        "verified": false
+      },
+      "hashtags": [
+        "提示词",
+        "AI",
+        "Google",
+        "Prompt",
+        "AIGC",
+        "效率提升"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "1922054995806961867"
+    },
+    {
+      "id": "1846882655662755960",
+      "url": "https://x.com/aigclink/status/1846882655662755960",
+      "text": "一个提示词学习库：Prompt_Engineering，涵盖从初级到高级的提示工程技术学习资料、教程和文档、能直接使用的提示实例等\n\ngithub：https://t.co/lv1gpojuS4\n\n#提示词 #Prompt #提示工程",
+      "created_at": "Thu Oct 17 11:55:13 +0000 2024",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 34,
+        "replies": 3,
+        "likes": 102,
+        "quotes": 0,
+        "views": 8050,
+        "bookmarks": 107
+      },
+      "author": {
+        "username": "aigclink",
+        "name": "AIGCLINK",
+        "followers": 33703,
+        "verified": true,
+        "tweet_count": 2
+      },
+      "hashtags": [
+        "提示词",
+        "Prompt",
+        "提示工程"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "1846882655662755960"
+    },
+    {
+      "id": "1997992648054075865",
+      "url": "https://x.com/aigjml/status/1997992648054075865",
+      "text": "找到精彩的提示词，不好改写，调整费时。\nAI工具目录 - 免费提示词改写器，识别提示词关键特性，\n用户一眼就可以，找到可以改写的地方。马上试用：\nhttps://t.co/blH5E6QV54\n#提示词 #提示词生成 #提示词改写",
+      "created_at": "Mon Dec 08 11:32:22 +0000 2025",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 0,
+        "likes": 0,
+        "quotes": 0,
+        "views": 360,
+        "bookmarks": 0
+      },
+      "author": {
+        "username": "aigjml",
+        "name": "AI工具目录",
+        "followers": 22,
+        "verified": false,
+        "tweet_count": 1
+      },
+      "hashtags": [
+        "提示词",
+        "提示词生成",
+        "提示词改写"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "1997992648054075865"
+    },
+    {
+      "id": "2007631164576804971",
+      "url": "https://x.com/paipiange/status/2007631164576804971",
+      "text": "提示词:\n\n3D表情包\n\n看评论\n#提示词 #表情包 https://t.co/4QAKUmiFs8",
+      "created_at": "Sun Jan 04 01:52:24 +0000 2026",
+      "lang": "zh",
+      "metrics": {
+        "retweets": 0,
+        "replies": 1,
+        "likes": 0,
+        "quotes": 0,
+        "views": 214,
+        "bookmarks": 0
+      },
+      "author": {
+        "username": "paipiange",
+        "name": "paipiange",
+        "followers": 795,
+        "verified": true,
+        "tweet_count": 6
+      },
+      "hashtags": [
+        "提示词",
+        "表情包"
+      ],
+      "mentions": [],
+      "is_reply": false,
+      "conversation_id": "2007631164576804971"
+    }
+  ]
+}

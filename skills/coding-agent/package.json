@@ -1,0 +1,30 @@
+{
+  "name": "coding-agent",
+  "version": "1.0.0",
+  "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control",
+  "main": "SKILL.md",
+  "keywords": [
+    "coding",
+    "development",
+    "claude",
+    "codex",
+    "programmatic",
+    "background-process",
+    "ai-coding",
+    "code-generation"
+  ],
+  "author": "jack",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "SKILL.md"
+  ],
+  "clawdbot": {
+    "skill": {
+      "entry": "SKILL.md",
+      "description": "Control Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic coding tasks"
+    }
+  }
+}

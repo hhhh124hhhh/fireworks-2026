@@ -1,0 +1,119 @@
+{
+  "timestamp": "2026-04-01T12:06:50.761263",
+  "source": "D:\\openclaw-data\\.openclaw\\workspace-shared\\topics\\topics-pool-20260401-0832.md",
+  "summary": {
+    "P0": 4,
+    "P1": 5,
+    "P2": 3,
+    "SKIP": 0
+  },
+  "topics": {
+    "P0": [
+      {
+        "title": "Claude Code 源码泄露：Anthropic 工具链暴露了什么",
+        "heat": null,
+        "tags": [
+          "丑闻争议 (泄露)",
+          "知乎 TOP2"
+        ],
+        "priority_score": 45
+      },
+      {
+        "title": "男子靠 AI 开一人公司年营收 150 万",
+        "heat": null,
+        "tags": [
+          "赚钱副业 (营收)",
+          "知乎 TOP3"
+        ],
+        "priority_score": 40
+      },
+      {
+        "title": "网贷最强监管落地：24% 利率上限意味着什么",
+        "heat": 179,
+        "tags": [
+          "具体数字 (24%)",
+          "具体案例 (落地)",
+          "知乎 TOP4"
+        ],
+        "priority_score": 50
+      },
+      {
+        "title": "华为 2025 年销售收入 8809 亿",
+        "heat": null,
+        "tags": [
+          "热点事件 (华为)",
+          "知乎 TOP7"
+        ],
+        "priority_score": 45
+      }
+    ],
+    "P1": [
+      {
+        "title": "张雪机车出海：国产摩托如何打入国际赛场",
+        "heat": null,
+        "tags": [
+          "知乎 TOP1"
+        ],
+        "priority_score": 20
+      },
+      {
+        "title": "意大利 2-5 波黑连续 3 届无缘世界杯",
+        "heat": null,
+        "tags": [
+          "知乎 TOP5"
+        ],
+        "priority_score": 20
+      },
+      {
+        "title": "鞠婧祎偷税风波落幕：举报人将承担什么",
+        "heat": null,
+        "tags": [
+          "知乎 TOP1"
+        ],
+        "priority_score": 20
+      },
+      {
+        "title": "抖音/萝卜快跑自动驾驶再出故障",
+        "heat": null,
+        "tags": [
+          "知乎 TOP1"
+        ],
+        "priority_score": 20
+      },
+      {
+        "title": "OpenAI 融资 8520 亿美元估值",
+        "heat": null,
+        "tags": [
+          "知乎 TOP1"
+        ],
+        "priority_score": 20
+      }
+    ],
+    "P2": [
+      {
+        "title": "伊朗战事升级：霍尔木兹海峡能源博弈",
+        "heat": null,
+        "tags": [
+          "知乎 TOP6"
+        ],
+        "priority_score": 15
+      },
+      {
+        "title": "中国无人机蜂群技术突破（3秒一架）",
+        "heat": null,
+        "tags": [
+          "知乎 TOP8"
+        ],
+        "priority_score": 15
+      },
+      {
+        "title": "Axios NPM 被投毒：RAT 木马波及全球",
+        "heat": null,
+        "tags": [
+          "知乎 TOP9"
+        ],
+        "priority_score": 15
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "task_id": "ba3636c0-0bbe-4489-b7ef-13089c7682d5",
+        "status": 2,
+        "result": {
+            "video_bos_url": "https://image0.bj.bcebos.com/picture_book/2026-02-10/ba3636c0-0bbe-4489-b7ef-13089c7682d5.mp4",
+            "video_cdn_url": "https://wenku-huiben.cdn.bcebos.com/935874411006223536/video/vd.mp4?authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2026-02-10T00%3A27%3A33Z%2F-1%2Fhost%2F77b528f0b3b75820e2bf9451e10d8ce47fb17690932f3597ef25a1f2b0268120"
+        }
+    },
+    {
+        "task_id": "c05df768-80e6-4b4a-94e5-8d15f342077e",
+        "status": 2,
+        "result": {
+            "video_bos_url": "https://image0.bj.bcebos.com/picture_book/2026-02-10/c05df768-80e6-4b4a-94e5-8d15f342077e.mp4",
+            "video_cdn_url": "https://wenku-huiben.cdn.bcebos.com/139223472/video/vd-dm.mp4?authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2026-02-10T00%3A28%3A15Z%2F-1%2Fhost%2F352fc20728463779a172dde7020e66149e1f91ee182a7805a99ef655eeafb36e"
+        }
+    }
+]

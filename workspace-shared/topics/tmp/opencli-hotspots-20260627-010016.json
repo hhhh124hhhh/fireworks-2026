@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-27 01:00:16",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "A Guide to AI Cold Starts on Cloud Run",
+          "description": "<p>I saw a developer asking on Reddit if there <a href=\"https://www.reddit.com/r/googlecloud/comments/1s8yzn1/is_there_a_sane_way_to_manage_cloud_run_cold/\" rel=\"noopener noreferrer\">was any “sane way",
+          "url": "https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "MyCrackDB",
+          "description": "<p>I’m excited to share <strong>MyCrackDB</strong>, a project I’ve been working on recently.</p>\n\n<p>Built in C++ using RocksDB and OpenSSL, it is designed to efficiently generate, store, and query cr",
+          "url": "https://dev.to/ahmedaldiab/mycrackdb-2jjc",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Detect any website tech stack, metadata, socials & a screenshot — in one API call",
+          "description": "<p>If you've ever needed to know what a website is built with — its framework, its meta tags, the social accounts it links to, plus a screenshot — you've probably reached for three or four different t",
+          "url": "https://dev.to/clausenetizen/detect-any-website-tech-stack-metadata-socials-a-screenshot-in-one-api-call-5b2i",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "I Reverse Engineered a Closed-Format App. Everything Was in SQLite.",
+          "description": "<p>I had accumulated over two thousand notes in Youdao Cloud Note over several years. When I decided to move to Obsidian, the first thing I checked was the export feature. There wasn't one. No batch e",
+          "url": "https://dev.to/antonio_zhu_e726fd856cd86/i-reverse-engineered-a-closed-format-app-everything-was-in-sqlite-340g",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "How I Built a Hyperlocal Coupon Platform with Next.js Firebase for Small-Town India",
+          "description": "<h2>\n  \n  \n  The Problem\n</h2>\n\n<p>Small local shops in Tier-2/3 Indian cities (think Tirunelveli, Tenkasi, Dindigul) have <strong>zero digital presence</strong>. No website, no app, no way to offer d",
+          "url": "https://dev.to/i_sakthi_7/how-i-built-a-hyperlocal-coupon-platform-with-nextjs-14-firebase-for-small-town-india-4pdc",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "6 checks before merging AI-agent generated code",
+          "description": "<p>AI coding agents are useful because they can make large changes quickly.</p>\n\n<p>That is also the reason I do not want to merge their patches just because the final answer says “done”.</p>\n\n<p>The ",
+          "url": "https://dev.to/marcin_brzozka_ff45b1ccb6/6-checks-before-merging-ai-agent-generated-code-dmg",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Cilium publishes its CI hardening playbook, gaps and all",
+          "description": "<p>Every open source project's CI pipeline is a quiet confession of how much trust it extends to its own contributors. (Most maintainers would rather you not read theirs.) This week the Cilium team di",
+          "url": "https://dev.to/leobaniak/cilium-publishes-its-ci-hardening-playbook-gaps-and-all-1n1p",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "A IA não vai pensar por você. E isso é uma coisa boa.",
+          "description": "<p>Eu vejo muita gente esperando que a IA aja como um engenheiro de software sênior. Que ela tome decisões de arquitetura, escolha as melhores práticas, pense em escalabilidade, segurança, performance",
+          "url": "https://dev.to/andredarcie/a-ia-nao-vai-pensar-por-voce-e-isso-e-uma-coisa-boa-5jj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "How I Cut Our AI API Bill by 95%: What Actually Worked",
+          "description": "<p>Honestly, how I Cut Our AI API Bill by 95%: What Actually Worked</p>\n\n<p>When I first looked at our AI infrastructure spend six months ago, I nearly choked on my coffee. We were burning $11,000 a m",
+          "url": "https://dev.to/purecast/how-i-cut-our-ai-api-bill-by-95-what-actually-worked-kdg",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Building a REST API with Solon 4.0: A Step-by-Step Guide",
+          "description": "<h2>\n  \n  \n  Why Solon for REST APIs?\n</h2>\n\n<p>What drew me to Solon in the first place was how <em>little</em> code it takes to get something running. There's no heavy annotation processing, no XML ",
+          "url": "https://dev.to/solonjava/building-a-rest-api-with-solon-40-a-step-by-step-guide-174i",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "HackTheBox: JobTwo Writeup",
+          "description": "<h2>\n  \n  \n  Executive Summary\n</h2>\n\n<p>JobTwo is a Windows Server 2022 machine that simulates a realistic corporate phishing and privilege escalation scenario. The attack chain begins with a job pos",
+          "url": "https://dev.to/exploitnotes/hackthebox-jobtwo-writeup-i0g",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "The Tuesday the Spare Phone Earned Its Keep — How an Old Android and a Free App Beat a $12/mo Camera",
+          "description": "<p><em>A short story. Names and details are composited, but every capability described is a real feature of Background Camera RemoteStream — and nothing in it requires a monthly subscription.</em></p>",
+          "url": "https://dev.to/superfunicular/the-tuesday-the-spare-phone-earned-its-keep-how-an-old-android-and-a-free-app-beat-a-12mo-camera-57ge",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-06-10 01:00:07",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "useMemo Hook in React",
+          "description": "<h2>\n  \n  \n  useMemo :\n</h2>\n\n<p>The <code>useMemo</code> is designed to optimize performance by caching (memoizing) the result of a calculation between component re-renders.</p>\n\n<p>The <code>useMemo",
+          "url": "https://dev.to/deva_i_932c8869ada96d4c9f/usememo-hook-in-react-4f8i",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "5 JavaScript SEO Pitfalls That Are Quietly Killing Your Rankings",
+          "description": "<p>If you've shipped a React, Vue, or Next.js site that ranks worse than the old static version it replaced, you're not imagining it. Single-page apps and heavy client-side rendering can introduce sil",
+          "url": "https://dev.to/mhaconsulting/5-javascript-seo-pitfalls-that-are-quietly-killing-your-rankings-fjn",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Day 6: Set Up Code Quality Tools for ML Code",
+          "description": "<h1>\n  \n  \n  Lab Information\n</h1>\n\n<p>The xFusionCorp Industries ML team enforces code quality with ruff and black on every pull request. The project at /root/code/fraud-detection/ currently fails bo",
+          "url": "https://dev.to/thukhakyawe_cloud/day-6-set-up-code-quality-tools-for-ml-code-e7b",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "🧩LOGIC SOLSTICE CIPHER - A Code-Breaking Ode to Alan Turing",
+          "description": "<p><em>This is a submission for the <a href=\"https://dev.to/challenges/june-game-jam-2026-06-03\">June Solstice Game Jam</a></em></p>\n\n<h2>\n  \n  \n  What I Built\n</h2>\n\n<p><strong>SOLSTICE CIPHER</stron",
+          "url": "https://dev.to/minhlong2605/solstice-cipher-a-code-breaking-ode-to-alan-turing-44f2",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "I thought building the product would be the hard part",
+          "description": "<p>A month ago, I quit my job to start a company with three friends. I thought the hardest part would be building the product. Turns out, building is the comfortable part. Talking to users, understand",
+          "url": "https://dev.to/aditya_meridiona/i-thought-building-the-product-would-be-the-hard-part-4h42",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "I built a cheap options data API for algo traders — $20/mo vs $99+ (free tier available)",
+          "description": "<h2>\n  \n  \n  Why I built this\n</h2>\n\n<p>Most options data APIs charge $99–200/month. For retail algo traders and developers, that's a lot just to access market data.</p>\n\n<p>So I built Market-Options ",
+          "url": "https://dev.to/__ceb04a8ef391e/i-built-a-cheap-options-data-api-for-algo-traders-20mo-vs-99-free-tier-available-1f2o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Why \"No Backend\" Is a Myth in AI App Building",
+          "description": "<p>You can type a prompt into an AI tool and get a beautiful, functioning user interface in ten minutes. It feels like magic. But what happens when 1,000 concurrent users try to process a payment, boo",
+          "url": "https://dev.to/momen_hq/why-no-backend-is-a-myth-in-ai-app-building-27io",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "How to build an AI trading strategy workflow without writing a full trading bot",
+          "description": "<p>Liquid syntax error: Unknown tag 'enddetails'</p>\n",
+          "url": "https://dev.to/horizon_trade/how-to-build-an-ai-trading-strategy-workflow-without-writing-a-full-trading-bot-1ali",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "How to build an AI trading strategy workflow without writing a full trading bot",
+          "description": "<p>Liquid syntax error: Unknown tag 'enddetails'</p>\n",
+          "url": "https://dev.to/horizon_trade/how-to-build-an-ai-trading-strategy-workflow-without-writing-a-full-trading-bot-37be",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "I Built a Visa Requirement Overlay for Google Flights — Here's How the Chrome Extension Works",
+          "description": "<p>Every time I plan a multi-country trip, I end up in the same loop: open the foreign ministry website, navigate three layers of dropdowns, find the right passport/destination combination, then repea",
+          "url": "https://dev.to/ktg0215/i-built-a-visa-requirement-overlay-for-google-flights-heres-how-the-chrome-extension-works-20o7",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "We thought we caught every scam token. A dev.to post showed us a blind spot.",
+          "description": "<p>We run a real-time scam-token detector for Ethereum. It analyzes new ERC-20s, simulates buys and sells to catch honeypots, clusters deployers and funders, and scores everything live. After four mon",
+          "url": "https://dev.to/mik3fly__/we-thought-we-caught-every-scam-token-a-devto-post-showed-us-a-blind-spot-2c9g",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "How I Made $500+ from GitHub Bounties in 30 Days (Real Data)",
+          "description": "<h1>\n  \n  \n  How I Made $500+ from GitHub Bounties in 30 Days (Real Data)\n</h1>\n\n<p>GitHub has become much more than a code hosting platform. It's now a career tool, a learning resource, and yes -- a ",
+          "url": "https://dev.to/mao_c3c627233294f80a580/how-i-made-500-from-github-bounties-in-30-days-real-data-1k5l",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

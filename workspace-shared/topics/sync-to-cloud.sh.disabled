@@ -1,0 +1,40 @@
+#!/bin/bash
+# =========================================
+# OpenClaw Topics Pool → Cloud Sync Script
+# 情报官输出同步到 GitHub
+# =========================================
+
+set -e
+
+REPO_DIR="/root/clawd/workspace-shared/topics"
+cd "$REPO_DIR"
+
+# 确保使用 HTTPS + credential cache
+git remote set-url origin https://github.com/hhhh124hhhh/openclaw-topics-sync.git
+git config credential.helper "cache --timeout=3600"
+
+SYNC_LOG="$REPO_DIR/sync-cloud.log"
+echo "[$(date '+%Y-%m-%d %H:%M:%S')] === Cloud sync started ===" >> "$SYNC_LOG"
+
+# Step 1: Fetch latest from remote
+echo "[$(date '+%Y-%m-%d %H:%M:%S')] Fetching origin..." >> "$SYNC_LOG"
+GIT_TERMINAL_PROMPT=0 git fetch origin main >> "$SYNC_LOG" 2>&1 || true
+
+# Step 2: Stage all changes
+git add -A >> "$SYNC_LOG" 2>&1
+
+# Step 3: Check if there are changes to commit
+if git diff --cached --quiet; then
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] No changes to commit" >> "$SYNC_LOG"
+else
+    # Commit with timestamp
+    git commit -m "sync: $(date '+%Y-%m-%d %H:%M')" >> "$SYNC_LOG" 2>&1
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] Changes committed" >> "$SYNC_LOG"
+fi
+
+# Step 4: Push to remote
+echo "[$(date '+%Y-%m-%d %H:%M:%S')] Pushing to origin..." >> "$SYNC_LOG"
+GIT_TERMINAL_PROMPT=0 git push origin main >> "$SYNC_LOG" 2>&1
+
+echo "[$(date '+%Y-%m-%d %H:%M:%S')] === Cloud sync completed ===" >> "$SYNC_LOG"
+echo "✅ Cloud sync completed at $(date '+%Y-%m-%d %H:%M:%S')"

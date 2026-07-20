@@ -1,0 +1,11 @@
+{
+  "file": "/root/clawd/dist/openai-image-gen.skill",
+  "name": "openai-image-gen",
+  "skill_name": "openai-image-gen",
+  "description": "Batch-generate images via OpenAI Images API. Random prompt sampler + `index.html` gallery.",
+  "category": "uncategorized",
+  "tags": "",
+  "size_bytes": 4416,
+  "modified": 1769661685,
+  "md5": ee64274f0fd616a3c8fb940e00896bc2
+}

@@ -1,0 +1,18 @@
+[2026-02-08T22:57:39+08:00] [INFO] Starting daily growth to tutorial generation
+[2026-02-08T22:57:39+08:00] [INFO] Extracting key growth points from memory
+[2026-02-08T22:57:39+08:00] [INFO] Reading memory file: /root/clawd/memory/2026-02-07.md
+[2026-02-08T22:57:40+08:00] [INFO] Found 0 key growth points
+[2026-02-08T22:57:40+08:00] [INFO] Found 13 growth points
+[2026-02-08T22:57:40+08:00] [INFO] Updated index with: [2026-02-08T22:57:39+08:00]
+[2026-02-08T22:57:40+08:00] [INFO] Generated tutorial: 2026-02-08-其他.md
+[2026-02-08T22:57:40+08:00] [INFO] Updated index with: [INFO]
+[2026-02-08T22:57:40+08:00] [INFO] Generated tutorial: 2026-02-08-其他.md
+[2026-02-08T22:57:40+08:00] [INFO] Updated index with: Reading
+[2026-02-08T22:57:40+08:00] [INFO] Generated tutorial: 2026-02-08-其他.md
+[2026-02-08T22:57:40+08:00] [INFO] Updated index with: memory
+[2026-02-08T22:57:40+08:00] [INFO] Generated tutorial: 2026-02-08-其他.md
+[2026-02-08T22:57:40+08:00] [INFO] Updated index with: file:
+[2026-02-08T22:57:40+08:00] [INFO] Generated tutorial: 2026-02-08-其他.md
+[2026-02-08T22:57:40+08:00] [INFO] Reached max tutorials limit (5)
+[2026-02-08T22:57:40+08:00] [INFO] Generated 5 tutorials
+[2026-02-08T22:57:40+08:00] [INFO] Tutorial generation completed

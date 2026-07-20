@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-05-04 01:03:57",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Benchmark: Gitea 1.24 vs. GitLab 17.0 for Git Repository Performance",
+          "description": "<p>If you’ve ever waited 12 seconds for a git clone of a 5GB monorepo behind a corporate firewall, you know the cost of poor Git server performance: $47k annual productivity loss for a 50-person engin",
+          "url": "https://dev.to/johalputt/benchmark-gitea-124-vs-gitlab-170-for-git-repository-performance-4icc",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "MFA is Not the Holy Grail of Security",
+          "description": "<blockquote>\n<p><em>Originally published at <a href=\"https://ewright3.com/blog/mfa-is-not-the-holy-grail-of-security\" rel=\"noopener noreferrer\">ewright3.com</a></em></p>\n</blockquote>\n\n<p>In January 2",
+          "url": "https://dev.to/ewright3/mfa-is-not-the-holy-grail-of-security-j1",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "The AI Agent Destroyed Its Mail Server to Keep a Secret",
+          "description": "<h1>\n  \n  \n  The AI Agent Destroyed Its Mail Server to Keep a Secret\n</h1>\n\n<p>The agent knew destroying its mail server was wrong. Then it did it to keep a secret.</p>\n\n<p>It identified the ethical c",
+          "url": "https://dev.to/zaferdace/the-ai-agent-destroyed-its-mail-server-to-keep-a-secret-26kg",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "How Redis Actually Works — RAM, Single Thread, and the Expiry Behavior Nobody Explains",
+          "description": "<p>A RAM read takes about 100 nanoseconds. A disk read — even on a modern SSD — takes around 100,000 nanoseconds. That single gap explains most of Redis’s speed, before it does a single thing clever. ",
+          "url": "https://dev.to/piyush_kumarsingh_da3833/how-redis-actually-works-ram-single-thread-and-the-expiry-behavior-nobody-explains-2j4n",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Gemini vs Claude vs GPT-4 for Code Debugging — Practical Comparison (2026)",
+          "description": "<p>If this is useful, a ❤️ helps others find it.</p>\n\n<p>I debug Rust and TypeScript code daily. I've used all three major AI APIs for this — Gemini, Claude, and GPT-4.</p>\n\n<p>Here's the honest compa",
+          "url": "https://dev.to/hiyoyok/gemini-vs-claude-vs-gpt-4-for-code-debugging-practical-comparison-2026-dpb",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Auth regression tests for CI: what to assert and why",
+          "description": "<p>Most teams I have worked with have one auth test in their suite. It looks like this:<br>\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight javascript\"><code><span class=\"nf\">tes",
+          "url": "https://dev.to/bluehills/auth-regression-tests-for-ci-what-to-assert-and-why-1k92",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Run Claude Code's --dangerously-skip-permissions Safely with Docker",
+          "description": "<p>Claude Code's <code>--dangerously-skip-permissions</code> flag skips per-action approvals — a real productivity boost. The downside: with permissions skipped, Claude can read everything in your hom",
+          "url": "https://dev.to/trekhleb/run-claude-codes-dangerously-skip-permissions-safely-with-docker-514d",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "How Localized Chat Pages Helped Increase Organic Traffic to 160K Clicks",
+          "description": "<p>When I first started building my real-time chat platform, most of the focus was on the core experience:</p>\n\n<ul>\n<li>instant access</li>\n<li>no signup</li>\n<li>low friction</li>\n<li>fast WebRTC co",
+          "url": "https://dev.to/gowrishankar_rangasamy_f9/how-localized-chat-pages-helped-increase-organic-traffic-to-160k-clicks-37cg",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "TypeScript Agent Frameworks in 2026: Loop, Runtime, Sandbox",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F49n2hz3zsxd3vsakf",
+          "url": "https://dev.to/joeseifi/typescript-agent-frameworks-in-2026-loop-runtime-sandbox-2flm",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "JWT verification in production: an 8-check field guide",
+          "description": "<p>A correct JWT verifier does eight things. Most production verifiers I have read do four or five of them. The other three or four get skipped because the library defaults aren't loud about them, the",
+          "url": "https://dev.to/bluehills/jwt-verification-in-production-an-8-check-field-guide-am",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "We rotated our JWKS without overlap. Here is the 4-minute window that broke prod.",
+          "description": "<p>The on-call alert at 02:14 said <code>auth_5xx_rate spiked from 0.01 to 31.4</code>. Not a deploy window. Not a traffic spike. Just thirty-one percent of authenticated requests failing for ~four mi",
+          "url": "https://dev.to/bluehills/we-rotated-our-jwks-without-overlap-here-is-the-4-minute-window-that-broke-prod-11i3",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Specsmaxxing: I Wrote YAML Specs for My AI Agents — Here's What Changed (and What Didn't)",
+          "description": "<h1>\n  \n  \n  Specsmaxxing: I Wrote YAML Specs for My AI Agents — Here's What Changed (and What Didn't)\n</h1>\n\n<p>A YAML spec for an AI agent is basically the blueprint you leave for the contractor whe",
+          "url": "https://dev.to/jtorchia/specsmaxxing-i-wrote-yaml-specs-for-my-ai-agents-heres-what-changed-and-what-didnt-3ld6",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

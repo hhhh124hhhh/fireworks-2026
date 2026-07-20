@@ -1,0 +1,15 @@
+# Sync log
+sync.log
+sync-watch.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+
+# Node modules
+node_modules/
+package-lock.json

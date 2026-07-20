@@ -1,0 +1,862 @@
+{
+  "timestamp": "2026-05-10 02:00:12",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Internet Archive Switzerland",
+          "score": 329,
+          "author": "hggh",
+          "comments": 49,
+          "url": "https://internetarchive.ch/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://internetarchive.ch/"
+        },
+        {
+          "rank": 2,
+          "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+          "score": 18,
+          "author": "ggallas",
+          "comments": 6,
+          "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/"
+        },
+        {
+          "rank": 3,
+          "title": "PipeDream on the Acorn Archimedes",
+          "score": 49,
+          "author": "msephton",
+          "comments": 14,
+          "url": "https://stonetools.ghost.io/pipedream-archimedes/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://stonetools.ghost.io/pipedream-archimedes/"
+        },
+        {
+          "rank": 4,
+          "title": "The Intolerable Hypocrisy of Cyberlibertarianism",
+          "score": 115,
+          "author": "ColinWright",
+          "comments": 66,
+          "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/"
+        },
+        {
+          "rank": 5,
+          "title": "LLMs Corrupt Your Documents When You Delegate",
+          "score": 210,
+          "author": "rbanffy",
+          "comments": 74,
+          "url": "https://arxiv.org/abs/2604.15597",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://arxiv.org/abs/2604.15597"
+        },
+        {
+          "rank": 6,
+          "title": "Google broke reCAPTCHA for de-googled Android users",
+          "score": 1345,
+          "author": "anonymousiam",
+          "comments": 490,
+          "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users"
+        },
+        {
+          "rank": 7,
+          "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+          "score": 345,
+          "author": "pretext",
+          "comments": 208,
+          "url": "https://twitter.com/trq212/status/2052809885763747935",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://twitter.com/trq212/status/2052809885763747935"
+        },
+        {
+          "rank": 8,
+          "title": "How LEDs are made (2014)",
+          "score": 89,
+          "author": "smig0",
+          "comments": 11,
+          "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all"
+        },
+        {
+          "rank": 9,
+          "title": "A recent experience with ChatGPT 5.5 Pro",
+          "score": 518,
+          "author": "_alternator_",
+          "comments": 372,
+          "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/"
+        },
+        {
+          "rank": 10,
+          "title": "Introduction to Beaver Triples",
+          "score": 7,
+          "author": "badcryptobitch",
+          "comments": 2,
+          "url": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples"
+        },
+        {
+          "rank": 11,
+          "title": "Mythical Man Month",
+          "score": 290,
+          "author": "ingve",
+          "comments": 173,
+          "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://martinfowler.com/bliki/MythicalManMonth.html"
+        },
+        {
+          "rank": 12,
+          "title": "OpenAI’s WebRTC problem",
+          "score": 418,
+          "author": "atgctg",
+          "comments": 130,
+          "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://moq.dev/blog/webrtc-is-the-problem/"
+        },
+        {
+          "rank": 13,
+          "title": "America's carpet capital: an empire and its toxic legacy",
+          "score": 126,
+          "author": "rawgabbit",
+          "comments": 73,
+          "url": "https://apnews.com/projects/pfas-forever-stained/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://apnews.com/projects/pfas-forever-stained/"
+        },
+        {
+          "rank": 14,
+          "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
+          "score": 118,
+          "author": "Georgelemental",
+          "comments": 33,
+          "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/"
+        },
+        {
+          "rank": 15,
+          "title": "David Attenborough's 100th Birthday",
+          "score": 784,
+          "author": "defrost",
+          "comments": 152,
+          "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://www.bbc.com/news/articles/cp3pww9g0p5o"
+        },
+        {
+          "rank": 16,
+          "title": "Building the TD4 4-Bit CPU",
+          "score": 32,
+          "author": "zdw",
+          "comments": 11,
+          "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html"
+        },
+        {
+          "rank": 17,
+          "title": "Reviving the IBM Selectric Composer Fonts (2023)",
+          "score": 48,
+          "author": "tangus",
+          "comments": 5,
+          "url": "https://www.kutilek.de/selectric/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.kutilek.de/selectric/"
+        },
+        {
+          "rank": 18,
+          "title": "I Will Not Add Query Strings to Your URLs",
+          "score": 4,
+          "author": "susam",
+          "comments": 0,
+          "url": "https://susam.net/no-query-strings.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://susam.net/no-query-strings.html"
+        },
+        {
+          "rank": 19,
+          "title": "What causes lightning? The answer keeps getting more interesting",
+          "score": 146,
+          "author": "Tomte",
+          "comments": 37,
+          "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/"
+        },
+        {
+          "rank": 20,
+          "title": "Show HN: I wrote a flight simulator in my own programming language",
+          "score": 11,
+          "author": "pizza_man",
+          "comments": 3,
+          "url": "https://github.com/navid-m/flightsim",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://github.com/navid-m/flightsim"
+        },
+        {
+          "rank": 21,
+          "title": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
+          "score": 12,
+          "author": "ccheshirecat",
+          "comments": 4,
+          "url": "https://mochijs.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://mochijs.com/"
+        },
+        {
+          "rank": 22,
+          "title": "Killswitch: Per-function short-circuit mitigation primitive",
+          "score": 62,
+          "author": "signa11",
+          "comments": 13,
+          "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/"
+        },
+        {
+          "rank": 23,
+          "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+          "score": 319,
+          "author": "homebrewer",
+          "comments": 88,
+          "url": "https://www.wiisfi.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://www.wiisfi.com/"
+        },
+        {
+          "rank": 24,
+          "title": "Show HN: Free tool to mark points and polygon regions",
+          "score": 16,
+          "author": "magikMaker",
+          "comments": 3,
+          "url": "https://tack.pics",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://tack.pics"
+        },
+        {
+          "rank": 25,
+          "title": "Making Julia as Fast as C++ (2019)",
+          "score": 64,
+          "author": "d_tr",
+          "comments": 49,
+          "url": "https://flow.byu.edu/posts/julia-c++",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://flow.byu.edu/posts/julia-c++"
+        },
+        {
+          "rank": 26,
+          "title": "AI is breaking two vulnerability cultures",
+          "score": 387,
+          "author": "speckx",
+          "comments": 156,
+          "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
+        },
+        {
+          "rank": 27,
+          "title": "Read Programming as Theory Building",
+          "score": 67,
+          "author": "birdculture",
+          "comments": 11,
+          "url": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/"
+        },
+        {
+          "rank": 28,
+          "title": "Cartoon Network Flash Games",
+          "score": 391,
+          "author": "willmeyers",
+          "comments": 120,
+          "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games"
+        },
+        {
+          "rank": 29,
+          "title": "An Introduction to Meshtastic",
+          "score": 481,
+          "author": "ColinWright",
+          "comments": 176,
+          "url": "https://meshtastic.org/docs/introduction/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://meshtastic.org/docs/introduction/"
+        },
+        {
+          "rank": 30,
+          "title": "The React2Shell Story",
+          "score": 198,
+          "author": "mufeedvh",
+          "comments": 41,
+          "url": "https://lachlan.nz/blog/the-react2shell-story/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://lachlan.nz/blog/the-react2shell-story/"
+        }
+      ]
+    },
+    "github": {
+      "count": 13,
+      "items": [
+        {
+          "rank": 1,
+          "title": "anthropics /financial-services",
+          "description": "",
+          "url": "https://github.com/anthropics/financial-services",
+          "language": "Python",
+          "stars": 17018,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "bytedance /UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "language": "TypeScript",
+          "stars": 31266,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "rohitg00 /agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "language": "TypeScript",
+          "stars": 3260,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "datawhalechina /hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "language": "Python",
+          "stars": 45594,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "datawhalechina /easy-vibe",
+          "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+          "url": "https://github.com/datawhalechina/easy-vibe",
+          "language": "JavaScript",
+          "stars": 8390,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "rowboatlabs /rowboat",
+          "description": "Open-source AI coworker, with memory",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "language": "TypeScript",
+          "stars": 13665,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "ChromeDevTools /chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "language": "TypeScript",
+          "stars": 38723,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "masterking32 /MasterDnsVPN",
+          "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "language": "Go",
+          "stars": 2349,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "playcanvas /supersplat",
+          "description": "3D Gaussian Splat Editor",
+          "url": "https://github.com/playcanvas/supersplat",
+          "language": "TypeScript",
+          "stars": 6136,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "Lordog /dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "language": "Jupyter Notebook",
+          "stars": 36446,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "addyosmani /agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "language": "Shell",
+          "stars": 37171,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "decolua /9router",
+          "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "url": "https://github.com/decolua/9router",
+          "language": "JavaScript",
+          "stars": 6334,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "oracle-devrel /oracle-ai-developer-hub",
+          "description": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
+          "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+          "language": "Jupyter Notebook",
+          "stars": 736,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "On forking the Web",
+          "description": "",
+          "url": "https://dillo-browser.org/lab/web-fork/",
+          "score": 35,
+          "comments": 22,
+          "tags": [
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Steering Zig Fmt",
+          "description": "",
+          "url": "https://matklad.github.io/2026/05/08/steering-zig-fmt.html",
+          "score": 58,
+          "comments": 17,
+          "tags": [
+            "zig"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "I Will Not Add Query Strings to Your URLs",
+          "description": "",
+          "url": "https://susam.net/no-query-strings.html",
+          "score": 14,
+          "comments": 0,
+          "tags": [
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+          "description": "",
+          "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+          "score": 25,
+          "comments": 5,
+          "tags": [
+            "browsers",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "WebRTC is the Problem",
+          "description": "<p>Despite the page title mentioning OpenAI, it has very little to do with the actual AI parts, only the real-time audio transport parts, which is why I've matched the URL slug instead.</p>\n",
+          "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+          "score": 10,
+          "comments": 5,
+          "tags": [
+            "networking"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Just Fucking Use Go",
+          "description": "",
+          "url": "https://blainsmith.com/articles/just-fucking-use-go/",
+          "score": 161,
+          "comments": 220,
+          "tags": [
+            "go"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "The React2Shell Story and What Happened Next.js",
+          "description": "",
+          "url": "https://sylvie.fyi/posts/react2shell/",
+          "score": 10,
+          "comments": 1,
+          "tags": [
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Inflorescence – A cross-platform native GUI for Pijul",
+          "description": "",
+          "url": "https://nest.pijul.com/tzemanovic/inflorescence",
+          "score": 12,
+          "comments": 7,
+          "tags": [
+            "release",
+            "vcs"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "I learned something about GPUs today",
+          "description": "",
+          "url": "https://foon.uk/blackshift-sand-bug/",
+          "score": 39,
+          "comments": 3,
+          "tags": [
+            "debugging",
+            "graphics"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "NixOS and Secrets",
+          "description": "",
+          "url": "https://isabelroses.com/blog/nixos-and-secrets/",
+          "score": 33,
+          "comments": 11,
+          "tags": [
+            "nix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Yggdrasil Network as an Embedded Go Library",
+          "description": "",
+          "url": "https://dev.to/asciimoth/yggdrasil-network-as-an-embedded-go-library-9h",
+          "score": 2,
+          "comments": 0,
+          "tags": [
+            "distributed",
+            "go",
+            "networking",
+            "programming"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "killswitch: per-function short-circuit mitigation primitive",
+          "description": "",
+          "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
+          "score": 11,
+          "comments": 5,
+          "tags": [
+            "linux",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "Stop MITM on the first SSH connection, on any VPS or cloud provider",
+          "description": "",
+          "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+          "score": 40,
+          "comments": 14,
+          "tags": [
+            "cryptography",
+            "devops",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "A Randomized Scheduler with Probabilistic Guarantees of Finding Bugs",
+          "description": "",
+          "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos277-pct.pdf",
+          "score": 10,
+          "comments": 3,
+          "tags": [
+            "pdf",
+            "testing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "12th International Workshop on Plan 9 (Presentations)",
+          "description": "",
+          "url": "https://www.youtube.com/playlist?list=PLEZEb6vVXSE_Mc6cekYcp5f23Hvjj3pTt",
+          "score": 13,
+          "comments": 0,
+          "tags": [
+            "osdev",
+            "video"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "Serving a Website on a Raspberry Pi Zero Running Entirely in RAM",
+          "description": "",
+          "url": "https://btxx.org/posts/memory/",
+          "score": 29,
+          "comments": 4,
+          "tags": [
+            "networking",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "What We Lost the Last Time Code Got Cheap",
+          "description": "",
+          "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
+          "score": 33,
+          "comments": 2,
+          "tags": [
+            "practices",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "Hacking Time: Spoofing Atomic Clocks with Audio Harmonics",
+          "description": "",
+          "url": "https://josephhall.org/blog/texture-of-time-wwvb/",
+          "score": 2,
+          "comments": 0,
+          "tags": [
+            "hardware",
+            "networking"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Let's Encrypt Stopping Issuance for Potential Incident",
+          "description": "",
+          "url": "https://letsencrypt.status.io/",
+          "score": 12,
+          "comments": 4,
+          "tags": [
+            "networking",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "building a web server in aarch64 assembly to give my life (a lack of) meaning",
+          "description": "",
+          "url": "https://imtomt.github.io/ymawky/",
+          "score": 34,
+          "comments": 9,
+          "tags": [
+            "assembly",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 63,
+    "hackernews": 30,
+    "github": 13,
+    "lobsters": 20
+  }
+}

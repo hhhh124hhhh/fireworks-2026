@@ -1,0 +1,894 @@
+{
+  "timestamp": "2026-06-10 02:04:46",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Claude Fable 5",
+          "score": 594,
+          "author": "Philpax",
+          "comments": 364,
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+        },
+        {
+          "rank": 2,
+          "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+          "score": 141,
+          "author": "flanged",
+          "comments": 263,
+          "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/"
+        },
+        {
+          "rank": 3,
+          "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+          "score": 150,
+          "author": "scrlk",
+          "comments": 35,
+          "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf"
+        },
+        {
+          "rank": 4,
+          "title": "Making Graphics Like it's 1993",
+          "score": 539,
+          "author": "sklopec",
+          "comments": 82,
+          "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://staniks.github.io/articles/catlantean-3d-blog-1/"
+        },
+        {
+          "rank": 5,
+          "title": "Where is the AI jobs crisis?",
+          "score": 21,
+          "author": "bwestergard",
+          "comments": 12,
+          "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis"
+        },
+        {
+          "rank": 6,
+          "title": "A giant star may have destroyed itself in one of the rarest explosions",
+          "score": 56,
+          "author": "wglb",
+          "comments": 11,
+          "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html"
+        },
+        {
+          "rank": 7,
+          "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+          "score": 450,
+          "author": "raffael_de",
+          "comments": 161,
+          "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
+        },
+        {
+          "rank": 8,
+          "title": "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
+          "score": 17,
+          "author": "nils_spatial",
+          "comments": 4,
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007"
+        },
+        {
+          "rank": 9,
+          "title": "The LD_DEBUG environment variable (2012)",
+          "score": 6,
+          "author": "tanelpoder",
+          "comments": 0,
+          "url": "https://bnikolic.co.uk/blog/linux-ld-debug.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://bnikolic.co.uk/blog/linux-ld-debug.html"
+        },
+        {
+          "rank": 10,
+          "title": "Biff.core: system composition for Clojure web apps",
+          "score": 31,
+          "author": "jacobobryant",
+          "comments": 9,
+          "url": "https://biffweb.com/p/core/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://biffweb.com/p/core/"
+        },
+        {
+          "rank": 11,
+          "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+          "score": 68,
+          "author": "Anon84",
+          "comments": 30,
+          "url": "https://arxiv.org/abs/2605.15184",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://arxiv.org/abs/2605.15184"
+        },
+        {
+          "rank": 12,
+          "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+          "score": 61,
+          "author": "galsapir",
+          "comments": 8,
+          "url": "https://arxiv.org/abs/2603.24647",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://arxiv.org/abs/2603.24647"
+        },
+        {
+          "rank": 13,
+          "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+          "score": 551,
+          "author": "ternaus",
+          "comments": 101,
+          "url": "https://opencv.org/opencv-5/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://opencv.org/opencv-5/"
+        },
+        {
+          "rank": 14,
+          "title": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+          "score": 51,
+          "author": "luke8086",
+          "comments": 75,
+          "url": "https://github.com/luke8086/gentleos32",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://github.com/luke8086/gentleos32"
+        },
+        {
+          "rank": 15,
+          "title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
+          "score": 39,
+          "author": "PaulHoule",
+          "comments": 8,
+          "url": "https://arxiv.org/abs/2604.19773",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://arxiv.org/abs/2604.19773"
+        },
+        {
+          "rank": 16,
+          "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+          "score": 128,
+          "author": "piskov",
+          "comments": 93,
+          "url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf"
+        },
+        {
+          "rank": 17,
+          "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
+          "score": 91,
+          "author": "qunabu",
+          "comments": 22,
+          "url": "https://qunabu.github.io/Gravity/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://qunabu.github.io/Gravity/"
+        },
+        {
+          "rank": 18,
+          "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
+          "score": 1,
+          "author": "gabesaruhashi",
+          "url": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer"
+        },
+        {
+          "rank": 19,
+          "title": "The iPhone's Last Stand?",
+          "score": 120,
+          "author": "swolpers",
+          "comments": 159,
+          "url": "https://stratechery.com/2026/the-iphones-last-stand/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://stratechery.com/2026/the-iphones-last-stand/"
+        },
+        {
+          "rank": 20,
+          "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
+          "score": 172,
+          "author": "berlianta",
+          "comments": 114,
+          "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/"
+        },
+        {
+          "rank": 21,
+          "title": "Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",
+          "score": 12,
+          "author": "micstradev",
+          "comments": 4,
+          "url": "https://github.com/chipmates/agoracosmica",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://github.com/chipmates/agoracosmica"
+        },
+        {
+          "rank": 22,
+          "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
+          "score": 131,
+          "author": "doener",
+          "comments": 65,
+          "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/"
+        },
+        {
+          "rank": 23,
+          "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
+          "score": 107,
+          "author": "bryanrasmussen",
+          "comments": 62,
+          "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age"
+        },
+        {
+          "rank": 24,
+          "title": "What it feels like to work with Mythos",
+          "score": 19,
+          "author": "swolpers",
+          "comments": 12,
+          "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
+        },
+        {
+          "rank": 25,
+          "title": "Using Optical Aberrations to Distinguish Real Astronomical Transients",
+          "score": 18,
+          "author": "solarist",
+          "comments": 1,
+          "url": "https://arxiv.org/abs/2606.08319",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://arxiv.org/abs/2606.08319"
+        },
+        {
+          "rank": 26,
+          "title": "Painting the Internet: A Different Kind of Warhol Worm [pdf]",
+          "score": 6,
+          "author": "jruohonen",
+          "comments": 0,
+          "url": "https://cspages.ucalgary.ca/~aycock/papers/artworm.pdf",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://cspages.ucalgary.ca/~aycock/papers/artworm.pdf"
+        },
+        {
+          "rank": 27,
+          "title": "The Effective Sample Size",
+          "score": 13,
+          "author": "jxmorris12",
+          "comments": 1,
+          "url": "https://alex.smola.org/posts/40-effective-sample-size/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://alex.smola.org/posts/40-effective-sample-size/"
+        },
+        {
+          "rank": 28,
+          "title": "SAT-Physical Thermodynamic Framework: treating constraints as a thermal system",
+          "score": 11,
+          "author": "kauai1",
+          "comments": 3,
+          "url": "https://github.com/alikamp/SAT_HARDNESS_P-NP",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://github.com/alikamp/SAT_HARDNESS_P-NP"
+        },
+        {
+          "rank": 29,
+          "title": "Thi.ng – open-source building blocks for computational design and art",
+          "score": 159,
+          "author": "nmstoker",
+          "comments": 21,
+          "url": "https://thi.ng",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://thi.ng"
+        },
+        {
+          "rank": 30,
+          "title": "Cleaning up after AI rockstar developers",
+          "score": 365,
+          "author": "BrunoBernardino",
+          "comments": 266,
+          "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://www.codingwithjesse.com/blog/rockstar-developers/"
+        }
+      ]
+    },
+    "github": {
+      "count": 16,
+      "items": [
+        {
+          "rank": 1,
+          "title": "mvanhorn /last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "language": "Python",
+          "stars": 36845,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "RyanCodrai /turbovec",
+          "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "language": "Python",
+          "stars": 9991,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "roboflow /supervision",
+          "description": "We write your reusable computer vision tools. 💜",
+          "url": "https://github.com/roboflow/supervision",
+          "language": "Python",
+          "stars": 42854,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "opencv /opencv",
+          "description": "Open Source Computer Vision Library",
+          "url": "https://github.com/opencv/opencv",
+          "language": "C++",
+          "stars": 88537,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "refactoringhq /tolaria",
+          "description": "Desktop app to manage markdown knowledge bases",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "language": "TypeScript",
+          "stars": 14203,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "aaif-goose /goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "url": "https://github.com/aaif-goose/goose",
+          "language": "Rust",
+          "stars": 48409,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "Andyyyy64 /whichllm",
+          "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+          "url": "https://github.com/Andyyyy64/whichllm",
+          "language": "Python",
+          "stars": 3963,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "TapXWorld /ChinaTextbook",
+          "description": "所有小初高、大学PDF教材。",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "language": "Roff",
+          "stars": 73426,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "x1xhlol /system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "language": "",
+          "stars": 139085,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "yikart /AiToEarn",
+          "description": "Let's use AI to Earn!",
+          "url": "https://github.com/yikart/AiToEarn",
+          "language": "TypeScript",
+          "stars": 19820,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "phuryn /pm-skills",
+          "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+          "url": "https://github.com/phuryn/pm-skills",
+          "language": "",
+          "stars": 13310,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "santifer /career-ops",
+          "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+          "url": "https://github.com/santifer/career-ops",
+          "language": "JavaScript",
+          "stars": 51379,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "openai /plugins",
+          "description": "OpenAI Plugins",
+          "url": "https://github.com/openai/plugins",
+          "language": "JavaScript",
+          "stars": 2540,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 14,
+          "title": "maziyarpanahi /openmed",
+          "description": "open-source healthcare ai",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "language": "Python",
+          "stars": 1720,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 15,
+          "title": "francescopace /espectre",
+          "description": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
+          "url": "https://github.com/francescopace/espectre",
+          "language": "Python",
+          "stars": 8112,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 16,
+          "title": "addyosmani /agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "language": "Shell",
+          "stars": 49659,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Cleaning up after AI rockstar developers",
+          "description": "",
+          "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+          "score": 72,
+          "comments": 26,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Test-case Reducers Are Underappreciated Debugging Tools",
+          "description": "",
+          "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+          "score": 33,
+          "comments": 16,
+          "tags": [
+            "compilers",
+            "debugging"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "The Decline of Search Engines is an Opportunity",
+          "description": "",
+          "url": "https://lewiscampbell.tech/blog/260609.html",
+          "score": 46,
+          "comments": 26,
+          "tags": [
+            "culture"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Catlantean 3D - Making Graphics Like It's 1993",
+          "description": "",
+          "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+          "score": 35,
+          "comments": 2,
+          "tags": [
+            "games",
+            "graphics"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "CSS: Unavoidable Bad Parts",
+          "description": "",
+          "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
+          "score": 20,
+          "comments": 7,
+          "tags": [
+            "css",
+            "web"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "WWDC 2026",
+          "description": "<p>You'd think I'd forget dubdub? (Title isn't WWDC because the site thinks I'M SCREAMING IN ALL CAPS.)</p>\n",
+          "url": "https://www.apple.com/apple-events/event-stream/",
+          "score": 89,
+          "comments": 27,
+          "tags": [
+            "event",
+            "ios",
+            "mac",
+            "swift",
+            "video"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Datatype — variable font that turns text into charts",
+          "description": "",
+          "url": "https://franktisellano.github.io/datatype/",
+          "score": 16,
+          "comments": 3,
+          "tags": [
+            "vibecoding",
+            "visualization"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "What Yahoo killed when it bought Maktoob",
+          "description": "",
+          "url": "https://lr0.org/blog/p/yahoo/",
+          "score": 23,
+          "comments": 0,
+          "tags": [
+            "culture",
+            "historical"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Now what?",
+          "description": "",
+          "url": "https://blog.danieljanus.pl/now-what/",
+          "score": 14,
+          "comments": 9,
+          "tags": [
+            "rant",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Self-hosting email the hard way from your own routable IPv4 block up",
+          "description": "",
+          "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+          "score": 46,
+          "comments": 15,
+          "tags": [
+            "ml",
+            "networking",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Only Bounds",
+          "description": "",
+          "url": "https://smallcultfollowing.com/babysteps/blog/2026/06/09/only-bounds/",
+          "score": 13,
+          "comments": 1,
+          "tags": [
+            "plt",
+            "rust"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "An open letter to office suite users, just before the Euro-Office announcement",
+          "description": "",
+          "url": "https://blog.documentfoundation.org/blog/2026/06/08/an-open-letter/",
+          "score": 10,
+          "comments": 0,
+          "tags": [
+            "release"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "What I got wrong about fast terminals",
+          "description": "",
+          "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
+          "score": 47,
+          "comments": 8,
+          "tags": [
+            "linux",
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "Premature Optimization is Fun Sometimes (2025)",
+          "description": "",
+          "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
+          "score": 91,
+          "comments": 12,
+          "tags": [
+            "c",
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Property Graphs",
+          "description": "",
+          "url": "https://www.postgresql.org/docs/19/ddl-property-graphs.html",
+          "score": 6,
+          "comments": 0,
+          "tags": [
+            "databases"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "I wish Deno would keep doing what it does best",
+          "description": "",
+          "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
+          "score": 36,
+          "comments": 9,
+          "tags": [
+            "javascript"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Can we stop tagging every thing as vibecoding?",
+          "description": "<p>Any article that even slightly mentions that AI exists is tagged as vibecoding, even when they have nothing to do with it. It:s getting out of hand.</p>\n<p>EXAMPLE 1:</p>\n<p><a href=\"https://lobste.rs/s/ly0vif/my_students\" rel=\"ugc\">https://lobste.rs/s/ly0vif/my_students</a></p>\n<p>Tagged as vibecoding, article contains a <em>single</em> passing reference</p>\n<blockquote>\n<p>where people are racing to create intelligent machines, but only in order to make them slaves</p>\n</blockquote>\n<p>EXAMPLE 2 (my own article; biased)</p>\n<p><a href=\"https://lobste.rs/s/vufbvv/user_doesn_t_care_you_should\" rel=\"ugc\">https://lobste.rs/s/vufbvv/user_doesn_t_care_you_should</a></p>\n<p>I quoted a <em>SINGLE</em> example of someone putting an agentic spin on an old trope:</p>\n<blockquote>\n<p>\"Users don’t care whether the code was written by AI or by hand, or which framework you used. They care that the product works.\"</p>\n</blockquote>\n<p>EXAMPLE 3</p>\n<p><a href=\"https://lobste.rs/s/gefcox/jolt_clojure_interpreter_on_janet\" rel=\"ugc\">https://lobste.rs/s/gefcox/jolt_clojure_interpreter_on_janet</a></p>\n<p>This is a code repo. There is no AGENTS.md, or CLAUDE.md, or any mention of AI in the readme...</p>\n<p>EXAMPLE 4:</p>\n<p>this post, which someone will inevitably tag as \"vibecoding\"</p>\n",
+          "url": "",
+          "score": 163,
+          "comments": 95,
+          "tags": [
+            "meta",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "aMule 3.0.0 - The “Alive Again” Release",
+          "description": "",
+          "url": "https://amule-org.github.io/changelog/3.0.0",
+          "score": 6,
+          "comments": 3,
+          "tags": [
+            "release",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "what 262,715 regex questions on stack overflow haven't answered (part 2)",
+          "description": "",
+          "url": "https://iev.ee/blog/what-262715-regex-questions-havent-answered-pt-2/",
+          "score": 6,
+          "comments": 4,
+          "tags": [
+            "compsci",
+            "javascript"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "Looking Forward to Postgres 19: Query Hints",
+          "description": "",
+          "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+          "score": 8,
+          "comments": 0,
+          "tags": [
+            "databases"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 66,
+    "hackernews": 30,
+    "github": 16,
+    "lobsters": 20
+  }
+}

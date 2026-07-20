@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-05-10 01:03:25",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Building a Food Blog Platform with Django — Daily Dev Log",
+          "description": "<p>Today I continued working on my Food Blog Platform 🍰 — a fullstack Django project focused on recipes, search, and user experience.</p>\n\n<p>Even though I didn’t add any major new features today, I f",
+          "url": "https://dev.to/cyberb0x/building-a-food-blog-platform-with-django-daily-dev-log-3n3",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Automated SQL Migration Review with Real CLI Output (MySQL, PostgreSQL, TiDB)",
+          "description": "<h1>\n  \n  \n  Auditing MySQL ALTER TABLE Risks with a CLI (Real Output Included)\n</h1>\n\n<h2>\n  \n  \n  Background\n</h2>\n\n<p>I'm the author of <a href=\"https://github.com/Fanduzi/DeltaScope\" rel=\"noopener",
+          "url": "https://dev.to/fanduzi/automated-sql-migration-review-with-real-cli-output-mysql-postgresql-tidb-17b5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "I let my OpenAPI spec do the work: one contract for Go, Flutter, and the LLM",
+          "description": "<p>There was a period on a Django project where a simple question of <em>\"is this field actually used on the frontend?\"</em> would trigger a small investigation. You'd check the backend, grep through ",
+          "url": "https://dev.to/tkode_dev/i-let-my-openapi-spec-do-the-work-one-contract-for-go-flutter-and-the-llm-c20",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "I Built a Permissionless On-Chain Agent Training Arena on Solana in 3 Weeks",
+          "description": "<blockquote>\n<p>What happens when you put AI agent training on a blockchain, and what I wish someone had told me before I started.</p>\n</blockquote>\n\n<p><strong>TL;DR:</strong> I built a Solana progra",
+          "url": "https://dev.to/lymah/i-built-a-permissionless-on-chain-agent-training-arena-on-solana-in-3-weeks-2on2",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Spring Boot in Real Production: What My Lakaut Codebase Taught Me That the Official Docs Leave Out",
+          "description": "<h1>\n  \n  \n  Spring Boot in Real Production: What My Lakaut Codebase Taught Me That the Official Docs Leave Out\n</h1>\n\n<p>A datasource pool is basically like the ticket booth at a sold-out stadium sho",
+          "url": "https://dev.to/jtorchia/spring-boot-in-real-production-what-my-lakaut-codebase-taught-me-that-the-official-docs-leave-out-1245",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Spring Boot en producción real: lo que mi codebase de Lakaut me enseñó que la documentación oficial omite",
+          "description": "<h1>\n  \n  \n  Spring Boot en producción real: lo que mi codebase de Lakaut me enseñó que la documentación oficial omite\n</h1>\n\n<p>Un datasource pool es básicamente como la boletería de un recital de So",
+          "url": "https://dev.to/jtorchia/spring-boot-en-produccion-real-lo-que-mi-codebase-de-lakaut-me-enseno-que-la-documentacion-oficial-29gi",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "How I Gave My Clients a Direct Line Into My App's Backlog Using OSC",
+          "description": "<h1>\n  \n  \n  How I Gave My Clients a Direct Line Into My App's Backlog Using OSC\n</h1>\n\n<p>Every developer who does client work eventually hits the same wall. The client has feedback. They drop it in ",
+          "url": "https://dev.to/oscdev/how-i-gave-my-clients-a-direct-line-into-my-apps-backlog-using-osc-1p8m",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "One ledger, two chains — what I learned about multi-chain payment architecture from a reader's correction",
+          "description": "<p>In the previous post in this series I wrote about Base as the payment rail for QuackBuilds, and made an argument about why card-network economics break for certain payment shapes that onchain rails",
+          "url": "https://dev.to/itsevilduck/one-ledger-two-chains-what-i-learned-about-multi-chain-payment-architecture-from-a-readers-2jpl",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "I Built an Endless Learning System From Flashcards",
+          "description": "<p>I’m doing a PhD in AI, and one thing became obvious very quickly: there is always more to learn.</p>\n\n<p>New papers, new methods, new benchmarks, new architectures, new tools, new terminology. The ",
+          "url": "https://dev.to/psyconbuilds/i-built-an-endless-learning-system-from-flashcards-5006",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Anthropic hit B ARR in 16 months. I went looking for where the money is actually coming from.",
+          "description": "<p><em>A revenue chart that goes vertical does not tell you who pays. It tells you who gets charged.</em> </p>\n\n<p>A friend who runs infrastructure at a 200 person SaaS company called me on Monday. He",
+          "url": "https://dev.to/thegdsks/anthropic-hit-b-arr-in-16-months-i-went-looking-for-where-the-money-is-actually-coming-from-5f25",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "HCP Terraform: Plan Free vs Crédito Trial — La Guía Definitiva",
+          "description": "<h2>\n  \n  \n  El contexto que necesitas saber\n</h2>\n\n<p>En 2023, HashiCorp (ahora parte de IBM) rediseñó completamente el modelo de precios de <strong>HCP Terraform</strong> (antes Terraform Cloud). El",
+          "url": "https://dev.to/8infinitecloud/hcp-terraform-plan-free-vs-credito-trial-la-guia-definitiva-1kol",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Zero Values em Go: o que toda variável traz de fábrica",
+          "description": "<p>Em outras linguagens é muito comum variáveis serem inicializadas com <strong>undefined</strong> ou <strong>null</strong>.<br>\nEm Go toda variável já nasce com um valor. No qual é chamado de <strong",
+          "url": "https://dev.to/oliversieto/zero-values-em-go-o-que-toda-variavel-traz-de-fabrica-32od",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

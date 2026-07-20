@@ -1,0 +1,44 @@
+2026-05-10 09:01:16 [INFO] ========================================
+2026-05-10 09:01:16 [INFO] 🏹 AI Prompt Hunter 启动
+2026-05-10 09:01:16 [INFO] ========================================
+2026-05-10 09:01:16 [INFO] 开始时间: Sun May 10 09:01:16 CST 2026
+2026-05-10 09:01:16 [INFO] ========================================
+2026-05-10 09:01:16 [INFO] 🚀 开始阶段: 搜索 AI 提示词 (SearXNG)
+2026-05-10 09:01:16 [INFO] ========================================
+================================================================================
+🔍 开始使用 SearXNG 搜索高质量 AI 提示词
+================================================================================
+
+[1/36] 搜索: e-commerce video generation prompts
+搜索失败 'e-commerce video generation prompts': HTTPConnectionPool(host='149.13.91.232', port=8080): Max retries exceeded with url: /search?q=e-commerce+video+generation+prompts&format=json&categories=general (Caused by ConnectTimeoutError(<HTTPConnection(host='149.13.91.232', port=8080) at 0x7a590bbbd460>, 'Connection to 149.13.91.232 timed out. (connect timeout=30)'))
+  没有找到结果
+
+[2/36] 搜索: product video AI prompts
+搜索失败 'product video AI prompts': HTTPConnectionPool(host='149.13.91.232', port=8080): Max retries exceeded with url: /search?q=product+video+AI+prompts&format=json&categories=general (Caused by ConnectTimeoutError(<HTTPConnection(host='149.13.91.232', port=8080) at 0x7a590b9ceb10>, 'Connection to 149.13.91.232 timed out. (connect timeout=30)'))
+  没有找到结果
+
+[3/36] 搜索: marketing video prompt templates
+搜索失败 'marketing video prompt templates': HTTPConnectionPool(host='149.13.91.232', port=8080): Max retries exceeded with url: /search?q=marketing+video+prompt+templates&format=json&categories=general (Caused by ConnectTimeoutError(<HTTPConnection(host='149.13.91.232', port=8080) at 0x7a590b9ce720>, 'Connection to 149.13.91.232 timed out. (connect timeout=30)'))
+  没有找到结果
+
+[4/36] 搜索: AI video for e-commerce workflow
+搜索失败 'AI video for e-commerce workflow': HTTPConnectionPool(host='149.13.91.232', port=8080): Max retries exceeded with url: /search?q=AI+video+for+e-commerce+workflow&format=json&categories=general (Caused by ConnectTimeoutError(<HTTPConnection(host='149.13.91.232', port=8080) at 0x7a590b9cdbe0>, 'Connection to 149.13.91.232 timed out. (connect timeout=30)'))
+  没有找到结果
+
+[5/36] 搜索: Sora 2 video prompts examples
+搜索失败 'Sora 2 video prompts examples': HTTPConnectionPool(host='149.13.91.232', port=8080): Max retries exceeded with url: /search?q=Sora+2+video+prompts+examples&format=json&categories=general (Caused by ConnectTimeoutError(<HTTPConnection(host='149.13.91.232', port=8080) at 0x7a590b9cf410>, 'Connection to 149.13.91.232 timed out. (connect timeout=30)'))
+  没有找到结果
+
+[6/36] 搜索: OpenAI Sora prompt engineering
+搜索失败 'OpenAI Sora prompt engineering': HTTPConnectionPool(host='149.13.91.232', port=8080): Max retries exceeded with url: /search?q=OpenAI+Sora+prompt+engineering&format=json&categories=general (Caused by ConnectTimeoutError(<HTTPConnection(host='149.13.91.232', port=8080) at 0x7a590b9cfbc0>, 'Connection to 149.13.91.232 timed out. (connect timeout=30)'))
+  没有找到结果
+
+[7/36] 搜索: Sora video generation tips
+搜索失败 'Sora video generation tips': HTTPConnectionPool(host='149.13.91.232', port=8080): Max retries exceeded with url: /search?q=Sora+video+generation+tips&format=json&categories=general (Caused by ConnectTimeoutError(<HTTPConnection(host='149.13.91.232', port=8080) at 0x7a590ba004d0>, 'Connection to 149.13.91.232 timed out. (connect timeout=30)'))
+  没有找到结果
+
+[8/36] 搜索: text to video Sora prompts
+搜索失败 'text to video Sora prompts': HTTPConnectionPool(host='149.13.91.232', port=8080): Max retries exceeded with url: /search?q=text+to+video+Sora+prompts&format=json&categories=general (Caused by ConnectTimeoutError(<HTTPConnection(host='149.13.91.232', port=8080) at 0x7a590b9cfef0>, 'Connection to 149.13.91.232 timed out. (connect timeout=30)'))
+  没有找到结果
+
+[9/36] 搜索: Google Veo video prompts

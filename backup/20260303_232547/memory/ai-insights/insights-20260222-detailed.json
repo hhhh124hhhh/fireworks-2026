@@ -1,0 +1,68 @@
+{
+  "insights": {
+    "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+    "total_searches": 1,
+    "total_results": 3,
+    "average_results_per_search": 3.0,
+    "topics": [
+      "AI automation trends 2026"
+    ],
+    "sources_used": [
+      "tavily"
+    ],
+    "source_distribution": {
+      "Tavily": 3
+    },
+    "key_findings": [
+      "搜索了 1 个主题",
+      "总共获取了 3 条结果",
+      "平均每个主题 3 条结果",
+      "搜索源: tavily",
+      "Tavily: 3 条",
+      "SearXNG: 0 条",
+      "Twitter: 0 条",
+      "百度: 0 条"
+    ],
+    "action_items": [
+      "评估选题的上下文现状",
+      "分析不同来源的趋势",
+      "识别最佳选题方向",
+      "验证选题可行性"
+    ],
+    "timestamp": "2026-02-22T11:17:03.701096",
+    "date": "2026-02-22",
+    "time": "11:17:03",
+    "trend_analysis": "基于最近 5 条洞察的分析",
+    "topic_recommendations": [
+      "❌ 低热度：该主题关注度较低，建议重新评估"
+    ]
+  },
+  "search_results": {
+    "AI automation trends 2026": [
+      {
+        "url": "https://www.manufacturingdive.com/news/physical-ai-craze-2026-automation-trends-to-watch/810860/",
+        "title": "The physical AI craze and other automation trends to watch in 2026",
+        "content": "As companies lean further into automated software, sensor technologies and robots to fill labor gaps and remain competitive, they also are using AI tools to bolster their cybersecurity.\n\n Published Jan. 29, 2026 \n\nImage 10: Nathan Owens's headshot\n\nNathan OwensReporter\n\n   Image 11: Share this articleShare)\n\n       Image 12: Copy linkCopy link)\n       Image 13: Email this pageEmail\n       Image 14: Post to LinkedInLinkedIn\n       Image 15: Post on XX/Twitter\n       Image 16: Share on FacebookFacebook\n       Image 17: Print this pagePrint)\n\n   Image 18: License this articleLicense\n   Image 19: Set preferred sourceAdd us on Google\n\nImage 20: Hydundai Motor Group's Atlas humanoid robot is on stage at CES 2026 in Las Vegas. [...] AI agents, software systems such as large language models, are also becoming more ubiquitous across industries. A separate survey from Deloitte found that nearly 3 in 4 companies plan to deploy agentic AI within two years. IoT is playing a key role in accelerating the transition. Nabrotzky said after DotAi provides the labels, it provides supervised learning services to help customers implement agentic AI.\n\n“Humans really can’t keep up very effectively,” he said. “And it’s very clear that algorithmic decision-making is going to bring tremendous efficiency to that market space and tremendous transparency for customers.”\n\n### More data means more cybersecurity risk [...] Earlier this year at CES in Las Vegas, Nvidia CEO and co-founder Jensen Huang said the “ChatGPT moment for physical AI is here,” marking an inflection point in the robotics space. Hyundai Motor Group also debuted its Atlas humanoid robot for production settings, with plans to gradually deploy them across its operations in the coming years.\n\nIn addition to collaborative applications and robotic arms, manufacturers are also increasingly using AI agents and sensor technologies to enhance their operations. However, as their systems become more digital, they also must take cybersecurity measures to prevent potential attacks.\n\nHere are some of the AI and robotics trends to watch in 2026.\n\n### The physical AI hype is real, but the rollout will take some time",
+        "score": 0.9436445,
+        "raw_content": null,
+        "source": "Tavily"
+      },
+      {
+        "url": "https://zinnov.com/automation/ais-next-act-4-ai-trends-that-will-redefine-2026-blog/",
+        "title": "AI's Next Act: 4 AI Trends That Will Redefine 2026 | Zinnov",
+        "content": "In 2026, the firms that treat AI as middleware, will be the ones that scale faster, move smarter, and lead the market.\n\n## Trend 2: Physical AI crosses into production\n\nFor years, automation promised efficiency. But by 2026, it’s no longer about efficiency, it’s about endurance.\n\nLabor shortages are widening, over 3.5 Mn physical task roles are projected to go unfilled by 2030. In many countries, a quarter of frontline workers are nearing retirement, while turnover in sectors like Retail and Healthcare has doubled. On top of that, industries are losing an estimated USD 1.5 Tn each year to unplanned downtime, and the cost of running operations keeps rising, from 20–25% annual increases in energy prices to 6–9% wage hikes for physical roles. [...] What’s driving this growth? Four shifts stand out:\n\n1. Demand for end-to-end autonomous workflows – Organizations no longer want point automation; they want AI that runs an entire workflow with measurable outcomes.\n2. Changing customer expectations – Instant responses and personalization are now default; AI agents are helping enterprises deliver that.\n3. Strong funding momentum – Investors are backing Agentic AI builders, with more than USD 2.8 Bn already raised in the first half of 2025.\n4. Early ROI visibility – Early adopters are already reporting productivity gains and faster decision-making, encouraging broader deployment.\n\nTogether, these forces are redefining how enterprises think about workflow design. Agentic AI is becoming the coordination fabric for the enterprise. [...] Here are the 4 AI trends that will define 2026.\n\n## Trend 1: Agentic AI as the new middleware\n\nAt its core, Agentic AI is about autonomy. It moves beyond task automation into goal-driven execution, coordinating multiple agents that can plan, collaborate, and optimize outcomes without human micromanagement. Think of it as the new middleware: sitting between people, processes, and platforms, quietly orchestrating how work actually gets done.\n\nThe market for Agentic AI platforms is moving fast. According to Zinnov’s Agentic AI Report, in 2025, it stood at roughly USD 12–15 Bn, but it’s projected to grow to USD 80–100 Bn by 2030, at a CAGR of 40-50%. That kind of curve signals something bigger than hype, it signals infrastructure-level adoption.",
+        "score": 0.93425745,
+        "raw_content": null,
+        "source": "Tavily"
+      },
+      {
+        "url": "https://www.redwood.com/article/ai-automation-trends/",
+        "title": "AI And Automation Trends 2026: From Efficiency To Enterprise ...",
+        "content": "2026 is the year orchestration will be widely recognized as the connective tissue that resolves this problem and makes AI useful at scale. This includes the growing role of agentic orchestration, where intelligent agents coordinate decisions and actions across workflows rather than acting as standalone tools. This year, agentic AI will move from experimentation into planning. Buyers will increasingly score vendors on “agent readiness,” asking how AI agents are governed, orchestrated and integrated into existing workflows without introducing new risk. [...] AI will accelerate this transition by helping automation prioritize intent over rigid execution. As agentic approaches mature, automation will increasingly be able to evaluate context, choose appropriate paths and coordinate actions across systems when conditions change midstream.\n\nWatch out: Efficiency gains from isolated automation fade quickly. Resilience comes from orchestrating processes across domains, not optimizing tasks in isolation.\n\nWhat this means for 2026 and beyond\n\nThe next phase of AI and automation will not be defined by novelty, but by trust, discipline and outcomes. [...] Image 59: 4. Ai Will Amplify\nDespite the headlines, most enterprise leaders are not trying to remove people from operations. They’re trying to remove friction. This year, AI-enabled automation will increasingly support overstretched teams by handling exception triage, diagnostics and routine decision-making more consistently and at greater scale. Skilled professionals will be able to focus on higher-value work, where judgment and context matter most.\n\nThis is already changing how teams interact with SOAPs. Natural-language co-pilots are becoming standard, helping teams build workflows and configure automations without deep scripting expertise. What once required specialist knowledge is becoming accessible to a broader range of operational and technical users.",
+        "score": 0.9336793,
+        "raw_content": null,
+        "source": "Tavily"
+      }
+    ]
+  }
+}

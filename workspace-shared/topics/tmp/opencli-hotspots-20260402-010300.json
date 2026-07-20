@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-04-02 01:03:00",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "How We Turned CrewForm Agents Into MCP Tools",
+          "description": "<p>Last month I shared <a href=\"https://dev.to/vincent_grobler_776512b17/how-i-built-a-visual-drag-and-drop-workflow-builder-for-ai-agent-teams-react-flow-dagre-XXXXX\">how we built a visual workflow b",
+          "url": "https://dev.to/vincent_grobler_776512b17/how-we-turned-crewform-agents-into-mcp-tools-4lc2",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Criei uma CLI em Rust para pagamentos Pix — e ela tem um MCP server para AI agents fazerem pagamentos",
+          "description": "<h2>\n  \n  \n  O problema que ninguém resolve\n</h2>\n\n<p>O Pix é, de longe, o sistema de pagamentos mais bem-sucedido do Brasil. Movimenta trilhões por ano, é usado por mais de 150 milhões de pessoas, fu",
+          "url": "https://dev.to/felipeorlando/criei-uma-cli-em-rust-para-pagamentos-pix-e-ela-tem-um-mcp-server-para-ai-agents-fazerem-ieg",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "The Claude CLI \"Leak\": Nobody Won, AI Still Hallucinates, and Companies Are Still Making the Same Mistake",
+          "description": "<p><em>A brutally honest postmortem from a developer who actually tried it — and who builds LLM-powered tools for a living.</em></p>\n\n\n\n\n<h2>\n  \n  \n  The Hype That Wasn't\n</h2>\n\n<p>When the Claude CLI",
+          "url": "https://dev.to/freerave/the-claude-cli-leak-nobody-won-ai-still-hallucinates-and-companies-are-still-making-the-same-1hle",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "AI became my assistant to learning",
+          "description": "<p>AI became a trend stronger than expected, and soon, became part of my routine as a software developer.</p>\n\n<p>As a skeptical millenial, I originally thought AI would become a trend that sooner or ",
+          "url": "https://dev.to/satie_sann/ai-became-my-assistant-to-learning-4o53",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Ditch the vPC Peer-Link: EVPN ESI Multi-Homing on Nexus 9000 with NX-OS 10.6.x (Config + Verification)",
+          "description": "<p>If you've ever wished you could multi-home a server to <em>more than two</em> leaf switches in your VXLAN EVPN fabric — or eliminate the vPC peer-link entirely — EVPN ESI multi-homing on NX-OS 10.6",
+          "url": "https://dev.to/firstpasslab/ditch-the-vpc-peer-link-evpn-esi-multi-homing-on-nexus-9000-with-nx-os-106x-config--264o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "The Struggle Is What We Crave",
+          "description": "<h2>\n  \n  \n  The confession\n</h2>\n\n<p>I've been working a lot more lately. Way more than I used to. I've had a pretty solid work life balance in the past that I kind of prided myself on. After 7pm was",
+          "url": "https://dev.to/magnificode/the-struggle-is-what-we-crave-i7h",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "# I Built an AI That Understands Any GitHub Repo Using LangChain and ChromaDB",
+          "description": "<h2>\n  \n  \n  Why I Built This\n</h2>\n\n<p>Every time I join a new codebase, the first few days are the same: open the repo, stare at folders, try to figure out which service does what, read half a file,",
+          "url": "https://dev.to/vijaya_bollu/-i-built-an-ai-that-understands-any-github-repo-using-langchain-and-chromadb-m30",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "AI coding created a new class of creators. I'm one of them.",
+          "description": "<p>Something remarkable is happening. People who aren't developers <br>\nare building real software.</p>\n\n<p>Not toy demos. Not no-code drag-and-drop pages. Real, compiled, <br>\nnative applications wit",
+          "url": "https://dev.to/hr-sirius/ai-coding-created-a-new-class-of-creators-im-one-of-them-242l",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "How We Built a Multi-Tenant AI Agent Platform (And Open-Sourced It)",
+          "description": "<p>We just open-sourced <a href=\"https://github.com/Eskyee/agentbot-opensource\" rel=\"noopener noreferrer\">Agentbot</a> — a platform for deploying and managing AI agents at scale. Each agent runs in an",
+          "url": "https://dev.to/agentbot/how-we-built-a-multi-tenant-ai-agent-platform-and-open-sourced-it-521g",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "RxJS in Angular — Chapter 4 | switchMap, mergeMap, concatMap — Observables Inside Observables",
+          "description": "<h2>\n  \n  \n  👋 Welcome to Chapter 4!\n</h2>\n\n<p>Buckle up — this is the chapter that trips up even experienced developers. But don't worry. By the end, it will make total sense.</p>\n\n<p>The question to",
+          "url": "https://dev.to/jps27cse/rxjs-in-angular-chapter-4-switchmap-mergemap-concatmap-observables-inside-observables-5h7k",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Practical Data Validation with Pydantic",
+          "description": "<p>🧠 Taming Wild Data: My Journey with Pydantic for Bulletproof Validation</p>\n\n<p>🚀 Why I Started Using This</p>\n\n<p>You know that feeling, right? The one where your meticulously crafted Python appli",
+          "url": "https://dev.to/amaljitbharali/practical-data-validation-with-pydantic-c60",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "March 2026",
+          "description": "<p>Theme of the month: Endings. My wife and I sold our house in order to move and I wrapped up a big project at work so that I can tackle some accounting integrations.</p>\n\n<h2>\n  \n  \n  Where My Time ",
+          "url": "https://dev.to/nmiller15/march-2026-1kf8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

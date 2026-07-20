@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-05-01 08:08:48",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+          "description": "<p><em>AI GDE TPU Sprint 2026 · Google TPU Research Cloud</em></p>\n\n\n\n\n<p><strong>Quick summary:</strong> We ported Andrej Karpathy's NanoChat architecture from PyTorch to JAX and Flax NNX. The repo i",
+          "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "controller staleness is the hidden tax of platform automation",
+          "description": "<p>I think a lot of platform engineering discourse still has a very annoying habit.</p>\n\n<p>We keep treating automation as if the main risk is not having enough of it.</p>\n\n<p>Not enough controllers.<",
+          "url": "https://dev.to/pvgomes/controller-staleness-is-the-hidden-tax-of-platform-automation-45e",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Why Paddle's subscription.activated arrives before subscription.created",
+          "description": "<p><em>You'd think events fire in the order things happen. They don't.</em></p>\n\n<p>I was building a Paddle integration last week. Subscription billing, nothing fancy. Customer clicks buy, Paddle hand",
+          "url": "https://dev.to/fetchsandbox/why-paddles-subscriptionactivated-arrives-before-subscriptioncreated-4c5i",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Traditional Database vs Solana Accounts — Same Energy, Different Universe",
+          "description": "<div class=\"table-wrapper-paragraph\"><table>\n<thead>\n<tr>\n<th>Concept</th>\n<th>Traditional Database</th>\n<th>Solana Accounts</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>The Basic Unit</strong></td>\n<",
+          "url": "https://dev.to/rajatkriplani/traditional-database-vs-solana-accounts-same-energy-different-universe-2goj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "I Thought My Domain Entity Was Fine. A DDD Audit Said Otherwise.",
+          "description": "<p>I'm building <strong>Banderas</strong>, an open-source feature flag management system for .NET teams on Azure. A few weeks in, I had a working API — CRUD endpoints, evaluation logic, integration te",
+          "url": "https://dev.to/amodelandme/i-thought-my-domain-entity-was-fine-a-ddd-audit-said-otherwise-2pi3",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Web Redirect: A Ponte Entre Navegador e App Store (Parte 7)",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo6ca4jnm9ofohk95v",
+          "url": "https://dev.to/cdornelles/web-redirect-a-ponte-entre-navegador-e-app-store-parte-7-b27",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "My Brain on Databases vs. Solana: A Beginner’s Reality Check",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcfascapevu43uahzd",
+          "url": "https://dev.to/fachiny17/my-brain-on-databases-vs-solana-a-beginners-reality-check-32dp",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "From Single Files to Full Systems: Agentic Coding for Complete Repositories",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbvu2mwziq4cqbnr38",
+          "url": "https://dev.to/mmmattos/from-single-files-to-full-systems-agentic-coding-for-complete-repositories-4190",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Wrap the GitHub MCP Registry as a Naftiko Capability — REST, MCP, and Agent Skills From One Spec",
+          "description": "<p>The <a href=\"https://github.com/mcp\" rel=\"noopener noreferrer\">GitHub MCP Registry</a> exists. It is a real piece of infrastructure now — vendors publish into it, enterprises mirror it, IDEs are st",
+          "url": "https://dev.to/kinlane/wrap-the-github-mcp-registry-as-a-naftiko-capability-rest-mcp-and-agent-skills-from-one-spec-2mp5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "I Converted 10 Debugging Techniques into AI Prompts — Here's the Template",
+          "description": "<p>I asked AI to fix a bug. It confidently returned a modified file. I ran it. A different bug appeared.</p>\n\n<p>Sound familiar? It's like asking a confident stranger for directions in an unfamiliar c",
+          "url": "https://dev.to/kenimo49/i-converted-10-debugging-techniques-into-ai-prompts-heres-the-template-23ok",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Understanding How Modern Systems Interpret User Intent",
+          "description": "<h1>\n  \n  \n  Understanding How Modern Systems Interpret User Intent\n</h1>\n\n<p>Modern platforms like YouTube and Netflix no longer rely solely on traditional query-based systems.</p>\n\n<p>Instead, they ",
+          "url": "https://dev.to/abdabughazaleh/understanding-how-modern-systems-interpret-user-intent-26ko",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Is Experience overlooked in Tech?",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaqbo9qqmchnaqh8w",
+          "url": "https://dev.to/mmmattos/is-experience-overlooked-in-tech-4dm0",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

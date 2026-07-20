@@ -1,0 +1,11 @@
+{
+  "file": "/root/clawd/dist/sql-assistant.skill",
+  "name": "sql-assistant",
+  "skill_name": "sql-assistant",
+  "description": "Comprehensive SQL query assistant for database operations, optimization, and troubleshooting. Use when Codex needs to write, debug, optimize, or explain SQL queries; analyze database schemas; or help with SQL-related tasks including joins, subqueries, aggregations, and performance tuning. Supports MySQL, PostgreSQL, SQLite, and other SQL dialects.",
+  "category": "uncategorized",
+  "tags": "",
+  "size_bytes": 12230,
+  "modified": 1769661685,
+  "md5": 0827b026c5ab3d2693e57535bf32ccf7
+}

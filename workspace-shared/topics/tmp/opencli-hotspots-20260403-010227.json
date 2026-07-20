@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-04-03 01:02:27",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "I’m sick of $200 SaaS boilerplates that leak tenant data. Here is how to build real isolation.",
+          "description": "<p>I’m sick of \"SaaS boilerplates\" that charge you $200 just to wrap a framework and leave you to figure out multi-tenant database isolation yourself when your first enterprise customer signs up.</p>\n",
+          "url": "https://dev.to/jacksonkasi/im-sick-of-200-saas-boilerplates-that-leak-tenant-data-here-is-how-to-build-real-isolation-41oo",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Proof of Humanity™",
+          "description": "<p><em>This is a submission for the <a href=\"https://dev.to/challenges/aprilfools-2026\">DEV April Fools Challenge</a></em></p>\n\n<h2>\n  \n  \n  What I Built\n</h2>\n\n<p>To prove you're human, you must asse",
+          "url": "https://dev.to/qainsights/proof-of-humanity-198m",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "I Built an AI Agent Harness in Go",
+          "description": "<p>Hello there!</p>\n\n<p>I've been using AI tools a lot lately. ChatGPT, Claude, local models with Ollama. They're great for answering questions, but I wanted something that could actually <em>do</em> ",
+          "url": "https://dev.to/lucasnevespereira/i-built-an-ai-agent-harness-in-go-51om",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "I built a browser extension that shows you everything websites store on your device and the results are kind of wild",
+          "description": "<p>I want to start with a question. When was the last time you actually looked at what a website has stored on your device?</p>\n\n<p>Not just cookies. Everything. IndexedDB. Local storage. Cache storag",
+          "url": "https://dev.to/permissiontrail/i-built-a-browser-extension-that-shows-you-everything-websites-store-on-your-device-and-the-results-2han",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "TrueNAS Setup Guide: Enterprise Security for Your Homelab",
+          "description": "<p>Last month I rebuilt my TrueNAS server from scratch after a drive failure. What started as a simple disk replacement turned into a full security audit — and I realized my homelab storage had been r",
+          "url": "https://dev.to/orthogonalinfo/truenas-setup-guide-enterprise-security-for-your-homelab-7gm",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "The Quality Crisis in AI-Generated Everything: Building Systems That Earn Trust",
+          "description": "<h1>\n  \n  \n  The Quality Crisis in AI-Generated Everything: Building Systems That Earn Trust\n</h1>\n\n<p>Here's what the data actually shows:</p>\n\n<ul>\n<li>84% of developers use AI tools</li>\n<li>45% of",
+          "url": "https://dev.to/keithfawcett/the-quality-crisis-in-ai-generated-everything-building-systems-that-earn-trust-2hb9",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Building a Document Classification and Extraction Pipeline with Gemini Vision API",
+          "description": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Businesses receive hundreds of documents daily — invoices, receipts, contracts — arriving as PDFs, images, and spreadsheets, all mixed together. Someone has to open",
+          "url": "https://dev.to/sidarth_kb/gemini-vision-330n",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Stop Chasing Scroll with JavaScript: A Deep Dive into CSS Scroll-Driven Animations",
+          "description": "<p>I published a deep-dive guide about CSS scroll-driven animations and how they change the architectural layer where motion is controlled.</p>\n\n<p>This is not just about making parallax “look cooler”",
+          "url": "https://dev.to/tu_codigocotidiano_f173d/stop-chasing-scroll-with-javascript-a-deep-dive-into-css-scroll-driven-animations-4alg",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "The Exit Criteria Pattern: Know When to Stop Iterating with AI",
+          "description": "<p>Here's a pattern I see constantly: a developer asks AI to refactor a function, gets a decent result, then spends 45 minutes on follow-up prompts trying to make it \"perfect.\" The final version is ba",
+          "url": "https://dev.to/novaelvaris/the-exit-criteria-pattern-know-when-to-stop-iterating-with-ai-lb0",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Traycer vs Antigravity: Fast Planning vs Structured Planning",
+          "description": "<p>Vibe coding without a plan is like gambling. It's sending prompt to a coding agent, and hoping the result will meet your desire.</p>\n\n<p>But you never really know what you want. You probably won't ",
+          "url": "https://dev.to/filiksyos/traycer-vs-antigravity-fast-planning-vs-structured-planning-557h",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Common and manual Testing Technique and future manual testing in the Age of AI",
+          "description": "<p><strong>Introduction</strong><br>\nSoftware testing is a procedure of validating and confirming that a software product meets business needs and technical specifications. It ensures the application ",
+          "url": "https://dev.to/priya_dharshini_700bf344e/common-and-manual-testing-technique-and-future-manual-testing-in-the-age-of-ai-1h0d",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Mobile App Theming Explained: The Art and Science of Creating Engaging App Experiences",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjzgvqwn7tsjrgzdu",
+          "url": "https://dev.to/amaraokoye/mobile-app-theming-explained-the-art-and-science-of-creating-engaging-app-experiences-209o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

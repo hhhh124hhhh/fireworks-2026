@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Memory files (sensitive)
+memory/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Clawdbot internal
+.clawdhub/cache/

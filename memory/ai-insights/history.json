@@ -1,0 +1,1394 @@
+{
+  "insights": [
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 5,
+      "average_results_per_search": 5.0,
+      "topics": [
+        "AI agents 2026"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "unknown": 5
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 5 条结果",
+        "平均每个主题 5 条结果",
+        "搜索源: tavily",
+        "Tavily: 0 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-21T10:50:19.720764",
+      "date": "2026-02-21",
+      "time": "10:50:19",
+      "trend_analysis": "首次洞察生成",
+      "topic_recommendations": [
+        "继续搜索以积累历史数据"
+      ]
+    },
+    {
+      "status": "no_results",
+      "message": "没有找到相关结果",
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 0,
+      "average_results_per_search": 0,
+      "topics": [
+        "AI agents 2026"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {},
+      "key_findings": [
+        "搜索了 1 个主题",
+        "没有找到任何结果"
+      ],
+      "action_items": [
+        "检查搜索主题是否正确",
+        "检查搜索源是否可用",
+        "尝试使用其他搜索源"
+      ],
+      "timestamp": "2026-02-21T10:52:31.255460",
+      "date": "2026-02-21",
+      "time": "10:52:31"
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 5,
+      "average_results_per_search": 5.0,
+      "topics": [
+        "AI agents 2026"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "Tavily": 5
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 5 条结果",
+        "平均每个主题 5 条结果",
+        "搜索源: tavily",
+        "Tavily: 5 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-21T10:53:01.114002",
+      "date": "2026-02-21",
+      "time": "10:53:01",
+      "trend_analysis": "基于最近 2 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 5,
+      "average_results_per_search": 5.0,
+      "topics": [
+        "AI agents 2026"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "Tavily": 5
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 5 条结果",
+        "平均每个主题 5 条结果",
+        "搜索源: tavily",
+        "Tavily: 5 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-21T10:53:32.712374",
+      "date": "2026-02-21",
+      "time": "10:53:32",
+      "trend_analysis": "基于最近 3 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 10,
+      "total_results": 40,
+      "average_results_per_search": 4.0,
+      "topics": [
+        "AI agent best practices 2026",
+        "knowledge worker automation tools",
+        "workflow design patterns AI",
+        "context engineering examples",
+        "AI agent case studies enterprise",
+        "AI productivity software reviews",
+        "enterprise AI adoption trends",
+        "AI skill development training",
+        "AI automation use cases",
+        "AI implementation strategies"
+      ],
+      "sources_used": [
+        "tavily",
+        "searxng",
+        "twitter",
+        "baidu"
+      ],
+      "source_distribution": {
+        "SearXNG": 40
+      },
+      "key_findings": [
+        "搜索了 10 个主题",
+        "总共获取了 40 条结果",
+        "平均每个主题 4 条结果",
+        "搜索源: tavily, searxng, twitter, baidu",
+        "Tavily: 0 条",
+        "SearXNG: 40 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-21T09:01:16.033332",
+      "date": "2026-02-21",
+      "time": "09:01:16",
+      "trend_analysis": "基于最近 4 条洞察的分析",
+      "topic_recommendations": [
+        "⚠️ 中热度：该主题有一定关注度，可作为备选选题",
+        "🔍 通用搜索高：SearXNG 结果丰富，适合通用选题"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 10,
+      "total_results": 30,
+      "average_results_per_search": 3.0,
+      "topics": [
+        "AI agent best practices 2026",
+        "knowledge worker automation tools",
+        "workflow design patterns AI",
+        "context engineering examples",
+        "AI agent case studies enterprise",
+        "AI productivity software reviews",
+        "enterprise AI adoption trends",
+        "AI skill development training",
+        "AI automation use cases",
+        "AI implementation strategies"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "Tavily": 30
+      },
+      "key_findings": [
+        "搜索了 10 个主题",
+        "总共获取了 30 条结果",
+        "平均每个主题 3 条结果",
+        "搜索源: tavily",
+        "Tavily: 30 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T10:40:39.282474",
+      "date": "2026-02-22",
+      "time": "10:40:39",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "⚠️ 中热度：该主题有一定关注度，可作为备选选题",
+        "🤖 AI 相关度高：Tavily 结果丰富，适合 AI 技术选题"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 10,
+      "total_results": 30,
+      "average_results_per_search": 3.0,
+      "topics": [
+        "AI agent best practices 2026",
+        "knowledge worker automation tools",
+        "workflow design patterns AI",
+        "context engineering examples",
+        "AI agent case studies enterprise",
+        "AI productivity software reviews",
+        "enterprise AI adoption trends",
+        "AI skill development training",
+        "AI automation use cases",
+        "AI implementation strategies"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "Tavily": 30
+      },
+      "key_findings": [
+        "搜索了 10 个主题",
+        "总共获取了 30 条结果",
+        "平均每个主题 3 条结果",
+        "搜索源: tavily",
+        "Tavily: 30 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T10:43:49.136088",
+      "date": "2026-02-22",
+      "time": "10:43:49",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "⚠️ 中热度：该主题有一定关注度，可作为备选选题",
+        "🤖 AI 相关度高：Tavily 结果丰富，适合 AI 技术选题"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 3,
+      "average_results_per_search": 3.0,
+      "topics": [
+        "AI automation trends 2026"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "Tavily": 3
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 3 条结果",
+        "平均每个主题 3 条结果",
+        "搜索源: tavily",
+        "Tavily: 3 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T11:12:56.232033",
+      "date": "2026-02-22",
+      "time": "11:12:56",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 3,
+      "average_results_per_search": 3.0,
+      "topics": [
+        "AI automation trends 2026"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "Tavily": 3
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 3 条结果",
+        "平均每个主题 3 条结果",
+        "搜索源: tavily",
+        "Tavily: 3 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T11:16:36.174318",
+      "date": "2026-02-22",
+      "time": "11:16:36",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 3,
+      "average_results_per_search": 3.0,
+      "topics": [
+        "AI automation trends 2026"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "Tavily": 3
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 3 条结果",
+        "平均每个主题 3 条结果",
+        "搜索源: tavily",
+        "Tavily: 3 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T11:16:38.132078",
+      "date": "2026-02-22",
+      "time": "11:16:38",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 3,
+      "average_results_per_search": 3.0,
+      "topics": [
+        "AI automation trends 2026"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "Tavily": 3
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 3 条结果",
+        "平均每个主题 3 条结果",
+        "搜索源: tavily",
+        "Tavily: 3 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T11:16:39.864418",
+      "date": "2026-02-22",
+      "time": "11:16:39",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 3,
+      "average_results_per_search": 3.0,
+      "topics": [
+        "AI automation trends 2026"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "Tavily": 3
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 3 条结果",
+        "平均每个主题 3 条结果",
+        "搜索源: tavily",
+        "Tavily: 3 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T11:16:41.614219",
+      "date": "2026-02-22",
+      "time": "11:16:41",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 3,
+      "average_results_per_search": 3.0,
+      "topics": [
+        "AI automation trends 2026"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "Tavily": 3
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 3 条结果",
+        "平均每个主题 3 条结果",
+        "搜索源: tavily",
+        "Tavily: 3 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T11:17:00.122369",
+      "date": "2026-02-22",
+      "time": "11:17:00",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 3,
+      "average_results_per_search": 3.0,
+      "topics": [
+        "AI automation trends 2026"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "Tavily": 3
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 3 条结果",
+        "平均每个主题 3 条结果",
+        "搜索源: tavily",
+        "Tavily: 3 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T11:17:01.910563",
+      "date": "2026-02-22",
+      "time": "11:17:01",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 3,
+      "average_results_per_search": 3.0,
+      "topics": [
+        "AI automation trends 2026"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "Tavily": 3
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 3 条结果",
+        "平均每个主题 3 条结果",
+        "搜索源: tavily",
+        "Tavily: 3 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T11:17:03.701096",
+      "date": "2026-02-22",
+      "time": "11:17:03",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 2,
+      "average_results_per_search": 2.0,
+      "topics": [
+        "AI trends"
+      ],
+      "sources_used": [
+        "tavily"
+      ],
+      "source_distribution": {
+        "Tavily": 2
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 2 条结果",
+        "平均每个主题 2 条结果",
+        "搜索源: tavily",
+        "Tavily: 2 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T12:38:13.620524",
+      "date": "2026-02-22",
+      "time": "12:38:13",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 6,
+      "average_results_per_search": 6.0,
+      "topics": [
+        "AI trends"
+      ],
+      "sources_used": [
+        "tavily",
+        "searxng"
+      ],
+      "source_distribution": {
+        "Tavily": 3,
+        "SearXNG": 3
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 6 条结果",
+        "平均每个主题 6 条结果",
+        "搜索源: tavily, searxng",
+        "Tavily: 3 条",
+        "SearXNG: 3 条",
+        "Twitter: 0 条",
+        "百度: 0 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T12:38:28.397587",
+      "date": "2026-02-22",
+      "time": "12:38:28",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 8,
+      "average_results_per_search": 8.0,
+      "topics": [
+        "AI trends"
+      ],
+      "sources_used": [
+        "tavily",
+        "searxng",
+        "baidu"
+      ],
+      "source_distribution": {
+        "Tavily": 3,
+        "SearXNG": 3,
+        "Baidu": 2
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 8 条结果",
+        "平均每个主题 8 条结果",
+        "搜索源: tavily, searxng, baidu",
+        "Tavily: 3 条",
+        "SearXNG: 3 条",
+        "Twitter: 0 条",
+        "百度: 2 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T12:41:10.541967",
+      "date": "2026-02-22",
+      "time": "12:41:10",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 8,
+      "average_results_per_search": 8.0,
+      "topics": [
+        "AI trends"
+      ],
+      "sources_used": [
+        "tavily",
+        "searxng",
+        "baidu"
+      ],
+      "source_distribution": {
+        "Tavily": 3,
+        "SearXNG": 3,
+        "Baidu": 2
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 8 条结果",
+        "平均每个主题 8 条结果",
+        "搜索源: tavily, searxng, baidu",
+        "Tavily: 3 条",
+        "SearXNG: 3 条",
+        "Twitter: 0 条",
+        "百度: 2 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T12:41:22.707535",
+      "date": "2026-02-22",
+      "time": "12:41:22",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 14,
+      "average_results_per_search": 14.0,
+      "topics": [
+        "AI automation trends 2026"
+      ],
+      "sources_used": [
+        "tavily",
+        "searxng",
+        "baidu"
+      ],
+      "source_distribution": {
+        "Tavily": 5,
+        "SearXNG": 5,
+        "Baidu": 4
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 14 条结果",
+        "平均每个主题 14 条结果",
+        "搜索源: tavily, searxng, baidu",
+        "Tavily: 5 条",
+        "SearXNG: 5 条",
+        "Twitter: 0 条",
+        "百度: 4 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T12:43:59.925388",
+      "date": "2026-02-22",
+      "time": "12:43:59",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 6,
+      "average_results_per_search": 6.0,
+      "topics": [
+        "AI automation trends 2026"
+      ],
+      "sources_used": [
+        "tavily",
+        "searxng",
+        "baidu"
+      ],
+      "source_distribution": {
+        "Tavily": 3,
+        "Baidu": 3
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 6 条结果",
+        "平均每个主题 6 条结果",
+        "搜索源: tavily, searxng, baidu",
+        "Tavily: 3 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 3 条"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T12:55:14.221294",
+      "date": "2026-02-22",
+      "time": "12:55:14",
+      "trend_analysis": "基于最近 5 条洞察的分析",
+      "topic_recommendations": [
+        "❌ 低热度：该主题关注度较低，建议重新评估"
+      ]
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 1,
+      "total_results": 4,
+      "average_results_per_search": 4.0,
+      "topics": [
+        "AI video generation"
+      ],
+      "sources_used": [
+        "tavily",
+        "baidu"
+      ],
+      "source_distribution": {
+        "Tavily": 2,
+        "Baidu": 2
+      },
+      "key_findings": [
+        "搜索了 1 个主题",
+        "总共获取了 4 条结果",
+        "平均每个主题 4 条结果",
+        "搜索源: tavily, baidu",
+        "Tavily: 2 条",
+        "SearXNG: 0 条",
+        "Twitter: 0 条",
+        "百度: 2 条",
+        "",
+        "AI 分析识别的核心热点:",
+        "  • AI 自动化工具",
+        "  • AI 视频生成",
+        "  • 企业 AI 应用",
+        "  • 多模态 AI",
+        "  • AI 代理系统",
+        "",
+        "热门关键词:",
+        "  • AI automation",
+        "  • video generation",
+        "  • enterprise AI",
+        "  • multimodal",
+        "  • AI agents",
+        "  • workflow automation",
+        "  • content creation",
+        "  • no-code AI"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T12:56:25.530999",
+      "date": "2026-02-22",
+      "time": "12:56:25",
+      "llm_analysis": {
+        "core_hotspots": [
+          "AI 自动化工具",
+          "AI 视频生成",
+          "企业 AI 应用",
+          "多模态 AI",
+          "AI 代理系统"
+        ],
+        "topic_recommendations": [
+          {
+            "title": "AI 自动化工作流工具开发教程",
+            "description": "教用户用 AI 自动化日常任务",
+            "trend_score": 88
+          },
+          {
+            "title": "AI 视频生成工具评测与对比",
+            "description": "对比主流 AI 视频生成工具",
+            "trend_score": 85
+          },
+          {
+            "title": "企业 AI 落地案例分析",
+            "description": "分析 AI 在企业中的应用场景",
+            "trend_score": 82
+          },
+          {
+            "title": "多模态 AI 内容创作指南",
+            "description": "教用户用 AI 生成图文音视频",
+            "trend_score": 80
+          },
+          {
+            "title": "AI 代理系统架构设计",
+            "description": "讲解如何构建 AI 代理系统",
+            "trend_score": 78
+          }
+        ],
+        "trend_keywords": [
+          "AI automation",
+          "video generation",
+          "enterprise AI",
+          "multimodal",
+          "AI agents",
+          "workflow automation",
+          "content creation",
+          "no-code AI"
+        ],
+        "target_audience": "AI 开发者、内容创作者、企业决策者、技术爱好者"
+      },
+      "topic_recommendations": [
+        "🔥 AI 自动化工作流工具开发教程 - 教用户用 AI 自动化日常任务 (热度: 88/100)",
+        "⚠️ AI 视频生成工具评测与对比 - 对比主流 AI 视频生成工具 (热度: 85/100)",
+        "⚠️ 企业 AI 落地案例分析 - 分析 AI 在企业中的应用场景 (热度: 82/100)",
+        "⚠️ 多模态 AI 内容创作指南 - 教用户用 AI 生成图文音视频 (热度: 80/100)",
+        "⚠️ AI 代理系统架构设计 - 讲解如何构建 AI 代理系统 (热度: 78/100)"
+      ],
+      "target_audience": "AI 开发者、内容创作者、企业决策者、技术爱好者",
+      "trend_analysis": "基于最近 5 条洞察的分析"
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 2,
+      "total_results": 18,
+      "average_results_per_search": 9.0,
+      "topics": [
+        "AI automation",
+        "AI video generation"
+      ],
+      "sources_used": [
+        "tavily",
+        "searxng",
+        "baidu"
+      ],
+      "source_distribution": {
+        "Tavily": 6,
+        "SearXNG": 6,
+        "Baidu": 6
+      },
+      "key_findings": [
+        "搜索了 2 个主题",
+        "总共获取了 18 条结果",
+        "平均每个主题 9 条结果",
+        "搜索源: tavily, searxng, baidu",
+        "Tavily: 6 条",
+        "SearXNG: 6 条",
+        "Twitter: 0 条",
+        "百度: 6 条",
+        "",
+        "AI 分析识别的核心热点:",
+        "  • AI 自动化工具",
+        "  • AI 视频生成",
+        "  • 企业 AI 应用",
+        "  • 多模态 AI",
+        "  • AI 代理系统",
+        "",
+        "热门关键词:",
+        "  • AI automation",
+        "  • video generation",
+        "  • enterprise AI",
+        "  • multimodal",
+        "  • AI agents",
+        "  • workflow automation",
+        "  • content creation",
+        "  • no-code AI"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T12:56:41.560926",
+      "date": "2026-02-22",
+      "time": "12:56:41",
+      "llm_analysis": {
+        "core_hotspots": [
+          "AI 自动化工具",
+          "AI 视频生成",
+          "企业 AI 应用",
+          "多模态 AI",
+          "AI 代理系统"
+        ],
+        "topic_recommendations": [
+          {
+            "title": "AI 自动化工作流工具开发教程",
+            "description": "教用户用 AI 自动化日常任务",
+            "trend_score": 88
+          },
+          {
+            "title": "AI 视频生成工具评测与对比",
+            "description": "对比主流 AI 视频生成工具",
+            "trend_score": 85
+          },
+          {
+            "title": "企业 AI 落地案例分析",
+            "description": "分析 AI 在企业中的应用场景",
+            "trend_score": 82
+          },
+          {
+            "title": "多模态 AI 内容创作指南",
+            "description": "教用户用 AI 生成图文音视频",
+            "trend_score": 80
+          },
+          {
+            "title": "AI 代理系统架构设计",
+            "description": "讲解如何构建 AI 代理系统",
+            "trend_score": 78
+          }
+        ],
+        "trend_keywords": [
+          "AI automation",
+          "video generation",
+          "enterprise AI",
+          "multimodal",
+          "AI agents",
+          "workflow automation",
+          "content creation",
+          "no-code AI"
+        ],
+        "target_audience": "AI 开发者、内容创作者、企业决策者、技术爱好者"
+      },
+      "topic_recommendations": [
+        "🔥 AI 自动化工作流工具开发教程 - 教用户用 AI 自动化日常任务 (热度: 88/100)",
+        "⚠️ AI 视频生成工具评测与对比 - 对比主流 AI 视频生成工具 (热度: 85/100)",
+        "⚠️ 企业 AI 落地案例分析 - 分析 AI 在企业中的应用场景 (热度: 82/100)",
+        "⚠️ 多模态 AI 内容创作指南 - 教用户用 AI 生成图文音视频 (热度: 80/100)",
+        "⚠️ AI 代理系统架构设计 - 讲解如何构建 AI 代理系统 (热度: 78/100)"
+      ],
+      "target_audience": "AI 开发者、内容创作者、企业决策者、技术爱好者",
+      "trend_analysis": "基于最近 5 条洞察的分析"
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 2,
+      "total_results": 8,
+      "average_results_per_search": 4.0,
+      "topics": [
+        "AI automation",
+        "workflow tools"
+      ],
+      "sources_used": [
+        "tavily",
+        "searxng"
+      ],
+      "source_distribution": {
+        "Tavily": 4,
+        "SearXNG": 4
+      },
+      "key_findings": [
+        "搜索了 2 个主题",
+        "总共获取了 8 条结果",
+        "平均每个主题 4 条结果",
+        "搜索源: tavily, searxng",
+        "Tavily: 4 条",
+        "SearXNG: 4 条",
+        "Twitter: 0 条",
+        "百度: 0 条",
+        "",
+        "AI 分析识别的核心热点:",
+        "  • AI 自动化工具",
+        "  • AI 视频生成",
+        "  • 企业 AI 应用",
+        "  • 多模态 AI",
+        "  • AI 代理系统",
+        "",
+        "热门关键词:",
+        "  • AI automation",
+        "  • video generation",
+        "  • enterprise AI",
+        "  • multimodal",
+        "  • AI agents",
+        "  • workflow automation",
+        "  • content creation",
+        "  • no-code AI"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-02-22T12:57:28.413693",
+      "date": "2026-02-22",
+      "time": "12:57:28",
+      "llm_analysis": {
+        "core_hotspots": [
+          "AI 自动化工具",
+          "AI 视频生成",
+          "企业 AI 应用",
+          "多模态 AI",
+          "AI 代理系统"
+        ],
+        "topic_recommendations": [
+          {
+            "title": "AI 自动化工作流工具开发教程",
+            "description": "教用户用 AI 自动化日常任务",
+            "trend_score": 88
+          },
+          {
+            "title": "AI 视频生成工具评测与对比",
+            "description": "对比主流 AI 视频生成工具",
+            "trend_score": 85
+          },
+          {
+            "title": "企业 AI 落地案例分析",
+            "description": "分析 AI 在企业中的应用场景",
+            "trend_score": 82
+          },
+          {
+            "title": "多模态 AI 内容创作指南",
+            "description": "教用户用 AI 生成图文音视频",
+            "trend_score": 80
+          },
+          {
+            "title": "AI 代理系统架构设计",
+            "description": "讲解如何构建 AI 代理系统",
+            "trend_score": 78
+          }
+        ],
+        "trend_keywords": [
+          "AI automation",
+          "video generation",
+          "enterprise AI",
+          "multimodal",
+          "AI agents",
+          "workflow automation",
+          "content creation",
+          "no-code AI"
+        ],
+        "target_audience": "AI 开发者、内容创作者、企业决策者、技术爱好者"
+      },
+      "topic_recommendations": [
+        "🔥 AI 自动化工作流工具开发教程 - 教用户用 AI 自动化日常任务 (热度: 88/100)",
+        "⚠️ AI 视频生成工具评测与对比 - 对比主流 AI 视频生成工具 (热度: 85/100)",
+        "⚠️ 企业 AI 落地案例分析 - 分析 AI 在企业中的应用场景 (热度: 82/100)",
+        "⚠️ 多模态 AI 内容创作指南 - 教用户用 AI 生成图文音视频 (热度: 80/100)",
+        "⚠️ AI 代理系统架构设计 - 讲解如何构建 AI 代理系统 (热度: 78/100)"
+      ],
+      "target_audience": "AI 开发者、内容创作者、企业决策者、技术爱好者",
+      "trend_analysis": "基于最近 5 条洞察的分析"
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 4,
+      "total_results": 15,
+      "average_results_per_search": 3.75,
+      "topics": [
+        "AI人工智能最新动态",
+        "Claude",
+        "OpenAI",
+        "AI编程工具"
+      ],
+      "sources_used": [
+        "searxng"
+      ],
+      "source_distribution": {
+        "SearXNG": 15
+      },
+      "key_findings": [
+        "搜索了 4 个主题",
+        "总共获取了 15 条结果",
+        "平均每个主题 3 条结果",
+        "搜索源: searxng",
+        "Tavily: 0 条",
+        "SearXNG: 15 条",
+        "Twitter: 0 条",
+        "百度: 0 条",
+        "",
+        "AI 分析识别的核心热点:",
+        "  • AI 自动化工具",
+        "  • AI 视频生成",
+        "  • 企业 AI 应用",
+        "  • 多模态 AI",
+        "  • AI 代理系统",
+        "",
+        "热门关键词:",
+        "  • AI automation",
+        "  • video generation",
+        "  • enterprise AI",
+        "  • multimodal",
+        "  • AI agents",
+        "  • workflow automation",
+        "  • content creation",
+        "  • no-code AI"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-03-04T17:55:26.545032",
+      "date": "2026-03-04",
+      "time": "17:55:26",
+      "llm_analysis": {
+        "core_hotspots": [
+          "AI 自动化工具",
+          "AI 视频生成",
+          "企业 AI 应用",
+          "多模态 AI",
+          "AI 代理系统"
+        ],
+        "topic_recommendations": [
+          {
+            "title": "AI 自动化工作流工具开发教程",
+            "description": "教用户用 AI 自动化日常任务",
+            "trend_score": 88
+          },
+          {
+            "title": "AI 视频生成工具评测与对比",
+            "description": "对比主流 AI 视频生成工具",
+            "trend_score": 85
+          },
+          {
+            "title": "企业 AI 落地案例分析",
+            "description": "分析 AI 在企业中的应用场景",
+            "trend_score": 82
+          },
+          {
+            "title": "多模态 AI 内容创作指南",
+            "description": "教用户用 AI 生成图文音视频",
+            "trend_score": 80
+          },
+          {
+            "title": "AI 代理系统架构设计",
+            "description": "讲解如何构建 AI 代理系统",
+            "trend_score": 78
+          }
+        ],
+        "trend_keywords": [
+          "AI automation",
+          "video generation",
+          "enterprise AI",
+          "multimodal",
+          "AI agents",
+          "workflow automation",
+          "content creation",
+          "no-code AI"
+        ],
+        "target_audience": "AI 开发者、内容创作者、企业决策者、技术爱好者"
+      },
+      "topic_recommendations": [
+        "🔥 AI 自动化工作流工具开发教程 - 教用户用 AI 自动化日常任务 (热度: 88/100)",
+        "⚠️ AI 视频生成工具评测与对比 - 对比主流 AI 视频生成工具 (热度: 85/100)",
+        "⚠️ 企业 AI 落地案例分析 - 分析 AI 在企业中的应用场景 (热度: 82/100)",
+        "⚠️ 多模态 AI 内容创作指南 - 教用户用 AI 生成图文音视频 (热度: 80/100)",
+        "⚠️ AI 代理系统架构设计 - 讲解如何构建 AI 代理系统 (热度: 78/100)"
+      ],
+      "target_audience": "AI 开发者、内容创作者、企业决策者、技术爱好者",
+      "trend_analysis": "基于最近 5 条洞察的分析"
+    },
+    {
+      "core_insight": "多源搜索 + 洞察分析 = 黄金选题",
+      "total_searches": 4,
+      "total_results": 34,
+      "average_results_per_search": 8.5,
+      "topics": [
+        "AI人工智能最新动态",
+        "Claude",
+        "OpenAI",
+        "AI编程工具"
+      ],
+      "sources_used": [
+        "searxng",
+        "baidu"
+      ],
+      "source_distribution": {
+        "Baidu": 19,
+        "SearXNG": 15
+      },
+      "key_findings": [
+        "搜索了 4 个主题",
+        "总共获取了 34 条结果",
+        "平均每个主题 8 条结果",
+        "搜索源: searxng, baidu",
+        "Tavily: 0 条",
+        "SearXNG: 15 条",
+        "Twitter: 0 条",
+        "百度: 19 条",
+        "",
+        "AI 分析识别的核心热点:",
+        "  • AI 自动化工具",
+        "  • AI 视频生成",
+        "  • 企业 AI 应用",
+        "  • 多模态 AI",
+        "  • AI 代理系统",
+        "",
+        "热门关键词:",
+        "  • AI automation",
+        "  • video generation",
+        "  • enterprise AI",
+        "  • multimodal",
+        "  • AI agents",
+        "  • workflow automation",
+        "  • content creation",
+        "  • no-code AI"
+      ],
+      "action_items": [
+        "评估选题的上下文现状",
+        "分析不同来源的趋势",
+        "识别最佳选题方向",
+        "验证选题可行性"
+      ],
+      "timestamp": "2026-03-04T17:55:28.340394",
+      "date": "2026-03-04",
+      "time": "17:55:28",
+      "llm_analysis": {
+        "core_hotspots": [
+          "AI 自动化工具",
+          "AI 视频生成",
+          "企业 AI 应用",
+          "多模态 AI",
+          "AI 代理系统"
+        ],
+        "topic_recommendations": [
+          {
+            "title": "AI 自动化工作流工具开发教程",
+            "description": "教用户用 AI 自动化日常任务",
+            "trend_score": 88
+          },
+          {
+            "title": "AI 视频生成工具评测与对比",
+            "description": "对比主流 AI 视频生成工具",
+            "trend_score": 85
+          },
+          {
+            "title": "企业 AI 落地案例分析",
+            "description": "分析 AI 在企业中的应用场景",
+            "trend_score": 82
+          },
+          {
+            "title": "多模态 AI 内容创作指南",
+            "description": "教用户用 AI 生成图文音视频",
+            "trend_score": 80
+          },
+          {
+            "title": "AI 代理系统架构设计",
+            "description": "讲解如何构建 AI 代理系统",
+            "trend_score": 78
+          }
+        ],
+        "trend_keywords": [
+          "AI automation",
+          "video generation",
+          "enterprise AI",
+          "multimodal",
+          "AI agents",
+          "workflow automation",
+          "content creation",
+          "no-code AI"
+        ],
+        "target_audience": "AI 开发者、内容创作者、企业决策者、技术爱好者"
+      },
+      "topic_recommendations": [
+        "🔥 AI 自动化工作流工具开发教程 - 教用户用 AI 自动化日常任务 (热度: 88/100)",
+        "⚠️ AI 视频生成工具评测与对比 - 对比主流 AI 视频生成工具 (热度: 85/100)",
+        "⚠️ 企业 AI 落地案例分析 - 分析 AI 在企业中的应用场景 (热度: 82/100)",
+        "⚠️ 多模态 AI 内容创作指南 - 教用户用 AI 生成图文音视频 (热度: 80/100)",
+        "⚠️ AI 代理系统架构设计 - 讲解如何构建 AI 代理系统 (热度: 78/100)"
+      ],
+      "target_audience": "AI 开发者、内容创作者、企业决策者、技术爱好者",
+      "trend_analysis": "基于最近 5 条洞察的分析"
+    }
+  ]
+}

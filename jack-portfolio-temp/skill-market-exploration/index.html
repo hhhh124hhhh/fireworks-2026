@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<!-- Google Analytics (GA4) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E25S3PK9M6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E25S3PK9M6');
+</script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>技能市场探索 - jack</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0e17;
+            --bg-secondary: #111827;
+            --bg-tertiary: #1f2937;
+            --accent-primary: #3b82f6;
+            --accent-secondary: #8b5cf6;
+            --accent-glow: rgba(59, 130, 246, 0.3);
+            --text-primary: #f9fafb;
+            --text-secondary: #9ca3af;
+            --text-muted: #6b7280;
+            --border-color: #374151;
+            --gradient-1: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+            --gradient-2: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Space Grotesk', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .bg-grid {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image:
+                linear-gradient(rgba(59, 130, 246, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(59, 130, 246, 0.03) 1px, transparent 1px);
+            background-size: 60px 60px;
+            animation: gridMove 20s linear infinite;
+            z-index: -2;
+            pointer-events: none;
+        }
+
+        @keyframes gridMove {
+            0% { transform: translate(0, 0); }
+            100% { transform: translate(60px, 60px); }
+        }
+
+        #scroll-progress {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 0%;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+            z-index: 9999;
+            transition: width 0.1s ease;
+            box-shadow: 0 0 10px var(--accent-glow);
+        }
+
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 1.5rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(10, 14, 23, 0.8);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border-color);
+            z-index: 1000;
+        }
+
+        .nav-left {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.875rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: color 0.3s ease;
+        }
+
+        .back-link:hover {
+            color: var(--accent-primary);
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.875rem;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--accent-primary);
+        }
+
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 8rem 2rem 4rem;
+            text-align: center;
+            position: relative;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 2rem;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .badge-dot {
+            width: 8px;
+            height: 8px;
+            background: #f59e0b;
+            border-radius: 50%;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .hero h1 {
+            font-size: clamp(2.5rem, 7vw, 4.5rem);
+            font-weight: 700;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: fadeInUp 0.8s ease-out 0.2s backwards;
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            color: var(--text-secondary);
+            max-width: 700px;
+            margin-bottom: 3rem;
+            animation: fadeInUp 0.8s ease-out 0.4s backwards;
+        }
+
+        .hero-actions {
+            display: flex;
+            gap: 1rem;
+            animation: fadeInUp 0.8s ease-out 0.6s backwards;
+        }
+
+        .btn {
+            padding: 1rem 2rem;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .btn-primary {
+            background: var(--gradient-1);
+            color: white;
+            border: none;
+            box-shadow: 0 0 30px var(--accent-glow);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 0 40px var(--accent-glow);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--text-primary);
+            border: 1px solid var(--border-color);
+        }
+
+        .btn-secondary:hover {
+            background: var(--bg-tertiary);
+            border-color: var(--accent-primary);
+        }
+
+        .section {
+            padding: 8rem 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .section-title {
+            font-size: clamp(2rem, 5vw, 3rem);
+            font-weight: 700;
+            margin-bottom: 3rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .section-title::before {
+            content: '';
+            width: 4px;
+            height: 3rem;
+            background: var(--gradient-1);
+            border-radius: 2px;
+        }
+
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-bottom: 4rem;
+        }
+
+        .pricing-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 1rem;
+            padding: 2rem;
+            transition: all 0.3s ease;
+        }
+
+        .pricing-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--accent-primary);
+            box-shadow: 0 0 20px var(--accent-glow);
+        }
+
+        .pricing-card.featured {
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.1) 0%, rgba(139, 92, 246, 0.1) 100%);
+            border-color: var(--accent-primary);
+        }
+
+        .pricing-grade {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .pricing-score {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .pricing-price {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            color: var(--text-primary);
+        }
+
+        .pricing-price span {
+            font-size: 1rem;
+            color: var(--text-secondary);
+            font-weight: 400;
+        }
+
+        .pricing-features {
+            list-style: none;
+            margin-bottom: 2rem;
+        }
+
+        .pricing-features li {
+            padding-left: 1.5rem;
+            position: relative;
+            color: var(--text-secondary);
+            line-height: 2;
+            font-size: 0.95rem;
+        }
+
+        .pricing-features li::before {
+            content: '✓';
+            position: absolute;
+            left: 0;
+            color: var(--accent-primary);
+        }
+
+        .market-research {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 1rem;
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .market-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+
+        .market-desc {
+            color: var(--text-secondary);
+            line-height: 1.8;
+            margin-bottom: 1.5rem;
+        }
+
+        .market-link {
+            color: var(--accent-primary);
+            font-size: 0.875rem;
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .market-link:hover {
+            text-decoration: underline;
+        }
+
+        .timeline {
+            position: relative;
+            padding-left: 2rem;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: var(--gradient-1);
+        }
+
+        .timeline-item {
+            position: relative;
+            padding-bottom: 2rem;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -2rem;
+            top: 0.5rem;
+            width: 12px;
+            height: 12px;
+            background: var(--accent-primary);
+            border-radius: 50%;
+            border: 2px solid var(--bg-primary);
+            box-shadow: 0 0 10px var(--accent-glow);
+        }
+
+        .timeline-date {
+            font-size: 0.875rem;
+            color: var(--accent-primary);
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .timeline-content {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+            padding: 1.5rem;
+        }
+
+        .timeline-title {
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .timeline-desc {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+
+        footer {
+            padding: 3rem 2rem;
+            text-align: center;
+            border-top: 1px solid var(--border-color);
+        }
+
+        footer p {
+            color: var(--text-muted);
+            font-size: 0.875rem;
+        }
+
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .section {
+                padding: 4rem 1.5rem;
+            }
+        }
+
+        .reveal {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.8s ease;
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-grid"></div>
+
+    <div id="scroll-progress"></div>
+
+    <nav>
+        <div class="nav-left">
+            <a href="../" class="back-link">
+                <span class="mono">←</span>
+                <span>返回</span>
+            </a>
+            <div class="logo">技能市场探索</div>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#overview">概述</a></li>
+            <li><a href="#pricing">定价</a></li>
+            <li><a href="#research">市场研究</a></li>
+            <li><a href="#roadmap">路线图</a></li>
+        </ul>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-badge">
+            <span class="badge-dot"></span>
+            <span>规划中</span>
+        </div>
+        <h1>技能市场探索</h1>
+        <p>探索 AI 技能商业化的可行路径，包括订阅模式、单次购买、企业授权等。研究类似平台（PromptBase）的定价策略。</p>
+        <div class="hero-actions">
+            <a href="#pricing" class="btn btn-primary">
+                <span>查看定价策略</span>
+                <span class="mono">→</span>
+            </a>
+            <a href="https://www.clawhub.ai" target="_blank" class="btn btn-secondary">
+                <span>ClawdHub</span>
+                <span class="mono">↗</span>
+            </a>
+        </div>
+    </section>
+
+    <section class="section" id="overview">
+        <h2 class="section-title reveal">项目概述</h2>
+        
+        <div style="background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 1rem; padding: 2rem;" class="reveal">
+            <h3 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1.5rem;">核心目标</h3>
+            <p style="color: var(--text-secondary); line-height: 1.8; margin-bottom: 1.5rem;">
+                将 AI 提示词转换为可复用的 Clawdbot Skills，并通过技能市场实现商业化。探索最佳的商业模式，平衡用户价值和收入预期。
+            </p>
+            <ul style="color: var(--text-secondary); line-height: 2; list-style: none;">
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: var(--accent-primary);">✓</span>
+                    多种变现模式探索
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: var(--accent-primary);">✓</span>
+                    市场竞品分析
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: var(--accent-primary);">✓</span>
+                    定价策略优化
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: var(--accent-primary);">✓</span>
+                    用户体验设计
+                </li>
+            </ul>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; margin-top: 2rem;" class="reveal">
+            <div style="background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 1rem; padding: 1.5rem;">
+                <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">💰</div>
+                <h3 style="font-size: 1.125rem; font-weight: 600; margin-bottom: 0.5rem;">保守估计</h3>
+                <div style="font-size: 2rem; font-weight: 700; color: var(--accent-primary);">$3,600</div>
+                <div style="color: var(--text-secondary); font-size: 0.875rem; margin-top: 0.5rem;">第一年收入</div>
+            </div>
+            <div style="background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 1rem; padding: 1.5rem;">
+                <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">🚀</div>
+                <h3 style="font-size: 1.125rem; font-weight: 600; margin-bottom: 0.5rem;">乐观估计</h3>
+                <div style="font-size: 2rem; font-weight: 700; color: var(--accent-primary);">$10,500</div>
+                <div style="color: var(--text-secondary); font-size: 0.875rem; margin-top: 0.5rem;">第一年收入</div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="pricing">
+        <h2 class="section-title reveal">定价策略</h2>
+        
+        <div class="pricing-grid reveal">
+            <div class="pricing-card">
+                <h3 class="pricing-grade">C</h3>
+                <div class="pricing-score">50-59 分</div>
+                <div class="pricing-price">免费</div>
+                <ul class="pricing-features">
+                    <li>基础提示词</li>
+                    <li>适合学习使用</li>
+                    <li>社区支持</li>
+                </ul>
+            </div>
+
+            <div class="pricing-card">
+                <h3 class="pricing-grade">C+</h3>
+                <div class="pricing-score">60-69 分</div>
+                <div class="pricing-price">$0.99</div>
+                <ul class="pricing-features">
+                    <li>入门级提示词</li>
+                    <li>简单实用</li>
+                    <li>更新支持</li>
+                </ul>
+            </div>
+
+            <div class="pricing-card">
+                <h3 class="pricing-grade">B</h3>
+                <div class="pricing-score">70-79 分</div>
+                <div class="pricing-price">$1.99</div>
+                <ul class="pricing-features">
+                    <li>中等质量</li>
+                    <li>详细说明</li>
+                    <li>示例代码</li>
+                </ul>
+            </div>
+
+            <div class="pricing-card featured">
+                <h3 class="pricing-grade">B+</h3>
+                <div class="pricing-score">80-84 分</div>
+                <div class="pricing-price">$2.99</div>
+                <ul class="pricing-features">
+                    <li>高质量内容</li>
+                    <li>完整文档</li>
+                    <li>优先支持</li>
+                </ul>
+            </div>
+
+            <div class="pricing-card">
+                <h3 class="pricing-grade">A</h3>
+                <div class="pricing-score">85-89 分</div>
+                <div class="pricing-price">$4.99</div>
+                <ul class="pricing-features">
+                    <li>专业级提示词</li>
+                    <li>高级功能</li>
+                    <li>定制服务</li>
+                </ul>
+            </div>
+
+            <div class="pricing-card">
+                <h3 class="pricing-grade">A+</h3>
+                <div class="pricing-score">90-100 分</div>
+                <div class="pricing-price">$9.99</div>
+                <ul class="pricing-features">
+                    <li>顶级质量</li>
+                    <li>独特创新</li>
+                    <li>独家支持</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="research">
+        <h2 class="section-title reveal">市场研究</h2>
+        
+        <div class="market-research reveal">
+            <h3 class="market-title">PromptBase</h3>
+            <p class="market-desc">
+                当前最知名的 AI 提示词市场，主要卖原生提示词，价格范围 $1.99-$9.99。专注于 ChatGPT 和 Midjourney 提示词。
+            </p>
+            <a href="https://promptbase.com" target="_blank" class="market-link">promptbase.com →</a>
+        </div>
+
+        <div class="market-research reveal">
+            <h3 class="market-title">差异化定位</h3>
+            <p class="market-desc" style="margin-bottom: 1.5rem;">
+                我们与 PromptBase 的核心区别：
+            </p>
+            <ul style="color: var(--text-secondary); line-height: 2; list-style: none;">
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: var(--accent-primary);">✓</span>
+                    <strong>PromptBase</strong>：卖原生提示词，用户需要手动复制
+                </li>
+                <li style="padding-left: 1.5rem; position: relative;">
+                    <span style="position: absolute; left: 0; color: var(--accent-primary);">✓</span>
+                    <strong>我们</strong>：卖自动化转换的 Clawdbot Skills，一键安装使用
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="section" id="roadmap">
+        <h2 class="section-title reveal">开发路线图</h2>
+        
+        <div class="timeline">
+            <div class="timeline-item reveal">
+                <div class="timeline-date">2026 年 2 月</div>
+                <div class="timeline-content">
+                    <h3 class="timeline-title">市场调研完成</h3>
+                    <p class="timeline-desc">分析 PromptBase、PromptHero 等竞品的定价和运营策略</p>
+                </div>
+            </div>
+            <div class="timeline-item reveal">
+                <div class="timeline-date">2026 年 3 月</div>
+                <div class="timeline-content">
+                    <h3 class="timeline-title">首批 Skills 发布</h3>
+                    <p class="timeline-desc">手动收集并转换 50 个高质量提示词，发布到 ClawdHub</p>
+                </div>
+            </div>
+            <div class="timeline-item reveal">
+                <div class="timeline-date">2026 年 4 月</div>
+                <div class="timeline-content">
+                    <h3 class="timeline-title">自动化流程上线</h3>
+                    <p class="timeline-desc">实现端到端自动化，每日自动生成和发布 Skills</p>
+                </div>
+            </div>
+            <div class="timeline-item reveal">
+                <div class="timeline-date">2026 年 5 月</div>
+                <div class="timeline-content">
+                    <h3 class="timeline-title">订阅模式探索</h3>
+                    <p class="timeline-desc">测试月度/季度订阅模式，评估用户接受度和收入</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 jack · 技能市场探索项目</p>
+        <p style="margin-top: 0.5rem;" class="mono">
+            <a href="https://www.clawhub.ai" style="color: var(--accent-primary); text-decoration: none;">ClawdHub</a> - Clawdbot 技能市场
+        </p>
+    </footer>
+
+    <script>
+        window.addEventListener('scroll', () => {
+            const scrollProgress = document.getElementById('scroll-progress');
+            const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+            const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            const progress = (scrollTop / scrollHeight) * 100;
+            scrollProgress.style.width = progress + '%';
+        });
+
+        function reveal() {
+            const reveals = document.querySelectorAll('.reveal');
+            reveals.forEach(element => {
+                const windowHeight = window.innerHeight;
+                const elementTop = element.getBoundingClientRect().top;
+                const elementVisible = 150;
+
+                if (elementTop < windowHeight - elementVisible) {
+                    element.classList.add('active');
+                }
+            });
+        }
+
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        window.addEventListener('load', reveal);
+        window.addEventListener('scroll', reveal);
+    </script>
+</body>
+</html>

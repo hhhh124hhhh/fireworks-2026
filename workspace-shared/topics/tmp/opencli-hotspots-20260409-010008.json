@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-04-09 01:00:08",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Custom Skills: The End-to-End Workflow Made Executable",
+          "description": "<h2>\n  \n  \n  I Was Repeating Myself\n</h2>\n\n<p>By the time the harness was working and I'd moved to on-the-loop development, my sessions with Claude had a rhythm. Pick up a Jira ticket. Read the requir",
+          "url": "https://dev.to/tacoda/custom-skills-the-end-to-end-workflow-made-executable-i8i",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Finally, a URL Lengthener — Because Short URLs Are Too Efficient",
+          "description": "<p>This is a submission for the DEV April Fools Challenge</p>\n\n<h1>\n  \n  \n  What I Built\n</h1>\n\n<p>You’ve probably noticed how URL shorteners work — clean, simple, human-readable links.</p>\n\n<p>And th",
+          "url": "https://dev.to/jit_chakraborty_4222410eb/finally-a-url-lengthener-because-short-urls-are-too-efficient-5hcd",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "AI Agents Need Permission Boundaries, Not Personalities",
+          "description": "<p>Most agent tooling mistakes coordination for reliability. It gives you more<br>\nroles, more agents, more orchestration, and more shell theater. The demo gets<br>\nmore impressive. The system does no",
+          "url": "https://dev.to/t3chn/ai-agents-need-permission-boundaries-not-personalities-2g6f",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Unity MonoBehaviour Inheritance: How Non-Static, Non-Abstract Classes Function Without Explicit Instantiation",
+          "description": "<h2>\n  \n  \n  Introduction: The Mystery of Implicit Instantiation\n</h2>\n\n<p>In the world of Unity game development, a peculiar phenomenon often puzzles newcomers: <strong>how can a non-static, non-abst",
+          "url": "https://dev.to/denlava/unity-monobehaviour-inheritance-how-non-static-non-abstract-classes-function-without-explicit-3omm",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Array Flatten in JavaScript",
+          "description": "<p>Flattening arrays is one of those concepts that shows up everywhere—from real-world coding tasks to technical interviews.<br>\nIn JavaScript, flattening an array refers to converting a nested (multi",
+          "url": "https://dev.to/sakshi_tambole_be36125cf5/array-flatten-in-javascript-15p5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "How we built a 43-connector CMDB with LLM pattern-learning discovery",
+          "description": "<p><em>Repo: <a href=\"https://github.com/Happy-Technologies-LLC/configbuddy\" rel=\"noopener noreferrer\">https://github.com/Happy-Technologies-LLC/configbuddy</a></em></p>\n\n\n\n\n<p>A few years back, I was",
+          "url": "https://dev.to/nickzitzer/how-we-built-a-43-connector-cmdb-with-llm-pattern-learning-discovery-5cg7",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Mirco Front-end Fundamentals",
+          "description": "<p>Hello, I am Benjy, a newbie in front end. Below will be my take on mircro front end architecture.</p>\n\n\n\n\n<h3>\n  \n  \n  What is Micro Front-end?\n</h3>\n\n<p><strong>Microfrontend</strong> is an archit",
+          "url": "https://dev.to/benjy0011/mirco-front-end-fundamentals-3dfk",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "LLMs Generate Vulnerable C/C++ Code: Self-Review Fails to Mitigate Security Flaws",
+          "description": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Large Language Models (LLMs) exhibit a systemic propensity to generate C/C++ code that, while syntactically valid, is inherently insecure. A rigorous analysis emplo",
+          "url": "https://dev.to/kserude/llms-generate-vulnerable-cc-code-self-review-fails-to-mitigate-security-flaws-4385",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Amazon S3 Files: Bringing File System Access Directly to Your S3 Data",
+          "description": "<p><strong>Amazon S3</strong> has been the default storage layer for a huge range of workloads for years. Data lakes, analytics pipelines, backups, media archives, ML datasets — it all ends up in S3 s",
+          "url": "https://dev.to/aws-builders/amazon-s3-files-bringing-file-system-access-directly-to-your-s3-data-43af",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "When AI Assigns Statements to the Wrong Government Entity: Why Structured Attribution Becomes Necessary",
+          "description": "<h2>\n  \n  \n  How attribution signals break during AI processing—and why identity must be explicitly preserved\n</h2>\n\n<p>“Why is AI saying the county issued this alert when it came from the city?”</p>\n",
+          "url": "https://dev.to/aigistry/when-ai-assigns-statements-to-the-wrong-government-entity-why-structured-attribution-becomes-4fe7",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Tu score de accesibilidad te está mintiendo",
+          "description": "<p>¿Por qué seguimos tratando la accesibilidad como si fuera un test que se aprueba? Llevamos años construyendo herramientas que miden lo que <em>pueden</em> medir automáticamente, y mientras tanto as",
+          "url": "https://dev.to/jtorchia/tu-score-de-accesibilidad-te-esta-mintiendo-4efo",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "Your AI Agent Gets Dumber the More You Teach It. Skill Graphs Are the Fix.",
+          "description": "<h1>\n  \n  \n  The Context Window Paradox Nobody Warned You About\n</h1>\n\n<p>Here's the problem nobody talks about: every time you load a large skill file into your AI agent's context, you're making it w",
+          "url": "https://dev.to/o96a/your-ai-agent-gets-dumber-the-more-you-teach-it-skill-graphs-are-the-fix-1fba",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

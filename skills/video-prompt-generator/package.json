@@ -1,0 +1,45 @@
+{
+  "name": "video-prompt-generator",
+  "version": "2.0.0",
+  "description": "Generate high-quality video prompts with 10+ styles and Grok Imagine API integration. Features history management, search/filter, export to JSON/Markdown, and web UI with direct video generation.",
+  "main": "generate.js",
+  "scripts": {
+    "start": "node generate.js",
+    "interactive": "node generate.js --interactive",
+    "server": "node generate.js --server --port 3000",
+    "server:dev": "node generate.js --server --port 3000",
+    "help": "node generate.js --help",
+    "test": "node generate.js --topic \"cat playing\" --all"
+  },
+  "keywords": [
+    "video",
+    "prompt",
+    "generator",
+    "xAI",
+    "Grok Imagine",
+    "AI",
+    "video generation",
+    "history",
+    "search",
+    "export",
+    "web ui"
+  ],
+  "author": "Momo",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hhhh124hhhh/Clawdbot-Skills-Converter"
+  },
+  "clawdbot": {
+    "emoji": "🎬",
+    "requires": {
+      "bins": ["python3"],
+      "env": ["XAI_API_KEY"]
+    },
+    "primaryEnv": "XAI_API_KEY"
+  }
+}

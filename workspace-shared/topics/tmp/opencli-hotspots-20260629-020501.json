@@ -1,0 +1,857 @@
+{
+  "timestamp": "2026-06-29 02:05:01",
+  "platforms": {
+    "hackernews": {
+      "count": 30,
+      "items": [
+        {
+          "rank": 1,
+          "title": "5k Restaurant Menus, Years 1880-1920",
+          "score": 193,
+          "author": "xbryanx",
+          "comments": 44,
+          "url": "https://pudding.cool/2026/06/menu-collection/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000000",
+          "external_url": "https://pudding.cool/2026/06/menu-collection/"
+        },
+        {
+          "rank": 2,
+          "title": "I used Claude Code to get a second opinion on my MRI",
+          "score": 77,
+          "author": "engmarketer",
+          "comments": 93,
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000001",
+          "external_url": "https://antoine.fi/mri-analysis-using-claude-code-opus"
+        },
+        {
+          "rank": 3,
+          "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+          "score": 33,
+          "author": "zdw",
+          "comments": 3,
+          "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000002",
+          "external_url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html"
+        },
+        {
+          "rank": 4,
+          "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
+          "score": 45,
+          "author": "MaysonL",
+          "comments": 17,
+          "url": "https://www.openculture.com/2020/10/daisugi.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000003",
+          "external_url": "https://www.openculture.com/2020/10/daisugi.html"
+        },
+        {
+          "rank": 5,
+          "title": "Reflections on Software Engineering in the Age of AI",
+          "score": 36,
+          "author": "diamondap",
+          "comments": 6,
+          "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000004",
+          "external_url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/"
+        },
+        {
+          "rank": 6,
+          "title": "Tokenmaxxing is dead, long live Tokenmaxxing",
+          "score": 27,
+          "author": "theahura",
+          "comments": 29,
+          "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000005",
+          "external_url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing"
+        },
+        {
+          "rank": 7,
+          "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
+          "score": 41,
+          "author": "pwg",
+          "comments": 7,
+          "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000006",
+          "external_url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html"
+        },
+        {
+          "rank": 8,
+          "title": "Show HN: Zanagrams",
+          "score": 47,
+          "author": "pompomsheep",
+          "comments": 15,
+          "url": "https://zanagrams.com/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000007",
+          "external_url": "https://zanagrams.com/"
+        },
+        {
+          "rank": 9,
+          "title": "The curious case of the disappearing Polish S (2015)",
+          "score": 170,
+          "author": "colinprince",
+          "comments": 38,
+          "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000008",
+          "external_url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/"
+        },
+        {
+          "rank": 10,
+          "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+          "score": 132,
+          "author": "pikseladam",
+          "comments": 90,
+          "url": "https://github.com/openai/codex/issues/2847",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000009",
+          "external_url": "https://github.com/openai/codex/issues/2847"
+        },
+        {
+          "rank": 11,
+          "title": "The Boeing 747 Begins Its Final Descent",
+          "score": 26,
+          "author": "dbl000",
+          "comments": 17,
+          "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000010",
+          "external_url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/"
+        },
+        {
+          "rank": 12,
+          "title": "Flock cameras track more than your license plate, and they're spreading fast",
+          "score": 256,
+          "author": "SanjayMehta",
+          "comments": 165,
+          "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000011",
+          "external_url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/"
+        },
+        {
+          "rank": 13,
+          "title": "Show HN: DRM-Free Books",
+          "score": 10,
+          "author": "TeaVMFan",
+          "comments": 2,
+          "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000012",
+          "external_url": "https://frequal.com/Perspectives/DrmFreeAuthors.html"
+        },
+        {
+          "rank": 14,
+          "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
+          "score": 136,
+          "author": "cebert",
+          "comments": 71,
+          "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000013",
+          "external_url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/"
+        },
+        {
+          "rank": 15,
+          "title": "EU to legislate about Chat Control behind closed doors",
+          "score": 334,
+          "author": "NeutralForest",
+          "comments": 195,
+          "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000014",
+          "external_url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/"
+        },
+        {
+          "rank": 16,
+          "title": "Programmable Probabilistic Computer with 1M p-bits",
+          "score": 11,
+          "author": "rbanffy",
+          "comments": 0,
+          "url": "https://arxiv.org/abs/2606.25313",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000015",
+          "external_url": "https://arxiv.org/abs/2606.25313"
+        },
+        {
+          "rank": 17,
+          "title": "Marfa Public Radio Puts You to Sleep",
+          "score": 359,
+          "author": "reaperducer",
+          "comments": 108,
+          "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000016",
+          "external_url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep"
+        },
+        {
+          "rank": 18,
+          "title": "Do Babies Dream of Baby Sheep?",
+          "score": 86,
+          "author": "DanielVZ",
+          "comments": 23,
+          "url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000017",
+          "external_url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/"
+        },
+        {
+          "rank": 19,
+          "title": "California legislature agrees to upload driver's licenses to national database",
+          "score": 62,
+          "author": "iamnothere",
+          "comments": 25,
+          "url": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000018",
+          "external_url": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/"
+        },
+        {
+          "rank": 20,
+          "title": "Build Yourself Flowers",
+          "score": 5,
+          "author": "surprisetalk",
+          "comments": 0,
+          "url": "https://vickiboykis.com/2026/04/20/build-yourself-flowers/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000019",
+          "external_url": "https://vickiboykis.com/2026/04/20/build-yourself-flowers/"
+        },
+        {
+          "rank": 21,
+          "title": "DLL that was not present in memory despite not being formally unloaded",
+          "score": 98,
+          "author": "ibobev",
+          "comments": 34,
+          "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000020",
+          "external_url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467"
+        },
+        {
+          "rank": 22,
+          "title": "The MUMPS 76 Primer – anniversary edition",
+          "score": 48,
+          "author": "Rochus",
+          "comments": 19,
+          "url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000021",
+          "external_url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc"
+        },
+        {
+          "rank": 23,
+          "title": "Google limits Meta's use of its Gemini AI models",
+          "score": 114,
+          "author": "root-parent",
+          "comments": 51,
+          "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000022",
+          "external_url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
+        },
+        {
+          "rank": 24,
+          "title": "Designing a Personal Pebble Watchface",
+          "score": 25,
+          "author": "lawn",
+          "comments": 4,
+          "url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000023",
+          "external_url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/"
+        },
+        {
+          "rank": 25,
+          "title": "Bringing Swift to the Apple ][",
+          "score": 44,
+          "author": "LucidLynx",
+          "comments": 2,
+          "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000024",
+          "external_url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/"
+        },
+        {
+          "rank": 26,
+          "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+          "score": 912,
+          "author": "binyu",
+          "comments": 360,
+          "url": "https://github.com/bikini/exploitarium",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000025",
+          "external_url": "https://github.com/bikini/exploitarium"
+        },
+        {
+          "rank": 27,
+          "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+          "score": 212,
+          "author": "jakogut",
+          "comments": 63,
+          "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000026",
+          "external_url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md"
+        },
+        {
+          "rank": 28,
+          "title": "Choosing a Public DNS Resolver",
+          "score": 256,
+          "author": "pawal",
+          "comments": 107,
+          "url": "https://evilbit.de/dns-resolver-guide.html",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000027",
+          "external_url": "https://evilbit.de/dns-resolver-guide.html"
+        },
+        {
+          "rank": 29,
+          "title": "EU Open Sources Ten-Year Network Development Planning Tools",
+          "score": 149,
+          "author": "lyoncy",
+          "comments": 36,
+          "url": "https://github.com/open-energy-transition/open-tyndp",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000028",
+          "external_url": "https://github.com/open-energy-transition/open-tyndp"
+        },
+        {
+          "rank": 30,
+          "title": "The origins of the school system aimed to produce independent, critical thinkers (2024)",
+          "score": 80,
+          "author": "pseudolus",
+          "comments": 42,
+          "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
+          "platform": "hackernews",
+          "category": "tech",
+          "priority": "P0",
+          "hn_url": "https://news.ycombinator.com/item?id=10000029",
+          "external_url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093"
+        }
+      ]
+    },
+    "github": {
+      "count": 13,
+      "items": [
+        {
+          "rank": 1,
+          "title": "simplex-chat /simplex-chat",
+          "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "language": "Haskell",
+          "stars": 14709,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 2,
+          "title": "ripienaar /free-for-dev",
+          "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "language": "HTML",
+          "stars": 124865,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 3,
+          "title": "commaai /openpilot",
+          "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+          "url": "https://github.com/commaai/openpilot",
+          "language": "Python",
+          "stars": 62302,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 4,
+          "title": "xbtlin /ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "language": "Python",
+          "stars": 5169,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 5,
+          "title": "Robbyant /lingbot-map",
+          "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "language": "Python",
+          "stars": 8118,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 6,
+          "title": "DeusData /codebase-memory-mcp",
+          "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "language": "C",
+          "stars": 19170,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 7,
+          "title": "cupy /cupy",
+          "description": "NumPy & SciPy for GPU",
+          "url": "https://github.com/cupy/cupy",
+          "language": "Python",
+          "stars": 11431,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 8,
+          "title": "altic-dev /FluidVoice",
+          "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "language": "Swift",
+          "stars": 3503,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 9,
+          "title": "opendatalab /MinerU",
+          "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+          "url": "https://github.com/opendatalab/MinerU",
+          "language": "Python",
+          "stars": 71410,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 10,
+          "title": "HKUDS /Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "language": "Python",
+          "stars": 14176,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 11,
+          "title": "ByteByteGoHq /system-design-101",
+          "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+          "url": "https://github.com/ByteByteGoHq/system-design-101",
+          "language": "",
+          "stars": 84287,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 12,
+          "title": "usestrix /strix",
+          "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+          "url": "https://github.com/usestrix/strix",
+          "language": "Python",
+          "stars": 26565,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        },
+        {
+          "rank": 13,
+          "title": "browser-use /video-use",
+          "description": "Edit videos with coding agents",
+          "url": "https://github.com/browser-use/video-use",
+          "language": "Python",
+          "stars": 10850,
+          "platform": "github",
+          "category": "tech",
+          "priority": "P0"
+        }
+      ]
+    },
+    "arxiv": {
+      "count": 0,
+      "items": []
+    },
+    "lobsters": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "title": "A peek into Reddit's anti-spam internals",
+          "description": "",
+          "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+          "score": 95,
+          "comments": 19,
+          "tags": [
+            "privacy",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout",
+          "description": "",
+          "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/",
+          "score": 16,
+          "comments": 2,
+          "tags": [
+            "databases"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Data Access Patterns That Makes Your CPU Really Angry",
+          "description": "",
+          "url": "https://blog.weineng.me/posts/slowest_add/",
+          "score": 81,
+          "comments": 13,
+          "tags": [
+            "c",
+            "c++",
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "Towards Understandable Software",
+          "description": "",
+          "url": "https://gracefulliberty.com/articles/towards-understandable-software/",
+          "score": 3,
+          "comments": 3,
+          "tags": [
+            "a11y"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "The feature in OxCaml that more languages should steal",
+          "description": "",
+          "url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+          "score": 39,
+          "comments": 19,
+          "tags": [
+            "ml"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Building an Open-Source Robot Vacuum — Meet oomwoo",
+          "description": "",
+          "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+          "score": 16,
+          "comments": 6,
+          "tags": [
+            "hardware",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Prism: An Impure Functional Language With Typed Effects",
+          "description": "",
+          "url": "https://www.stephendiehl.com/posts/prism/",
+          "score": 46,
+          "comments": 18,
+          "tags": [
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "Guards! Guards",
+          "description": "",
+          "url": "https://hauleth.dev/post/guards-guards/",
+          "score": 32,
+          "comments": 18,
+          "tags": [
+            "elixir"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Regular expressions that work “everywhere”",
+          "description": "",
+          "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
+          "score": 5,
+          "comments": 3,
+          "tags": [
+            "unix"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+          "description": "",
+          "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+          "score": 13,
+          "comments": 0,
+          "tags": [
+            "openbsd",
+            "retrocomputing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Installing SerenityOS on My Old ThinkPad T60",
+          "description": "",
+          "url": "https://btxx.org/posts/serenity-t60/",
+          "score": 6,
+          "comments": 0,
+          "tags": [
+            "retrocomputing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "It's dead, Jim! (UEFI CA expiry)",
+          "description": "",
+          "url": "https://blog.einval.com/2026/06/27#its_dead_jim",
+          "score": 19,
+          "comments": 8,
+          "tags": [
+            "linux",
+            "security"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 13,
+          "title": "A Typed, Algebraic Approach to Parsing",
+          "description": "",
+          "url": "https://www.cl.cam.ac.uk/~nk480/parsing.pdf",
+          "score": 5,
+          "comments": 0,
+          "tags": [
+            "pdf",
+            "plt"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 14,
+          "title": "MAX models can now run on Apple silicon GPUs",
+          "description": "",
+          "url": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+          "score": 5,
+          "comments": 4,
+          "tags": [
+            "ai",
+            "mac"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 15,
+          "title": "Excessive nil pointer checks in Go",
+          "description": "",
+          "url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
+          "score": 45,
+          "comments": 40,
+          "tags": [
+            "go"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 16,
+          "title": "The Old Computer Challenge",
+          "description": "",
+          "url": "http://occ.sdf.org/",
+          "score": 16,
+          "comments": 8,
+          "tags": [
+            "hardware",
+            "retrocomputing"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 17,
+          "title": "Nourish - a wayland compositor with infinite zoom and pan",
+          "description": "",
+          "url": "https://github.com/y5-snowies/nourish",
+          "score": 5,
+          "comments": 3,
+          "tags": [
+            "linux",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 18,
+          "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
+          "description": "",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+          "score": 4,
+          "comments": 0,
+          "tags": [
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 19,
+          "title": "Attention AI Slop Porters",
+          "description": "",
+          "url": "https://www.reddit.com/r/plan9/comments/1uhiwf9/attention_ai_slop_porters/",
+          "score": 5,
+          "comments": 1,
+          "tags": [
+            "rant",
+            "vibecoding"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 20,
+          "title": "huff12 - a 12-stream Huffman decoder for Apple Silicon",
+          "description": "",
+          "url": "https://gist.github.com/dougallj/a14d3f72b57ee58a81d487b43ff2a05b",
+          "score": 1,
+          "comments": 1,
+          "tags": [
+            "performance"
+          ],
+          "platform": "lobsters",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [
+    "arxiv: failed to grab"
+  ],
+  "summary": {
+    "total": 63,
+    "hackernews": 30,
+    "github": 13,
+    "lobsters": 20
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-04-07 01:02:12",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "I Built a Full Digital Marketplace from Scratch with Laravel 12 — Here's How It Compares to Envato, Gumroad & Lemon Squeezy",
+          "description": "<h1>\n  \n  \n  I Built a Full Digital Marketplace from Scratch with Laravel 12\n</h1>\n\n<p>There's a moment every developer knows well — you're paying 30–50% commission to a marketplace platform, watching",
+          "url": "https://dev.to/fastlabai/i-built-a-full-digital-marketplace-from-scratch-with-laravel-12-heres-how-it-compares-to-envato-mje",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "My Experience with Solana",
+          "description": "<p><a href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe65o98l4mv046es0q",
+          "url": "https://dev.to/wdp/my-experience-with-solana-1jh5",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "Building Compliance-First Property Management Software",
+          "description": "<p>Property management software treats compliance as an afterthought. You manage properties, track maintenance, collect rent — then scramble to generate compliance reports when an inspection happens. ",
+          "url": "https://dev.to/jonomor_ecosystem/building-compliance-first-property-management-software-3eon",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "From Generic Tools to Custom AI Models: A Coach's Guide",
+          "description": "<p>You know the frustration. A client's progress stalls, but you only realize it weeks later. You burn precious time crafting the perfect reflection prompt, only to get a shallow, one-word reply. The ",
+          "url": "https://dev.to/ken_deng_ai/from-generic-tools-to-custom-ai-models-a-coachs-guide-2mng",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "Swarm Intelligence on a Budget: Ephemeral AI Agents with AWS Fargate Spot",
+          "description": "<p>Right now, the AI engineering world is obsessed with multi-agent frameworks like AutoGen, CrewAI, and LangGraph. The demos are undeniably impressive: you give the system a complex goal, and a team ",
+          "url": "https://dev.to/dhananjay_lakkawar/swarm-intelligence-on-a-budget-ephemeral-ai-agents-with-aws-fargate-spot-3fi8",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "Normalizing Flight Statuses Across 7 Languages: What I Learned Building a Global Airport API",
+          "description": "<p>When you scrape flight data from airport websites across 85+ countries, you quickly discover that nobody agrees on anything. Not the data format, not the field names, not the status strings.</p>\n\n<",
+          "url": "https://dev.to/jfcaba/normalizing-flight-statuses-across-7-languages-what-i-learned-building-a-global-airport-api-po0",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "Tired of Overthinking CSS Architecture? Meet Lism CSS",
+          "description": "<p>CSS architecture is an eternal challenge in web development.</p>\n\n<p>Modern CSS features evolve every day. But how far do you adopt them, how do you combine them, and how do you translate all of th",
+          "url": "https://dev.to/ddryo_loos/tired-of-overthinking-css-architecture-meet-lism-css-2m4o",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "The Gumroad Illusion: Why I Stopped Selling Digital Products and Went Back to Service Delivery",
+          "description": "<p>Let me guess—you’ve seen the tweets. </p>\n\n<p>\"Build a Notion template in 2 hours and make ₹5 lakhs while you sleep.\" </p>\n\n<p>\"Create a PDF checklist, put it on Gumroad, and wake up to passive inc",
+          "url": "https://dev.to/monu_kumar/the-gumroad-illusion-why-i-stopped-selling-digital-products-and-went-back-to-service-delivery-d7a",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Converting Tacit Knowledge into AI Skills: A Deep Dive into Teammate-Skill",
+          "description": "<h1>\n  \n  \n  Converting Tacit Knowledge into AI Skills: A Deep Dive into Teammate-Skill\n</h1>\n\n<p>LeoYeAI recently published <strong>teammate-skill</strong> on GitHub - an intriguing attempt to formal",
+          "url": "https://dev.to/timmyzinin/converting-tacit-knowledge-into-ai-skills-a-deep-dive-into-teammate-skill-29jk",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "20 one-shot prompts that turn Kanban into an autonomous coding machine",
+          "description": "<p>Most people look at Cline Kanban and see a board. Cards, columns, drag and drop. But Kanban isn't a project management tool. It's an orchestration layer for coding agents, one with a particularly r",
+          "url": "https://dev.to/tonythehacker/20-one-shot-prompts-that-turn-kanban-into-an-autonomous-coding-machine-4ho",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Building a ‘simple’ async service in Rust (and why it wasn’t simple)",
+          "description": "<h1>\n  \n  \n  I thought this async Rust service would be simple\n</h1>\n\n<p>I wanted to build a small async service in Rust.</p>\n\n<p>Accept events, process them, retry on failure. Nothing fancy.</p>\n\n<p>",
+          "url": "https://dev.to/grandfoosier/building-a-simple-async-service-in-rust-and-why-it-wasnt-simple-4i71",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "🧠 AI Tools That Actually Help Developers (And How I Use Them Daily)",
+          "description": "<p>There’s no shortage of AI tools right now.</p>\n\n<p>Every week, a new tool promises to:</p>\n\n<ul>\n<li>Replace developers</li>\n<li>Build full apps in seconds</li>\n<li>10x your productivity</li>\n</ul>",
+          "url": "https://dev.to/muhammadmedhat/ai-tools-that-actually-help-developers-and-how-i-use-them-daily-1ndj",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

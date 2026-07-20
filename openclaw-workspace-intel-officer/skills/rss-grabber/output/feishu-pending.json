@@ -1,0 +1,202 @@
+{
+  "action": "batch_create",
+  "app_token": "DTt9bx9gka7UW6s52ndcdnLCnDe",
+  "table_id": "tbl97RKEz1h5uHJX",
+  "records": [
+    {
+      "fields": {
+        "采集轮次": "46a205a7067ce3e5",
+        "采集时间": "2026-03-18T07:48:21.437793",
+        "搜索关键词": "RSS:openai",
+        "信息源": "openai",
+        "标题": "Introducing GPT-5.4 mini and nano",
+        "原文内容": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+        "原文链接": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "发布时间": "2026-03-17T10:00:00+00:00",
+        "作者": ""
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "1aa36e90adb230fd",
+        "采集时间": "2026-03-18T07:48:21.437919",
+        "搜索关键词": "RSS:openai",
+        "信息源": "openai",
+        "标题": "Equipping workers with insights about compensation",
+        "原文内容": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+        "原文链接": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+        "发布时间": "2026-03-17T00:00:00+00:00",
+        "作者": ""
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "d6d772a75ccd4f3f",
+        "采集时间": "2026-03-18T07:48:21.437946",
+        "搜索关键词": "RSS:openai",
+        "信息源": "openai",
+        "标题": "Why Codex Security Doesn’t Include a SAST Report",
+        "原文内容": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+        "原文链接": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+        "发布时间": "2026-03-16T00:00:00+00:00",
+        "作者": ""
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "6ba0ce340932231c",
+        "采集时间": "2026-03-18T07:48:21.680755",
+        "搜索关键词": "RSS:techcrunch",
+        "信息源": "techcrunch",
+        "标题": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
+        "原文内容": "It's the latest salvo in an escalating battle between state regulators and an industry that claims it's not beholden to them.",
+        "原文链接": "https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/",
+        "发布时间": "2026-03-17T21:39:17+00:00",
+        "作者": "Lucas Ropek"
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "7426bf484a4efa38",
+        "采集时间": "2026-03-18T07:48:21.680794",
+        "搜索关键词": "RSS:techcrunch",
+        "信息源": "techcrunch",
+        "标题": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+        "原文内容": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+        "原文链接": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+        "发布时间": "2026-03-17T21:00:00+00:00",
+        "作者": "Anna Heim, Rebecca Bellan"
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "08ec7aaf0a2b656a",
+        "采集时间": "2026-03-18T07:48:21.680813",
+        "搜索关键词": "RSS:techcrunch",
+        "信息源": "techcrunch",
+        "标题": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+        "原文内容": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+        "原文链接": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+        "发布时间": "2026-03-17T20:50:04+00:00",
+        "作者": "Julie Bort"
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "1d14bceb105e3c03",
+        "采集时间": "2026-03-18T07:48:22.041701",
+        "搜索关键词": "RSS:mit_tech_review",
+        "信息源": "mit_tech_review",
+        "标题": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+        "原文内容": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#160; AI models like Anthropic&#8217;s Claude are already used to answer questions in classified settings, including for analyzing targets in Iran. But allowing models to train on&#8230;",
+        "原文链接": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+        "发布时间": "2026-03-17T22:30:46+00:00",
+        "作者": "James O'Donnell"
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "58d7be2604276a1e",
+        "采集时间": "2026-03-18T07:48:22.041743",
+        "搜索关键词": "RSS:mit_tech_review",
+        "信息源": "mit_tech_review",
+        "标题": "Where OpenAI’s technology could show up in Iran",
+        "原文内容": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It&#8217;s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s&#8230;",
+        "原文链接": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+        "发布时间": "2026-03-16T17:06:21+00:00",
+        "作者": "James O'Donnell"
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "97e3e01f67b2b5a1",
+        "采集时间": "2026-03-18T07:48:22.041767",
+        "搜索关键词": "RSS:mit_tech_review",
+        "信息源": "mit_tech_review",
+        "标题": "Nurturing agentic AI beyond the toddler stage",
+        "原文内容": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices&#8230;",
+        "原文链接": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+        "发布时间": "2026-03-16T13:00:00+00:00",
+        "作者": "Lynn Comp"
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "c6ae668b49d66383",
+        "采集时间": "2026-03-18T07:48:38.476401",
+        "搜索关键词": "RSS:hacker_news",
+        "信息源": "hacker_news",
+        "标题": "Mistral AI Releases Forge",
+        "原文内容": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 42 # Comments: 1",
+        "原文链接": "https://mistral.ai/news/forge",
+        "发布时间": "2026-03-17T21:04:26+00:00",
+        "作者": "pember"
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "82e3a4db6c771054",
+        "采集时间": "2026-03-18T07:48:38.476450",
+        "搜索关键词": "RSS:hacker_news",
+        "信息源": "hacker_news",
+        "标题": "Meta and TikTok let harmful content rise to drove engagement, say whistleblowers",
+        "原文内容": "Article URL: https://www.bbc.com/news/articles/cqj9kgxqjwjo Comments URL: https://news.ycombinator.com/item?id=47417814 Points: 153 # Comments: 90",
+        "原文链接": "https://www.bbc.com/news/articles/cqj9kgxqjwjo",
+        "发布时间": "2026-03-17T20:24:33+00:00",
+        "作者": "1vuio0pswjnm7"
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "918844536cdaa4ec",
+        "采集时间": "2026-03-18T07:48:38.476473",
+        "搜索关键词": "RSS:hacker_news",
+        "信息源": "hacker_news",
+        "标题": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+        "原文内容": "Article URL: https://github.com/gsd-build/get-shit-done Comments URL: https://news.ycombinator.com/item?id=47417804 Points: 143 # Comments: 84",
+        "原文链接": "https://github.com/gsd-build/get-shit-done",
+        "发布时间": "2026-03-17T20:23:39+00:00",
+        "作者": "stefankuehnel"
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "eb036f634e72ae99",
+        "采集时间": "2026-03-18T07:48:38.613376",
+        "搜索关键词": "RSS:qbitai",
+        "信息源": "qbitai",
+        "标题": "北京养虾er！明晚19点，为你带来9+场养虾干货Talk，来创业大街见",
+        "原文内容": "从用法到应用场景，全流程干货分享",
+        "原文链接": "https://www.qbitai.com/2026/03/388807.html",
+        "发布时间": "2026-03-17T13:56:59+00:00",
+        "作者": "林樾"
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "60ca5696e7d0733a",
+        "采集时间": "2026-03-18T07:48:38.613416",
+        "搜索关键词": "RSS:qbitai",
+        "信息源": "qbitai",
+        "标题": "黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元",
+        "原文内容": "所有人都在等老黄掏出新芯片，但他没有掏，先用一小时教全世界CEO看一张图",
+        "原文链接": "https://www.qbitai.com/2026/03/388720.html",
+        "发布时间": "2026-03-17T13:08:23+00:00",
+        "作者": "henry"
+      }
+    },
+    {
+      "fields": {
+        "采集轮次": "e4cf98e49e47f2ca",
+        "采集时间": "2026-03-18T07:48:38.613435",
+        "搜索关键词": "RSS:qbitai",
+        "信息源": "qbitai",
+        "标题": "从“养虾热”到实体交互：元萝卜推动OpenClaw走向真实世界",
+        "原文内容": "元萝卜让“桌面智能体”有了现实参照",
+        "原文链接": "https://www.qbitai.com/2026/03/388701.html",
+        "发布时间": "2026-03-17T12:12:51+00:00",
+        "作者": "十三"
+      }
+    }
+  ]
+}

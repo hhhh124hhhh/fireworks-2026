@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-05-03 01:02:46",
+  "platforms": {
+    "devto": {
+      "count": 12,
+      "items": [
+        {
+          "rank": 1,
+          "title": "How Spring Security Works Internally (Filters, Authentication & Authorization Explained)",
+          "description": "<p>If you have worked with Spring Boot for a while, you have used Spring Security without fully tracing what happens inside it.</p>\n\n<p>You add a dependency, configure a SecurityFilterChain, and wire ",
+          "url": "https://dev.to/piyush_kumarsingh_da3833/how-spring-security-works-internally-filters-authentication-authorization-explained-2686",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 2,
+          "title": "Asyncio - in Python Explained Like You’re Ordering Food (A Beginner Guide)",
+          "description": "<p>If you’ve ever written Python code that feels slow when doing things like <code>API calls</code> or <code>waiting for data...</code> you’ve already felt the problem that asyncio solves.</p>\n\n<p>Asy",
+          "url": "https://dev.to/anantmishra1729/asyncio-in-python-explained-like-youre-ordering-food-a-beginner-guide-3gm7",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 3,
+          "title": "What is Meta-Architect?",
+          "description": "<p><strong>When we talk about AI coding agents, most tools are great at “fill in this function” and pretty weak at “is this system actually well-designed?”.</strong></p>\n\n<p>Meta-Architect is live on ",
+          "url": "https://dev.to/justinedevs/what-is-meta-architect-l3c",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 4,
+          "title": "The Story of Building Zoom's Video Compression 2026 – C++ and WebAssembly 2.0",
+          "description": "<h1>\n  \n  \n  The Story of Building Zoom's 2026 Video Compression: C++ and WebAssembly 2.0\n</h1>\n\n<p>In early 2024, Zoom’s engineering team faced a critical inflection point: the video conferencing pla",
+          "url": "https://dev.to/johalputt/the-story-of-building-zooms-video-compression-2026-c-and-webassembly-20-o04",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 5,
+          "title": "The Heartbeat Frame",
+          "description": "<p>Long time no see… Again! I just survived my exams a day ago and I could not help but jump straight to writing this blog! Since this blog does not have something I have done already, this is a Heart",
+          "url": "https://dev.to/geniusmind9999/the-heartbeat-frame-4oej",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 6,
+          "title": "What I Shipped in April Building Invoiso(v4.0.5)",
+          "description": "<p>April was one of the busiest months so far while building <strong>Invoiso</strong>, a free offline invoice and billing tool for Windows and Linux.</p>\n\n<p>This month was less about one big headline",
+          "url": "https://dev.to/anoop_p_22f715057ac8b3901/what-i-shipped-in-april-building-invoiso-4gob",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 7,
+          "title": "From Vibe Coding to Clarity: Auditing My Own Backend Project",
+          "description": "<p>I built a student internship management system in 3 days, despite an injured hand. It worked. It got me through my defense. But here's the truth: I didn't fully understand every line I wrote. So to",
+          "url": "https://dev.to/obianuju_dev/from-vibe-coding-to-clarity-auditing-my-own-backend-project-4pfi",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 8,
+          "title": "The Performance Battle benchmark SolidJS deep dive React Server Components: A Practical Guide",
+          "description": "<p>After benchmarking 14 production-grade frontends over 6 months, SolidJS outperformed React Server Components (RSC) by 42% in first-contentful-paint and 58% in time-to-interactive for client-heavy w",
+          "url": "https://dev.to/johalputt/the-performance-battle-benchmark-solidjs-deep-dive-react-server-components-a-practical-guide-1hlf",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 9,
+          "title": "Canonical under DDoS: what my Railway logs and uptime say about my real exposure",
+          "description": "<h1>\n  \n  \n  Canonical under DDoS: what my Railway logs and uptime say about my real exposure\n</h1>\n\n<p>Why do we assume shared infrastructure \"just works\" until it stops working for someone else? I s",
+          "url": "https://dev.to/jtorchia/canonical-under-ddos-what-my-railway-logs-and-uptime-say-about-my-real-exposure-jm3",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 10,
+          "title": "Canonical bajo DDoS: lo que mis logs de Railway y uptime dicen sobre mi exposición real",
+          "description": "<h1>\n  \n  \n  Canonical bajo DDoS: lo que mis logs de Railway y uptime dicen sobre mi exposición real\n</h1>\n\n<p>¿Por qué asumimos que la infraestructura compartida \"simplemente funciona\" hasta que deja",
+          "url": "https://dev.to/jtorchia/canonical-bajo-ddos-lo-que-mis-logs-de-railway-y-uptime-dicen-sobre-mi-exposicion-real-58km",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 11,
+          "title": "Building a Terminal Feed Reader for Hacker News, Reddit, and lobste.rs with Python & Textual",
+          "description": "<p>I spend too much time switching between browser tabs to keep up with tech news. Hacker News in one tab. A handful of subreddits in another. lobste.rs in a third. The context switching adds up.</p>\n",
+          "url": "https://dev.to/elemar/building-a-terminal-feed-reader-for-hacker-news-reddit-and-lobsters-with-python-textual-2alf",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        },
+        {
+          "rank": 12,
+          "title": "5-Minute AI Jobs and Closed Tabs — Why We Built Replay-Then-Tail SSE",
+          "description": "<p>We had a feature in production where a single user request could run for <strong>five-plus minutes</strong> — fetch documents, chunk them, hit an LLM per chunk, synthesize a final answer. We did th",
+          "url": "https://dev.to/akshatsoni26/5-minute-ai-jobs-and-closed-tabs-why-we-built-replay-then-tail-sse-2fn1",
+          "author": "",
+          "platform": "devto",
+          "category": "tech",
+          "priority": "P1"
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "summary": {
+    "total": 12,
+    "devto": 12
+  }
+}

@@ -1,0 +1,86 @@
+[2026-02-05 13:17:44] ==========================================
+[2026-02-05 13:17:45] 🚀 AI 内容自动化流程开始（集成新架构）
+[2026-02-05 13:17:45] ==========================================
+[2026-02-05 13:17:45] 
+[2026-02-05 13:17:45] [阶段 1/8] 数据收集 (V2 - Firecrawl + Twitter)
+[0;32m[INFO][0m ✅ 数据收集完成: 983 条, 117 提示词
+[2026-02-05 13:21:16] 
+[2026-02-05 13:21:16] [阶段 2/8] 自动分类层 (Layer 2)
+[0;32m[INFO][0m ✅ 自动分类完成: to 条
+/root/clawd/scripts/full-prompt-workflow.sh: line 125: [: to: integer expression expected
+[2026-02-05 13:21:16] 
+[2026-02-05 13:21:16] [阶段 2.5/8] 数据清洗层 (Layer 2.5)
+[0;32m[INFO][0m ✅ 数据清洗完成: to 条
+/root/clawd/scripts/full-prompt-workflow.sh: line 139: [: to: integer expression expected
+[2026-02-05 13:21:17] 
+[2026-02-05 13:21:17] [阶段 3/8] 分类评分层 (Layer 3)
+[0;32m[INFO][0m ✅ 分类评分完成: to 条
+/root/clawd/scripts/full-prompt-workflow.sh: line 153: [: to: integer expression expected
+[2026-02-05 13:21:17] 
+[2026-02-05 13:21:17] [阶段 4/8] 质量筛选层 (Layer 4)
+[0;32m[INFO][0m ✅ 质量筛选完成: to 条
+/root/clawd/scripts/full-prompt-workflow.sh: line 167: [: to: integer expression expected
+[2026-02-05 13:21:17] 
+[2026-02-05 13:21:17] [阶段 5/8] 内容补充层 (Layer 5)
+[0;32m[INFO][0m ✅ 内容补充完成: to 条
+/root/clawd/scripts/full-prompt-workflow.sh: line 181: [: to: integer expression expected
+[2026-02-05 13:21:17] 
+[2026-02-05 13:21:17] [阶段 6/8] 转换成 Skills
+[0;32m[INFO][0m ✅ 推文转换: 生成了 0 个 Skill
+[2026-02-05 13:21:17] 
+[2026-02-05 13:21:17] [转换收集的提示词]
+[0;32m[INFO][0m ✅ 提示词转换: 成功转换 0 个 Skill
+[0;32m[INFO][0m ✅ 转换完成: 总共生成了 0 个 Skill
+[2026-02-05 13:21:17] 
+[2026-02-05 13:21:17] [阶段 7/8] 发布到 ClawdHub
+[0;32m[INFO][0m ✅ 发布完成: 成功 0 个，失败 1 个
+[2026-02-05 13:22:04] 
+[2026-02-05 13:22:04] [阶段 8/8] 生成报告
+[0;32m[INFO][0m ✅ 报告已生成: /root/clawd/reports/workflow-report-2026-02-05-1317.md
+[2026-02-05 13:22:04] 
+[2026-02-05 13:22:04] 提交到 Git...
+[master c4e5ac6] 自动化流程完成（新架构）- 2026-02-05 1317
+ 21 files changed, 3641 insertions(+), 2 deletions(-)
+ create mode 100644 data/prompts/classified/classified-20260205-132116.jsonl
+ create mode 100644 data/prompts/classified/report-20260205-130520.json
+ create mode 100644 data/prompts/classified/report-20260205-132116.json
+ create mode 100644 data/prompts/cleaned/cleaned-20260205-132117.jsonl
+ create mode 100644 data/prompts/cleaned/report-20260205-132117.json
+ create mode 100644 data/prompts/collected/merged-20260205-132116.jsonl
+ create mode 100644 data/prompts/enhanced/enhanced-20260205-132117.jsonl
+ create mode 100644 data/prompts/enhanced/report-20260205-132117.json
+ create mode 100644 data/prompts/filtered/filtered-20260205-132117.jsonl
+ create mode 100644 data/prompts/filtered/report-20260205-130530.json
+ create mode 100644 data/prompts/filtered/report-20260205-132117.json
+ create mode 100644 data/prompts/needs_review/needs-review-20260205-132117.jsonl
+ create mode 100644 data/prompts/scored/report-20260205-130527.json
+ create mode 100644 data/prompts/scored/report-20260205-131146.json
+ create mode 100644 data/prompts/scored/report-20260205-131332.json
+ create mode 100644 data/prompts/scored/report-20260205-132117.json
+ create mode 100644 data/prompts/scored/scored-20260205-131146.jsonl
+ create mode 100644 data/prompts/scored/scored-20260205-132117.jsonl
+ create mode 100644 reports/workflow-report-2026-02-05-1317.md
+To https://github.com/hhhh124hhhh/Clawdbot-Skills-Converter.git
+   a58a02d..c4e5ac6  master -> master
+[2026-02-05 13:22:05] 
+[2026-02-05 13:22:05] ==========================================
+[2026-02-05 13:22:05] ✅ 自动化流程完成！
+[2026-02-05 13:22:05] ==========================================
+[2026-02-05 13:22:05] 
+[2026-02-05 13:22:05] ==========================================
+[2026-02-05 13:22:05] ✅ 全部完成！
+[2026-02-05 13:22:05] ==========================================
+[2026-02-05 13:22:05] 
+[2026-02-05 13:22:05] 数据收集: 983 条
+[2026-02-05 13:22:05] 自动分类: to 条
+[2026-02-05 13:22:05] 分类评分: to 条
+[2026-02-05 13:22:05] 质量筛选: to 条
+[2026-02-05 13:22:05] 内容补充: to 条
+[2026-02-05 13:22:05] Skill 转换: 0 个
+[2026-02-05 13:22:05] ClawdHub 发布: 0 成功, 1 失败
+[2026-02-05 13:22:05] 报告: /root/clawd/reports/workflow-report-2026-02-05-1317.md
+[2026-02-05 13:22:05] 日志: /root/clawd/logs/prompt-workflow.log
+[0;32m[INFO][0m 有新数据，发送通知...
+[0;32m[INFO][0m 发送通知...
+[0;31m[ERROR][0m Slack 通知发送失败
+[0;31m[ERROR][0m Feishu 通知发送失败

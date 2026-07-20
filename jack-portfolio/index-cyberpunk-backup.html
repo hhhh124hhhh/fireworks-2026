@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jack - AI 技能开发者 | 自动化工程师</title>
+    <meta name="description" content="jack - AI 技能开发者和自动化工程师，专注于构建智能技能生态系统和自动化解决方案。">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/cyberpunk.css">
+</head>
+<body>
+    <!-- Matrix Rain Canvas -->
+    <canvas id="matrix-rain" class="matrix-rain"></canvas>
+
+    <!-- CRT Overlay -->
+    <div class="crt-overlay"></div>
+
+    <!-- Custom Cursor -->
+    <div class="custom-cursor"></div>
+
+    <!-- Skip Link -->
+    <a href="#main" class="skip-link">跳转到主要内容</a>
+
+    <!-- Main Container -->
+    <div id="main" class="container">
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="terminal-window">
+                <div class="terminal-header">
+                    <span class="terminal-button red"></span>
+                    <span class="terminal-button yellow"></span>
+                    <span class="terminal-button green"></span>
+                    <span class="terminal-title">jack@clawd.bot:~$</span>
+                </div>
+                <div class="terminal-body">
+                    <div class="terminal-line">
+                        <span class="terminal-prompt">$</span>
+                        <span class="terminal-command">cat bio.md</span>
+                    </div>
+                    <div class="terminal-line">
+                        <span class="terminal-output">
+                            <h1 class="hero-title mono" id="typewriter"></h1>
+                            <p class="hero-subtitle">AI 技能开发者 · 自动化工程师 · 开源爱好者</p>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Stats -->
+            <div class="hero-stats">
+                <div class="stat-card neon-card">
+                    <div class="stat-number mono" data-target="70">0</div>
+                    <div class="stat-label">AI 技能</div>
+                </div>
+                <div class="stat-card neon-card">
+                    <div class="stat-number mono" data-target="25">0</div>
+                    <div class="stat-label">项目</div>
+                </div>
+                <div class="stat-card neon-card">
+                    <div class="stat-number mono" data-target="5000">0</div>
+                    <div class="stat-label">代码行</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills Matrix -->
+        <section class="skills-section">
+            <h2 class="section-title mono">
+                <span class="terminal-prompt">$</span>
+                cat skills.json
+            </h2>
+            <div class="skills-grid">
+                <div class="skill-card neon-card">
+                    <div class="skill-name">开发工作流</div>
+                    <div class="skill-stars">
+                        <span class="star">⭐</span><span class="star">⭐</span><span class="star">⭐</span><span class="star">⭐</span><span class="star empty">⭐</span>
+                    </div>
+                </div>
+                <div class="skill-card neon-card">
+                    <div class="skill-name">技术栈</div>
+                    <div class="skill-stars">
+                        <span class="star">⭐</span><span class="star">⭐</span><span class="star">⭐</span><span class="star">⭐</span><span class="star">⭐</span>
+                    </div>
+                </div>
+                <div class="skill-card neon-card">
+                    <div class="skill-name">AI/ML</div>
+                    <div class="skill-stars">
+                        <span class="star">⭐</span><span class="star">⭐</span><span class="star">⭐</span><span class="star">⭐</span><span class="star">⭐</span><span class="star">⭐</span>
+                    </div>
+                </div>
+                <div class="skill-card neon-card">
+                    <div class="skill-name">自动化</div>
+                    <div class="skill-stars">
+                        <span class="star">⭐</span><span class="star">⭐</span><span class="star">⭐</span><span class="star">⭐</span><span class="star empty">⭐</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Matrix -->
+        <section class="projects-section">
+            <h2 class="section-title mono">
+                <span class="terminal-prompt">$</span>
+                ls -la projects/
+            </h2>
+
+            <!-- Flagship Project -->
+            <div class="project-category">
+                <h3 class="category-title mono">
+                    <span class="category-badge">FLAGSHIP</span>
+                </h3>
+                <div class="projects-grid">
+                    <div class="project-card neon-card flagship">
+                        <div class="project-icon">🚀</div>
+                        <h4 class="project-name">Ultimate AI Workspace</h4>
+                        <p class="project-description">Ultimate Skills Bundle (70+ 技能）、Interactive Demo、AI Content Tracker、AI Media Tracker</p>
+                        <div class="project-tags">
+                            <span class="tag">AI</span>
+                            <span class="tag">Skills</span>
+                            <span class="tag">Tracker</span>
+                        </div>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tools -->
+            <div class="project-category">
+                <h3 class="category-title mono">
+                    <span class="category-badge">TOOLS</span>
+                </h3>
+                <div class="projects-grid">
+                    <div class="project-card neon-card">
+                        <div class="project-icon">🏆</div>
+                        <h4 class="project-name">Achievement System</h4>
+                        <p class="project-description">终端驱动的成就追踪系统，CLI 工具 + JSON 存储</p>
+                        <div class="project-tags">
+                            <span class="tag">CLI</span>
+                            <span class="tag">Python</span>
+                        </div>
+                        <div class="project-status status-done">已完成</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">🏪</div>
+                        <h4 class="project-name">AI Prompt Marketplace</h4>
+                        <p class="project-description">AI 提示词市场，前后端开发中</p>
+                        <div class="project-tags">
+                            <span class="tag">Marketplace</span>
+                            <span class="tag">Backend</span>
+                        </div>
+                        <div class="project-status status-dev">开发中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">🔄</div>
+                        <h4 class="project-name">AI Prompt to Skill</h4>
+                        <p class="project-description">6 层漏斗模型，提示词转换成完整技能</p>
+                        <div class="project-tags">
+                            <span class="tag">Conversion</span>
+                            <span class="tag">Pipeline</span>
+                        </div>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">🔍</div>
+                        <h4 class="project-name">Moltbot Research</h4>
+                        <p class="project-description">30,000+ Stars 社区分析，持续研究</p>
+                        <div class="project-tags">
+                            <span class="tag">Research</span>
+                            <span class="tag">Analytics</span>
+                        </div>
+                        <div class="project-status status-ongoing">持续</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">🔎</div>
+                        <h4 class="project-name">SearXNG Self-Hosted</h4>
+                        <p class="project-description">隐私保护的搜索服务，多源聚合</p>
+                        <div class="project-tags">
+                            <span class="tag">Search</span>
+                            <span class="tag">Privacy</span>
+                        </div>
+                        <div class="project-status status-done">已部署</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">⚙️</div>
+                        <h4 class="project-name">Automation Workflows</h4>
+                        <p class="project-description">全流程自动化，持续优化</p>
+                        <div class="project-tags">
+                            <span class="tag">Automation</span>
+                            <span class="tag">CI/CD</span>
+                        </div>
+                        <div class="project-status status-ongoing">持续优化</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">🌉</div>
+                        <h4 class="project-name">Twitter API Bridge</h4>
+                        <p class="project-description">Twitter API 服务器，桥接服务</p>
+                        <div class="project-tags">
+                            <span class="tag">API</span>
+                            <span class="tag">Bridge</span>
+                        </div>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">📝</div>
+                        <h4 class="project-name">Subtasks</h4>
+                        <p class="project-description">任务管理工具</p>
+                        <div class="project-tags">
+                            <span class="tag">Task</span>
+                            <span class="tag">Management</span>
+                        </div>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Skills -->
+            <div class="project-category">
+                <h3 class="category-title mono">
+                    <span class="category-badge">SKILLS</span>
+                </h3>
+                <div class="projects-grid">
+                    <div class="project-card neon-card">
+                        <div class="project-icon">📋</div>
+                        <h4 class="project-name">Career Planner Skill</h4>
+                        <p class="project-description">职业规划助手</p>
+                        <div class="project-tags">
+                            <span class="tag">Career</span>
+                            <span class="tag">Planning</span>
+                        </div>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">📄</div>
+                        <h4 class="project-name">Resume Builder Skill</h4>
+                        <p class="project-description">简历构建工具</p>
+                        <div class="project-tags">
+                            <span class="tag">Resume</span>
+                            <span class="tag">Builder</span>
+                        </div>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">🎤</div>
+                        <h4 class="project-name">Job Interviewer Skill</h4>
+                        <p class="project-description">求职面试助手</p>
+                        <div class="project-tags">
+                            <span class="tag">Interview</span>
+                            <span class="tag">Practice</span>
+                        </div>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">✍️</div>
+                        <h4 class="project-name">Content Writer Skill</h4>
+                        <p class="project-description">内容撰写助手</p>
+                        <div class="project-tags">
+                            <span class="tag">Writing</span>
+                            <span class="tag">Content</span>
+                        </div>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">💬</div>
+                        <h4 class="project-name">ChatGPT Prompts Skill</h4>
+                        <p class="project-description">ChatGPT 提示词库</p>
+                        <div class="project-tags">
+                            <span class="tag">Prompts</span>
+                            <span class="tag">ChatGPT</span>
+                        </div>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Others -->
+            <div class="project-category">
+                <h3 class="category-title mono">
+                    <span class="category-badge">OTHERS</span>
+                </h3>
+                <div class="projects-grid">
+                    <div class="project-card neon-card">
+                        <div class="project-icon">✅</div>
+                        <h4 class="project-name">Tasks</h4>
+                        <p class="project-description">通用任务管理</p>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">📚</div>
+                        <h4 class="project-name">Tutorials</h4>
+                        <p class="project-description">教程集合</p>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">⚙️</div>
+                        <h4 class="project-name">Config</h4>
+                        <p class="project-description">配置管理</p>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">📅</div>
+                        <h4 class="project-name">Plans</h4>
+                        <p class="project-description">计划管理</p>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">🔬</div>
+                        <h4 class="project-name">Research</h4>
+                        <p class="project-description">研究项目</p>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">💻</div>
+                        <h4 class="project-name">Coding Reddit</h4>
+                        <p class="project-description">Reddit 编程</p>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">📊</div>
+                        <h4 class="project-name">AI Content Aggregator</h4>
+                        <p class="project-description">内容聚合</p>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">🎯</div>
+                        <h4 class="project-name">AI Content Hub</h4>
+                        <p class="project-description">内容中心</p>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">📈</div>
+                        <h4 class="project-name">AI Content Tracker</h4>
+                        <p class="project-description">内容追踪</p>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">⏰</div>
+                        <h4 class="project-name">Cron Setup</h4>
+                        <p class="project-description">定时任务</p>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+
+                    <div class="project-card neon-card">
+                        <div class="project-icon">🤖</div>
+                        <h4 class="project-name">Ultimate AI Workspace</h4>
+                        <p class="project-description">AI 工作空间</p>
+                        <div class="project-status status-running">运行中</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-content mono">
+                <p class="terminal-prompt">$ echo "Made with 💚 by jack"</p>
+                <p class="terminal-output">Made with 💚 by jack | 2026</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="js/cyberpunk.js"></script>
+</body>
+</html>
